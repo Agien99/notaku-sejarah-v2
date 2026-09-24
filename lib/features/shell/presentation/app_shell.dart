@@ -79,33 +79,31 @@ class _ShellBody extends StatelessWidget {
   Widget build(BuildContext context) {
     final page = switch (selectedIndex) {
       0 => const _ShellPage(
-          key: ValueKey('shell-page-utama'),
-          title: 'Utama',
-          description:
-              'Halaman utama Notaku Sejarah akan dibina dalam langkah seterusnya.',
-          icon: Icons.home_rounded,
-        ),
+        key: ValueKey('shell-page-utama'),
+        title: 'Utama',
+        description:
+            'Halaman utama Notaku Sejarah akan dibina dalam langkah seterusnya.',
+        icon: Icons.home_rounded,
+      ),
       1 => const _ShellPage(
-          key: ValueKey('shell-page-nota'),
-          title: 'Nota',
-          description:
-              'Koleksi nota sejarah akan ditempatkan di bahagian ini.',
-          icon: Icons.menu_book_rounded,
-        ),
+        key: ValueKey('shell-page-nota'),
+        title: 'Nota',
+        description: 'Koleksi nota sejarah akan ditempatkan di bahagian ini.',
+        icon: Icons.menu_book_rounded,
+      ),
       2 => const _ShellPage(
-          key: ValueKey('shell-page-kuiz'),
-          title: 'Kuiz',
-          description:
-              'Modul kuiz interaktif akan ditempatkan di bahagian ini.',
-          icon: Icons.quiz_rounded,
-        ),
+        key: ValueKey('shell-page-kuiz'),
+        title: 'Kuiz',
+        description: 'Modul kuiz interaktif akan ditempatkan di bahagian ini.',
+        icon: Icons.quiz_rounded,
+      ),
       3 => const _ShellPage(
-          key: ValueKey('shell-page-rekod'),
-          title: 'Rekod',
-          description:
-              'Prestasi dan sejarah aktiviti pengguna akan dipaparkan di sini.',
-          icon: Icons.history_rounded,
-        ),
+        key: ValueKey('shell-page-rekod'),
+        title: 'Rekod',
+        description:
+            'Prestasi dan sejarah aktiviti pengguna akan dipaparkan di sini.',
+        icon: Icons.history_rounded,
+      ),
       _ => const SizedBox.shrink(),
     };
 
