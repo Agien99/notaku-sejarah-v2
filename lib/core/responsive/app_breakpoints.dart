@@ -1,8 +1,4 @@
-enum AppWindowClass {
-  compact,
-  medium,
-  expanded,
-}
+enum AppWindowClass { compact, medium, expanded }
 
 abstract final class AppBreakpoints {
   static const double medium = 600;
