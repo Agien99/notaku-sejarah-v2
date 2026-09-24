@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../core/theme/app_theme.dart';
-import '../features/foundation/presentation/foundation_screen.dart';
+import '../features/shell/presentation/app_shell.dart';
 
 class NotakuSejarahApp extends StatelessWidget {
   const NotakuSejarahApp({super.key});
@@ -12,7 +12,7 @@ class NotakuSejarahApp extends StatelessWidget {
       title: 'Notaku Sejarah',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.light,
-      home: const FoundationScreen(),
+      home: const AppShell(),
     );
   }
 }
