@@ -21,19 +21,21 @@ class AdaptiveNavigationScaffold extends StatelessWidget {
     required this.selectedIndex,
     required this.destinations,
     required this.onDestinationSelected,
-    required this.body,
+    required this.bodyBuilder,
     super.key,
   });
 
   final int selectedIndex;
   final List<AdaptiveNavigationDestination> destinations;
   final ValueChanged<int> onDestinationSelected;
-  final Widget body;
+  final ResponsiveWidgetBuilder bodyBuilder;
 
   @override
   Widget build(BuildContext context) {
     return ResponsiveLayout(
       builder: (context, windowClass) {
+        final body = bodyBuilder(context, windowClass);
+
         if (!windowClass.usesNavigationRail) {
           return Scaffold(
             body: body,
