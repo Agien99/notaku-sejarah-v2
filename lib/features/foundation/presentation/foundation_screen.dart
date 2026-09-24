@@ -40,56 +40,54 @@ class FoundationScreen extends StatelessWidget {
       selectedIndex: 0,
       destinations: _foundationDestinations,
       onDestinationSelected: (_) {},
-      body: const _ResponsiveFoundationBody(),
+      bodyBuilder: (context, windowClass) {
+        return _ResponsiveFoundationBody(windowClass: windowClass);
+      },
     );
   }
 }
 
 class _ResponsiveFoundationBody extends StatelessWidget {
-  const _ResponsiveFoundationBody();
+  const _ResponsiveFoundationBody({required this.windowClass});
+
+  final AppWindowClass windowClass;
 
   @override
   Widget build(BuildContext context) {
-    return ResponsiveLayout(
-      builder: (context, windowClass) {
-        return SafeArea(
-          child: SingleChildScrollView(
-            padding: EdgeInsets.symmetric(
-              horizontal: windowClass.horizontalPagePadding,
-              vertical: AppSpacing.lg,
-            ),
-            child: Center(
-              child: ConstrainedBox(
-                constraints: BoxConstraints(
-                  maxWidth: windowClass.maxContentWidth,
+    return SafeArea(
+      child: SingleChildScrollView(
+        padding: EdgeInsets.symmetric(
+          horizontal: windowClass.horizontalPagePadding,
+          vertical: AppSpacing.lg,
+        ),
+        child: Center(
+          child: ConstrainedBox(
+            constraints: BoxConstraints(maxWidth: windowClass.maxContentWidth),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.stretch,
+              children: [
+                const _BrandMark(),
+                const SizedBox(height: AppSpacing.xl),
+                _WindowClassBadge(windowClass: windowClass),
+                const SizedBox(height: AppSpacing.md),
+                Text(
+                  'Satu asas. Semua saiz skrin.',
+                  style: Theme.of(context).textTheme.displaySmall,
                 ),
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.stretch,
-                  children: [
-                    const _BrandMark(),
-                    const SizedBox(height: AppSpacing.xl),
-                    _WindowClassBadge(windowClass: windowClass),
-                    const SizedBox(height: AppSpacing.md),
-                    Text(
-                      'Satu asas. Semua saiz skrin.',
-                      style: Theme.of(context).textTheme.displaySmall,
-                    ),
-                    const SizedBox(height: AppSpacing.md),
-                    Text(
-                      'Notaku Sejarah V2 kini menggunakan breakpoint dan '
-                      'navigasi adaptif yang sama untuk telefon, landscape '
-                      'dan tablet.',
-                      style: Theme.of(context).textTheme.bodyLarge,
-                    ),
-                    const SizedBox(height: AppSpacing.xl),
-                    _ResponsiveCards(windowClass: windowClass),
-                  ],
+                const SizedBox(height: AppSpacing.md),
+                Text(
+                  'Notaku Sejarah V2 kini menggunakan breakpoint dan '
+                  'navigasi adaptif yang sama untuk telefon, landscape '
+                  'dan tablet.',
+                  style: Theme.of(context).textTheme.bodyLarge,
                 ),
-              ),
+                const SizedBox(height: AppSpacing.xl),
+                _ResponsiveCards(windowClass: windowClass),
+              ],
             ),
           ),
-        );
-      },
+        ),
+      ),
     );
   }
 }
