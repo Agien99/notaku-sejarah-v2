@@ -34,7 +34,7 @@ jobs:
           cache: true
 
       - name: Generate platform scaffolding
-        run: flutter create . --platforms=android,web --org com.digitechgien --project-name notaku_sejarah_v2
+        run: flutter create . --empty --platforms=android,web --org com.digitechgien --project-name notaku_sejarah_v2
 
       - name: Get dependencies
         run: flutter pub get
@@ -70,7 +70,7 @@ jobs:
           cache: true
 
       - name: Generate Android scaffolding
-        run: flutter create . --platforms=android --org com.digitechgien --project-name notaku_sejarah_v2
+        run: flutter create . --empty --platforms=android --org com.digitechgien --project-name notaku_sejarah_v2
 
       - name: Get dependencies
         run: flutter pub get
@@ -102,7 +102,7 @@ jobs:
           cache: true
 
       - name: Generate Web scaffolding
-        run: flutter create . --platforms=web --org com.digitechgien --project-name notaku_sejarah_v2
+        run: flutter create . --empty --platforms=web --org com.digitechgien --project-name notaku_sejarah_v2
 
       - name: Get dependencies
         run: flutter pub get
