@@ -90,17 +90,41 @@ jobs:
       - name: Generate Android scaffolding
         run: flutter create . --empty --platforms=android --org com.digitechgien --project-name notaku_sejarah_v2
 
+      - name: Configure Android identity
+        run: |
+          sed -i 's/applicationId = "com.digitechgien.notaku_sejarah_v2"/applicationId = "com.digitechgien.notakusejarah"/' android/app/build.gradle.kts
+          sed -i 's/android:label="notaku_sejarah_v2"/android:label="Notaku Sejarah"/' android/app/src/main/AndroidManifest.xml
+          grep -F 'applicationId = "com.digitechgien.notakusejarah"' android/app/build.gradle.kts
+          grep -F 'android:label="Notaku Sejarah"' android/app/src/main/AndroidManifest.xml
+
       - name: Get dependencies
         run: flutter pub get
 
       - name: Build debug APK
         run: flutter build apk --debug
 
+      - name: Prepare APK artifact
+        run: |
+          mkdir -p build/artifacts
+          cp build/app/outputs/flutter-apk/app-debug.apk build/artifacts/notaku-sejarah-v2-debug.apk
+          sha256sum build/artifacts/notaku-sejarah-v2-debug.apk | tee build/artifacts/notaku-sejarah-v2-debug.sha256
+
+      - name: Verify APK identity
+        run: |
+          AAPT="$(find "$ANDROID_HOME/build-tools" -type f -name aapt | sort -V | tail -n 1)"
+          test -n "$AAPT"
+          "$AAPT" dump badging build/artifacts/notaku-sejarah-v2-debug.apk | tee build/artifacts/apk-badging.txt
+          grep -F "package: name='com.digitechgien.notakusejarah'" build/artifacts/apk-badging.txt
+          grep -F "application-label:'Notaku Sejarah'" build/artifacts/apk-badging.txt
+
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
           name: notaku-sejarah-v2-debug-apk
-          path: build/app/outputs/flutter-apk/app-debug.apk
+          path: |
+            build/artifacts/notaku-sejarah-v2-debug.apk
+            build/artifacts/notaku-sejarah-v2-debug.sha256
+            build/artifacts/apk-badging.txt
           if-no-files-found: error
           retention-days: 14
 
