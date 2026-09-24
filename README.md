@@ -70,6 +70,38 @@ Successful workflow runs provide:
 
 Artifacts are retained for 14 days.
 
+## Android testing
+
+The Android test build uses:
+
+- App name: **Notaku Sejarah**
+- Application ID: `com.digitechgien.notakusejarah`
+- Version source: `pubspec.yaml`
+- Build type: **debug APK**
+
+The Android application ID is treated as stable from Phase 1 onward. The debug APK is intended only for internal development and device testing; production signing will be configured in a later release/deployment phase.
+
+Each successful Android artifact contains:
+
+- `notaku-sejarah-v2-debug.apk`
+- `notaku-sejarah-v2-debug.sha256`
+- `apk-badging.txt`
+
+CI verifies the APK package name and visible Android application label after the APK is built.
+
+### Test an APK from GitHub Actions
+
+1. Open the repository's **Actions** tab.
+2. Open the latest successful **Flutter CI/CD** run.
+3. Find the **Artifacts** section.
+4. Download `notaku-sejarah-v2-debug-apk`.
+5. Extract the downloaded ZIP.
+6. Transfer `notaku-sejarah-v2-debug.apk` to an Android phone.
+7. Open the APK on the phone and allow installation from that source if Android requests permission.
+8. Install and launch **Notaku Sejarah**.
+
+This workflow allows device testing without running an Android emulator on the development computer.
+
 ## Web preview
 
 The latest successful `main` build is deployed to:
