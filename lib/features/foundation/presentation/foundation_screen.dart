@@ -20,10 +20,7 @@ class FoundationScreen extends StatelessWidget {
                   Text(
                     'Notaku Sejarah V2',
                     textAlign: TextAlign.center,
-                    style: TextStyle(
-                      fontSize: 32,
-                      fontWeight: FontWeight.w700,
-                    ),
+                    style: TextStyle(fontSize: 32, fontWeight: FontWeight.w700),
                   ),
                   SizedBox(height: 12),
                   Text(
