@@ -67,10 +67,7 @@ class _AppShellState extends State<AppShell> {
 }
 
 class _ShellBody extends StatelessWidget {
-  const _ShellBody({
-    required this.selectedIndex,
-    required this.windowClass,
-  });
+  const _ShellBody({required this.selectedIndex, required this.windowClass});
 
   final int selectedIndex;
   final AppWindowClass windowClass;
@@ -115,9 +112,7 @@ class _ShellBody extends StatelessWidget {
         ),
         child: Center(
           child: ConstrainedBox(
-            constraints: BoxConstraints(
-              maxWidth: windowClass.maxContentWidth,
-            ),
+            constraints: BoxConstraints(maxWidth: windowClass.maxContentWidth),
             child: page,
           ),
         ),
@@ -153,9 +148,7 @@ class _ShellPage extends StatelessWidget {
                 height: 48,
                 decoration: const BoxDecoration(
                   color: AppColors.goldSoft,
-                  borderRadius: BorderRadius.all(
-                    Radius.circular(AppRadius.md),
-                  ),
+                  borderRadius: BorderRadius.all(Radius.circular(AppRadius.md)),
                 ),
                 child: Icon(icon, color: AppColors.navy),
               ),
