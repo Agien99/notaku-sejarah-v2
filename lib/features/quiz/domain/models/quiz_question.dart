@@ -32,11 +32,11 @@ class QuizQuestion {
           .toList(growable: false),
       correctOptionId: json['correctOptionId'] as String,
       explanation: json['explanation'] as String,
-      tags: (json['tags'] as List<dynamic>? ?? const <dynamic>[]).cast<String>(),
+      tags: (json['tags'] as List<dynamic>? ?? const <dynamic>[])
+          .cast<String>(),
     );
   }
 
-  QuizOption get correctOption => options.singleWhere(
-    (option) => option.id == correctOptionId,
-  );
+  QuizOption get correctOption =>
+      options.singleWhere((option) => option.id == correctOptionId);
 }
