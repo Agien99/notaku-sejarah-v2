@@ -97,6 +97,7 @@ void main() {
 
     await tester.pumpWidget(const NotakuSejarahApp());
 
+    await tester.ensureVisible(find.byKey(const ValueKey('quick-action-nota')));
     await tester.tap(find.byKey(const ValueKey('quick-action-nota')));
     await tester.pumpAndSettle();
 
@@ -104,6 +105,7 @@ void main() {
 
     await tester.tap(navigationLabel('Utama'));
     await tester.pumpAndSettle();
+    await tester.ensureVisible(find.byKey(const ValueKey('quick-action-kuiz')));
     await tester.tap(find.byKey(const ValueKey('quick-action-kuiz')));
     await tester.pumpAndSettle();
 
@@ -111,6 +113,7 @@ void main() {
 
     await tester.tap(navigationLabel('Utama'));
     await tester.pumpAndSettle();
+    await tester.ensureVisible(find.byKey(const ValueKey('quick-action-rekod')));
     await tester.tap(find.byKey(const ValueKey('quick-action-rekod')));
     await tester.pumpAndSettle();
 
