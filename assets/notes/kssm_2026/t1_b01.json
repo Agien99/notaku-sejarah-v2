@@ -1,0 +1,69 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.1",
+  "reviewedOn": "2026-09-25",
+  "form": 1,
+  "chapter": 1,
+  "title": "Mengenali Sejarah",
+  "overview": "Bab ini memperkenalkan maksud sejarah, cara ahli sejarah mengkaji masa lalu dan sebab ilmu sejarah penting dalam kehidupan. Fokus utama ialah sumber, kaedah penyelidikan, kronologi dan tafsiran.",
+  "keywords": [
+    "sejarah",
+    "kronologi",
+    "sumber primer",
+    "sumber sekunder",
+    "arkeologi",
+    "tafsiran"
+  ],
+  "sections": [
+    {
+      "id": "1.1",
+      "title": "Pengertian Sejarah",
+      "intro": "Sejarah mengkaji peristiwa dan pengalaman manusia pada masa lalu berdasarkan bukti.",
+      "points": [
+        "Sejarah bukan sekadar menghafal tarikh; sejarah menerangkan perubahan, sebab dan kesan.",
+        "Pandangan sejarawan membantu kita memahami bahawa sejarah melibatkan bukti, penyelidikan dan pentafsiran.",
+        "Antara tokoh yang dibincangkan dalam KSSM ialah Herodotus, E.H. Carr, Ibn Khaldun, Khoo Kay Kim dan Muhd Yusof Ibrahim."
+      ]
+    },
+    {
+      "id": "1.2",
+      "title": "Masa Silam dan Ruang",
+      "intro": "Peristiwa sejarah disusun mengikut masa dan dikaitkan dengan tempat berlakunya peristiwa.",
+      "points": [
+        "Kronologi menyusun peristiwa daripada yang lebih awal kepada yang kemudian.",
+        "Garis masa memudahkan perbandingan tempoh dan perubahan.",
+        "Ruang merujuk lokasi atau kawasan yang menjadi latar sesuatu peristiwa."
+      ]
+    },
+    {
+      "id": "1.3",
+      "title": "Sumber dan Penyelidikan Sejarah",
+      "intro": "Maklumat sejarah perlu disokong oleh sumber yang dapat diperiksa.",
+      "points": [
+        "Sumber primer ialah bahan asal seperti artifak, batu bersurat, manuskrip, dokumen rasmi, diari dan keterangan lisan.",
+        "Sumber sekunder termasuk buku, jurnal, majalah, akhbar dan ensiklopedia yang dihasilkan berdasarkan sumber lain.",
+        "Kaedah penyelidikan utama ialah kaedah bertulis, lisan dan arkeologi."
+      ]
+    },
+    {
+      "id": "1.4",
+      "title": "Tafsiran dan Kepentingan Sejarah",
+      "intro": "Bukti yang sama boleh ditafsir secara berbeza apabila sudut pandang atau sumber yang digunakan berbeza.",
+      "points": [
+        "Tafsiran yang baik perlu berasaskan sumber dan hujah yang boleh dinilai.",
+        "Mempelajari sejarah membantu membina jati diri, menghargai warisan dan memahami perkembangan negara.",
+        "Ilmu sejarah melatih kita menilai bukti sebelum membuat kesimpulan."
+      ]
+    }
+  ],
+  "keyFacts": [
+    "Bezakan sumber primer dengan sumber sekunder.",
+    "Kronologi dan ruang membantu meletakkan sesuatu peristiwa dalam konteks.",
+    "Tafsiran sejarah perlu disokong bukti, bukan andaian semata-mata."
+  ],
+  "summary": [
+    "Sejarah ialah kajian masa lalu berasaskan bukti.",
+    "Sumber dan kaedah penyelidikan menentukan kualiti kajian sejarah.",
+    "Sejarah membantu memahami identiti, perubahan dan warisan masyarakat."
+  ]
+}

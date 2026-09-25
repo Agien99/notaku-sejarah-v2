@@ -1,0 +1,69 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.1",
+  "reviewedOn": "2026-09-25",
+  "form": 3,
+  "chapter": 6,
+  "title": "Kesan Pentadbiran Barat Terhadap Ekonomi dan Sosial",
+  "overview": "Bab ini membincangkan pengenalan ekonomi moden, perubahan pengurusan tanah dan buruh, pembangunan infrastruktur serta kesan sosial akibat peluasan ekonomi kolonial.",
+  "keywords": [
+    "ekonomi moden",
+    "modal",
+    "buruh",
+    "getah",
+    "bijih timah",
+    "infrastruktur"
+  ],
+  "sections": [
+    {
+      "id": "6.1",
+      "title": "Pengenalan Ekonomi Moden",
+      "intro": "Pentadbiran Barat memperluas pengeluaran untuk pasaran dunia menggunakan modal dan teknologi yang lebih besar.",
+      "points": [
+        "Perlombongan bijih timah dan perusahaan getah berkembang pesat.",
+        "Kegiatan ekonomi semakin berorientasikan eksport.",
+        "Syarikat dan pelabur asing memainkan peranan besar dalam sektor tertentu."
+      ]
+    },
+    {
+      "id": "6.2",
+      "title": "Tanah, Buruh dan Pentadbiran Ekonomi",
+      "intro": "Undang-undang serta jabatan baharu diperkenalkan untuk menyokong ekonomi kolonial.",
+      "points": [
+        "Pentadbiran tanah menjadi lebih formal melalui peraturan dan pendaftaran.",
+        "Kemasukan buruh dari luar meningkat bagi memenuhi keperluan perlombongan dan perladangan.",
+        "Sistem cukai dan jabatan teknikal turut berkembang."
+      ]
+    },
+    {
+      "id": "6.3",
+      "title": "Infrastruktur",
+      "intro": "Jalan raya, landasan kereta api dan pelabuhan dibina untuk menghubungkan kawasan pengeluaran dengan pasaran.",
+      "points": [
+        "Pengangkutan memudahkan penghantaran bijih dan hasil ladang.",
+        "Bandar baharu berkembang di kawasan ekonomi penting.",
+        "Kemudahan komunikasi membantu pentadbiran dan perdagangan."
+      ]
+    },
+    {
+      "id": "6.4",
+      "title": "Kesan Sosial",
+      "intro": "Perkembangan ekonomi mengubah demografi dan kehidupan masyarakat.",
+      "points": [
+        "Kepelbagaian penduduk meningkat akibat migrasi buruh.",
+        "Pendidikan dan perkhidmatan kesihatan berkembang secara tidak sekata mengikut kawasan.",
+        "Pembentukan bandar dan pekerjaan baharu mengubah struktur sosial."
+      ]
+    }
+  ],
+  "keyFacts": [
+    "Ekonomi kolonial berorientasikan eksport.",
+    "Infrastruktur banyak dibina untuk menyokong kegiatan ekonomi.",
+    "Migrasi buruh mengubah komposisi masyarakat."
+  ],
+  "summary": [
+    "Pentadbiran Barat mengembangkan ekonomi komersial secara besar-besaran.",
+    "Perubahan ekonomi membawa pembangunan infrastruktur.",
+    "Kesan sosial termasuk pertumbuhan bandar, migrasi dan perubahan pekerjaan."
+  ]
+}

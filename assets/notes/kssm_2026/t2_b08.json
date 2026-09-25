@@ -1,0 +1,65 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.1",
+  "reviewedOn": "2026-09-25",
+  "form": 2,
+  "chapter": 8,
+  "title": "Kerajaan Kedah, Kelantan, Negeri Sembilan dan Perlis",
+  "overview": "Bab ini menerangkan pengasasan dan perkembangan kerajaan Kedah, Kelantan, Negeri Sembilan dan Perlis serta hubungan mereka dengan kerajaan serantau.",
+  "keywords": [
+    "Kedah",
+    "Kelantan",
+    "Negeri Sembilan",
+    "Perlis",
+    "pengasasan",
+    "hubungan serantau"
+  ],
+  "sections": [
+    {
+      "id": "8.1",
+      "title": "Kerajaan Kedah",
+      "intro": "Kedah mempunyai sejarah kerajaan yang panjang dan berkembang melalui kedudukan strategik serta hubungan perdagangan.",
+      "points": [
+        "Kedudukan berhampiran laluan maritim menyokong hubungan luar.",
+        "Institusi beraja berkembang mengikut perubahan politik serantau."
+      ]
+    },
+    {
+      "id": "8.2",
+      "title": "Kerajaan Kelantan",
+      "intro": "Kelantan berkembang melalui penyatuan wilayah dan pembentukan pemerintahan beraja.",
+      "points": [
+        "Hubungan dengan kerajaan jiran mempengaruhi perkembangan politik.",
+        "Pertanian dan perdagangan menyokong kehidupan masyarakat."
+      ]
+    },
+    {
+      "id": "8.3",
+      "title": "Negeri Sembilan",
+      "intro": "Negeri Sembilan mempunyai keunikan kerana pengaruh Adat Perpatih dan hubungan dengan Minangkabau.",
+      "points": [
+        "Struktur politik memberi peranan kepada luak dan pemimpin adat.",
+        "Pemilihan pemerintah mempunyai ciri yang berbeza daripada kebanyakan negeri Melayu lain."
+      ]
+    },
+    {
+      "id": "8.4",
+      "title": "Kerajaan Perlis",
+      "intro": "Perlis berkembang sebagai kerajaan tersendiri dalam konteks perubahan politik Kedah dan hubungan serantau.",
+      "points": [
+        "Institusi raja membentuk identiti politik Perlis.",
+        "Hubungan dengan negeri dan kuasa jiran mempengaruhi perkembangannya."
+      ]
+    }
+  ],
+  "keyFacts": [
+    "Keempat-empat kerajaan berkembang melalui latar politik yang berbeza.",
+    "Negeri Sembilan menonjol dengan Adat Perpatih.",
+    "Hubungan serantau penting dalam pembentukan dan kelangsungan kerajaan."
+  ],
+  "summary": [
+    "Kedah, Kelantan, Negeri Sembilan dan Perlis mempunyai identiti pemerintahan tersendiri.",
+    "Sejarah mereka dipengaruhi hubungan dengan kerajaan jiran.",
+    "Institusi beraja dan adat membentuk kesinambungan warisan negeri."
+  ]
+}

@@ -97,6 +97,7 @@ jobs:
           grep -F 'applicationId = "com.digitechgien.notakusejarah"' android/app/build.gradle.kts
           grep -F 'android:label="Notaku Sejarah"' android/app/src/main/AndroidManifest.xml
 
+
       - name: Get dependencies
         run: flutter pub get
 
@@ -201,6 +202,7 @@ jobs:
 
           grep -F '<title>Notaku Sejarah</title>' web/index.html
           grep -F '"orientation": "any"' web/manifest.json
+
 
       - name: Get dependencies
         run: flutter pub get
