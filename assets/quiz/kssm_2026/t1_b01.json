@@ -11,14 +11,29 @@
       "chapter": 1,
       "prompt": "Apakah fungsi kronologi dalam kajian sejarah?",
       "options": [
-        {"id": "A", "text": "Menyusun peristiwa mengikut urutan masa"},
-        {"id": "B", "text": "Menentukan lokasi artifak sahaja"},
-        {"id": "C", "text": "Menggantikan semua sumber primer"},
-        {"id": "D", "text": "Menghapuskan keperluan tafsiran"}
+        {
+          "id": "A",
+          "text": "Menyusun peristiwa mengikut urutan masa"
+        },
+        {
+          "id": "B",
+          "text": "Menentukan lokasi artifak sahaja"
+        },
+        {
+          "id": "C",
+          "text": "Menggantikan semua sumber primer"
+        },
+        {
+          "id": "D",
+          "text": "Menghapuskan keperluan tafsiran"
+        }
       ],
       "correctOptionId": "A",
       "explanation": "Kronologi menyusun peristiwa daripada yang lebih awal kepada yang kemudian supaya urutan perkembangan dapat difahami.",
-      "tags": ["kronologi", "masa-silam"]
+      "tags": [
+        "kronologi",
+        "masa-silam"
+      ]
     },
     {
       "id": "t1-b01-q002",
@@ -26,14 +41,28 @@
       "chapter": 1,
       "prompt": "Yang manakah contoh sumber primer?",
       "options": [
-        {"id": "A", "text": "Ensiklopedia moden"},
-        {"id": "B", "text": "Batu bersurat"},
-        {"id": "C", "text": "Buku rujukan sekolah"},
-        {"id": "D", "text": "Majalah sejarah"}
+        {
+          "id": "A",
+          "text": "Ensiklopedia moden"
+        },
+        {
+          "id": "B",
+          "text": "Batu bersurat"
+        },
+        {
+          "id": "C",
+          "text": "Buku rujukan sekolah"
+        },
+        {
+          "id": "D",
+          "text": "Majalah sejarah"
+        }
       ],
       "correctOptionId": "B",
       "explanation": "Batu bersurat ialah bahan asal dan dikategorikan sebagai sumber primer.",
-      "tags": ["sumber-primer"]
+      "tags": [
+        "sumber-primer"
+      ]
     },
     {
       "id": "t1-b01-q003",
@@ -41,14 +70,29 @@
       "chapter": 1,
       "prompt": "Apakah tiga kaedah penyelidikan sejarah yang utama?",
       "options": [
-        {"id": "A", "text": "Bertulis, lisan dan arkeologi"},
-        {"id": "B", "text": "Kronologi, ruang dan tafsiran"},
-        {"id": "C", "text": "Diari, jurnal dan ensiklopedia"},
-        {"id": "D", "text": "Artifak, manuskrip dan majalah"}
+        {
+          "id": "A",
+          "text": "Bertulis, lisan dan arkeologi"
+        },
+        {
+          "id": "B",
+          "text": "Kronologi, ruang dan tafsiran"
+        },
+        {
+          "id": "C",
+          "text": "Diari, jurnal dan ensiklopedia"
+        },
+        {
+          "id": "D",
+          "text": "Artifak, manuskrip dan majalah"
+        }
       ],
       "correctOptionId": "A",
       "explanation": "Kaedah penyelidikan sejarah yang utama ialah kaedah bertulis, lisan dan arkeologi.",
-      "tags": ["penyelidikan", "kaedah"]
+      "tags": [
+        "penyelidikan",
+        "kaedah"
+      ]
     },
     {
       "id": "t1-b01-q004",
@@ -56,14 +100,493 @@
       "chapter": 1,
       "prompt": "Mengapakah tafsiran sejarah perlu disokong oleh bukti?",
       "options": [
-        {"id": "A", "text": "Supaya hujah boleh dinilai berdasarkan sumber"},
-        {"id": "B", "text": "Supaya semua sejarawan mesti mempunyai pandangan sama"},
-        {"id": "C", "text": "Supaya kronologi tidak lagi diperlukan"},
-        {"id": "D", "text": "Supaya sumber sekunder menjadi sumber primer"}
+        {
+          "id": "A",
+          "text": "Supaya hujah boleh dinilai berdasarkan sumber"
+        },
+        {
+          "id": "B",
+          "text": "Supaya semua sejarawan mesti mempunyai pandangan sama"
+        },
+        {
+          "id": "C",
+          "text": "Supaya kronologi tidak lagi diperlukan"
+        },
+        {
+          "id": "D",
+          "text": "Supaya sumber sekunder menjadi sumber primer"
+        }
       ],
       "correctOptionId": "A",
       "explanation": "Tafsiran yang baik berasaskan sumber dan hujah yang boleh dinilai, bukannya andaian semata-mata.",
-      "tags": ["tafsiran", "bukti"]
+      "tags": [
+        "tafsiran",
+        "bukti"
+      ]
+    },
+    {
+      "id": "t1-b01-q005",
+      "form": 1,
+      "chapter": 1,
+      "prompt": "Apakah yang dikaji dalam sejarah?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ramalan cuaca pada masa hadapan"
+        },
+        {
+          "id": "B",
+          "text": "Pergerakan planet sahaja"
+        },
+        {
+          "id": "C",
+          "text": "Pengiraan keuntungan perniagaan sahaja"
+        },
+        {
+          "id": "D",
+          "text": "Peristiwa dan pengalaman manusia pada masa lalu"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Sejarah mengkaji peristiwa dan pengalaman manusia pada masa lalu berdasarkan bukti.",
+      "tags": [
+        "pengertian"
+      ]
+    },
+    {
+      "id": "t1-b01-q006",
+      "form": 1,
+      "chapter": 1,
+      "prompt": "Selain menghafal tarikh, apakah yang diterangkan oleh sejarah?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pendapat tanpa sebarang sumber"
+        },
+        {
+          "id": "B",
+          "text": "Cara menggantikan bukti dengan andaian"
+        },
+        {
+          "id": "C",
+          "text": "Perubahan, sebab dan kesan peristiwa"
+        },
+        {
+          "id": "D",
+          "text": "Jadual perjalanan masa hadapan yang pasti"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Sejarah menerangkan perubahan serta sebab dan kesan sesuatu peristiwa.",
+      "tags": [
+        "pengertian"
+      ]
+    },
+    {
+      "id": "t1-b01-q007",
+      "form": 1,
+      "chapter": 1,
+      "prompt": "Apakah maksud ruang dalam kajian sejarah?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Susunan nama penulis mengikut abjad"
+        },
+        {
+          "id": "B",
+          "text": "Lokasi atau kawasan berlakunya peristiwa"
+        },
+        {
+          "id": "C",
+          "text": "Bilangan halaman buku sejarah"
+        },
+        {
+          "id": "D",
+          "text": "Tempoh masa menulis laporan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Ruang merujuk lokasi atau kawasan yang menjadi latar sesuatu peristiwa.",
+      "tags": [
+        "ruang"
+      ]
+    },
+    {
+      "id": "t1-b01-q008",
+      "form": 1,
+      "chapter": 1,
+      "prompt": "Apakah kegunaan garis masa?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Membandingkan tempoh dan perubahan peristiwa"
+        },
+        {
+          "id": "B",
+          "text": "Menggantikan semua sumber sejarah"
+        },
+        {
+          "id": "C",
+          "text": "Membuktikan sesuatu dakwaan tanpa bukti"
+        },
+        {
+          "id": "D",
+          "text": "Menentukan nilai wang sesuatu artifak"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Garis masa memudahkan perbandingan tempoh dan perubahan.",
+      "tags": [
+        "kronologi"
+      ]
+    },
+    {
+      "id": "t1-b01-q009",
+      "form": 1,
+      "chapter": 1,
+      "prompt": "Peristiwa A berlaku pada 1900, B pada 1850 dan C pada 1950. Apakah urutan kronologinya?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A, B, C"
+        },
+        {
+          "id": "B",
+          "text": "C, A, B"
+        },
+        {
+          "id": "C",
+          "text": "A, C, B"
+        },
+        {
+          "id": "D",
+          "text": "B, A, C"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kronologi bergerak daripada tahun terawal: 1850, 1900, kemudian 1950.",
+      "tags": [
+        "kronologi"
+      ]
+    },
+    {
+      "id": "t1-b01-q010",
+      "form": 1,
+      "chapter": 1,
+      "prompt": "Seorang pengkaji menggunakan diari asal yang ditulis ketika sesuatu peristiwa berlaku. Apakah jenis sumber itu?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ramalan"
+        },
+        {
+          "id": "B",
+          "text": "Cerita rekaan"
+        },
+        {
+          "id": "C",
+          "text": "Sumber primer"
+        },
+        {
+          "id": "D",
+          "text": "Sumber sekunder"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Diari asal ialah contoh sumber primer kerana merupakan bahan asal daripada masa peristiwa.",
+      "tags": [
+        "sumber-primer"
+      ]
+    },
+    {
+      "id": "t1-b01-q011",
+      "form": 1,
+      "chapter": 1,
+      "prompt": "Sebuah ensiklopedia merumuskan kajian daripada pelbagai sumber terdahulu. Apakah jenis sumber itu?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Keterangan saksi secara langsung"
+        },
+        {
+          "id": "B",
+          "text": "Sumber sekunder"
+        },
+        {
+          "id": "C",
+          "text": "Sumber primer"
+        },
+        {
+          "id": "D",
+          "text": "Artifak asal"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Ensiklopedia yang dihasilkan berdasarkan sumber lain ialah sumber sekunder.",
+      "tags": [
+        "sumber-sekunder"
+      ]
+    },
+    {
+      "id": "t1-b01-q012",
+      "form": 1,
+      "chapter": 1,
+      "prompt": "Apakah ciri utama sumber primer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Merupakan bahan asal"
+        },
+        {
+          "id": "B",
+          "text": "Mestilah diterbitkan dalam ensiklopedia"
+        },
+        {
+          "id": "C",
+          "text": "Tidak perlu diperiksa"
+        },
+        {
+          "id": "D",
+          "text": "Hanya mengandungi rumusan penulis moden"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Sumber primer merupakan bahan asal seperti artifak, manuskrip dan dokumen rasmi.",
+      "tags": [
+        "sumber-primer"
+      ]
+    },
+    {
+      "id": "t1-b01-q013",
+      "form": 1,
+      "chapter": 1,
+      "prompt": "Seorang pengkaji meneliti manuskrip dan dokumen rasmi. Apakah kaedah utama yang digunakan?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kaedah lisan"
+        },
+        {
+          "id": "B",
+          "text": "Kaedah arkeologi"
+        },
+        {
+          "id": "C",
+          "text": "Kaedah ramalan"
+        },
+        {
+          "id": "D",
+          "text": "Kaedah bertulis"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kaedah bertulis menggunakan bahan bertulis seperti manuskrip dan dokumen sebagai sumber.",
+      "tags": [
+        "kaedah"
+      ]
+    },
+    {
+      "id": "t1-b01-q014",
+      "form": 1,
+      "chapter": 1,
+      "prompt": "Seorang pengkaji menemu bual saksi tentang pengalaman masa lalunya. Apakah kaedah ini?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kaedah arkeologi"
+        },
+        {
+          "id": "B",
+          "text": "Penyusunan kronologi sahaja"
+        },
+        {
+          "id": "C",
+          "text": "Kaedah lisan"
+        },
+        {
+          "id": "D",
+          "text": "Kaedah bertulis"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kaedah lisan memperoleh maklumat melalui keterangan lisan, misalnya temu bual saksi.",
+      "tags": [
+        "kaedah"
+      ]
+    },
+    {
+      "id": "t1-b01-q015",
+      "form": 1,
+      "chapter": 1,
+      "prompt": "Pengkaji meneliti tinggalan artifak di tapak lama. Kaedah manakah paling berkaitan?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ramalan peristiwa"
+        },
+        {
+          "id": "B",
+          "text": "Arkeologi"
+        },
+        {
+          "id": "C",
+          "text": "Temu bual lisan"
+        },
+        {
+          "id": "D",
+          "text": "Penulisan ensiklopedia"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Arkeologi mengkaji tinggalan material masa lalu, termasuk artifak.",
+      "tags": [
+        "kaedah"
+      ]
+    },
+    {
+      "id": "t1-b01-q016",
+      "form": 1,
+      "chapter": 1,
+      "prompt": "Mengapakah tafsiran dua orang sejarawan boleh berbeza?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sudut pandang atau sumber yang digunakan berbeza"
+        },
+        {
+          "id": "B",
+          "text": "Semua bukti semestinya tidak berguna"
+        },
+        {
+          "id": "C",
+          "text": "Sejarah tidak memerlukan penyelidikan"
+        },
+        {
+          "id": "D",
+          "text": "Peristiwa masa lalu boleh diubah oleh penulis"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perbezaan sudut pandang dan sumber boleh menghasilkan tafsiran yang berbeza.",
+      "tags": [
+        "tafsiran"
+      ]
+    },
+    {
+      "id": "t1-b01-q017",
+      "form": 1,
+      "chapter": 1,
+      "prompt": "Apakah tindakan terbaik sebelum menerima kesimpulan sejarah?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menerimanya kerana tajuknya menarik"
+        },
+        {
+          "id": "B",
+          "text": "Memilih dakwaan yang paling popular sahaja"
+        },
+        {
+          "id": "C",
+          "text": "Mengabaikan sumber yang digunakan"
+        },
+        {
+          "id": "D",
+          "text": "Menilai bukti dan sumber yang menyokongnya"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Ilmu sejarah melatih kita menilai bukti sebelum membuat kesimpulan.",
+      "tags": [
+        "bukti"
+      ]
+    },
+    {
+      "id": "t1-b01-q018",
+      "form": 1,
+      "chapter": 1,
+      "prompt": "Bagaimanakah pembelajaran sejarah membantu masyarakat?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menjadikan semua pandangan seragam"
+        },
+        {
+          "id": "B",
+          "text": "Menggantikan penyelidikan dengan andaian"
+        },
+        {
+          "id": "C",
+          "text": "Membina jati diri dan menghargai warisan"
+        },
+        {
+          "id": "D",
+          "text": "Menghapuskan keperluan memahami masa lalu"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Mempelajari sejarah membantu membina jati diri, menghargai warisan dan memahami perkembangan negara.",
+      "tags": [
+        "kepentingan"
+      ]
+    },
+    {
+      "id": "t1-b01-q019",
+      "form": 1,
+      "chapter": 1,
+      "prompt": "Mengapakah masa dan lokasi dicatat ketika mengkaji peristiwa?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Untuk memastikan semua peristiwa berlaku serentak"
+        },
+        {
+          "id": "B",
+          "text": "Untuk meletakkan peristiwa dalam konteks"
+        },
+        {
+          "id": "C",
+          "text": "Untuk mengelakkan penggunaan bukti"
+        },
+        {
+          "id": "D",
+          "text": "Untuk menukar sumber primer menjadi sekunder"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kronologi dan ruang membantu menjelaskan bila dan di mana sesuatu peristiwa berlaku.",
+      "tags": [
+        "konteks"
+      ]
+    },
+    {
+      "id": "t1-b01-q020",
+      "form": 1,
+      "chapter": 1,
+      "prompt": "Dua sumber memberikan maklumat yang bercanggah. Apakah pendekatan yang paling sesuai?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Meneliti dan membandingkan bukti daripada kedua-duanya"
+        },
+        {
+          "id": "B",
+          "text": "Memilih sumber yang lebih pendek tanpa semakan"
+        },
+        {
+          "id": "C",
+          "text": "Mengabaikan semua bukti"
+        },
+        {
+          "id": "D",
+          "text": "Mereka cerita baharu untuk menggantikannya"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kesimpulan sejarah perlu berasaskan sumber yang diperiksa dan hujah yang boleh dinilai.",
+      "tags": [
+        "bukti"
+      ]
     }
   ]
 }
