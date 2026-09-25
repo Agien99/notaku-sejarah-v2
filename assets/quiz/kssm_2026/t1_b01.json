@@ -1,0 +1,69 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.1",
+  "form": 1,
+  "chapter": 1,
+  "title": "Mengenali Sejarah",
+  "questions": [
+    {
+      "id": "t1-b01-q001",
+      "form": 1,
+      "chapter": 1,
+      "prompt": "Apakah fungsi kronologi dalam kajian sejarah?",
+      "options": [
+        {"id": "A", "text": "Menyusun peristiwa mengikut urutan masa"},
+        {"id": "B", "text": "Menentukan lokasi artifak sahaja"},
+        {"id": "C", "text": "Menggantikan semua sumber primer"},
+        {"id": "D", "text": "Menghapuskan keperluan tafsiran"}
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kronologi menyusun peristiwa daripada yang lebih awal kepada yang kemudian supaya urutan perkembangan dapat difahami.",
+      "tags": ["kronologi", "masa-silam"]
+    },
+    {
+      "id": "t1-b01-q002",
+      "form": 1,
+      "chapter": 1,
+      "prompt": "Yang manakah contoh sumber primer?",
+      "options": [
+        {"id": "A", "text": "Ensiklopedia moden"},
+        {"id": "B", "text": "Batu bersurat"},
+        {"id": "C", "text": "Buku rujukan sekolah"},
+        {"id": "D", "text": "Majalah sejarah"}
+      ],
+      "correctOptionId": "B",
+      "explanation": "Batu bersurat ialah bahan asal dan dikategorikan sebagai sumber primer.",
+      "tags": ["sumber-primer"]
+    },
+    {
+      "id": "t1-b01-q003",
+      "form": 1,
+      "chapter": 1,
+      "prompt": "Apakah tiga kaedah penyelidikan sejarah yang utama?",
+      "options": [
+        {"id": "A", "text": "Bertulis, lisan dan arkeologi"},
+        {"id": "B", "text": "Kronologi, ruang dan tafsiran"},
+        {"id": "C", "text": "Diari, jurnal dan ensiklopedia"},
+        {"id": "D", "text": "Artifak, manuskrip dan majalah"}
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kaedah penyelidikan sejarah yang utama ialah kaedah bertulis, lisan dan arkeologi.",
+      "tags": ["penyelidikan", "kaedah"]
+    },
+    {
+      "id": "t1-b01-q004",
+      "form": 1,
+      "chapter": 1,
+      "prompt": "Mengapakah tafsiran sejarah perlu disokong oleh bukti?",
+      "options": [
+        {"id": "A", "text": "Supaya hujah boleh dinilai berdasarkan sumber"},
+        {"id": "B", "text": "Supaya semua sejarawan mesti mempunyai pandangan sama"},
+        {"id": "C", "text": "Supaya kronologi tidak lagi diperlukan"},
+        {"id": "D", "text": "Supaya sumber sekunder menjadi sumber primer"}
+      ],
+      "correctOptionId": "A",
+      "explanation": "Tafsiran yang baik berasaskan sumber dan hujah yang boleh dinilai, bukannya andaian semata-mata.",
+      "tags": ["tafsiran", "bukti"]
+    }
+  ]
+}
