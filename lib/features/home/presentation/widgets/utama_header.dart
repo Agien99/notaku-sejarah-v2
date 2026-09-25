@@ -8,7 +8,7 @@ import '../../../../core/theme/app_typography.dart';
 class UtamaHeader extends StatelessWidget {
   const UtamaHeader({super.key});
 
-  static const double _wideHeaderBreakpoint = 620;
+  static const double _wideHeaderBreakpoint = 520;
 
   @override
   Widget build(BuildContext context) {
@@ -172,7 +172,7 @@ class _HeritageMark extends StatelessWidget {
     return Semantics(
       label: 'Motif warisan dan sejarah',
       child: Container(
-        constraints: const BoxConstraints(minHeight: 150),
+        height: 150,
         decoration: const BoxDecoration(
           color: AppColors.navy,
           borderRadius: BorderRadius.all(Radius.circular(AppRadius.lg)),
