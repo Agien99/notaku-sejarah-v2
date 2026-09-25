@@ -61,7 +61,8 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
         _bank = bank;
         _loading = false;
         if (bank.length < QuizSession.questionCount) {
-          _error = 'Bank soalan belum mencukupi. Kuiz memerlukan sekurang-kurangnya '
+          _error =
+              'Bank soalan belum mencukupi. Kuiz memerlukan sekurang-kurangnya '
               '${QuizSession.questionCount} soalan.';
         } else {
           _session = QuizSession(bank);
@@ -119,7 +120,9 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
       context: context,
       builder: (context) => AlertDialog(
         title: const Text('Hantar jawapan?'),
-        content: Text('Anda telah menjawab semua ${session.questions.length} soalan.'),
+        content: Text(
+          'Anda telah menjawab semua ${session.questions.length} soalan.',
+        ),
         actions: [
           TextButton(
             onPressed: () => Navigator.pop(context, false),
@@ -171,12 +174,15 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
                                 const SizedBox(height: 16),
                                 Text(_error!),
                                 const SizedBox(height: 16),
-                                FilledButton(onPressed: _load, child: const Text('Cuba lagi')),
+                                FilledButton(
+                                  onPressed: _load,
+                                  child: const Text('Cuba lagi'),
+                                ),
                               ],
                             )
                           : session!.isSubmitted
-                              ? _result(session)
-                              : _question(session),
+                          ? _result(session)
+                          : _question(session),
                     ),
             ),
           ),
@@ -197,7 +203,8 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
         LinearProgressIndicator(
           value: session.answeredCount / session.questions.length,
           semanticsLabel: 'Kemajuan jawapan',
-          semanticsValue: '${session.answeredCount} daripada ${session.questions.length}',
+          semanticsValue:
+              '${session.answeredCount} daripada ${session.questions.length}',
         ),
         const SizedBox(height: 8),
         Text('${session.answeredCount}/${session.questions.length} dijawab'),
@@ -205,7 +212,10 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
         Card(
           child: Padding(
             padding: const EdgeInsets.all(24),
-            child: Text(question.prompt, style: Theme.of(context).textTheme.titleLarge),
+            child: Text(
+              question.prompt,
+              style: Theme.of(context).textTheme.titleLarge,
+            ),
           ),
         ),
         const SizedBox(height: 16),
@@ -216,19 +226,28 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
               key: ValueKey('answer-$i'),
               style: OutlinedButton.styleFrom(
                 alignment: Alignment.centerLeft,
-                backgroundColor: session.answerFor(question) == question.options[i].id
+                backgroundColor:
+                    session.answerFor(question) == question.options[i].id
                     ? AppColors.goldSoft
                     : AppColors.surface,
                 padding: const EdgeInsets.all(16),
               ),
-              onPressed: () => setState(() => session.answer(_index, question.options[i].id)),
+              onPressed: () => setState(
+                () => session.answer(_index, question.options[i].id),
+              ),
               child: Row(
                 children: [
-                  Icon(session.answerFor(question) == question.options[i].id
-                      ? Icons.radio_button_checked
-                      : Icons.radio_button_unchecked),
+                  Icon(
+                    session.answerFor(question) == question.options[i].id
+                        ? Icons.radio_button_checked
+                        : Icons.radio_button_unchecked,
+                  ),
                   const SizedBox(width: 12),
-                  Expanded(child: Text('${String.fromCharCode(65 + i)}. ${question.options[i].text}')),
+                  Expanded(
+                    child: Text(
+                      '${String.fromCharCode(65 + i)}. ${question.options[i].text}',
+                    ),
+                  ),
                 ],
               ),
             ),
@@ -265,7 +284,9 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
             for (var i = 0; i < session.questions.length; i++)
               ChoiceChip(
                 key: ValueKey('question-$i'),
-                label: Text('${i + 1}${session.answerFor(session.questions[i]) == null ? '' : ' ✓'}'),
+                label: Text(
+                  '${i + 1}${session.answerFor(session.questions[i]) == null ? '' : ' ✓'}',
+                ),
                 selected: _index == i,
                 showCheckmark: false,
                 onSelected: (_) => _goTo(i),
@@ -289,9 +310,16 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.stretch,
       children: [
-        const Icon(Icons.workspace_premium_outlined, size: 64, color: AppColors.gold),
+        const Icon(
+          Icons.workspace_premium_outlined,
+          size: 64,
+          color: AppColors.gold,
+        ),
         const SizedBox(height: 16),
-        Text('Keputusan Kuiz', style: Theme.of(context).textTheme.headlineMedium),
+        Text(
+          'Keputusan Kuiz',
+          style: Theme.of(context).textTheme.headlineMedium,
+        ),
         const SizedBox(height: 8),
         Text(widget.title),
         const SizedBox(height: 24),
@@ -300,7 +328,10 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
             padding: const EdgeInsets.all(24),
             child: Column(
               children: [
-                Text('${session.percentage}%', style: Theme.of(context).textTheme.displaySmall),
+                Text(
+                  '${session.percentage}%',
+                  style: Theme.of(context).textTheme.displaySmall,
+                ),
                 Text('${session.score} / ${session.questions.length} betul'),
                 const SizedBox(height: 8),
                 Text('${session.questions.length - session.score} salah'),
@@ -344,7 +375,9 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
 
   Widget _reviewCard(QuizSession session, int index) {
     final question = session.questions[index];
-    final selected = question.options.singleWhere((option) => option.id == session.answerFor(question));
+    final selected = question.options.singleWhere(
+      (option) => option.id == session.answerFor(question),
+    );
     final correct = selected.id == question.correctOptionId;
     return Card(
       child: Padding(
@@ -352,9 +385,15 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text('${index + 1}. ${question.prompt}', style: Theme.of(context).textTheme.titleMedium),
+            Text(
+              '${index + 1}. ${question.prompt}',
+              style: Theme.of(context).textTheme.titleMedium,
+            ),
             const SizedBox(height: 12),
-            Text(correct ? '✓ Betul' : '✗ Salah', style: const TextStyle(fontWeight: FontWeight.bold)),
+            Text(
+              correct ? '✓ Betul' : '✗ Salah',
+              style: const TextStyle(fontWeight: FontWeight.bold),
+            ),
             const SizedBox(height: 8),
             Text('Jawapan anda: ${selected.text}'),
             Text('Jawapan betul: ${question.correctOption.text}'),

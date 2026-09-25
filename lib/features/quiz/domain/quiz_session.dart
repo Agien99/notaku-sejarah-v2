@@ -16,7 +16,8 @@ class QuizSession {
     final shuffled = List<QuizQuestion>.of(bank)..shuffle(generator);
     questions = List<QuizQuestion>.unmodifiable(
       shuffled.take(questionCount).map((question) {
-        final options = List<QuizOption>.of(question.options)..shuffle(generator);
+        final options = List<QuizOption>.of(question.options)
+          ..shuffle(generator);
         return QuizQuestion(
           id: question.id,
           form: question.form,
@@ -51,7 +52,9 @@ class QuizSession {
   }
 
   void submit() {
-    if (!isComplete) throw StateError('Answer every question before submitting.');
+    if (!isComplete) {
+      throw StateError('Answer every question before submitting.');
+    }
     _submitted = true;
   }
 

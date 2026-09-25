@@ -65,9 +65,14 @@ class QuizChapterScreen extends StatelessWidget {
             child: ListView(
               padding: const EdgeInsets.all(24),
               children: [
-                Text('Pilih bab', style: Theme.of(context).textTheme.headlineMedium),
+                Text(
+                  'Pilih bab',
+                  style: Theme.of(context).textTheme.headlineMedium,
+                ),
                 const SizedBox(height: 8),
-                const Text('15 soalan setiap sesi • Soalan dan jawapan dirawak'),
+                const Text(
+                  '15 soalan setiap sesi • Soalan dan jawapan dirawak',
+                ),
                 const SizedBox(height: 24),
                 for (final chapter in form.chapters) ...[
                   Card(
@@ -76,21 +81,22 @@ class QuizChapterScreen extends StatelessWidget {
                       title: Text('${chapter.label}: ${chapter.title}'),
                       subtitle: Text(
                         quizAssetManifest.containsKey(
-                          quizChapterKey(form.level, chapter.number),
-                        )
+                              quizChapterKey(form.level, chapter.number),
+                            )
                             ? 'Mulakan kuiz'
                             : 'Belum tersedia',
                       ),
                       trailing: Icon(
                         quizAssetManifest.containsKey(
-                          quizChapterKey(form.level, chapter.number),
-                        )
+                              quizChapterKey(form.level, chapter.number),
+                            )
                             ? Icons.play_circle_outline
                             : Icons.lock_outline,
                       ),
-                      onTap: quizAssetManifest.containsKey(
-                        quizChapterKey(form.level, chapter.number),
-                      )
+                      onTap:
+                          quizAssetManifest.containsKey(
+                            quizChapterKey(form.level, chapter.number),
+                          )
                           ? () => Navigator.of(context).push(
                               MaterialPageRoute<void>(
                                 builder: (_) => QuizAttemptScreen(
