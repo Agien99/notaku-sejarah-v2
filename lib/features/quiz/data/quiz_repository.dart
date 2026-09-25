@@ -8,7 +8,7 @@ import 'quiz_manifest.dart';
 
 class QuizRepository {
   const QuizRepository({AssetBundle? assetBundle})
-      : _assetBundle = assetBundle ?? rootBundle;
+    : _assetBundle = assetBundle ?? rootBundle;
 
   final AssetBundle _assetBundle;
 
@@ -60,7 +60,8 @@ class QuizRepository {
           '${question.id} belongs to chapter ${question.chapter}, expected $expectedChapter.',
         );
       }
-      if (question.prompt.trim().isEmpty || question.explanation.trim().isEmpty) {
+      if (question.prompt.trim().isEmpty ||
+          question.explanation.trim().isEmpty) {
         throw QuizDataException(
           '${question.id} requires a prompt and explanation.',
         );
