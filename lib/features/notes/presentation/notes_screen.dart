@@ -126,8 +126,27 @@ class _NotesHeader extends StatelessWidget {
           constraints: const BoxConstraints(maxWidth: 680),
           child: Text(
             'Pilih tingkatan untuk melihat senarai bab dan mula ulang kaji '
-            'Sejarah mengikut kandungan KSSM.',
+            'Sejarah mengikut kandungan KSSM bagi sesi 2026.',
             style: Theme.of(context).textTheme.bodyLarge,
+          ),
+        ),
+        const SizedBox(height: AppSpacing.sm),
+        Container(
+          width: double.infinity,
+          padding: const EdgeInsets.symmetric(
+            horizontal: AppSpacing.md,
+            vertical: AppSpacing.sm,
+          ),
+          decoration: BoxDecoration(
+            color: AppColors.goldSoft,
+            borderRadius: BorderRadius.circular(12),
+          ),
+          child: Text(
+            'KSSM · Kandungan disemak 25 September 2026',
+            style: Theme.of(context).textTheme.labelLarge?.copyWith(
+              color: AppColors.navy,
+              fontWeight: FontWeight.w700,
+            ),
           ),
         ),
       ],
