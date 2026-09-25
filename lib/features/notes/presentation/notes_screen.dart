@@ -144,7 +144,7 @@ class _ExpandedNotesLayout extends StatelessWidget {
           flex: 5,
           child: _FormGrid(
             forms: forms,
-            columns: 2,
+            columns: 1,
             selectedForm: selectedForm,
             onFormSelected: onFormSelected,
           ),
