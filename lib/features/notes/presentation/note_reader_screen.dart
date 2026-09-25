@@ -662,7 +662,7 @@ class _ChapterNavigation extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final currentIndex = form.chapters.indexWhere(
-          (item) => item.number == chapter.number,
+      (item) => item.number == chapter.number,
     );
 
     if (currentIndex == -1) {
@@ -714,10 +714,10 @@ class _ChapterNavigation extends StatelessWidget {
               child: previousChapter == null
                   ? const SizedBox.shrink()
                   : _ChapterNavigationCard(
-                chapter: previousChapter,
-                direction: _ChapterNavigationDirection.previous,
-                onTap: () => onChapterSelected(previousChapter),
-              ),
+                      chapter: previousChapter,
+                      direction: _ChapterNavigationDirection.previous,
+                      onTap: () => onChapterSelected(previousChapter),
+                    ),
             ),
             if (previousChapter != null && nextChapter != null)
               const SizedBox(width: AppSpacing.md),
@@ -725,10 +725,10 @@ class _ChapterNavigation extends StatelessWidget {
               child: nextChapter == null
                   ? const SizedBox.shrink()
                   : _ChapterNavigationCard(
-                chapter: nextChapter,
-                direction: _ChapterNavigationDirection.next,
-                onTap: () => onChapterSelected(nextChapter),
-              ),
+                      chapter: nextChapter,
+                      direction: _ChapterNavigationDirection.next,
+                      onTap: () => onChapterSelected(nextChapter),
+                    ),
             ),
           ],
         );
@@ -737,10 +737,7 @@ class _ChapterNavigation extends StatelessWidget {
   }
 }
 
-enum _ChapterNavigationDirection {
-  previous,
-  next,
-}
+enum _ChapterNavigationDirection { previous, next }
 
 class _ChapterNavigationCard extends StatelessWidget {
   const _ChapterNavigationCard({
@@ -753,8 +750,7 @@ class _ChapterNavigationCard extends StatelessWidget {
   final _ChapterNavigationDirection direction;
   final VoidCallback onTap;
 
-  bool get _isPrevious =>
-      direction == _ChapterNavigationDirection.previous;
+  bool get _isPrevious => direction == _ChapterNavigationDirection.previous;
 
   @override
   Widget build(BuildContext context) {
@@ -762,9 +758,7 @@ class _ChapterNavigationCard extends StatelessWidget {
       margin: EdgeInsets.zero,
       clipBehavior: Clip.antiAlias,
       child: InkWell(
-        key: ValueKey(
-          _isPrevious ? 'previous-chapter' : 'next-chapter',
-        ),
+        key: ValueKey(_isPrevious ? 'previous-chapter' : 'next-chapter'),
         onTap: onTap,
         child: Padding(
           padding: const EdgeInsets.all(AppSpacing.md),
@@ -784,15 +778,9 @@ class _ChapterNavigationCard extends StatelessWidget {
                       : CrossAxisAlignment.end,
                   children: [
                     Text(
-                      _isPrevious
-                          ? 'Bab Sebelumnya'
-                          : 'Bab Seterusnya',
-                      textAlign:
-                      _isPrevious ? TextAlign.start : TextAlign.end,
-                      style: Theme.of(context)
-                          .textTheme
-                          .labelMedium
-                          ?.copyWith(
+                      _isPrevious ? 'Bab Sebelumnya' : 'Bab Seterusnya',
+                      textAlign: _isPrevious ? TextAlign.start : TextAlign.end,
+                      style: Theme.of(context).textTheme.labelMedium?.copyWith(
                         color: AppColors.royalBlue,
                         fontWeight: FontWeight.w800,
                       ),
@@ -800,12 +788,8 @@ class _ChapterNavigationCard extends StatelessWidget {
                     const SizedBox(height: AppSpacing.xxs),
                     Text(
                       chapter.label,
-                      textAlign:
-                      _isPrevious ? TextAlign.start : TextAlign.end,
-                      style: Theme.of(context)
-                          .textTheme
-                          .titleMedium
-                          ?.copyWith(
+                      textAlign: _isPrevious ? TextAlign.start : TextAlign.end,
+                      style: Theme.of(context).textTheme.titleMedium?.copyWith(
                         color: AppColors.navy,
                         fontWeight: FontWeight.w800,
                       ),
@@ -813,14 +797,10 @@ class _ChapterNavigationCard extends StatelessWidget {
                     const SizedBox(height: AppSpacing.xxs),
                     Text(
                       chapter.title,
-                      textAlign:
-                      _isPrevious ? TextAlign.start : TextAlign.end,
+                      textAlign: _isPrevious ? TextAlign.start : TextAlign.end,
                       maxLines: 2,
                       overflow: TextOverflow.ellipsis,
-                      style: Theme.of(context)
-                          .textTheme
-                          .bodySmall
-                          ?.copyWith(
+                      style: Theme.of(context).textTheme.bodySmall?.copyWith(
                         color: AppColors.textSecondary,
                         height: 1.4,
                       ),
