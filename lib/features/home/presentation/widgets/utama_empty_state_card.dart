@@ -46,10 +46,7 @@ class UtamaEmptyStateCard extends StatelessWidget {
             Text(description, style: Theme.of(context).textTheme.bodyMedium),
             if (actionLabel != null) ...[
               const SizedBox(height: AppSpacing.lg),
-              FilledButton(
-                onPressed: onAction,
-                child: Text(actionLabel!),
-              ),
+              FilledButton(onPressed: onAction, child: Text(actionLabel!)),
             ],
           ],
         ),
