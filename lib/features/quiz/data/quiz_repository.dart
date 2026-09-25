@@ -7,7 +7,7 @@ import '../domain/quiz_data_exception.dart';
 import 'quiz_manifest.dart';
 
 class QuizRepository {
-  const QuizRepository({AssetBundle? assetBundle})
+  QuizRepository({AssetBundle? assetBundle})
     : _assetBundle = assetBundle ?? rootBundle;
 
   final AssetBundle _assetBundle;
