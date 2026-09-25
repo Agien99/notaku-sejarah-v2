@@ -18,10 +18,10 @@ def compile_banks():
     def output(path, text):
         target = ROOT / path
         if check:
-            if not target.exists() or target.read_text() != text:
+            if not target.exists() or target.read_text(encoding='utf-8') != text:
                 raise ValueError(f'Generated file is stale: {path}')
         else:
-            target.write_text(text)
+            target.write_text(text, encoding='utf-8')
     for source in sorted((ROOT / 'content/quiz').glob('t*.txt')):
         form = int(source.stem[1:])
         chapter = None
@@ -34,7 +34,7 @@ def compile_banks():
             if chapter is None:
                 return
             path = f'assets/quiz/kssm_2026/t{form}_b{chapter:02}.json'
-            note = json.loads((ROOT / path.replace('/quiz/', '/notes/')).read_text())
+            note = json.loads((ROOT / path.replace('/quiz/', '/notes/')).read_text(encoding='utf-8'))
             assert len(questions) == 40, (form, chapter, len(questions))
             assert len({q['prompt'] for q in questions}) == 40
             data = dict(curriculum='KSSM', contentVersion='2026.2', form=form,
@@ -45,7 +45,7 @@ def compile_banks():
             output(path, json.dumps(data, ensure_ascii=False, indent=2) + '\n')
             manifest.append((form, chapter, path))
 
-        for line in source.read_text().splitlines():
+        for line in source.read_text(encoding='utf-8').splitlines():
             line = line.strip()
             if not line or line.startswith('//'):
                 continue
