@@ -2,8 +2,10 @@ import 'package:flutter/material.dart';
 
 import 'app_breakpoints.dart';
 
-typedef ResponsiveWidgetBuilder =
-    Widget Function(BuildContext context, AppWindowClass windowClass);
+typedef ResponsiveWidgetBuilder = Widget Function(
+  BuildContext context,
+  AppWindowClass windowClass,
+);
 
 class ResponsiveLayout extends StatelessWidget {
   const ResponsiveLayout({required this.builder, super.key});

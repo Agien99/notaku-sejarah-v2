@@ -136,13 +136,7 @@ void main() {
           form: form,
           chapter: chapter,
           viewerBuilder:
-              (
-                context,
-                assetName,
-                initialPageNumber,
-                revision,
-                onRetry,
-              ) {
+              (context, assetName, initialPageNumber, revision, onRetry) {
                 capturedAsset = assetName;
                 capturedPage = initialPageNumber;
                 return const ColoredBox(
@@ -204,13 +198,7 @@ void main() {
           form: form,
           chapter: chapter,
           viewerBuilder:
-              (
-                context,
-                assetName,
-                initialPageNumber,
-                revision,
-                onRetry,
-              ) {
+              (context, assetName, initialPageNumber, revision, onRetry) {
                 return const ColoredBox(
                   key: ValueKey('fake-landscape-viewer'),
                   color: Colors.white,

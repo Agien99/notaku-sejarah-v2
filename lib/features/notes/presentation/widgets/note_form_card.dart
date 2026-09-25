@@ -66,9 +66,8 @@ class NoteFormCard extends StatelessWidget {
               const SizedBox(height: AppSpacing.lg),
               Text(
                 form.title,
-                style: Theme.of(
-                  context,
-                ).textTheme.titleLarge?.copyWith(fontWeight: FontWeight.w800),
+                style: Theme.of(context).textTheme.titleLarge
+                    ?.copyWith(fontWeight: FontWeight.w800),
               ),
               const SizedBox(height: AppSpacing.xs),
               Text(form.theme, style: Theme.of(context).textTheme.bodyMedium),
@@ -85,9 +84,8 @@ class NoteFormCard extends StatelessWidget {
                   const SizedBox(width: AppSpacing.xs),
                   Text(
                     form.chapterCountLabel,
-                    style: Theme.of(context).textTheme.labelLarge?.copyWith(
-                      color: AppColors.textSecondary,
-                    ),
+                    style: Theme.of(context).textTheme.labelLarge
+                        ?.copyWith(color: AppColors.textSecondary),
                   ),
                   const Spacer(),
                   if (form.isAvailable)
@@ -124,10 +122,8 @@ class _AvailabilityBadge extends StatelessWidget {
       ),
       child: Text(
         isAvailable ? 'Tersedia' : 'Akan Datang',
-        style: Theme.of(context).textTheme.labelMedium?.copyWith(
-          color: AppColors.navy,
-          fontWeight: FontWeight.w700,
-        ),
+        style: Theme.of(context).textTheme.labelMedium
+            ?.copyWith(color: AppColors.navy, fontWeight: FontWeight.w700),
       ),
     );
   }

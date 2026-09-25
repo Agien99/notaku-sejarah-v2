@@ -8,14 +8,13 @@ import '../../../core/theme/app_spacing.dart';
 import '../domain/models/note_chapter.dart';
 import '../domain/models/note_form.dart';
 
-typedef NoteViewerBuilder =
-    Widget Function(
-      BuildContext context,
-      String assetName,
-      int initialPageNumber,
-      int revision,
-      VoidCallback onRetry,
-    );
+typedef NoteViewerBuilder = Widget Function(
+  BuildContext context,
+  String assetName,
+  int initialPageNumber,
+  int revision,
+  VoidCallback onRetry,
+);
 
 class NoteReaderScreen extends StatefulWidget {
   const NoteReaderScreen({
@@ -111,9 +110,7 @@ class _NoteReaderScreenState extends State<NoteReaderScreen> {
                       Expanded(
                         child: ClipRRect(
                           borderRadius: BorderRadius.circular(
-                            windowClass.isCompact
-                                ? AppRadius.sm
-                                : AppRadius.lg,
+                            windowClass.isCompact ? AppRadius.sm : AppRadius.lg,
                           ),
                           child: DecoratedBox(
                             decoration: BoxDecoration(
@@ -253,9 +250,8 @@ class _ReaderLoadingState extends StatelessWidget {
                 const SizedBox(height: AppSpacing.md),
                 Text(
                   'Membuka nota…',
-                  style: Theme.of(context).textTheme.titleMedium?.copyWith(
-                    fontWeight: FontWeight.w700,
-                  ),
+                  style: Theme.of(context).textTheme.titleMedium
+                      ?.copyWith(fontWeight: FontWeight.w700),
                 ),
                 const SizedBox(height: AppSpacing.xs),
                 Text(
@@ -296,9 +292,8 @@ class _ReaderErrorState extends StatelessWidget {
               Text(
                 'Nota tidak dapat dibuka',
                 textAlign: TextAlign.center,
-                style: Theme.of(context).textTheme.titleLarge?.copyWith(
-                  fontWeight: FontWeight.w800,
-                ),
+                style: Theme.of(context).textTheme.titleLarge
+                    ?.copyWith(fontWeight: FontWeight.w800),
               ),
               const SizedBox(height: AppSpacing.xs),
               Text(
@@ -342,9 +337,8 @@ class _ReaderUnavailableState extends StatelessWidget {
               const SizedBox(height: AppSpacing.md),
               Text(
                 'Nota belum tersedia',
-                style: Theme.of(context).textTheme.titleLarge?.copyWith(
-                  fontWeight: FontWeight.w800,
-                ),
+                style: Theme.of(context).textTheme.titleLarge
+                    ?.copyWith(fontWeight: FontWeight.w800),
               ),
               const SizedBox(height: AppSpacing.xs),
               Text(

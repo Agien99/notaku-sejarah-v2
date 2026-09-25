@@ -60,11 +60,7 @@ class _NotesScreenState extends State<NotesScreen> {
     );
   }
 
-  void _openChapter(
-    BuildContext context,
-    NoteForm form,
-    NoteChapter chapter,
-  ) {
+  void _openChapter(BuildContext context, NoteForm form, NoteChapter chapter) {
     Navigator.of(context).push(
       MaterialPageRoute<void>(
         builder: (context) => NoteReaderScreen(form: form, chapter: chapter),
@@ -122,9 +118,8 @@ class _NotesHeader extends StatelessWidget {
         const SizedBox(height: AppSpacing.xs),
         Text(
           'Nota Sejarah',
-          style: Theme.of(
-            context,
-          ).textTheme.headlineMedium?.copyWith(fontWeight: FontWeight.w800),
+          style: Theme.of(context).textTheme.headlineMedium
+              ?.copyWith(fontWeight: FontWeight.w800),
         ),
         const SizedBox(height: AppSpacing.sm),
         ConstrainedBox(
