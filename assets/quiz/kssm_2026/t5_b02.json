@@ -15,11 +15,11 @@
       "options": [
         {
           "id": "A",
-          "text": "Perlembagaan"
+          "text": "Perlembagaan Persekutuan"
         },
         {
           "id": "B",
-          "text": "Undang-undang bertulis"
+          "text": "Undang-Undang Tubuh Johor"
         },
         {
           "id": "C",
@@ -31,7 +31,7 @@
         }
       ],
       "correctOptionId": "A",
-      "explanation": "Perlembagaan: Undang-undang tertinggi yang menyusun pemerintahan Persekutuan.",
+      "explanation": "Perlembagaan Persekutuan: Undang-undang tertinggi yang menyusun pemerintahan Persekutuan.",
       "tags": [
         "padanan",
         "bab-2"
@@ -41,15 +41,15 @@
       "id": "t5-b02-q002",
       "form": 5,
       "chapter": 2,
-      "prompt": "Kenal pasti asas undang-undang.\n\nPeraturan yang direkod dan digubal melalui kuasa yang sah.",
+      "prompt": "Kenal pasti asas undang-undang.\n\nPerlembagaan bertulis negeri yang diperkenalkan pada 1895.",
       "options": [
         {
           "id": "A",
-          "text": "Perlembagaan"
+          "text": "Perlembagaan Persekutuan"
         },
         {
           "id": "B",
-          "text": "Undang-undang bertulis"
+          "text": "Undang-Undang Tubuh Johor"
         },
         {
           "id": "C",
@@ -61,7 +61,7 @@
         }
       ],
       "correctOptionId": "B",
-      "explanation": "Undang-undang bertulis: Peraturan yang direkod dan digubal melalui kuasa yang sah.",
+      "explanation": "Undang-Undang Tubuh Johor: Perlembagaan bertulis negeri yang diperkenalkan pada 1895.",
       "tags": [
         "padanan",
         "bab-2"
@@ -75,11 +75,11 @@
       "options": [
         {
           "id": "A",
-          "text": "Perlembagaan"
+          "text": "Perlembagaan Persekutuan"
         },
         {
           "id": "B",
-          "text": "Undang-undang bertulis"
+          "text": "Undang-Undang Tubuh Johor"
         },
         {
           "id": "C",
@@ -105,11 +105,11 @@
       "options": [
         {
           "id": "A",
-          "text": "Perlembagaan"
+          "text": "Perlembagaan Persekutuan"
         },
         {
           "id": "B",
-          "text": "Undang-undang bertulis"
+          "text": "Undang-Undang Tubuh Johor"
         },
         {
           "id": "C",
