@@ -27,10 +27,7 @@ class NoteFormCard extends StatelessWidget {
       margin: EdgeInsets.zero,
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(AppRadius.lg),
-        side: BorderSide(
-          color: borderColor,
-          width: isSelected ? 2 : 1,
-        ),
+        side: BorderSide(color: borderColor, width: isSelected ? 2 : 1),
       ),
       child: InkWell(
         key: ValueKey('note-form-${form.level}'),
@@ -55,7 +52,8 @@ class NoteFormCard extends StatelessWidget {
                     ),
                     child: Text(
                       '${form.level}',
-                      style: Theme.of(context).textTheme.headlineSmall?.copyWith(
+                      style: Theme.of(context).textTheme.headlineSmall
+                          ?.copyWith(
                             color: AppColors.goldSoft,
                             fontWeight: FontWeight.w800,
                           ),
@@ -68,15 +66,12 @@ class NoteFormCard extends StatelessWidget {
               const SizedBox(height: AppSpacing.lg),
               Text(
                 form.title,
-                style: Theme.of(context).textTheme.titleLarge?.copyWith(
-                      fontWeight: FontWeight.w800,
-                    ),
+                style: Theme.of(
+                  context,
+                ).textTheme.titleLarge?.copyWith(fontWeight: FontWeight.w800),
               ),
               const SizedBox(height: AppSpacing.xs),
-              Text(
-                form.theme,
-                style: Theme.of(context).textTheme.bodyMedium,
-              ),
+              Text(form.theme, style: Theme.of(context).textTheme.bodyMedium),
               const SizedBox(height: AppSpacing.md),
               Row(
                 children: [
@@ -91,8 +86,8 @@ class NoteFormCard extends StatelessWidget {
                   Text(
                     form.chapterCountLabel,
                     style: Theme.of(context).textTheme.labelLarge?.copyWith(
-                          color: AppColors.textSecondary,
-                        ),
+                      color: AppColors.textSecondary,
+                    ),
                   ),
                   const Spacer(),
                   if (form.isAvailable)
@@ -130,9 +125,9 @@ class _AvailabilityBadge extends StatelessWidget {
       child: Text(
         isAvailable ? 'Tersedia' : 'Akan Datang',
         style: Theme.of(context).textTheme.labelMedium?.copyWith(
-              color: AppColors.navy,
-              fontWeight: FontWeight.w700,
-            ),
+          color: AppColors.navy,
+          fontWeight: FontWeight.w700,
+        ),
       ),
     );
   }

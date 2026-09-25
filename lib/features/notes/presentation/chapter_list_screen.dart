@@ -21,9 +21,7 @@ class ChapterListScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: AppColors.cream,
-      appBar: AppBar(
-        title: Text(form.title),
-      ),
+      appBar: AppBar(title: Text(form.title)),
       body: SafeArea(
         child: ResponsiveLayout(
           builder: (context, windowClass) {
@@ -106,10 +104,7 @@ class ChapterListPanel extends StatelessWidget {
 }
 
 class _ChapterHeader extends StatelessWidget {
-  const _ChapterHeader({
-    required this.form,
-    required this.compact,
-  });
+  const _ChapterHeader({required this.form, required this.compact});
 
   final NoteForm form;
   final bool compact;
@@ -136,9 +131,9 @@ class _ChapterHeader extends StatelessWidget {
             child: Text(
               '${form.level}',
               style: Theme.of(context).textTheme.headlineSmall?.copyWith(
-                    color: AppColors.navy,
-                    fontWeight: FontWeight.w800,
-                  ),
+                color: AppColors.navy,
+                fontWeight: FontWeight.w800,
+              ),
             ),
           ),
           const SizedBox(width: AppSpacing.md),
@@ -149,23 +144,23 @@ class _ChapterHeader extends StatelessWidget {
                 Text(
                   form.title,
                   style: Theme.of(context).textTheme.titleLarge?.copyWith(
-                        color: AppColors.white,
-                        fontWeight: FontWeight.w800,
-                      ),
+                    color: AppColors.white,
+                    fontWeight: FontWeight.w800,
+                  ),
                 ),
                 const SizedBox(height: AppSpacing.xxs),
                 Text(
                   form.theme,
-                  style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-                        color: AppColors.goldSoft,
-                      ),
+                  style: Theme.of(
+                    context,
+                  ).textTheme.bodyMedium?.copyWith(color: AppColors.goldSoft),
                 ),
                 const SizedBox(height: AppSpacing.xs),
                 Text(
                   'Pilih salah satu daripada ${form.chapters.length} bab.',
-                  style: Theme.of(context).textTheme.bodySmall?.copyWith(
-                        color: AppColors.white,
-                      ),
+                  style: Theme.of(
+                    context,
+                  ).textTheme.bodySmall?.copyWith(color: AppColors.white),
                 ),
               ],
             ),
@@ -177,10 +172,7 @@ class _ChapterHeader extends StatelessWidget {
 }
 
 class _ChapterCard extends StatelessWidget {
-  const _ChapterCard({
-    required this.chapter,
-    required this.onTap,
-  });
+  const _ChapterCard({required this.chapter, required this.onTap});
 
   final NoteChapter chapter;
   final VoidCallback? onTap;
@@ -203,16 +195,14 @@ class _ChapterCard extends StatelessWidget {
                 alignment: Alignment.center,
                 decoration: const BoxDecoration(
                   color: AppColors.cream,
-                  borderRadius: BorderRadius.all(
-                    Radius.circular(AppRadius.md),
-                  ),
+                  borderRadius: BorderRadius.all(Radius.circular(AppRadius.md)),
                 ),
                 child: Text(
                   '${chapter.number}',
                   style: Theme.of(context).textTheme.titleMedium?.copyWith(
-                        color: AppColors.navy,
-                        fontWeight: FontWeight.w800,
-                      ),
+                    color: AppColors.navy,
+                    fontWeight: FontWeight.w800,
+                  ),
                 ),
               ),
               const SizedBox(width: AppSpacing.md),
@@ -223,16 +213,16 @@ class _ChapterCard extends StatelessWidget {
                     Text(
                       chapter.label,
                       style: Theme.of(context).textTheme.labelLarge?.copyWith(
-                            color: AppColors.royalBlue,
-                            fontWeight: FontWeight.w700,
-                          ),
+                        color: AppColors.royalBlue,
+                        fontWeight: FontWeight.w700,
+                      ),
                     ),
                     const SizedBox(height: AppSpacing.xxs),
                     Text(
                       chapter.title,
                       style: Theme.of(context).textTheme.titleMedium?.copyWith(
-                            fontWeight: FontWeight.w700,
-                          ),
+                        fontWeight: FontWeight.w700,
+                      ),
                     ),
                   ],
                 ),

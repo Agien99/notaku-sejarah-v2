@@ -14,11 +14,7 @@ void main() {
     await tester.pumpWidget(
       const MaterialApp(
         home: Scaffold(
-          body: SafeArea(
-            child: SingleChildScrollView(
-              child: NotesScreen(),
-            ),
-          ),
+          body: SafeArea(child: SingleChildScrollView(child: NotesScreen())),
         ),
       ),
     );

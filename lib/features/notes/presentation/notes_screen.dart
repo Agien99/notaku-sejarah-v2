@@ -10,10 +10,7 @@ import 'chapter_list_screen.dart';
 import 'widgets/note_form_card.dart';
 
 class NotesScreen extends StatefulWidget {
-  const NotesScreen({
-    this.repository = const LocalNoteRepository(),
-    super.key,
-  });
+  const NotesScreen({this.repository = const LocalNoteRepository(), super.key});
 
   final NoteRepository repository;
 
@@ -38,7 +35,11 @@ class _NotesScreenState extends State<NotesScreen> {
     }
   }
 
-  void _openForm(BuildContext context, NoteForm form, AppWindowClass windowClass) {
+  void _openForm(
+    BuildContext context,
+    NoteForm form,
+    AppWindowClass windowClass,
+  ) {
     if (!form.isAvailable) {
       return;
     }
@@ -71,15 +72,13 @@ class _NotesScreenState extends State<NotesScreen> {
               _ExpandedNotesLayout(
                 forms: _forms,
                 selectedForm: _selectedForm,
-                onFormSelected: (form) =>
-                    _openForm(context, form, windowClass),
+                onFormSelected: (form) => _openForm(context, form, windowClass),
               )
             else
               _FormGrid(
                 forms: _forms,
                 columns: windowClass.isMedium ? 2 : 1,
-                onFormSelected: (form) =>
-                    _openForm(context, form, windowClass),
+                onFormSelected: (form) => _openForm(context, form, windowClass),
               ),
           ],
         );
@@ -99,17 +98,17 @@ class _NotesHeader extends StatelessWidget {
         Text(
           'NOTA',
           style: Theme.of(context).textTheme.labelLarge?.copyWith(
-                color: AppColors.royalBlue,
-                fontWeight: FontWeight.w800,
-                letterSpacing: 1.6,
-              ),
+            color: AppColors.royalBlue,
+            fontWeight: FontWeight.w800,
+            letterSpacing: 1.6,
+          ),
         ),
         const SizedBox(height: AppSpacing.xs),
         Text(
           'Nota Sejarah',
-          style: Theme.of(context).textTheme.headlineMedium?.copyWith(
-                fontWeight: FontWeight.w800,
-              ),
+          style: Theme.of(
+            context,
+          ).textTheme.headlineMedium?.copyWith(fontWeight: FontWeight.w800),
         ),
         const SizedBox(height: AppSpacing.sm),
         ConstrainedBox(
@@ -155,10 +154,7 @@ class _ExpandedNotesLayout extends StatelessWidget {
           flex: 6,
           child: selectedForm == null
               ? const _SelectFormHint()
-              : ChapterListPanel(
-                  form: selectedForm!,
-                  compactHeader: true,
-                ),
+              : ChapterListPanel(form: selectedForm!, compactHeader: true),
         ),
       ],
     );
@@ -196,9 +192,7 @@ class _FormGrid extends StatelessWidget {
                 child: NoteFormCard(
                   form: form,
                   isSelected: selectedForm?.level == form.level,
-                  onTap: form.isAvailable
-                      ? () => onFormSelected(form)
-                      : null,
+                  onTap: form.isAvailable ? () => onFormSelected(form) : null,
                 ),
               ),
           ],

@@ -1,8 +1,5 @@
 class NoteChapter {
-  const NoteChapter({
-    required this.number,
-    required this.title,
-  });
+  const NoteChapter({required this.number, required this.title});
 
   final int number;
   final String title;

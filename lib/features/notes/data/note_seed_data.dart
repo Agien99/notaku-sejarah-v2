@@ -13,18 +13,9 @@ const noteForms = <NoteForm>[
       NoteChapter(number: 3, title: 'Zaman Prasejarah'),
       NoteChapter(number: 4, title: 'Mengenali Tamadun'),
       NoteChapter(number: 5, title: 'Tamadun Awal Dunia'),
-      NoteChapter(
-        number: 6,
-        title: 'Peningkatan Tamadun Yunani dan Rom',
-      ),
-      NoteChapter(
-        number: 7,
-        title: 'Peningkatan Tamadun India dan China',
-      ),
-      NoteChapter(
-        number: 8,
-        title: 'Tamadun Islam dan Sumbangannya',
-      ),
+      NoteChapter(number: 6, title: 'Peningkatan Tamadun Yunani dan Rom'),
+      NoteChapter(number: 7, title: 'Peningkatan Tamadun India dan China'),
+      NoteChapter(number: 8, title: 'Tamadun Islam dan Sumbangannya'),
     ],
   ),
   NoteForm(
@@ -62,8 +53,7 @@ const noteForms = <NoteForm>[
       ),
       NoteChapter(
         number: 9,
-        title:
-            'Warisan Kerajaan Kedah, Kelantan, Negeri Sembilan dan Perlis',
+        title: 'Warisan Kerajaan Kedah, Kelantan, Negeri Sembilan dan Perlis',
       ),
       NoteChapter(number: 10, title: 'Sarawak dan Sabah'),
     ],
@@ -84,10 +74,7 @@ const noteForms = <NoteForm>[
         number: 4,
         title: 'Pentadbiran Negeri-negeri Melayu Tidak Bersekutu',
       ),
-      NoteChapter(
-        number: 5,
-        title: 'Pentadbiran Barat di Sarawak dan Sabah',
-      ),
+      NoteChapter(number: 5, title: 'Pentadbiran Barat di Sarawak dan Sabah'),
       NoteChapter(
         number: 6,
         title: 'Kesan Pentadbiran Barat Terhadap Ekonomi dan Sosial',
@@ -95,8 +82,7 @@ const noteForms = <NoteForm>[
       NoteChapter(number: 7, title: 'Penentangan Masyarakat Tempatan'),
       NoteChapter(
         number: 8,
-        title:
-            'Kebijaksanaan Raja dan Pembesar Melayu Menangani Cabaran Barat',
+        title: 'Kebijaksanaan Raja dan Pembesar Melayu Menangani Cabaran Barat',
       ),
     ],
   ),
