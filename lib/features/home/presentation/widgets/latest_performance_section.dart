@@ -5,10 +5,7 @@ import 'utama_empty_state_card.dart';
 import 'utama_section_header.dart';
 
 class LatestPerformanceSection extends StatelessWidget {
-  const LatestPerformanceSection({
-    required this.onStartQuiz,
-    super.key,
-  });
+  const LatestPerformanceSection({required this.onStartQuiz, super.key});
 
   final VoidCallback onStartQuiz;
 
