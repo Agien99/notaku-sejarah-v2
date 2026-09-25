@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 5,
+  "chapter": 6,
+  "title": "Cabaran Selepas Pembentukan Malaysia",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t5_b06.json",
+  "questions": [
+    {
+      "id": "t5-b06-q001",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Kenal pasti cabaran awal Malaysia.\n\nJurang prasarana Sabah dan Sarawak memerlukan perhatian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembangunan wilayah"
+        },
+        {
+          "id": "B",
+          "text": "Pemisahan Singapura"
+        },
+        {
+          "id": "C",
+          "text": "Ancaman komunis"
+        },
+        {
+          "id": "D",
+          "text": "Peristiwa 13 Mei"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pembangunan wilayah: Jurang prasarana Sabah dan Sarawak memerlukan perhatian.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q002",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Kenal pasti cabaran awal Malaysia.\n\nPerubahan keanggotaan Persekutuan pada 1965.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembangunan wilayah"
+        },
+        {
+          "id": "B",
+          "text": "Pemisahan Singapura"
+        },
+        {
+          "id": "C",
+          "text": "Ancaman komunis"
+        },
+        {
+          "id": "D",
+          "text": "Peristiwa 13 Mei"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pemisahan Singapura: Perubahan keanggotaan Persekutuan pada 1965.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q003",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Kenal pasti cabaran awal Malaysia.\n\nGerakan bersenjata mengganggu keselamatan selepas pembentukan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembangunan wilayah"
+        },
+        {
+          "id": "B",
+          "text": "Pemisahan Singapura"
+        },
+        {
+          "id": "C",
+          "text": "Ancaman komunis"
+        },
+        {
+          "id": "D",
+          "text": "Peristiwa 13 Mei"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Ancaman komunis: Gerakan bersenjata mengganggu keselamatan selepas pembentukan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q004",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Kenal pasti cabaran awal Malaysia.\n\nRusuhan kaum pada 1969 menjejaskan keamanan negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembangunan wilayah"
+        },
+        {
+          "id": "B",
+          "text": "Pemisahan Singapura"
+        },
+        {
+          "id": "C",
+          "text": "Ancaman komunis"
+        },
+        {
+          "id": "D",
+          "text": "Peristiwa 13 Mei"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Peristiwa 13 Mei: Rusuhan kaum pada 1969 menjejaskan keamanan negara.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q005",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Padankan tarikh atau tempoh.\n\nTahun Malaysia dibentuk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1965"
+        },
+        {
+          "id": "B",
+          "text": "1966–1970"
+        },
+        {
+          "id": "C",
+          "text": "1969"
+        },
+        {
+          "id": "D",
+          "text": "1963"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "1963: Tahun Malaysia dibentuk.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q006",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Padankan tarikh atau tempoh.\n\nTahun Singapura berpisah daripada Malaysia.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1965"
+        },
+        {
+          "id": "B",
+          "text": "1966–1970"
+        },
+        {
+          "id": "C",
+          "text": "1969"
+        },
+        {
+          "id": "D",
+          "text": "1963"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "1965: Tahun Singapura berpisah daripada Malaysia.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q007",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Padankan tarikh atau tempoh.\n\nTempoh Rancangan Malaysia Pertama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1965"
+        },
+        {
+          "id": "B",
+          "text": "1966–1970"
+        },
+        {
+          "id": "C",
+          "text": "1969"
+        },
+        {
+          "id": "D",
+          "text": "1963"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "1966–1970: Tempoh Rancangan Malaysia Pertama.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q008",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Padankan tarikh atau tempoh.\n\nTahun MAGERAN dibentuk selepas krisis kaum.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1965"
+        },
+        {
+          "id": "B",
+          "text": "1966–1970"
+        },
+        {
+          "id": "C",
+          "text": "1969"
+        },
+        {
+          "id": "D",
+          "text": "1963"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "1969: Tahun MAGERAN dibentuk selepas krisis kaum.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q009",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Apakah faktor ketegangan dengan Singapura?\n\nPendekatan parti terhadap struktur negara tidak sehaluan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ketegangan kaum"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan kerajaan"
+        },
+        {
+          "id": "C",
+          "text": "Perbezaan politik"
+        },
+        {
+          "id": "D",
+          "text": "Pertikaian ekonomi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perbezaan politik: Pendekatan parti terhadap struktur negara tidak sehaluan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q010",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Apakah faktor ketegangan dengan Singapura?\n\nUrusan pasaran serta hasil menjadi pertikaian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ketegangan kaum"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan kerajaan"
+        },
+        {
+          "id": "C",
+          "text": "Perbezaan politik"
+        },
+        {
+          "id": "D",
+          "text": "Pertikaian ekonomi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pertikaian ekonomi: Urusan pasaran serta hasil menjadi pertikaian.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q011",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Apakah faktor ketegangan dengan Singapura?\n\nKonflik masyarakat menimbulkan kebimbangan keselamatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ketegangan kaum"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan kerajaan"
+        },
+        {
+          "id": "C",
+          "text": "Perbezaan politik"
+        },
+        {
+          "id": "D",
+          "text": "Pertikaian ekonomi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Ketegangan kaum: Konflik masyarakat menimbulkan kebimbangan keselamatan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q012",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Apakah faktor ketegangan dengan Singapura?\n\nHubungan pusat dengan kerajaan Singapura semakin sukar diselaraskan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ketegangan kaum"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan kerajaan"
+        },
+        {
+          "id": "C",
+          "text": "Perbezaan politik"
+        },
+        {
+          "id": "D",
+          "text": "Pertikaian ekonomi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Hubungan kerajaan: Hubungan pusat dengan kerajaan Singapura semakin sukar diselaraskan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q013",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Kenal pasti keperluan Sabah dan Sarawak.\n\nPerhubungan darat diperlukan untuk kawasan pedalaman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pegawai terlatih"
+        },
+        {
+          "id": "B",
+          "text": "Jalan"
+        },
+        {
+          "id": "C",
+          "text": "Sekolah"
+        },
+        {
+          "id": "D",
+          "text": "Kemudahan kesihatan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Jalan: Perhubungan darat diperlukan untuk kawasan pedalaman.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q014",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Kenal pasti keperluan Sabah dan Sarawak.\n\nPeluang pembelajaran perlu diperluas kepada penduduk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pegawai terlatih"
+        },
+        {
+          "id": "B",
+          "text": "Jalan"
+        },
+        {
+          "id": "C",
+          "text": "Sekolah"
+        },
+        {
+          "id": "D",
+          "text": "Kemudahan kesihatan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Sekolah: Peluang pembelajaran perlu diperluas kepada penduduk.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q015",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Kenal pasti keperluan Sabah dan Sarawak.\n\nPerkhidmatan rawatan perlu sampai ke petempatan jauh.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pegawai terlatih"
+        },
+        {
+          "id": "B",
+          "text": "Jalan"
+        },
+        {
+          "id": "C",
+          "text": "Sekolah"
+        },
+        {
+          "id": "D",
+          "text": "Kemudahan kesihatan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kemudahan kesihatan: Perkhidmatan rawatan perlu sampai ke petempatan jauh.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q016",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Kenal pasti keperluan Sabah dan Sarawak.\n\nPentadbiran memerlukan tenaga manusia berkemahiran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pegawai terlatih"
+        },
+        {
+          "id": "B",
+          "text": "Jalan"
+        },
+        {
+          "id": "C",
+          "text": "Sekolah"
+        },
+        {
+          "id": "D",
+          "text": "Kemudahan kesihatan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pegawai terlatih: Pentadbiran memerlukan tenaga manusia berkemahiran.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q017",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Padankan langkah menangani komunis.\n\nPasukan menjalankan tindakan terhadap gerila bersenjata.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Operasi keselamatan"
+        },
+        {
+          "id": "B",
+          "text": "Kawalan sempadan"
+        },
+        {
+          "id": "C",
+          "text": "Pembangunan masyarakat"
+        },
+        {
+          "id": "D",
+          "text": "Kerjasama serantau"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Operasi keselamatan: Pasukan menjalankan tindakan terhadap gerila bersenjata.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q018",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Padankan langkah menangani komunis.\n\nLaluan keluar masuk wilayah dipantau.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Operasi keselamatan"
+        },
+        {
+          "id": "B",
+          "text": "Kawalan sempadan"
+        },
+        {
+          "id": "C",
+          "text": "Pembangunan masyarakat"
+        },
+        {
+          "id": "D",
+          "text": "Kerjasama serantau"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kawalan sempadan: Laluan keluar masuk wilayah dipantau.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q019",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Padankan langkah menangani komunis.\n\nKemudahan rakyat ditambah untuk mengurangkan masalah setempat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Operasi keselamatan"
+        },
+        {
+          "id": "B",
+          "text": "Kawalan sempadan"
+        },
+        {
+          "id": "C",
+          "text": "Pembangunan masyarakat"
+        },
+        {
+          "id": "D",
+          "text": "Kerjasama serantau"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pembangunan masyarakat: Kemudahan rakyat ditambah untuk mengurangkan masalah setempat.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q020",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Padankan langkah menangani komunis.\n\nNegara jiran menyelaraskan usaha keselamatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Operasi keselamatan"
+        },
+        {
+          "id": "B",
+          "text": "Kawalan sempadan"
+        },
+        {
+          "id": "C",
+          "text": "Pembangunan masyarakat"
+        },
+        {
+          "id": "D",
+          "text": "Kerjasama serantau"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kerjasama serantau: Negara jiran menyelaraskan usaha keselamatan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q021",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Apakah cabaran ekonomi?\n\nPendapatan isi rumah tidak mencukupi untuk keperluan asas.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengangguran"
+        },
+        {
+          "id": "B",
+          "text": "Jurang wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Pergantungan komoditi"
+        },
+        {
+          "id": "D",
+          "text": "Kemiskinan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kemiskinan: Pendapatan isi rumah tidak mencukupi untuk keperluan asas.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q022",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Apakah cabaran ekonomi?\n\nPenduduk yang mahu bekerja sukar mendapat pekerjaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengangguran"
+        },
+        {
+          "id": "B",
+          "text": "Jurang wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Pergantungan komoditi"
+        },
+        {
+          "id": "D",
+          "text": "Kemiskinan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pengangguran: Penduduk yang mahu bekerja sukar mendapat pekerjaan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q023",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Apakah cabaran ekonomi?\n\nTahap kemudahan dan peluang berbeza antara kawasan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengangguran"
+        },
+        {
+          "id": "B",
+          "text": "Jurang wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Pergantungan komoditi"
+        },
+        {
+          "id": "D",
+          "text": "Kemiskinan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Jurang wilayah: Tahap kemudahan dan peluang berbeza antara kawasan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q024",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Apakah cabaran ekonomi?\n\nPendapatan negara mudah terjejas apabila harga eksport utama berubah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengangguran"
+        },
+        {
+          "id": "B",
+          "text": "Jurang wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Pergantungan komoditi"
+        },
+        {
+          "id": "D",
+          "text": "Kemiskinan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pergantungan komoditi: Pendapatan negara mudah terjejas apabila harga eksport utama berubah.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q025",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Kenal pasti unsur MAGERAN.\n\nPemimpin yang mengetuai majlis tersebut.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemulihan keamanan"
+        },
+        {
+          "id": "B",
+          "text": "Pemulihan hubungan kaum"
+        },
+        {
+          "id": "C",
+          "text": "Tun Abdul Razak"
+        },
+        {
+          "id": "D",
+          "text": "Pentadbiran sementara"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Tun Abdul Razak: Pemimpin yang mengetuai majlis tersebut.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q026",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Kenal pasti unsur MAGERAN.\n\nFungsi pemerintahan disusun ketika Parlimen digantung sementara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemulihan keamanan"
+        },
+        {
+          "id": "B",
+          "text": "Pemulihan hubungan kaum"
+        },
+        {
+          "id": "C",
+          "text": "Tun Abdul Razak"
+        },
+        {
+          "id": "D",
+          "text": "Pentadbiran sementara"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pentadbiran sementara: Fungsi pemerintahan disusun ketika Parlimen digantung sementara.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q027",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Kenal pasti unsur MAGERAN.\n\nKeselamatan selepas rusuhan menjadi keutamaan segera.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemulihan keamanan"
+        },
+        {
+          "id": "B",
+          "text": "Pemulihan hubungan kaum"
+        },
+        {
+          "id": "C",
+          "text": "Tun Abdul Razak"
+        },
+        {
+          "id": "D",
+          "text": "Pentadbiran sementara"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pemulihan keamanan: Keselamatan selepas rusuhan menjadi keutamaan segera.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q028",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Kenal pasti unsur MAGERAN.\n\nUsaha membina semula persefahaman masyarakat diperlukan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemulihan keamanan"
+        },
+        {
+          "id": "B",
+          "text": "Pemulihan hubungan kaum"
+        },
+        {
+          "id": "C",
+          "text": "Tun Abdul Razak"
+        },
+        {
+          "id": "D",
+          "text": "Pentadbiran sementara"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pemulihan hubungan kaum: Usaha membina semula persefahaman masyarakat diperlukan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q029",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Padankan tindakan semasa krisis.\n\nMaklumat diperiksa sebelum dikongsi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Membantu mangsa"
+        },
+        {
+          "id": "B",
+          "text": "Mengesahkan berita"
+        },
+        {
+          "id": "C",
+          "text": "Mengelakkan provokasi"
+        },
+        {
+          "id": "D",
+          "text": "Mematuhi arahan keselamatan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Mengesahkan berita: Maklumat diperiksa sebelum dikongsi.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q030",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Padankan tindakan semasa krisis.\n\nUcapan yang membakar kebencian tidak disebarkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Membantu mangsa"
+        },
+        {
+          "id": "B",
+          "text": "Mengesahkan berita"
+        },
+        {
+          "id": "C",
+          "text": "Mengelakkan provokasi"
+        },
+        {
+          "id": "D",
+          "text": "Mematuhi arahan keselamatan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Mengelakkan provokasi: Ucapan yang membakar kebencian tidak disebarkan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q031",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Padankan tindakan semasa krisis.\n\nPenduduk mengikuti langkah sah menjaga ketenteraman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Membantu mangsa"
+        },
+        {
+          "id": "B",
+          "text": "Mengesahkan berita"
+        },
+        {
+          "id": "C",
+          "text": "Mengelakkan provokasi"
+        },
+        {
+          "id": "D",
+          "text": "Mematuhi arahan keselamatan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Mematuhi arahan keselamatan: Penduduk mengikuti langkah sah menjaga ketenteraman.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q032",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Padankan tindakan semasa krisis.\n\nBantuan diberikan tanpa mengira latar kelompok.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Membantu mangsa"
+        },
+        {
+          "id": "B",
+          "text": "Mengesahkan berita"
+        },
+        {
+          "id": "C",
+          "text": "Mengelakkan provokasi"
+        },
+        {
+          "id": "D",
+          "text": "Mematuhi arahan keselamatan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Membantu mangsa: Bantuan diberikan tanpa mengira latar kelompok.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q033",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Apakah langkah integrasi nasional?\n\nPengangkutan menghubungkan Semenanjung dengan Sabah dan Sarawak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perhubungan wilayah"
+        },
+        {
+          "id": "B",
+          "text": "Pendidikan bersama"
+        },
+        {
+          "id": "C",
+          "text": "Kerjasama ekonomi"
+        },
+        {
+          "id": "D",
+          "text": "Interaksi masyarakat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perhubungan wilayah: Pengangkutan menghubungkan Semenanjung dengan Sabah dan Sarawak.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q034",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Apakah langkah integrasi nasional?\n\nPengalaman sekolah membina identiti kebangsaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perhubungan wilayah"
+        },
+        {
+          "id": "B",
+          "text": "Pendidikan bersama"
+        },
+        {
+          "id": "C",
+          "text": "Kerjasama ekonomi"
+        },
+        {
+          "id": "D",
+          "text": "Interaksi masyarakat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pendidikan bersama: Pengalaman sekolah membina identiti kebangsaan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q035",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Apakah langkah integrasi nasional?\n\nKegiatan antara wilayah membuka manfaat bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perhubungan wilayah"
+        },
+        {
+          "id": "B",
+          "text": "Pendidikan bersama"
+        },
+        {
+          "id": "C",
+          "text": "Kerjasama ekonomi"
+        },
+        {
+          "id": "D",
+          "text": "Interaksi masyarakat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kerjasama ekonomi: Kegiatan antara wilayah membuka manfaat bersama.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q036",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Apakah langkah integrasi nasional?\n\nPenduduk berlainan latar mengenali kehidupan satu sama lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perhubungan wilayah"
+        },
+        {
+          "id": "B",
+          "text": "Pendidikan bersama"
+        },
+        {
+          "id": "C",
+          "text": "Kerjasama ekonomi"
+        },
+        {
+          "id": "D",
+          "text": "Interaksi masyarakat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Interaksi masyarakat: Penduduk berlainan latar mengenali kehidupan satu sama lain.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q037",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Kenal pasti pengajaran cabaran negara.\n\nPerbezaan politik diselesaikan melalui perundingan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembangunan seimbang"
+        },
+        {
+          "id": "B",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "C",
+          "text": "Kesiapsiagaan"
+        },
+        {
+          "id": "D",
+          "text": "Penyelesaian aman"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Penyelesaian aman: Perbezaan politik diselesaikan melalui perundingan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q038",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Kenal pasti pengajaran cabaran negara.\n\nWilayah kurang maju tidak diketepikan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembangunan seimbang"
+        },
+        {
+          "id": "B",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "C",
+          "text": "Kesiapsiagaan"
+        },
+        {
+          "id": "D",
+          "text": "Penyelesaian aman"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pembangunan seimbang: Wilayah kurang maju tidak diketepikan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q039",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Kenal pasti pengajaran cabaran negara.\n\nHubungan masyarakat dijaga bagi mengelakkan konflik.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembangunan seimbang"
+        },
+        {
+          "id": "B",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "C",
+          "text": "Kesiapsiagaan"
+        },
+        {
+          "id": "D",
+          "text": "Penyelesaian aman"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perpaduan: Hubungan masyarakat dijaga bagi mengelakkan konflik.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t5-b06-q040",
+      "form": 5,
+      "chapter": 6,
+      "prompt": "Kenal pasti pengajaran cabaran negara.\n\nKerajaan bersedia menangani ancaman sebelum memburuk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembangunan seimbang"
+        },
+        {
+          "id": "B",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "C",
+          "text": "Kesiapsiagaan"
+        },
+        {
+          "id": "D",
+          "text": "Penyelesaian aman"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kesiapsiagaan: Kerajaan bersedia menangani ancaman sebelum memburuk.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    }
+  ]
+}

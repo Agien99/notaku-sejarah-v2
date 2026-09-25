@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 1,
+  "chapter": 3,
+  "title": "Zaman Prasejarah",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t1_b03.json",
+  "questions": [
+    {
+      "id": "t1-b03-q001",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Kenal pasti zaman.\n\nTempoh sebelum adanya rekod tulisan masyarakat yang dikaji.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Prasejarah"
+        },
+        {
+          "id": "B",
+          "text": "Paleolitik"
+        },
+        {
+          "id": "C",
+          "text": "Neolitik"
+        },
+        {
+          "id": "D",
+          "text": "Zaman Logam"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Prasejarah: Tempoh sebelum adanya rekod tulisan masyarakat yang dikaji.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q002",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Kenal pasti zaman.\n\nZaman Batu Lama dengan penggunaan alat batu awal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Prasejarah"
+        },
+        {
+          "id": "B",
+          "text": "Paleolitik"
+        },
+        {
+          "id": "C",
+          "text": "Neolitik"
+        },
+        {
+          "id": "D",
+          "text": "Zaman Logam"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Paleolitik: Zaman Batu Lama dengan penggunaan alat batu awal.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q003",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Kenal pasti zaman.\n\nZaman Batu Baharu yang dikaitkan dengan pertanian dan petempatan tetap.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Prasejarah"
+        },
+        {
+          "id": "B",
+          "text": "Paleolitik"
+        },
+        {
+          "id": "C",
+          "text": "Neolitik"
+        },
+        {
+          "id": "D",
+          "text": "Zaman Logam"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Neolitik: Zaman Batu Baharu yang dikaitkan dengan pertanian dan petempatan tetap.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q004",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Kenal pasti zaman.\n\nTahap penggunaan alat gangsa dan besi yang lebih meluas.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Prasejarah"
+        },
+        {
+          "id": "B",
+          "text": "Paleolitik"
+        },
+        {
+          "id": "C",
+          "text": "Neolitik"
+        },
+        {
+          "id": "D",
+          "text": "Zaman Logam"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Zaman Logam: Tahap penggunaan alat gangsa dan besi yang lebih meluas.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q005",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Padankan cara memperoleh makanan.\n\nMenangkap haiwan liar untuk dimakan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengumpul"
+        },
+        {
+          "id": "B",
+          "text": "Bercucuk tanam"
+        },
+        {
+          "id": "C",
+          "text": "Menternak"
+        },
+        {
+          "id": "D",
+          "text": "Memburu"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Memburu: Menangkap haiwan liar untuk dimakan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q006",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Padankan cara memperoleh makanan.\n\nMendapatkan buah dan hasil tumbuhan liar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengumpul"
+        },
+        {
+          "id": "B",
+          "text": "Bercucuk tanam"
+        },
+        {
+          "id": "C",
+          "text": "Menternak"
+        },
+        {
+          "id": "D",
+          "text": "Memburu"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Mengumpul: Mendapatkan buah dan hasil tumbuhan liar.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q007",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Padankan cara memperoleh makanan.\n\nMengusahakan tanaman sebagai bekalan makanan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengumpul"
+        },
+        {
+          "id": "B",
+          "text": "Bercucuk tanam"
+        },
+        {
+          "id": "C",
+          "text": "Menternak"
+        },
+        {
+          "id": "D",
+          "text": "Memburu"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Bercucuk tanam: Mengusahakan tanaman sebagai bekalan makanan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q008",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Padankan cara memperoleh makanan.\n\nMemelihara haiwan untuk kegunaan manusia.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengumpul"
+        },
+        {
+          "id": "B",
+          "text": "Bercucuk tanam"
+        },
+        {
+          "id": "C",
+          "text": "Menternak"
+        },
+        {
+          "id": "D",
+          "text": "Memburu"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Menternak: Memelihara haiwan untuk kegunaan manusia.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q009",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Kenal pasti bahan peralatan.\n\nBahan semula jadi yang ditarah menjadi kapak genggam.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gangsa"
+        },
+        {
+          "id": "B",
+          "text": "Besi"
+        },
+        {
+          "id": "C",
+          "text": "Batu"
+        },
+        {
+          "id": "D",
+          "text": "Tulang"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Batu: Bahan semula jadi yang ditarah menjadi kapak genggam.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q010",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Kenal pasti bahan peralatan.\n\nBahagian rangka haiwan yang boleh dibentuk menjadi alat tajam.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gangsa"
+        },
+        {
+          "id": "B",
+          "text": "Besi"
+        },
+        {
+          "id": "C",
+          "text": "Batu"
+        },
+        {
+          "id": "D",
+          "text": "Tulang"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Tulang: Bahagian rangka haiwan yang boleh dibentuk menjadi alat tajam.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q011",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Kenal pasti bahan peralatan.\n\nAloi yang lazimnya menggabungkan tembaga dengan timah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gangsa"
+        },
+        {
+          "id": "B",
+          "text": "Besi"
+        },
+        {
+          "id": "C",
+          "text": "Batu"
+        },
+        {
+          "id": "D",
+          "text": "Tulang"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Gangsa: Aloi yang lazimnya menggabungkan tembaga dengan timah.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q012",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Kenal pasti bahan peralatan.\n\nLogam yang digunakan untuk menghasilkan alat lebih keras selepas gangsa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gangsa"
+        },
+        {
+          "id": "B",
+          "text": "Besi"
+        },
+        {
+          "id": "C",
+          "text": "Batu"
+        },
+        {
+          "id": "D",
+          "text": "Tulang"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Besi: Logam yang digunakan untuk menghasilkan alat lebih keras selepas gangsa.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q013",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Padankan bukti dengan tafsiran paling langsung.\n\nMenggambarkan kegiatan seni pada dinding tempat perlindungan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kubur"
+        },
+        {
+          "id": "B",
+          "text": "Lukisan gua"
+        },
+        {
+          "id": "C",
+          "text": "Tembikar"
+        },
+        {
+          "id": "D",
+          "text": "Manik"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Lukisan gua: Menggambarkan kegiatan seni pada dinding tempat perlindungan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q014",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Padankan bukti dengan tafsiran paling langsung.\n\nMenunjukkan kemahiran menghasilkan bekas daripada tanah liat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kubur"
+        },
+        {
+          "id": "B",
+          "text": "Lukisan gua"
+        },
+        {
+          "id": "C",
+          "text": "Tembikar"
+        },
+        {
+          "id": "D",
+          "text": "Manik"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Tembikar: Menunjukkan kemahiran menghasilkan bekas daripada tanah liat.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q015",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Padankan bukti dengan tafsiran paling langsung.\n\nMenunjukkan penggunaan perhiasan kecil yang berlubang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kubur"
+        },
+        {
+          "id": "B",
+          "text": "Lukisan gua"
+        },
+        {
+          "id": "C",
+          "text": "Tembikar"
+        },
+        {
+          "id": "D",
+          "text": "Manik"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Manik: Menunjukkan penggunaan perhiasan kecil yang berlubang.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q016",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Padankan bukti dengan tafsiran paling langsung.\n\nMemberikan maklumat tentang cara pengebumian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kubur"
+        },
+        {
+          "id": "B",
+          "text": "Lukisan gua"
+        },
+        {
+          "id": "C",
+          "text": "Tembikar"
+        },
+        {
+          "id": "D",
+          "text": "Manik"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kubur: Memberikan maklumat tentang cara pengebumian.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q017",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Kenal pasti lokasi Malaysia.\n\nKawasan arkeologi Perak yang dikaitkan dengan penemuan Perak Man.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lembah Lenggong"
+        },
+        {
+          "id": "B",
+          "text": "Gua Niah"
+        },
+        {
+          "id": "C",
+          "text": "Gua Tambun"
+        },
+        {
+          "id": "D",
+          "text": "Bukit Tengkorak"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Lembah Lenggong: Kawasan arkeologi Perak yang dikaitkan dengan penemuan Perak Man.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q018",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Kenal pasti lokasi Malaysia.\n\nKompleks gua penting bagi prasejarah di Sarawak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lembah Lenggong"
+        },
+        {
+          "id": "B",
+          "text": "Gua Niah"
+        },
+        {
+          "id": "C",
+          "text": "Gua Tambun"
+        },
+        {
+          "id": "D",
+          "text": "Bukit Tengkorak"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Gua Niah: Kompleks gua penting bagi prasejarah di Sarawak.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q019",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Kenal pasti lokasi Malaysia.\n\nTapak lukisan batu prasejarah berhampiran Ipoh.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lembah Lenggong"
+        },
+        {
+          "id": "B",
+          "text": "Gua Niah"
+        },
+        {
+          "id": "C",
+          "text": "Gua Tambun"
+        },
+        {
+          "id": "D",
+          "text": "Bukit Tengkorak"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Gua Tambun: Tapak lukisan batu prasejarah berhampiran Ipoh.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q020",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Kenal pasti lokasi Malaysia.\n\nTapak pembuatan tembikar prasejarah di Semporna, Sabah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lembah Lenggong"
+        },
+        {
+          "id": "B",
+          "text": "Gua Niah"
+        },
+        {
+          "id": "C",
+          "text": "Gua Tambun"
+        },
+        {
+          "id": "D",
+          "text": "Bukit Tengkorak"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Bukit Tengkorak: Tapak pembuatan tembikar prasejarah di Semporna, Sabah.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q021",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Padankan tapak dunia dengan negara.\n\nNegara lokasi Gua Chauvet.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sepanyol"
+        },
+        {
+          "id": "B",
+          "text": "Turki"
+        },
+        {
+          "id": "C",
+          "text": "Britain"
+        },
+        {
+          "id": "D",
+          "text": "Perancis"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Perancis: Negara lokasi Gua Chauvet.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q022",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Padankan tapak dunia dengan negara.\n\nNegara lokasi gua Altamira.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sepanyol"
+        },
+        {
+          "id": "B",
+          "text": "Turki"
+        },
+        {
+          "id": "C",
+          "text": "Britain"
+        },
+        {
+          "id": "D",
+          "text": "Perancis"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Sepanyol: Negara lokasi gua Altamira.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q023",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Padankan tapak dunia dengan negara.\n\nNegara lokasi petempatan Catal Huyuk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sepanyol"
+        },
+        {
+          "id": "B",
+          "text": "Turki"
+        },
+        {
+          "id": "C",
+          "text": "Britain"
+        },
+        {
+          "id": "D",
+          "text": "Perancis"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Turki: Negara lokasi petempatan Catal Huyuk.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q024",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Padankan tapak dunia dengan negara.\n\nNegara lokasi monumen Stonehenge.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sepanyol"
+        },
+        {
+          "id": "B",
+          "text": "Turki"
+        },
+        {
+          "id": "C",
+          "text": "Britain"
+        },
+        {
+          "id": "D",
+          "text": "Perancis"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Britain: Negara lokasi monumen Stonehenge.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q025",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Apakah perkembangan sosial yang ditunjukkan?\n\nKeluarga tinggal lama berhampiran kawasan pertanian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertukaran barangan"
+        },
+        {
+          "id": "B",
+          "text": "Organisasi masyarakat"
+        },
+        {
+          "id": "C",
+          "text": "Petempatan tetap"
+        },
+        {
+          "id": "D",
+          "text": "Pengkhususan kerja"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Petempatan tetap: Keluarga tinggal lama berhampiran kawasan pertanian.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q026",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Apakah perkembangan sosial yang ditunjukkan?\n\nSebahagian penduduk menumpukan kemahiran membuat alat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertukaran barangan"
+        },
+        {
+          "id": "B",
+          "text": "Organisasi masyarakat"
+        },
+        {
+          "id": "C",
+          "text": "Petempatan tetap"
+        },
+        {
+          "id": "D",
+          "text": "Pengkhususan kerja"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pengkhususan kerja: Sebahagian penduduk menumpukan kemahiran membuat alat.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q027",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Apakah perkembangan sosial yang ditunjukkan?\n\nLebihan hasil tanaman ditukar dengan peralatan tanpa wang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertukaran barangan"
+        },
+        {
+          "id": "B",
+          "text": "Organisasi masyarakat"
+        },
+        {
+          "id": "C",
+          "text": "Petempatan tetap"
+        },
+        {
+          "id": "D",
+          "text": "Pengkhususan kerja"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pertukaran barangan: Lebihan hasil tanaman ditukar dengan peralatan tanpa wang.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q028",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Apakah perkembangan sosial yang ditunjukkan?\n\nAnggota komuniti menyelaraskan tugas dan tanggungjawab bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertukaran barangan"
+        },
+        {
+          "id": "B",
+          "text": "Organisasi masyarakat"
+        },
+        {
+          "id": "C",
+          "text": "Petempatan tetap"
+        },
+        {
+          "id": "D",
+          "text": "Pengkhususan kerja"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Organisasi masyarakat: Anggota komuniti menyelaraskan tugas dan tanggungjawab bersama.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q029",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Kenal pasti kegunaan teknologi.\n\nMata batu tajam digunakan untuk melapah buruan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perahu"
+        },
+        {
+          "id": "B",
+          "text": "Alat pemotong"
+        },
+        {
+          "id": "C",
+          "text": "Bekas penyimpanan"
+        },
+        {
+          "id": "D",
+          "text": "Api"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Alat pemotong: Mata batu tajam digunakan untuk melapah buruan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q030",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Kenal pasti kegunaan teknologi.\n\nBalang membantu menyimpan hasil makanan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perahu"
+        },
+        {
+          "id": "B",
+          "text": "Alat pemotong"
+        },
+        {
+          "id": "C",
+          "text": "Bekas penyimpanan"
+        },
+        {
+          "id": "D",
+          "text": "Api"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Bekas penyimpanan: Balang membantu menyimpan hasil makanan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q031",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Kenal pasti kegunaan teknologi.\n\nSumber haba membantu memasak dan menghangatkan badan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perahu"
+        },
+        {
+          "id": "B",
+          "text": "Alat pemotong"
+        },
+        {
+          "id": "C",
+          "text": "Bekas penyimpanan"
+        },
+        {
+          "id": "D",
+          "text": "Api"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Api: Sumber haba membantu memasak dan menghangatkan badan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q032",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Kenal pasti kegunaan teknologi.\n\nPengangkutan air membantu manusia bergerak melalui sungai.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perahu"
+        },
+        {
+          "id": "B",
+          "text": "Alat pemotong"
+        },
+        {
+          "id": "C",
+          "text": "Bekas penyimpanan"
+        },
+        {
+          "id": "D",
+          "text": "Api"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perahu: Pengangkutan air membantu manusia bergerak melalui sungai.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q033",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Padankan perubahan ekonomi dengan kesannya.\n\nHasil pertanian melebihi keperluan segera sebuah keluarga.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lebihan makanan"
+        },
+        {
+          "id": "B",
+          "text": "Bekalan lebih terancang"
+        },
+        {
+          "id": "C",
+          "text": "Kemahiran bertambah"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan antara komuniti"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Lebihan makanan: Hasil pertanian melebihi keperluan segera sebuah keluarga.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q034",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Padankan perubahan ekonomi dengan kesannya.\n\nPenanaman dan penternakan mengurangkan pergantungan sepenuhnya pada buruan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lebihan makanan"
+        },
+        {
+          "id": "B",
+          "text": "Bekalan lebih terancang"
+        },
+        {
+          "id": "C",
+          "text": "Kemahiran bertambah"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan antara komuniti"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Bekalan lebih terancang: Penanaman dan penternakan mengurangkan pergantungan sepenuhnya pada buruan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q035",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Padankan perubahan ekonomi dengan kesannya.\n\nLatihan menghasilkan alat membolehkan teknik diperbaiki.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lebihan makanan"
+        },
+        {
+          "id": "B",
+          "text": "Bekalan lebih terancang"
+        },
+        {
+          "id": "C",
+          "text": "Kemahiran bertambah"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan antara komuniti"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kemahiran bertambah: Latihan menghasilkan alat membolehkan teknik diperbaiki.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q036",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Padankan perubahan ekonomi dengan kesannya.\n\nPertukaran hasil membawa penduduk berinteraksi dengan kelompok lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lebihan makanan"
+        },
+        {
+          "id": "B",
+          "text": "Bekalan lebih terancang"
+        },
+        {
+          "id": "C",
+          "text": "Kemahiran bertambah"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan antara komuniti"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Hubungan antara komuniti: Pertukaran hasil membawa penduduk berinteraksi dengan kelompok lain.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q037",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Apakah tindakan arkeologi yang wajar?\n\nKoordinat tinggalan dicatat sebelum dipindahkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menjaga konteks"
+        },
+        {
+          "id": "B",
+          "text": "Melindungi tapak"
+        },
+        {
+          "id": "C",
+          "text": "Melapor penemuan"
+        },
+        {
+          "id": "D",
+          "text": "Merekod lokasi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Merekod lokasi: Koordinat tinggalan dicatat sebelum dipindahkan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q038",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Apakah tindakan arkeologi yang wajar?\n\nHubungan sesuatu objek dengan lapisan tanahnya dikekalkan dalam rekod.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menjaga konteks"
+        },
+        {
+          "id": "B",
+          "text": "Melindungi tapak"
+        },
+        {
+          "id": "C",
+          "text": "Melapor penemuan"
+        },
+        {
+          "id": "D",
+          "text": "Merekod lokasi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Menjaga konteks: Hubungan sesuatu objek dengan lapisan tanahnya dikekalkan dalam rekod.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q039",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Apakah tindakan arkeologi yang wajar?\n\nKawasan penggalian dihalang daripada pencerobohan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menjaga konteks"
+        },
+        {
+          "id": "B",
+          "text": "Melindungi tapak"
+        },
+        {
+          "id": "C",
+          "text": "Melapor penemuan"
+        },
+        {
+          "id": "D",
+          "text": "Merekod lokasi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Melindungi tapak: Kawasan penggalian dihalang daripada pencerobohan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t1-b03-q040",
+      "form": 1,
+      "chapter": 3,
+      "prompt": "Apakah tindakan arkeologi yang wajar?\n\nOrang awam memaklumkan objek yang ditemui kepada pihak berkuasa warisan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menjaga konteks"
+        },
+        {
+          "id": "B",
+          "text": "Melindungi tapak"
+        },
+        {
+          "id": "C",
+          "text": "Melapor penemuan"
+        },
+        {
+          "id": "D",
+          "text": "Merekod lokasi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Melapor penemuan: Orang awam memaklumkan objek yang ditemui kepada pihak berkuasa warisan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    }
+  ]
+}

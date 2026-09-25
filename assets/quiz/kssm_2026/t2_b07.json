@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 2,
+  "chapter": 7,
+  "title": "Kesultanan Melayu Pahang, Perak, Terengganu dan Selangor",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t2_b07.json",
+  "questions": [
+    {
+      "id": "t2-b07-q001",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Padankan kesultanan dengan pengasasnya dalam bab ini.\n\nDiasaskan oleh Sultan Muhammad Shah, putera Sultan Mansur Shah Melaka.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pahang"
+        },
+        {
+          "id": "B",
+          "text": "Perak"
+        },
+        {
+          "id": "C",
+          "text": "Terengganu"
+        },
+        {
+          "id": "D",
+          "text": "Selangor"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pahang: Diasaskan oleh Sultan Muhammad Shah, putera Sultan Mansur Shah Melaka.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q002",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Padankan kesultanan dengan pengasasnya dalam bab ini.\n\nDiasaskan oleh Sultan Muzaffar Shah I, putera Sultan Mahmud Shah Melaka.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pahang"
+        },
+        {
+          "id": "B",
+          "text": "Perak"
+        },
+        {
+          "id": "C",
+          "text": "Terengganu"
+        },
+        {
+          "id": "D",
+          "text": "Selangor"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perak: Diasaskan oleh Sultan Muzaffar Shah I, putera Sultan Mahmud Shah Melaka.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q003",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Padankan kesultanan dengan pengasasnya dalam bab ini.\n\nDiasaskan oleh Sultan Zainal Abidin I.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pahang"
+        },
+        {
+          "id": "B",
+          "text": "Perak"
+        },
+        {
+          "id": "C",
+          "text": "Terengganu"
+        },
+        {
+          "id": "D",
+          "text": "Selangor"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Terengganu: Diasaskan oleh Sultan Zainal Abidin I.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q004",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Padankan kesultanan dengan pengasasnya dalam bab ini.\n\nDiasaskan oleh Raja Lumu yang bergelar Sultan Salehuddin Shah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pahang"
+        },
+        {
+          "id": "B",
+          "text": "Perak"
+        },
+        {
+          "id": "C",
+          "text": "Terengganu"
+        },
+        {
+          "id": "D",
+          "text": "Selangor"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Selangor: Diasaskan oleh Raja Lumu yang bergelar Sultan Salehuddin Shah.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q005",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Padankan pusat warisan dengan negeri.\n\nPekan merupakan bandar diraja negeri ini.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perak"
+        },
+        {
+          "id": "B",
+          "text": "Terengganu"
+        },
+        {
+          "id": "C",
+          "text": "Selangor"
+        },
+        {
+          "id": "D",
+          "text": "Pahang"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pahang: Pekan merupakan bandar diraja negeri ini.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q006",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Padankan pusat warisan dengan negeri.\n\nKuala Kangsar merupakan bandar diraja negeri ini.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perak"
+        },
+        {
+          "id": "B",
+          "text": "Terengganu"
+        },
+        {
+          "id": "C",
+          "text": "Selangor"
+        },
+        {
+          "id": "D",
+          "text": "Pahang"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perak: Kuala Kangsar merupakan bandar diraja negeri ini.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q007",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Padankan pusat warisan dengan negeri.\n\nIstana Maziah terletak di ibu negeri ini.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perak"
+        },
+        {
+          "id": "B",
+          "text": "Terengganu"
+        },
+        {
+          "id": "C",
+          "text": "Selangor"
+        },
+        {
+          "id": "D",
+          "text": "Pahang"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Terengganu: Istana Maziah terletak di ibu negeri ini.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q008",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Padankan pusat warisan dengan negeri.\n\nBukit Malawati berkait dengan sejarah kesultanan negeri ini.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perak"
+        },
+        {
+          "id": "B",
+          "text": "Terengganu"
+        },
+        {
+          "id": "C",
+          "text": "Selangor"
+        },
+        {
+          "id": "D",
+          "text": "Pahang"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Selangor: Bukit Malawati berkait dengan sejarah kesultanan negeri ini.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q009",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Padankan hubungan warisan.\n\nPahang dan Perak meneruskan unsur pemerintahan kesultanan terdahulu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Keturunan Bugis"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan kekeluargaan"
+        },
+        {
+          "id": "C",
+          "text": "Warisan Melaka"
+        },
+        {
+          "id": "D",
+          "text": "Pengaruh Johor"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Warisan Melaka: Pahang dan Perak meneruskan unsur pemerintahan kesultanan terdahulu.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q010",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Padankan hubungan warisan.\n\nPembentukan Terengganu berkait dengan lingkungan politik kesultanan selatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Keturunan Bugis"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan kekeluargaan"
+        },
+        {
+          "id": "C",
+          "text": "Warisan Melaka"
+        },
+        {
+          "id": "D",
+          "text": "Pengaruh Johor"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pengaruh Johor: Pembentukan Terengganu berkait dengan lingkungan politik kesultanan selatan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q011",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Padankan hubungan warisan.\n\nAsal keluarga Raja Lumu membantu memahami pembentukan Selangor.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Keturunan Bugis"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan kekeluargaan"
+        },
+        {
+          "id": "C",
+          "text": "Warisan Melaka"
+        },
+        {
+          "id": "D",
+          "text": "Pengaruh Johor"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Keturunan Bugis: Asal keluarga Raja Lumu membantu memahami pembentukan Selangor.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q012",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Padankan hubungan warisan.\n\nSalasilah menghubungkan pemerintah antara negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Keturunan Bugis"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan kekeluargaan"
+        },
+        {
+          "id": "C",
+          "text": "Warisan Melaka"
+        },
+        {
+          "id": "D",
+          "text": "Pengaruh Johor"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Hubungan kekeluargaan: Salasilah menghubungkan pemerintah antara negeri.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q013",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Kenal pasti unsur pemerintahan.\n\nKetua tertinggi kesultanan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Istana"
+        },
+        {
+          "id": "B",
+          "text": "Sultan"
+        },
+        {
+          "id": "C",
+          "text": "Pembesar"
+        },
+        {
+          "id": "D",
+          "text": "Rakyat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Sultan: Ketua tertinggi kesultanan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q014",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Kenal pasti unsur pemerintahan.\n\nMembantu pentadbiran kawasan dan urusan kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Istana"
+        },
+        {
+          "id": "B",
+          "text": "Sultan"
+        },
+        {
+          "id": "C",
+          "text": "Pembesar"
+        },
+        {
+          "id": "D",
+          "text": "Rakyat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pembesar: Membantu pentadbiran kawasan dan urusan kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q015",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Kenal pasti unsur pemerintahan.\n\nPenduduk yang menyokong kegiatan negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Istana"
+        },
+        {
+          "id": "B",
+          "text": "Sultan"
+        },
+        {
+          "id": "C",
+          "text": "Pembesar"
+        },
+        {
+          "id": "D",
+          "text": "Rakyat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Rakyat: Penduduk yang menyokong kegiatan negeri.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q016",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Kenal pasti unsur pemerintahan.\n\nPusat kediaman dan urusan pemerintah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Istana"
+        },
+        {
+          "id": "B",
+          "text": "Sultan"
+        },
+        {
+          "id": "C",
+          "text": "Pembesar"
+        },
+        {
+          "id": "D",
+          "text": "Rakyat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Istana: Pusat kediaman dan urusan pemerintah.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q017",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Padankan warisan perundangan.\n\nHimpunan hukum yang dikaitkan khusus dengan Kesultanan Pahang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hukum Kanun Pahang"
+        },
+        {
+          "id": "B",
+          "text": "Adat"
+        },
+        {
+          "id": "C",
+          "text": "Undang-undang Islam"
+        },
+        {
+          "id": "D",
+          "text": "Peraturan perdagangan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Hukum Kanun Pahang: Himpunan hukum yang dikaitkan khusus dengan Kesultanan Pahang.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q018",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Padankan warisan perundangan.\n\nAmalan masyarakat yang diwarisi dan menjadi aturan hidup.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hukum Kanun Pahang"
+        },
+        {
+          "id": "B",
+          "text": "Adat"
+        },
+        {
+          "id": "C",
+          "text": "Undang-undang Islam"
+        },
+        {
+          "id": "D",
+          "text": "Peraturan perdagangan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Adat: Amalan masyarakat yang diwarisi dan menjadi aturan hidup.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q019",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Padankan warisan perundangan.\n\nHukum berasaskan ajaran agama yang mempengaruhi pentadbiran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hukum Kanun Pahang"
+        },
+        {
+          "id": "B",
+          "text": "Adat"
+        },
+        {
+          "id": "C",
+          "text": "Undang-undang Islam"
+        },
+        {
+          "id": "D",
+          "text": "Peraturan perdagangan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Undang-undang Islam: Hukum berasaskan ajaran agama yang mempengaruhi pentadbiran.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q020",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Padankan warisan perundangan.\n\nAturan kegiatan jual beli dan urusan pedagang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hukum Kanun Pahang"
+        },
+        {
+          "id": "B",
+          "text": "Adat"
+        },
+        {
+          "id": "C",
+          "text": "Undang-undang Islam"
+        },
+        {
+          "id": "D",
+          "text": "Peraturan perdagangan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Peraturan perdagangan: Aturan kegiatan jual beli dan urusan pedagang.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q021",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Apakah peranan agama Islam?\n\nGelaran dan amalan pemerintah mencerminkan pegangan agama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "B",
+          "text": "Perundangan"
+        },
+        {
+          "id": "C",
+          "text": "Hubungan masyarakat"
+        },
+        {
+          "id": "D",
+          "text": "Identiti kesultanan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Identiti kesultanan: Gelaran dan amalan pemerintah mencerminkan pegangan agama.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q022",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Apakah peranan agama Islam?\n\nPengajian agama membantu perkembangan ilmu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "B",
+          "text": "Perundangan"
+        },
+        {
+          "id": "C",
+          "text": "Hubungan masyarakat"
+        },
+        {
+          "id": "D",
+          "text": "Identiti kesultanan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pendidikan: Pengajian agama membantu perkembangan ilmu.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q023",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Apakah peranan agama Islam?\n\nPrinsip agama mempengaruhi peraturan tertentu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "B",
+          "text": "Perundangan"
+        },
+        {
+          "id": "C",
+          "text": "Hubungan masyarakat"
+        },
+        {
+          "id": "D",
+          "text": "Identiti kesultanan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perundangan: Prinsip agama mempengaruhi peraturan tertentu.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q024",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Apakah peranan agama Islam?\n\nInstitusi ibadat menghimpunkan penduduk setempat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "B",
+          "text": "Perundangan"
+        },
+        {
+          "id": "C",
+          "text": "Hubungan masyarakat"
+        },
+        {
+          "id": "D",
+          "text": "Identiti kesultanan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Hubungan masyarakat: Institusi ibadat menghimpunkan penduduk setempat.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q025",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Kenal pasti kegiatan ekonomi negeri.\n\nPengeluaran bijih timah dan sumber bumi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perikanan"
+        },
+        {
+          "id": "B",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Perlombongan"
+        },
+        {
+          "id": "D",
+          "text": "Pertanian"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perlombongan: Pengeluaran bijih timah dan sumber bumi.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q026",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Kenal pasti kegiatan ekonomi negeri.\n\nPengusahaan tanah untuk tanaman makanan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perikanan"
+        },
+        {
+          "id": "B",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Perlombongan"
+        },
+        {
+          "id": "D",
+          "text": "Pertanian"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pertanian: Pengusahaan tanah untuk tanaman makanan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q027",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Kenal pasti kegiatan ekonomi negeri.\n\nPenduduk pesisir memperoleh hasil laut.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perikanan"
+        },
+        {
+          "id": "B",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Perlombongan"
+        },
+        {
+          "id": "D",
+          "text": "Pertanian"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perikanan: Penduduk pesisir memperoleh hasil laut.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q028",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Kenal pasti kegiatan ekonomi negeri.\n\nPelabuhan dan pasar menghubungkan pengeluar dengan pembeli.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perikanan"
+        },
+        {
+          "id": "B",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Perlombongan"
+        },
+        {
+          "id": "D",
+          "text": "Pertanian"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perdagangan: Pelabuhan dan pasar menghubungkan pengeluar dengan pembeli.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q029",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Padankan fungsi sungai dalam kesultanan.\n\nPerahu membawa penumpang dan muatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hubungan pedalaman"
+        },
+        {
+          "id": "B",
+          "text": "Laluan pengangkutan"
+        },
+        {
+          "id": "C",
+          "text": "Sumber air"
+        },
+        {
+          "id": "D",
+          "text": "Lokasi petempatan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Laluan pengangkutan: Perahu membawa penumpang dan muatan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q030",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Padankan fungsi sungai dalam kesultanan.\n\nPenduduk menggunakan air untuk kehidupan harian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hubungan pedalaman"
+        },
+        {
+          "id": "B",
+          "text": "Laluan pengangkutan"
+        },
+        {
+          "id": "C",
+          "text": "Sumber air"
+        },
+        {
+          "id": "D",
+          "text": "Lokasi petempatan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Sumber air: Penduduk menggunakan air untuk kehidupan harian.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q031",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Padankan fungsi sungai dalam kesultanan.\n\nKampung dan pusat kerajaan berkembang di tebingnya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hubungan pedalaman"
+        },
+        {
+          "id": "B",
+          "text": "Laluan pengangkutan"
+        },
+        {
+          "id": "C",
+          "text": "Sumber air"
+        },
+        {
+          "id": "D",
+          "text": "Lokasi petempatan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Lokasi petempatan: Kampung dan pusat kerajaan berkembang di tebingnya.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q032",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Padankan fungsi sungai dalam kesultanan.\n\nHasil hutan disalurkan menuju pesisir.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hubungan pedalaman"
+        },
+        {
+          "id": "B",
+          "text": "Laluan pengangkutan"
+        },
+        {
+          "id": "C",
+          "text": "Sumber air"
+        },
+        {
+          "id": "D",
+          "text": "Lokasi petempatan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Hubungan pedalaman: Hasil hutan disalurkan menuju pesisir.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q033",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Kenal pasti bukti kesinambungan warisan.\n\nMenunjukkan hubungan keturunan raja.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Salasilah"
+        },
+        {
+          "id": "B",
+          "text": "Alat kebesaran"
+        },
+        {
+          "id": "C",
+          "text": "Naskhah undang-undang"
+        },
+        {
+          "id": "D",
+          "text": "Karya persuratan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Salasilah: Menunjukkan hubungan keturunan raja.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q034",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Kenal pasti bukti kesinambungan warisan.\n\nMelambangkan kedudukan institusi beraja.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Salasilah"
+        },
+        {
+          "id": "B",
+          "text": "Alat kebesaran"
+        },
+        {
+          "id": "C",
+          "text": "Naskhah undang-undang"
+        },
+        {
+          "id": "D",
+          "text": "Karya persuratan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Alat kebesaran: Melambangkan kedudukan institusi beraja.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q035",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Kenal pasti bukti kesinambungan warisan.\n\nMembolehkan aturan pentadbiran lama dikaji.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Salasilah"
+        },
+        {
+          "id": "B",
+          "text": "Alat kebesaran"
+        },
+        {
+          "id": "C",
+          "text": "Naskhah undang-undang"
+        },
+        {
+          "id": "D",
+          "text": "Karya persuratan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Naskhah undang-undang: Membolehkan aturan pentadbiran lama dikaji.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q036",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Kenal pasti bukti kesinambungan warisan.\n\nMenyimpan bahasa dan pemikiran masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Salasilah"
+        },
+        {
+          "id": "B",
+          "text": "Alat kebesaran"
+        },
+        {
+          "id": "C",
+          "text": "Naskhah undang-undang"
+        },
+        {
+          "id": "D",
+          "text": "Karya persuratan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Karya persuratan: Menyimpan bahasa dan pemikiran masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q037",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Apakah prinsip mengkaji kesultanan?\n\nTarikh dan tokoh disemak menggunakan beberapa rujukan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Memahami kronologi"
+        },
+        {
+          "id": "B",
+          "text": "Menghormati kepelbagaian"
+        },
+        {
+          "id": "C",
+          "text": "Menjaga sumber"
+        },
+        {
+          "id": "D",
+          "text": "Membandingkan bukti"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Membandingkan bukti: Tarikh dan tokoh disemak menggunakan beberapa rujukan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q038",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Apakah prinsip mengkaji kesultanan?\n\nPengasasan dibezakan daripada perkembangan kemudian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Memahami kronologi"
+        },
+        {
+          "id": "B",
+          "text": "Menghormati kepelbagaian"
+        },
+        {
+          "id": "C",
+          "text": "Menjaga sumber"
+        },
+        {
+          "id": "D",
+          "text": "Membandingkan bukti"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Memahami kronologi: Pengasasan dibezakan daripada perkembangan kemudian.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q039",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Apakah prinsip mengkaji kesultanan?\n\nKeunikan adat negeri tidak dianggap kelemahan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Memahami kronologi"
+        },
+        {
+          "id": "B",
+          "text": "Menghormati kepelbagaian"
+        },
+        {
+          "id": "C",
+          "text": "Menjaga sumber"
+        },
+        {
+          "id": "D",
+          "text": "Membandingkan bukti"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Menghormati kepelbagaian: Keunikan adat negeri tidak dianggap kelemahan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t2-b07-q040",
+      "form": 2,
+      "chapter": 7,
+      "prompt": "Apakah prinsip mengkaji kesultanan?\n\nDokumen istana dipelihara untuk penyelidikan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Memahami kronologi"
+        },
+        {
+          "id": "B",
+          "text": "Menghormati kepelbagaian"
+        },
+        {
+          "id": "C",
+          "text": "Menjaga sumber"
+        },
+        {
+          "id": "D",
+          "text": "Membandingkan bukti"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Menjaga sumber: Dokumen istana dipelihara untuk penyelidikan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    }
+  ]
+}

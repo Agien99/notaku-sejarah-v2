@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 5,
+  "chapter": 7,
+  "title": "Membina Kesejahteraan Negara",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t5_b07.json",
+  "questions": [
+    {
+      "id": "t5-b07-q001",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Padankan konsep kesejahteraan.\n\nHubungan erat antara kelompok masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "B",
+          "text": "Integrasi nasional"
+        },
+        {
+          "id": "C",
+          "text": "Identiti kebangsaan"
+        },
+        {
+          "id": "D",
+          "text": "Keharmonian"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perpaduan: Hubungan erat antara kelompok masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q002",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Padankan konsep kesejahteraan.\n\nPenyatuan masyarakat serta wilayah dalam satu negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "B",
+          "text": "Integrasi nasional"
+        },
+        {
+          "id": "C",
+          "text": "Identiti kebangsaan"
+        },
+        {
+          "id": "D",
+          "text": "Keharmonian"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Integrasi nasional: Penyatuan masyarakat serta wilayah dalam satu negara.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q003",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Padankan konsep kesejahteraan.\n\nCiri bersama yang membina rasa kepunyaan negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "B",
+          "text": "Integrasi nasional"
+        },
+        {
+          "id": "C",
+          "text": "Identiti kebangsaan"
+        },
+        {
+          "id": "D",
+          "text": "Keharmonian"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Identiti kebangsaan: Ciri bersama yang membina rasa kepunyaan negara.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q004",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Padankan konsep kesejahteraan.\n\nKeadaan hidup aman dengan saling menghormati.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "B",
+          "text": "Integrasi nasional"
+        },
+        {
+          "id": "C",
+          "text": "Identiti kebangsaan"
+        },
+        {
+          "id": "D",
+          "text": "Keharmonian"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Keharmonian: Keadaan hidup aman dengan saling menghormati.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q005",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Kenal pasti perkembangan pendidikan.\n\nLaporan 1960 yang memperkukuh dasar pendidikan selepas merdeka.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Akta Pelajaran 1961"
+        },
+        {
+          "id": "B",
+          "text": "Falsafah Pendidikan Kebangsaan"
+        },
+        {
+          "id": "C",
+          "text": "Akta Pendidikan 1996"
+        },
+        {
+          "id": "D",
+          "text": "Laporan Rahman Talib"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Laporan Rahman Talib: Laporan 1960 yang memperkukuh dasar pendidikan selepas merdeka.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q006",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Kenal pasti perkembangan pendidikan.\n\nKerangka perundangan pendidikan yang menyusuli laporan awal kemerdekaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Akta Pelajaran 1961"
+        },
+        {
+          "id": "B",
+          "text": "Falsafah Pendidikan Kebangsaan"
+        },
+        {
+          "id": "C",
+          "text": "Akta Pendidikan 1996"
+        },
+        {
+          "id": "D",
+          "text": "Laporan Rahman Talib"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Akta Pelajaran 1961: Kerangka perundangan pendidikan yang menyusuli laporan awal kemerdekaan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q007",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Kenal pasti perkembangan pendidikan.\n\nPanduan membangunkan insan secara menyeluruh dan seimbang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Akta Pelajaran 1961"
+        },
+        {
+          "id": "B",
+          "text": "Falsafah Pendidikan Kebangsaan"
+        },
+        {
+          "id": "C",
+          "text": "Akta Pendidikan 1996"
+        },
+        {
+          "id": "D",
+          "text": "Laporan Rahman Talib"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Falsafah Pendidikan Kebangsaan: Panduan membangunkan insan secara menyeluruh dan seimbang.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q008",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Kenal pasti perkembangan pendidikan.\n\nAkta kemudian yang meneruskan rangka sistem pendidikan kebangsaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Akta Pelajaran 1961"
+        },
+        {
+          "id": "B",
+          "text": "Falsafah Pendidikan Kebangsaan"
+        },
+        {
+          "id": "C",
+          "text": "Akta Pendidikan 1996"
+        },
+        {
+          "id": "D",
+          "text": "Laporan Rahman Talib"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Akta Pendidikan 1996: Akta kemudian yang meneruskan rangka sistem pendidikan kebangsaan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q009",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Padankan dimensi insan seimbang.\n\nPerkembangan tubuh dan kecergasan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rohani"
+        },
+        {
+          "id": "B",
+          "text": "Intelek"
+        },
+        {
+          "id": "C",
+          "text": "Jasmani"
+        },
+        {
+          "id": "D",
+          "text": "Emosi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Jasmani: Perkembangan tubuh dan kecergasan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q010",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Padankan dimensi insan seimbang.\n\nKeupayaan mengurus perasaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rohani"
+        },
+        {
+          "id": "B",
+          "text": "Intelek"
+        },
+        {
+          "id": "C",
+          "text": "Jasmani"
+        },
+        {
+          "id": "D",
+          "text": "Emosi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Emosi: Keupayaan mengurus perasaan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q011",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Padankan dimensi insan seimbang.\n\nPembentukan nilai dalaman serta pegangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rohani"
+        },
+        {
+          "id": "B",
+          "text": "Intelek"
+        },
+        {
+          "id": "C",
+          "text": "Jasmani"
+        },
+        {
+          "id": "D",
+          "text": "Emosi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Rohani: Pembentukan nilai dalaman serta pegangan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q012",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Padankan dimensi insan seimbang.\n\nPerkembangan pemikiran dan pengetahuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rohani"
+        },
+        {
+          "id": "B",
+          "text": "Intelek"
+        },
+        {
+          "id": "C",
+          "text": "Jasmani"
+        },
+        {
+          "id": "D",
+          "text": "Emosi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Intelek: Perkembangan pemikiran dan pengetahuan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q013",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Kenal pasti institusi atau dasar bahasa.\n\nInstitusi yang membina istilah dan penerbitan bahasa kebangsaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Universiti Kebangsaan Malaysia"
+        },
+        {
+          "id": "B",
+          "text": "Dewan Bahasa dan Pustaka"
+        },
+        {
+          "id": "C",
+          "text": "Bahasa Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Akta Bahasa Kebangsaan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Dewan Bahasa dan Pustaka: Institusi yang membina istilah dan penerbitan bahasa kebangsaan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q014",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Kenal pasti institusi atau dasar bahasa.\n\nBahasa kebangsaan yang menjadi wahana perpaduan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Universiti Kebangsaan Malaysia"
+        },
+        {
+          "id": "B",
+          "text": "Dewan Bahasa dan Pustaka"
+        },
+        {
+          "id": "C",
+          "text": "Bahasa Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Akta Bahasa Kebangsaan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Bahasa Melayu: Bahasa kebangsaan yang menjadi wahana perpaduan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q015",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Kenal pasti institusi atau dasar bahasa.\n\nPerundangan berkaitan penggunaan bahasa kebangsaan dalam urusan rasmi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Universiti Kebangsaan Malaysia"
+        },
+        {
+          "id": "B",
+          "text": "Dewan Bahasa dan Pustaka"
+        },
+        {
+          "id": "C",
+          "text": "Bahasa Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Akta Bahasa Kebangsaan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Akta Bahasa Kebangsaan: Perundangan berkaitan penggunaan bahasa kebangsaan dalam urusan rasmi.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q016",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Kenal pasti institusi atau dasar bahasa.\n\nUniversiti yang penubuhannya mengukuhkan bahasa Melayu sebagai bahasa ilmu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Universiti Kebangsaan Malaysia"
+        },
+        {
+          "id": "B",
+          "text": "Dewan Bahasa dan Pustaka"
+        },
+        {
+          "id": "C",
+          "text": "Bahasa Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Akta Bahasa Kebangsaan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Universiti Kebangsaan Malaysia: Universiti yang penubuhannya mengukuhkan bahasa Melayu sebagai bahasa ilmu.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q017",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Padankan prinsip Rukun Negara.\n\nPegangan keagamaan menjadi asas nilai kehidupan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kepercayaan kepada Tuhan"
+        },
+        {
+          "id": "B",
+          "text": "Kesetiaan kepada Raja dan Negara"
+        },
+        {
+          "id": "C",
+          "text": "Keluhuran Perlembagaan"
+        },
+        {
+          "id": "D",
+          "text": "Kedaulatan Undang-undang"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kepercayaan kepada Tuhan: Pegangan keagamaan menjadi asas nilai kehidupan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q018",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Padankan prinsip Rukun Negara.\n\nRasa taat dan tanggungjawab terhadap institusi negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kepercayaan kepada Tuhan"
+        },
+        {
+          "id": "B",
+          "text": "Kesetiaan kepada Raja dan Negara"
+        },
+        {
+          "id": "C",
+          "text": "Keluhuran Perlembagaan"
+        },
+        {
+          "id": "D",
+          "text": "Kedaulatan Undang-undang"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kesetiaan kepada Raja dan Negara: Rasa taat dan tanggungjawab terhadap institusi negara.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q019",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Padankan prinsip Rukun Negara.\n\nMenghormati kedudukan undang-undang tertinggi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kepercayaan kepada Tuhan"
+        },
+        {
+          "id": "B",
+          "text": "Kesetiaan kepada Raja dan Negara"
+        },
+        {
+          "id": "C",
+          "text": "Keluhuran Perlembagaan"
+        },
+        {
+          "id": "D",
+          "text": "Kedaulatan Undang-undang"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Keluhuran Perlembagaan: Menghormati kedudukan undang-undang tertinggi.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q020",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Padankan prinsip Rukun Negara.\n\nKehidupan diatur melalui peraturan yang sah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kepercayaan kepada Tuhan"
+        },
+        {
+          "id": "B",
+          "text": "Kesetiaan kepada Raja dan Negara"
+        },
+        {
+          "id": "C",
+          "text": "Keluhuran Perlembagaan"
+        },
+        {
+          "id": "D",
+          "text": "Kedaulatan Undang-undang"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kedaulatan Undang-undang: Kehidupan diatur melalui peraturan yang sah.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q021",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Kenal pasti unsur Rukun Negara.\n\nPrinsip yang menekankan tingkah laku beradab.",
+      "options": [
+        {
+          "id": "A",
+          "text": "31 Ogos 1970"
+        },
+        {
+          "id": "B",
+          "text": "Lima"
+        },
+        {
+          "id": "C",
+          "text": "Perpaduan lebih erat"
+        },
+        {
+          "id": "D",
+          "text": "Kesopanan dan Kesusilaan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kesopanan dan Kesusilaan: Prinsip yang menekankan tingkah laku beradab.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q022",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Kenal pasti unsur Rukun Negara.\n\nTarikh pengisytiharan ideologi kebangsaan ini.",
+      "options": [
+        {
+          "id": "A",
+          "text": "31 Ogos 1970"
+        },
+        {
+          "id": "B",
+          "text": "Lima"
+        },
+        {
+          "id": "C",
+          "text": "Perpaduan lebih erat"
+        },
+        {
+          "id": "D",
+          "text": "Kesopanan dan Kesusilaan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "31 Ogos 1970: Tarikh pengisytiharan ideologi kebangsaan ini.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q023",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Kenal pasti unsur Rukun Negara.\n\nBilangan prinsipnya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "31 Ogos 1970"
+        },
+        {
+          "id": "B",
+          "text": "Lima"
+        },
+        {
+          "id": "C",
+          "text": "Perpaduan lebih erat"
+        },
+        {
+          "id": "D",
+          "text": "Kesopanan dan Kesusilaan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Lima: Bilangan prinsipnya.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q024",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Kenal pasti unsur Rukun Negara.\n\nSalah satu cita-cita membina masyarakat negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "31 Ogos 1970"
+        },
+        {
+          "id": "B",
+          "text": "Lima"
+        },
+        {
+          "id": "C",
+          "text": "Perpaduan lebih erat"
+        },
+        {
+          "id": "D",
+          "text": "Kesopanan dan Kesusilaan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perpaduan lebih erat: Salah satu cita-cita membina masyarakat negara.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q025",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Apakah sumbangan sukan?\n\nPeserta berlainan latar bertemu melalui pertandingan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebanggaan negara"
+        },
+        {
+          "id": "B",
+          "text": "Disiplin"
+        },
+        {
+          "id": "C",
+          "text": "Interaksi"
+        },
+        {
+          "id": "D",
+          "text": "Semangat sepasukan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Interaksi: Peserta berlainan latar bertemu melalui pertandingan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q026",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Apakah sumbangan sukan?\n\nPemain bekerjasama mencapai matlamat bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebanggaan negara"
+        },
+        {
+          "id": "B",
+          "text": "Disiplin"
+        },
+        {
+          "id": "C",
+          "text": "Interaksi"
+        },
+        {
+          "id": "D",
+          "text": "Semangat sepasukan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Semangat sepasukan: Pemain bekerjasama mencapai matlamat bersama.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q027",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Apakah sumbangan sukan?\n\nKejayaan wakil negara diraikan seluruh masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebanggaan negara"
+        },
+        {
+          "id": "B",
+          "text": "Disiplin"
+        },
+        {
+          "id": "C",
+          "text": "Interaksi"
+        },
+        {
+          "id": "D",
+          "text": "Semangat sepasukan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kebanggaan negara: Kejayaan wakil negara diraikan seluruh masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q028",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Apakah sumbangan sukan?\n\nAturan latihan dan permainan dipatuhi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebanggaan negara"
+        },
+        {
+          "id": "B",
+          "text": "Disiplin"
+        },
+        {
+          "id": "C",
+          "text": "Interaksi"
+        },
+        {
+          "id": "D",
+          "text": "Semangat sepasukan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Disiplin: Aturan latihan dan permainan dipatuhi.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q029",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Padankan kegiatan budaya.\n\nSeniman pelbagai latar berkongsi pentas.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dialog masyarakat"
+        },
+        {
+          "id": "B",
+          "text": "Persembahan bersama"
+        },
+        {
+          "id": "C",
+          "text": "Pembelajaran bahasa"
+        },
+        {
+          "id": "D",
+          "text": "Pameran warisan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Persembahan bersama: Seniman pelbagai latar berkongsi pentas.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q030",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Padankan kegiatan budaya.\n\nPenduduk mempelajari pertuturan untuk saling memahami.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dialog masyarakat"
+        },
+        {
+          "id": "B",
+          "text": "Persembahan bersama"
+        },
+        {
+          "id": "C",
+          "text": "Pembelajaran bahasa"
+        },
+        {
+          "id": "D",
+          "text": "Pameran warisan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pembelajaran bahasa: Penduduk mempelajari pertuturan untuk saling memahami.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q031",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Padankan kegiatan budaya.\n\nTinggalan dan tradisi diperkenalkan kepada orang ramai.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dialog masyarakat"
+        },
+        {
+          "id": "B",
+          "text": "Persembahan bersama"
+        },
+        {
+          "id": "C",
+          "text": "Pembelajaran bahasa"
+        },
+        {
+          "id": "D",
+          "text": "Pameran warisan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pameran warisan: Tinggalan dan tradisi diperkenalkan kepada orang ramai.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q032",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Padankan kegiatan budaya.\n\nWakil komuniti membincangkan perbezaan secara terbuka.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dialog masyarakat"
+        },
+        {
+          "id": "B",
+          "text": "Persembahan bersama"
+        },
+        {
+          "id": "C",
+          "text": "Pembelajaran bahasa"
+        },
+        {
+          "id": "D",
+          "text": "Pameran warisan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Dialog masyarakat: Wakil komuniti membincangkan perbezaan secara terbuka.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q033",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Kenal pasti unsur Dasar Kebudayaan Kebangsaan.\n\nAsas kebudayaan berpijak pada warisan setempat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Budaya rakyat asal rantau"
+        },
+        {
+          "id": "B",
+          "text": "Unsur budaya lain yang sesuai"
+        },
+        {
+          "id": "C",
+          "text": "Islam sebagai unsur penting"
+        },
+        {
+          "id": "D",
+          "text": "Pembinaan identiti"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Budaya rakyat asal rantau: Asas kebudayaan berpijak pada warisan setempat.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q034",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Kenal pasti unsur Dasar Kebudayaan Kebangsaan.\n\nSumbangan luar boleh diterima secara terpilih.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Budaya rakyat asal rantau"
+        },
+        {
+          "id": "B",
+          "text": "Unsur budaya lain yang sesuai"
+        },
+        {
+          "id": "C",
+          "text": "Islam sebagai unsur penting"
+        },
+        {
+          "id": "D",
+          "text": "Pembinaan identiti"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Unsur budaya lain yang sesuai: Sumbangan luar boleh diterima secara terpilih.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q035",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Kenal pasti unsur Dasar Kebudayaan Kebangsaan.\n\nAgama Persekutuan mempunyai tempat dalam pembentukan kebudayaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Budaya rakyat asal rantau"
+        },
+        {
+          "id": "B",
+          "text": "Unsur budaya lain yang sesuai"
+        },
+        {
+          "id": "C",
+          "text": "Islam sebagai unsur penting"
+        },
+        {
+          "id": "D",
+          "text": "Pembinaan identiti"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Islam sebagai unsur penting: Agama Persekutuan mempunyai tempat dalam pembentukan kebudayaan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q036",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Kenal pasti unsur Dasar Kebudayaan Kebangsaan.\n\nMatlamat dasar mengukuhkan ciri kebangsaan bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Budaya rakyat asal rantau"
+        },
+        {
+          "id": "B",
+          "text": "Unsur budaya lain yang sesuai"
+        },
+        {
+          "id": "C",
+          "text": "Islam sebagai unsur penting"
+        },
+        {
+          "id": "D",
+          "text": "Pembinaan identiti"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pembinaan identiti: Matlamat dasar mengukuhkan ciri kebangsaan bersama.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q037",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Apakah amalan kesejahteraan masyarakat?\n\nKepercayaan orang lain tidak dihina.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tolak ansur"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "C",
+          "text": "Kesantunan"
+        },
+        {
+          "id": "D",
+          "text": "Hormat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Hormat: Kepercayaan orang lain tidak dihina.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q038",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Apakah amalan kesejahteraan masyarakat?\n\nPerbezaan diselesaikan dengan kesediaan berunding.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tolak ansur"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "C",
+          "text": "Kesantunan"
+        },
+        {
+          "id": "D",
+          "text": "Hormat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Tolak ansur: Perbezaan diselesaikan dengan kesediaan berunding.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q039",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Apakah amalan kesejahteraan masyarakat?\n\nPenduduk melaksanakan kegiatan kejiranan bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tolak ansur"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "C",
+          "text": "Kesantunan"
+        },
+        {
+          "id": "D",
+          "text": "Hormat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kerjasama: Penduduk melaksanakan kegiatan kejiranan bersama.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t5-b07-q040",
+      "form": 5,
+      "chapter": 7,
+      "prompt": "Apakah amalan kesejahteraan masyarakat?\n\nBahasa sopan digunakan ketika berbeza pendapat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tolak ansur"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "C",
+          "text": "Kesantunan"
+        },
+        {
+          "id": "D",
+          "text": "Hormat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kesantunan: Bahasa sopan digunakan ketika berbeza pendapat.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    }
+  ]
+}

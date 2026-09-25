@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 3,
+  "chapter": 3,
+  "title": "Pentadbiran Negeri-negeri Melayu Bersekutu",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t3_b03.json",
+  "questions": [
+    {
+      "id": "t3-b03-q001",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Padankan negeri NNMB dengan petunjuk.\n\nPerjanjian Pangkor 1874 membuka laluan Sistem Residen.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perak"
+        },
+        {
+          "id": "B",
+          "text": "Selangor"
+        },
+        {
+          "id": "C",
+          "text": "Negeri Sembilan"
+        },
+        {
+          "id": "D",
+          "text": "Pahang"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perak: Perjanjian Pangkor 1874 membuka laluan Sistem Residen.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q002",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Padankan negeri NNMB dengan petunjuk.\n\nPerang Klang dijadikan alasan campur tangan British.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perak"
+        },
+        {
+          "id": "B",
+          "text": "Selangor"
+        },
+        {
+          "id": "C",
+          "text": "Negeri Sembilan"
+        },
+        {
+          "id": "D",
+          "text": "Pahang"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Selangor: Perang Klang dijadikan alasan campur tangan British.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q003",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Padankan negeri NNMB dengan petunjuk.\n\nPersaingan pembesar di Sungai Ujong dimanfaatkan British.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perak"
+        },
+        {
+          "id": "B",
+          "text": "Selangor"
+        },
+        {
+          "id": "C",
+          "text": "Negeri Sembilan"
+        },
+        {
+          "id": "D",
+          "text": "Pahang"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Negeri Sembilan: Persaingan pembesar di Sungai Ujong dimanfaatkan British.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q004",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Padankan negeri NNMB dengan petunjuk.\n\nNegeri terbesar dalam NNMB dari segi keluasan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perak"
+        },
+        {
+          "id": "B",
+          "text": "Selangor"
+        },
+        {
+          "id": "C",
+          "text": "Negeri Sembilan"
+        },
+        {
+          "id": "D",
+          "text": "Pahang"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pahang: Negeri terbesar dalam NNMB dari segi keluasan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q005",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Kenal pasti tokoh atau jawatan.\n\nResiden British pertama di Perak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Residen"
+        },
+        {
+          "id": "B",
+          "text": "Residen Jeneral"
+        },
+        {
+          "id": "C",
+          "text": "Sultan"
+        },
+        {
+          "id": "D",
+          "text": "J.W.W. Birch"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "J.W.W. Birch: Residen British pertama di Perak.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q006",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Kenal pasti tokoh atau jawatan.\n\nPegawai penasihat British yang nasihatnya perlu diterima kecuali perkara tertentu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Residen"
+        },
+        {
+          "id": "B",
+          "text": "Residen Jeneral"
+        },
+        {
+          "id": "C",
+          "text": "Sultan"
+        },
+        {
+          "id": "D",
+          "text": "J.W.W. Birch"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Residen: Pegawai penasihat British yang nasihatnya perlu diterima kecuali perkara tertentu.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q007",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Kenal pasti tokoh atau jawatan.\n\nKetua penyelarasan Residen selepas pembentukan persekutuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Residen"
+        },
+        {
+          "id": "B",
+          "text": "Residen Jeneral"
+        },
+        {
+          "id": "C",
+          "text": "Sultan"
+        },
+        {
+          "id": "D",
+          "text": "J.W.W. Birch"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Residen Jeneral: Ketua penyelarasan Residen selepas pembentukan persekutuan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q008",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Kenal pasti tokoh atau jawatan.\n\nPemerintah yang masih memegang peranan berkaitan Islam dan adat Melayu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Residen"
+        },
+        {
+          "id": "B",
+          "text": "Residen Jeneral"
+        },
+        {
+          "id": "C",
+          "text": "Sultan"
+        },
+        {
+          "id": "D",
+          "text": "J.W.W. Birch"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Sultan: Pemerintah yang masih memegang peranan berkaitan Islam dan adat Melayu.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q009",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Padankan tahun dengan perkembangan.\n\nTahun Perjanjian Pangkor.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1897"
+        },
+        {
+          "id": "B",
+          "text": "1909"
+        },
+        {
+          "id": "C",
+          "text": "1874"
+        },
+        {
+          "id": "D",
+          "text": "1896"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "1874: Tahun Perjanjian Pangkor.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q010",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Padankan tahun dengan perkembangan.\n\nTahun pembentukan Negeri-negeri Melayu Bersekutu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1897"
+        },
+        {
+          "id": "B",
+          "text": "1909"
+        },
+        {
+          "id": "C",
+          "text": "1874"
+        },
+        {
+          "id": "D",
+          "text": "1896"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "1896: Tahun pembentukan Negeri-negeri Melayu Bersekutu.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q011",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Padankan tahun dengan perkembangan.\n\nTahun Durbar pertama di Kuala Kangsar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1897"
+        },
+        {
+          "id": "B",
+          "text": "1909"
+        },
+        {
+          "id": "C",
+          "text": "1874"
+        },
+        {
+          "id": "D",
+          "text": "1896"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "1897: Tahun Durbar pertama di Kuala Kangsar.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q012",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Padankan tahun dengan perkembangan.\n\nTahun Majlis Mesyuarat Persekutuan NNMB ditubuhkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1897"
+        },
+        {
+          "id": "B",
+          "text": "1909"
+        },
+        {
+          "id": "C",
+          "text": "1874"
+        },
+        {
+          "id": "D",
+          "text": "1896"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "1909: Tahun Majlis Mesyuarat Persekutuan NNMB ditubuhkan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q013",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Apakah sumber kekayaan negeri?\n\nLogam utama yang menggalakkan perlombongan di Perak dan Selangor.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hasil hutan"
+        },
+        {
+          "id": "B",
+          "text": "Bijih timah"
+        },
+        {
+          "id": "C",
+          "text": "Emas"
+        },
+        {
+          "id": "D",
+          "text": "Tanah pertanian"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Bijih timah: Logam utama yang menggalakkan perlombongan di Perak dan Selangor.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q014",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Apakah sumber kekayaan negeri?\n\nLogam berharga yang turut terdapat di Pahang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hasil hutan"
+        },
+        {
+          "id": "B",
+          "text": "Bijih timah"
+        },
+        {
+          "id": "C",
+          "text": "Emas"
+        },
+        {
+          "id": "D",
+          "text": "Tanah pertanian"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Emas: Logam berharga yang turut terdapat di Pahang.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q015",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Apakah sumber kekayaan negeri?\n\nSumber untuk mengusahakan tanaman komersial.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hasil hutan"
+        },
+        {
+          "id": "B",
+          "text": "Bijih timah"
+        },
+        {
+          "id": "C",
+          "text": "Emas"
+        },
+        {
+          "id": "D",
+          "text": "Tanah pertanian"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Tanah pertanian: Sumber untuk mengusahakan tanaman komersial.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q016",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Apakah sumber kekayaan negeri?\n\nRotan dan damar diperoleh dari pedalaman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hasil hutan"
+        },
+        {
+          "id": "B",
+          "text": "Bijih timah"
+        },
+        {
+          "id": "C",
+          "text": "Emas"
+        },
+        {
+          "id": "D",
+          "text": "Tanah pertanian"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Hasil hutan: Rotan dan damar diperoleh dari pedalaman.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q017",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Kenal pasti alasan campur tangan British.\n\nPerebutan pengganti sultan membuka ruang pengaruh luar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertikaian takhta"
+        },
+        {
+          "id": "B",
+          "text": "Persaingan pembesar"
+        },
+        {
+          "id": "C",
+          "text": "Konflik perlombongan"
+        },
+        {
+          "id": "D",
+          "text": "Perlindungan perdagangan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pertikaian takhta: Perebutan pengganti sultan membuka ruang pengaruh luar.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q018",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Kenal pasti alasan campur tangan British.\n\nPerselisihan pemimpin wilayah dimanfaatkan untuk campur tangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertikaian takhta"
+        },
+        {
+          "id": "B",
+          "text": "Persaingan pembesar"
+        },
+        {
+          "id": "C",
+          "text": "Konflik perlombongan"
+        },
+        {
+          "id": "D",
+          "text": "Perlindungan perdagangan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Persaingan pembesar: Perselisihan pemimpin wilayah dimanfaatkan untuk campur tangan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q019",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Kenal pasti alasan campur tangan British.\n\nPertembungan kumpulan di kawasan bijih menjejaskan ketenteraman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertikaian takhta"
+        },
+        {
+          "id": "B",
+          "text": "Persaingan pembesar"
+        },
+        {
+          "id": "C",
+          "text": "Konflik perlombongan"
+        },
+        {
+          "id": "D",
+          "text": "Perlindungan perdagangan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Konflik perlombongan: Pertembungan kumpulan di kawasan bijih menjejaskan ketenteraman.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q020",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Kenal pasti alasan campur tangan British.\n\nBritish mendakwa perlu menjamin kepentingan pedagangnya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertikaian takhta"
+        },
+        {
+          "id": "B",
+          "text": "Persaingan pembesar"
+        },
+        {
+          "id": "C",
+          "text": "Konflik perlombongan"
+        },
+        {
+          "id": "D",
+          "text": "Perlindungan perdagangan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Perlindungan perdagangan: British mendakwa perlu menjamin kepentingan pedagangnya.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q021",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Padankan fungsi institusi.\n\nPertemuan raja-raja Melayu membincangkan kepentingan bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Majlis Mesyuarat Negeri"
+        },
+        {
+          "id": "B",
+          "text": "Majlis Mesyuarat Persekutuan"
+        },
+        {
+          "id": "C",
+          "text": "Pejabat Residen"
+        },
+        {
+          "id": "D",
+          "text": "Durbar"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Durbar: Pertemuan raja-raja Melayu membincangkan kepentingan bersama.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q022",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Padankan fungsi institusi.\n\nInstitusi perbincangan urusan pada peringkat negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Majlis Mesyuarat Negeri"
+        },
+        {
+          "id": "B",
+          "text": "Majlis Mesyuarat Persekutuan"
+        },
+        {
+          "id": "C",
+          "text": "Pejabat Residen"
+        },
+        {
+          "id": "D",
+          "text": "Durbar"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Majlis Mesyuarat Negeri: Institusi perbincangan urusan pada peringkat negeri.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q023",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Padankan fungsi institusi.\n\nBadan yang mengurus perundangan persekutuan NNMB.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Majlis Mesyuarat Negeri"
+        },
+        {
+          "id": "B",
+          "text": "Majlis Mesyuarat Persekutuan"
+        },
+        {
+          "id": "C",
+          "text": "Pejabat Residen"
+        },
+        {
+          "id": "D",
+          "text": "Durbar"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Majlis Mesyuarat Persekutuan: Badan yang mengurus perundangan persekutuan NNMB.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q024",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Padankan fungsi institusi.\n\nPusat urusan pegawai penasihat British di negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Majlis Mesyuarat Negeri"
+        },
+        {
+          "id": "B",
+          "text": "Majlis Mesyuarat Persekutuan"
+        },
+        {
+          "id": "C",
+          "text": "Pejabat Residen"
+        },
+        {
+          "id": "D",
+          "text": "Durbar"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pejabat Residen: Pusat urusan pegawai penasihat British di negeri.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q025",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Apakah tujuan pemusatan NNMB?\n\nPeraturan antara negeri mahu diseragamkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembangunan infrastruktur"
+        },
+        {
+          "id": "B",
+          "text": "Pengukuhan kuasa British"
+        },
+        {
+          "id": "C",
+          "text": "Penyelarasan pentadbiran"
+        },
+        {
+          "id": "D",
+          "text": "Perkongsian kewangan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Penyelarasan pentadbiran: Peraturan antara negeri mahu diseragamkan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q026",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Apakah tujuan pemusatan NNMB?\n\nNegeri berpendapatan tinggi membantu membiayai urusan persekutuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembangunan infrastruktur"
+        },
+        {
+          "id": "B",
+          "text": "Pengukuhan kuasa British"
+        },
+        {
+          "id": "C",
+          "text": "Penyelarasan pentadbiran"
+        },
+        {
+          "id": "D",
+          "text": "Perkongsian kewangan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Perkongsian kewangan: Negeri berpendapatan tinggi membantu membiayai urusan persekutuan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q027",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Apakah tujuan pemusatan NNMB?\n\nLaluan perhubungan dirancang merentas negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembangunan infrastruktur"
+        },
+        {
+          "id": "B",
+          "text": "Pengukuhan kuasa British"
+        },
+        {
+          "id": "C",
+          "text": "Penyelarasan pentadbiran"
+        },
+        {
+          "id": "D",
+          "text": "Perkongsian kewangan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pembangunan infrastruktur: Laluan perhubungan dirancang merentas negeri.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q028",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Apakah tujuan pemusatan NNMB?\n\nPegawai pusat mendapat kawalan lebih besar terhadap negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembangunan infrastruktur"
+        },
+        {
+          "id": "B",
+          "text": "Pengukuhan kuasa British"
+        },
+        {
+          "id": "C",
+          "text": "Penyelarasan pentadbiran"
+        },
+        {
+          "id": "D",
+          "text": "Perkongsian kewangan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pengukuhan kuasa British: Pegawai pusat mendapat kawalan lebih besar terhadap negeri.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q029",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Kenal pasti kesan Sistem Residen.\n\nKeputusan selain Islam dan adat tertakluk nasihat British.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pentadbiran Barat berkembang"
+        },
+        {
+          "id": "B",
+          "text": "Kuasa sultan terhad"
+        },
+        {
+          "id": "C",
+          "text": "Pembesar kehilangan hasil"
+        },
+        {
+          "id": "D",
+          "text": "Dasar ekonomi berubah"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kuasa sultan terhad: Keputusan selain Islam dan adat tertakluk nasihat British.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q030",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Kenal pasti kesan Sistem Residen.\n\nKutipan cukai tradisional beralih kepada pentadbiran baharu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pentadbiran Barat berkembang"
+        },
+        {
+          "id": "B",
+          "text": "Kuasa sultan terhad"
+        },
+        {
+          "id": "C",
+          "text": "Pembesar kehilangan hasil"
+        },
+        {
+          "id": "D",
+          "text": "Dasar ekonomi berubah"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pembesar kehilangan hasil: Kutipan cukai tradisional beralih kepada pentadbiran baharu.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q031",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Kenal pasti kesan Sistem Residen.\n\nPengeluaran eksport diberi keutamaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pentadbiran Barat berkembang"
+        },
+        {
+          "id": "B",
+          "text": "Kuasa sultan terhad"
+        },
+        {
+          "id": "C",
+          "text": "Pembesar kehilangan hasil"
+        },
+        {
+          "id": "D",
+          "text": "Dasar ekonomi berubah"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Dasar ekonomi berubah: Pengeluaran eksport diberi keutamaan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q032",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Kenal pasti kesan Sistem Residen.\n\nJabatan dan pegawai baharu mengambil alih tugas tertentu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pentadbiran Barat berkembang"
+        },
+        {
+          "id": "B",
+          "text": "Kuasa sultan terhad"
+        },
+        {
+          "id": "C",
+          "text": "Pembesar kehilangan hasil"
+        },
+        {
+          "id": "D",
+          "text": "Dasar ekonomi berubah"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pentadbiran Barat berkembang: Jabatan dan pegawai baharu mengambil alih tugas tertentu.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q033",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Padankan lokasi dengan fungsi sejarah.\n\nPusat pentadbiran persekutuan NNMB.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kuala Lumpur"
+        },
+        {
+          "id": "B",
+          "text": "Kuala Kangsar"
+        },
+        {
+          "id": "C",
+          "text": "Larut"
+        },
+        {
+          "id": "D",
+          "text": "Lembah Klang"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kuala Lumpur: Pusat pentadbiran persekutuan NNMB.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q034",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Padankan lokasi dengan fungsi sejarah.\n\nTempat Durbar pertama berlangsung.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kuala Lumpur"
+        },
+        {
+          "id": "B",
+          "text": "Kuala Kangsar"
+        },
+        {
+          "id": "C",
+          "text": "Larut"
+        },
+        {
+          "id": "D",
+          "text": "Lembah Klang"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kuala Kangsar: Tempat Durbar pertama berlangsung.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q035",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Padankan lokasi dengan fungsi sejarah.\n\nKawasan perlombongan Perak yang mengalami konflik.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kuala Lumpur"
+        },
+        {
+          "id": "B",
+          "text": "Kuala Kangsar"
+        },
+        {
+          "id": "C",
+          "text": "Larut"
+        },
+        {
+          "id": "D",
+          "text": "Lembah Klang"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Larut: Kawasan perlombongan Perak yang mengalami konflik.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q036",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Padankan lokasi dengan fungsi sejarah.\n\nKawasan penting perlombongan serta perkembangan bandar Selangor.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kuala Lumpur"
+        },
+        {
+          "id": "B",
+          "text": "Kuala Kangsar"
+        },
+        {
+          "id": "C",
+          "text": "Larut"
+        },
+        {
+          "id": "D",
+          "text": "Lembah Klang"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Lembah Klang: Kawasan penting perlombongan serta perkembangan bandar Selangor.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q037",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Apakah isu yang dibangkitkan oleh raja-raja?\n\nTerlalu banyak keputusan ditentukan pegawai pusat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedudukan bahasa Melayu"
+        },
+        {
+          "id": "B",
+          "text": "Kepentingan rakyat tempatan"
+        },
+        {
+          "id": "C",
+          "text": "Bidang kuasa negeri"
+        },
+        {
+          "id": "D",
+          "text": "Pemusatan berlebihan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pemusatan berlebihan: Terlalu banyak keputusan ditentukan pegawai pusat.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q038",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Apakah isu yang dibangkitkan oleh raja-raja?\n\nBahasa tempatan perlu mendapat tempat dalam pentadbiran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedudukan bahasa Melayu"
+        },
+        {
+          "id": "B",
+          "text": "Kepentingan rakyat tempatan"
+        },
+        {
+          "id": "C",
+          "text": "Bidang kuasa negeri"
+        },
+        {
+          "id": "D",
+          "text": "Pemusatan berlebihan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kedudukan bahasa Melayu: Bahasa tempatan perlu mendapat tempat dalam pentadbiran.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q039",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Apakah isu yang dibangkitkan oleh raja-raja?\n\nPeluang dan kebajikan penduduk tidak wajar diketepikan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedudukan bahasa Melayu"
+        },
+        {
+          "id": "B",
+          "text": "Kepentingan rakyat tempatan"
+        },
+        {
+          "id": "C",
+          "text": "Bidang kuasa negeri"
+        },
+        {
+          "id": "D",
+          "text": "Pemusatan berlebihan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kepentingan rakyat tempatan: Peluang dan kebajikan penduduk tidak wajar diketepikan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t3-b03-q040",
+      "form": 3,
+      "chapter": 3,
+      "prompt": "Apakah isu yang dibangkitkan oleh raja-raja?\n\nHak pemerintah negeri perlu dipertahankan dalam persekutuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedudukan bahasa Melayu"
+        },
+        {
+          "id": "B",
+          "text": "Kepentingan rakyat tempatan"
+        },
+        {
+          "id": "C",
+          "text": "Bidang kuasa negeri"
+        },
+        {
+          "id": "D",
+          "text": "Pemusatan berlebihan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Bidang kuasa negeri: Hak pemerintah negeri perlu dipertahankan dalam persekutuan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    }
+  ]
+}

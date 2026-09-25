@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 3,
+  "chapter": 6,
+  "title": "Kesan Pentadbiran Barat Terhadap Ekonomi dan Sosial",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t3_b06.json",
+  "questions": [
+    {
+      "id": "t3-b06-q001",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Kenal pasti sektor ekonomi kolonial.\n\nPengeluaran bijih timah untuk pasaran luar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perlombongan"
+        },
+        {
+          "id": "B",
+          "text": "Perladangan"
+        },
+        {
+          "id": "C",
+          "text": "Perbankan"
+        },
+        {
+          "id": "D",
+          "text": "Perdagangan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perlombongan: Pengeluaran bijih timah untuk pasaran luar.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q002",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Kenal pasti sektor ekonomi kolonial.\n\nPengusahaan getah secara besar-besaran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perlombongan"
+        },
+        {
+          "id": "B",
+          "text": "Perladangan"
+        },
+        {
+          "id": "C",
+          "text": "Perbankan"
+        },
+        {
+          "id": "D",
+          "text": "Perdagangan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perladangan: Pengusahaan getah secara besar-besaran.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q003",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Kenal pasti sektor ekonomi kolonial.\n\nInstitusi menyediakan modal dan urusan kewangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perlombongan"
+        },
+        {
+          "id": "B",
+          "text": "Perladangan"
+        },
+        {
+          "id": "C",
+          "text": "Perbankan"
+        },
+        {
+          "id": "D",
+          "text": "Perdagangan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perbankan: Institusi menyediakan modal dan urusan kewangan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q004",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Kenal pasti sektor ekonomi kolonial.\n\nBarangan eksport dibawa ke pasaran antarabangsa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perlombongan"
+        },
+        {
+          "id": "B",
+          "text": "Perladangan"
+        },
+        {
+          "id": "C",
+          "text": "Perbankan"
+        },
+        {
+          "id": "D",
+          "text": "Perdagangan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Perdagangan: Barangan eksport dibawa ke pasaran antarabangsa.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q005",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Padankan teknologi atau kemudahan.\n\nMesin yang meningkatkan pengeluaran bijih timah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Landasan kereta api"
+        },
+        {
+          "id": "B",
+          "text": "Jalan raya"
+        },
+        {
+          "id": "C",
+          "text": "Pelabuhan"
+        },
+        {
+          "id": "D",
+          "text": "Kapal korek"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kapal korek: Mesin yang meningkatkan pengeluaran bijih timah.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q006",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Padankan teknologi atau kemudahan.\n\nLaluan gerabak membawa hasil lombong ke pesisir.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Landasan kereta api"
+        },
+        {
+          "id": "B",
+          "text": "Jalan raya"
+        },
+        {
+          "id": "C",
+          "text": "Pelabuhan"
+        },
+        {
+          "id": "D",
+          "text": "Kapal korek"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Landasan kereta api: Laluan gerabak membawa hasil lombong ke pesisir.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q007",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Padankan teknologi atau kemudahan.\n\nLaluan kenderaan menghubungkan ladang dengan bandar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Landasan kereta api"
+        },
+        {
+          "id": "B",
+          "text": "Jalan raya"
+        },
+        {
+          "id": "C",
+          "text": "Pelabuhan"
+        },
+        {
+          "id": "D",
+          "text": "Kapal korek"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Jalan raya: Laluan kenderaan menghubungkan ladang dengan bandar.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q008",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Padankan teknologi atau kemudahan.\n\nPusat pemindahan muatan ke kapal laut.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Landasan kereta api"
+        },
+        {
+          "id": "B",
+          "text": "Jalan raya"
+        },
+        {
+          "id": "C",
+          "text": "Pelabuhan"
+        },
+        {
+          "id": "D",
+          "text": "Kapal korek"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pelabuhan: Pusat pemindahan muatan ke kapal laut.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q009",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Kenal pasti sistem buruh.\n\nPengambilan pekerja India melalui ketua atau wakil pekerja.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sistem tiket kredit"
+        },
+        {
+          "id": "B",
+          "text": "Tenaga keluarga"
+        },
+        {
+          "id": "C",
+          "text": "Sistem kangani"
+        },
+        {
+          "id": "D",
+          "text": "Sistem kontrak"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Sistem kangani: Pengambilan pekerja India melalui ketua atau wakil pekerja.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q010",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Kenal pasti sistem buruh.\n\nPekerja terikat dengan syarat tempoh kerja yang dipersetujui.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sistem tiket kredit"
+        },
+        {
+          "id": "B",
+          "text": "Tenaga keluarga"
+        },
+        {
+          "id": "C",
+          "text": "Sistem kangani"
+        },
+        {
+          "id": "D",
+          "text": "Sistem kontrak"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Sistem kontrak: Pekerja terikat dengan syarat tempoh kerja yang dipersetujui.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q011",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Kenal pasti sistem buruh.\n\nTambang perjalanan pekerja didahulukan dan dibayar semula melalui pekerjaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sistem tiket kredit"
+        },
+        {
+          "id": "B",
+          "text": "Tenaga keluarga"
+        },
+        {
+          "id": "C",
+          "text": "Sistem kangani"
+        },
+        {
+          "id": "D",
+          "text": "Sistem kontrak"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Sistem tiket kredit: Tambang perjalanan pekerja didahulukan dan dibayar semula melalui pekerjaan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q012",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Kenal pasti sistem buruh.\n\nAnggota rumah tangga membantu kegiatan ekonomi sendiri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sistem tiket kredit"
+        },
+        {
+          "id": "B",
+          "text": "Tenaga keluarga"
+        },
+        {
+          "id": "C",
+          "text": "Sistem kangani"
+        },
+        {
+          "id": "D",
+          "text": "Sistem kontrak"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Tenaga keluarga: Anggota rumah tangga membantu kegiatan ekonomi sendiri.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q013",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Padankan kesan sosial.\n\nPetempatan membesar berhampiran pusat ekonomi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesihatan awam"
+        },
+        {
+          "id": "B",
+          "text": "Pembandaran"
+        },
+        {
+          "id": "C",
+          "text": "Masyarakat berbilang kaum"
+        },
+        {
+          "id": "D",
+          "text": "Pendidikan vernakular"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pembandaran: Petempatan membesar berhampiran pusat ekonomi.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q014",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Padankan kesan sosial.\n\nMigrasi menambahkan kepelbagaian penduduk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesihatan awam"
+        },
+        {
+          "id": "B",
+          "text": "Pembandaran"
+        },
+        {
+          "id": "C",
+          "text": "Masyarakat berbilang kaum"
+        },
+        {
+          "id": "D",
+          "text": "Pendidikan vernakular"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Masyarakat berbilang kaum: Migrasi menambahkan kepelbagaian penduduk.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q015",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Padankan kesan sosial.\n\nSekolah berkembang menggunakan bahasa ibunda kelompok tertentu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesihatan awam"
+        },
+        {
+          "id": "B",
+          "text": "Pembandaran"
+        },
+        {
+          "id": "C",
+          "text": "Masyarakat berbilang kaum"
+        },
+        {
+          "id": "D",
+          "text": "Pendidikan vernakular"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pendidikan vernakular: Sekolah berkembang menggunakan bahasa ibunda kelompok tertentu.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q016",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Padankan kesan sosial.\n\nKemudahan rawatan dibangunkan untuk menangani penyakit.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesihatan awam"
+        },
+        {
+          "id": "B",
+          "text": "Pembandaran"
+        },
+        {
+          "id": "C",
+          "text": "Masyarakat berbilang kaum"
+        },
+        {
+          "id": "D",
+          "text": "Pendidikan vernakular"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kesihatan awam: Kemudahan rawatan dibangunkan untuk menangani penyakit.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q017",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Apakah kesan ekonomi eksport?\n\nHarga dunia mempengaruhi pendapatan tempatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pergantungan pasaran luar"
+        },
+        {
+          "id": "B",
+          "text": "Keperluan modal"
+        },
+        {
+          "id": "C",
+          "text": "Penggunaan tanah luas"
+        },
+        {
+          "id": "D",
+          "text": "Pertambahan pengangkutan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pergantungan pasaran luar: Harga dunia mempengaruhi pendapatan tempatan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q018",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Apakah kesan ekonomi eksport?\n\nMesin dan pembukaan ladang memerlukan pembiayaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pergantungan pasaran luar"
+        },
+        {
+          "id": "B",
+          "text": "Keperluan modal"
+        },
+        {
+          "id": "C",
+          "text": "Penggunaan tanah luas"
+        },
+        {
+          "id": "D",
+          "text": "Pertambahan pengangkutan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Keperluan modal: Mesin dan pembukaan ladang memerlukan pembiayaan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q019",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Apakah kesan ekonomi eksport?\n\nTanaman komersial melibatkan kawasan besar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pergantungan pasaran luar"
+        },
+        {
+          "id": "B",
+          "text": "Keperluan modal"
+        },
+        {
+          "id": "C",
+          "text": "Penggunaan tanah luas"
+        },
+        {
+          "id": "D",
+          "text": "Pertambahan pengangkutan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Penggunaan tanah luas: Tanaman komersial melibatkan kawasan besar.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q020",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Apakah kesan ekonomi eksport?\n\nMuatan hasil perlu dibawa secara tetap ke pelabuhan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pergantungan pasaran luar"
+        },
+        {
+          "id": "B",
+          "text": "Keperluan modal"
+        },
+        {
+          "id": "C",
+          "text": "Penggunaan tanah luas"
+        },
+        {
+          "id": "D",
+          "text": "Pertambahan pengangkutan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pertambahan pengangkutan: Muatan hasil perlu dibawa secara tetap ke pelabuhan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q021",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Kenal pasti jenis sekolah.\n\nPendidikan asas menggunakan bahasa Melayu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sekolah Cina"
+        },
+        {
+          "id": "B",
+          "text": "Sekolah Tamil"
+        },
+        {
+          "id": "C",
+          "text": "Sekolah Inggeris"
+        },
+        {
+          "id": "D",
+          "text": "Sekolah Melayu"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Sekolah Melayu: Pendidikan asas menggunakan bahasa Melayu.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q022",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Kenal pasti jenis sekolah.\n\nPendidikan masyarakat Cina menggunakan bahasa mereka.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sekolah Cina"
+        },
+        {
+          "id": "B",
+          "text": "Sekolah Tamil"
+        },
+        {
+          "id": "C",
+          "text": "Sekolah Inggeris"
+        },
+        {
+          "id": "D",
+          "text": "Sekolah Melayu"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Sekolah Cina: Pendidikan masyarakat Cina menggunakan bahasa mereka.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q023",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Kenal pasti jenis sekolah.\n\nSekolah bahasa Tamil banyak berkembang berhampiran ladang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sekolah Cina"
+        },
+        {
+          "id": "B",
+          "text": "Sekolah Tamil"
+        },
+        {
+          "id": "C",
+          "text": "Sekolah Inggeris"
+        },
+        {
+          "id": "D",
+          "text": "Sekolah Melayu"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Sekolah Tamil: Sekolah bahasa Tamil banyak berkembang berhampiran ladang.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q024",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Kenal pasti jenis sekolah.\n\nPengajaran bahasa penjajah membuka peluang pekerjaan tertentu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sekolah Cina"
+        },
+        {
+          "id": "B",
+          "text": "Sekolah Tamil"
+        },
+        {
+          "id": "C",
+          "text": "Sekolah Inggeris"
+        },
+        {
+          "id": "D",
+          "text": "Sekolah Melayu"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Sekolah Inggeris: Pengajaran bahasa penjajah membuka peluang pekerjaan tertentu.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q025",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Padankan masalah pembangunan kolonial.\n\nKawasan eksport menerima lebih banyak kemudahan berbanding kawasan lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pencemaran"
+        },
+        {
+          "id": "B",
+          "text": "Eksploitasi buruh"
+        },
+        {
+          "id": "C",
+          "text": "Ketidakseimbangan wilayah"
+        },
+        {
+          "id": "D",
+          "text": "Pengasingan ekonomi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Ketidakseimbangan wilayah: Kawasan eksport menerima lebih banyak kemudahan berbanding kawasan lain.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q026",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Padankan masalah pembangunan kolonial.\n\nKelompok penduduk tertumpu dalam sektor berlainan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pencemaran"
+        },
+        {
+          "id": "B",
+          "text": "Eksploitasi buruh"
+        },
+        {
+          "id": "C",
+          "text": "Ketidakseimbangan wilayah"
+        },
+        {
+          "id": "D",
+          "text": "Pengasingan ekonomi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pengasingan ekonomi: Kelompok penduduk tertumpu dalam sektor berlainan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q027",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Padankan masalah pembangunan kolonial.\n\nSisa lombong menjejaskan alam sekitar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pencemaran"
+        },
+        {
+          "id": "B",
+          "text": "Eksploitasi buruh"
+        },
+        {
+          "id": "C",
+          "text": "Ketidakseimbangan wilayah"
+        },
+        {
+          "id": "D",
+          "text": "Pengasingan ekonomi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pencemaran: Sisa lombong menjejaskan alam sekitar.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q028",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Padankan masalah pembangunan kolonial.\n\nPekerja menghadapi syarat kerja yang menekan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pencemaran"
+        },
+        {
+          "id": "B",
+          "text": "Eksploitasi buruh"
+        },
+        {
+          "id": "C",
+          "text": "Ketidakseimbangan wilayah"
+        },
+        {
+          "id": "D",
+          "text": "Pengasingan ekonomi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Eksploitasi buruh: Pekerja menghadapi syarat kerja yang menekan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q029",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Apakah fungsi kewangan?\n\nModal dipinjam untuk memulakan perusahaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembayaran"
+        },
+        {
+          "id": "B",
+          "text": "Pinjaman"
+        },
+        {
+          "id": "C",
+          "text": "Simpanan"
+        },
+        {
+          "id": "D",
+          "text": "Insurans"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pinjaman: Modal dipinjam untuk memulakan perusahaan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q030",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Apakah fungsi kewangan?\n\nWang disimpan dalam institusi kewangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembayaran"
+        },
+        {
+          "id": "B",
+          "text": "Pinjaman"
+        },
+        {
+          "id": "C",
+          "text": "Simpanan"
+        },
+        {
+          "id": "D",
+          "text": "Insurans"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Simpanan: Wang disimpan dalam institusi kewangan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q031",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Apakah fungsi kewangan?\n\nRisiko kerugian tertentu dilindungi melalui perlindungan berbayar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembayaran"
+        },
+        {
+          "id": "B",
+          "text": "Pinjaman"
+        },
+        {
+          "id": "C",
+          "text": "Simpanan"
+        },
+        {
+          "id": "D",
+          "text": "Insurans"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Insurans: Risiko kerugian tertentu dilindungi melalui perlindungan berbayar.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q032",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Apakah fungsi kewangan?\n\nUrus niaga diselesaikan menggunakan alat pertukaran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembayaran"
+        },
+        {
+          "id": "B",
+          "text": "Pinjaman"
+        },
+        {
+          "id": "C",
+          "text": "Simpanan"
+        },
+        {
+          "id": "D",
+          "text": "Insurans"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pembayaran: Urus niaga diselesaikan menggunakan alat pertukaran.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q033",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Padankan kemudahan dengan manfaat.\n\nMemberikan rawatan kepada pesakit.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hospital"
+        },
+        {
+          "id": "B",
+          "text": "Bekalan air"
+        },
+        {
+          "id": "C",
+          "text": "Sistem saliran"
+        },
+        {
+          "id": "D",
+          "text": "Perhubungan pos"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Hospital: Memberikan rawatan kepada pesakit.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q034",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Padankan kemudahan dengan manfaat.\n\nMembantu penduduk mendapatkan air untuk kehidupan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hospital"
+        },
+        {
+          "id": "B",
+          "text": "Bekalan air"
+        },
+        {
+          "id": "C",
+          "text": "Sistem saliran"
+        },
+        {
+          "id": "D",
+          "text": "Perhubungan pos"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Bekalan air: Membantu penduduk mendapatkan air untuk kehidupan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q035",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Padankan kemudahan dengan manfaat.\n\nMengalirkan air dan mengurangkan takungan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hospital"
+        },
+        {
+          "id": "B",
+          "text": "Bekalan air"
+        },
+        {
+          "id": "C",
+          "text": "Sistem saliran"
+        },
+        {
+          "id": "D",
+          "text": "Perhubungan pos"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Sistem saliran: Mengalirkan air dan mengurangkan takungan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q036",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Padankan kemudahan dengan manfaat.\n\nMembolehkan surat dihantar antara petempatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hospital"
+        },
+        {
+          "id": "B",
+          "text": "Bekalan air"
+        },
+        {
+          "id": "C",
+          "text": "Sistem saliran"
+        },
+        {
+          "id": "D",
+          "text": "Perhubungan pos"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Perhubungan pos: Membolehkan surat dihantar antara petempatan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q037",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Kenal pasti sudut penilaian sejarah.\n\nPengkaji bertanya mengapa jalan menuju lombong diutamakan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penerima manfaat"
+        },
+        {
+          "id": "B",
+          "text": "Kos sosial"
+        },
+        {
+          "id": "C",
+          "text": "Kesan jangka panjang"
+        },
+        {
+          "id": "D",
+          "text": "Tujuan pembinaan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Tujuan pembinaan: Pengkaji bertanya mengapa jalan menuju lombong diutamakan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q038",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Kenal pasti sudut penilaian sejarah.\n\nPengkaji menilai kelompok yang memperoleh keuntungan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penerima manfaat"
+        },
+        {
+          "id": "B",
+          "text": "Kos sosial"
+        },
+        {
+          "id": "C",
+          "text": "Kesan jangka panjang"
+        },
+        {
+          "id": "D",
+          "text": "Tujuan pembinaan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Penerima manfaat: Pengkaji menilai kelompok yang memperoleh keuntungan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q039",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Kenal pasti sudut penilaian sejarah.\n\nPengkaji meneliti kesusahan pekerja dan penduduk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penerima manfaat"
+        },
+        {
+          "id": "B",
+          "text": "Kos sosial"
+        },
+        {
+          "id": "C",
+          "text": "Kesan jangka panjang"
+        },
+        {
+          "id": "D",
+          "text": "Tujuan pembinaan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kos sosial: Pengkaji meneliti kesusahan pekerja dan penduduk.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t3-b06-q040",
+      "form": 3,
+      "chapter": 6,
+      "prompt": "Kenal pasti sudut penilaian sejarah.\n\nPengkaji menghubungkan perubahan kolonial dengan struktur masyarakat kemudian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penerima manfaat"
+        },
+        {
+          "id": "B",
+          "text": "Kos sosial"
+        },
+        {
+          "id": "C",
+          "text": "Kesan jangka panjang"
+        },
+        {
+          "id": "D",
+          "text": "Tujuan pembinaan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kesan jangka panjang: Pengkaji menghubungkan perubahan kolonial dengan struktur masyarakat kemudian.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    }
+  ]
+}

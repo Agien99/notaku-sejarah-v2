@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 1,
+  "chapter": 4,
+  "title": "Mengenali Tamadun",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t1_b04.json",
+  "questions": [
+    {
+      "id": "t1-b04-q001",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Padankan dimensi kemajuan.\n\nKemajuan fizikal seperti bangunan dan peralatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Material"
+        },
+        {
+          "id": "B",
+          "text": "Rohani"
+        },
+        {
+          "id": "C",
+          "text": "Sosial"
+        },
+        {
+          "id": "D",
+          "text": "Intelektual"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Material: Kemajuan fizikal seperti bangunan dan peralatan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q002",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Padankan dimensi kemajuan.\n\nPerkembangan nilai dalaman dan akhlak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Material"
+        },
+        {
+          "id": "B",
+          "text": "Rohani"
+        },
+        {
+          "id": "C",
+          "text": "Sosial"
+        },
+        {
+          "id": "D",
+          "text": "Intelektual"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Rohani: Perkembangan nilai dalaman dan akhlak.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q003",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Padankan dimensi kemajuan.\n\nPerkembangan hubungan serta aturan masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Material"
+        },
+        {
+          "id": "B",
+          "text": "Rohani"
+        },
+        {
+          "id": "C",
+          "text": "Sosial"
+        },
+        {
+          "id": "D",
+          "text": "Intelektual"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Sosial: Perkembangan hubungan serta aturan masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q004",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Padankan dimensi kemajuan.\n\nKemajuan pengetahuan dan pemikiran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Material"
+        },
+        {
+          "id": "B",
+          "text": "Rohani"
+        },
+        {
+          "id": "C",
+          "text": "Sosial"
+        },
+        {
+          "id": "D",
+          "text": "Intelektual"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Intelektual: Kemajuan pengetahuan dan pemikiran.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q005",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Kenal pasti ciri tamadun.\n\nPengeluaran makanan melalui pengusahaan tanah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Perbandaran"
+        },
+        {
+          "id": "C",
+          "text": "Pemerintahan"
+        },
+        {
+          "id": "D",
+          "text": "Pertanian"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pertanian: Pengeluaran makanan melalui pengusahaan tanah.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q006",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Kenal pasti ciri tamadun.\n\nPertukaran dan jual beli hasil antara penduduk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Perbandaran"
+        },
+        {
+          "id": "C",
+          "text": "Pemerintahan"
+        },
+        {
+          "id": "D",
+          "text": "Pertanian"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perdagangan: Pertukaran dan jual beli hasil antara penduduk.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q007",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Kenal pasti ciri tamadun.\n\nPembentukan pusat petempatan yang padat dengan pelbagai fungsi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Perbandaran"
+        },
+        {
+          "id": "C",
+          "text": "Pemerintahan"
+        },
+        {
+          "id": "D",
+          "text": "Pertanian"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perbandaran: Pembentukan pusat petempatan yang padat dengan pelbagai fungsi.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q008",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Kenal pasti ciri tamadun.\n\nInstitusi yang mengatur pentadbiran dan membuat keputusan bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Perbandaran"
+        },
+        {
+          "id": "C",
+          "text": "Pemerintahan"
+        },
+        {
+          "id": "D",
+          "text": "Pertanian"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pemerintahan: Institusi yang mengatur pentadbiran dan membuat keputusan bersama.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q009",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Padankan ciri dengan bukti.\n\nSimbol digunakan untuk menyimpan maklumat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Organisasi sosial"
+        },
+        {
+          "id": "B",
+          "text": "Pengkhususan pekerjaan"
+        },
+        {
+          "id": "C",
+          "text": "Tulisan"
+        },
+        {
+          "id": "D",
+          "text": "Teknologi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Tulisan: Simbol digunakan untuk menyimpan maklumat.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q010",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Padankan ciri dengan bukti.\n\nAlat baharu dicipta untuk memudahkan pengeluaran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Organisasi sosial"
+        },
+        {
+          "id": "B",
+          "text": "Pengkhususan pekerjaan"
+        },
+        {
+          "id": "C",
+          "text": "Tulisan"
+        },
+        {
+          "id": "D",
+          "text": "Teknologi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Teknologi: Alat baharu dicipta untuk memudahkan pengeluaran.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q011",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Padankan ciri dengan bukti.\n\nMasyarakat mempunyai lapisan dengan peranan berbeza.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Organisasi sosial"
+        },
+        {
+          "id": "B",
+          "text": "Pengkhususan pekerjaan"
+        },
+        {
+          "id": "C",
+          "text": "Tulisan"
+        },
+        {
+          "id": "D",
+          "text": "Teknologi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Organisasi sosial: Masyarakat mempunyai lapisan dengan peranan berbeza.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q012",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Padankan ciri dengan bukti.\n\nPenduduk menjadi petani, pedagang atau tukang mengikut kemahiran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Organisasi sosial"
+        },
+        {
+          "id": "B",
+          "text": "Pengkhususan pekerjaan"
+        },
+        {
+          "id": "C",
+          "text": "Tulisan"
+        },
+        {
+          "id": "D",
+          "text": "Teknologi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pengkhususan pekerjaan: Penduduk menjadi petani, pedagang atau tukang mengikut kemahiran.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q013",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Apakah ciri budaya yang ditunjukkan?\n\nKepercayaan dan amalan pemujaan membentuk kehidupan masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Undang-undang"
+        },
+        {
+          "id": "B",
+          "text": "Agama"
+        },
+        {
+          "id": "C",
+          "text": "Kesenian"
+        },
+        {
+          "id": "D",
+          "text": "Kesusasteraan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Agama: Kepercayaan dan amalan pemujaan membentuk kehidupan masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q014",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Apakah ciri budaya yang ditunjukkan?\n\nUkiran dan lukisan dihasilkan untuk ekspresi keindahan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Undang-undang"
+        },
+        {
+          "id": "B",
+          "text": "Agama"
+        },
+        {
+          "id": "C",
+          "text": "Kesenian"
+        },
+        {
+          "id": "D",
+          "text": "Kesusasteraan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kesenian: Ukiran dan lukisan dihasilkan untuk ekspresi keindahan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q015",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Apakah ciri budaya yang ditunjukkan?\n\nCerita dan puisi menyampaikan pengalaman masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Undang-undang"
+        },
+        {
+          "id": "B",
+          "text": "Agama"
+        },
+        {
+          "id": "C",
+          "text": "Kesenian"
+        },
+        {
+          "id": "D",
+          "text": "Kesusasteraan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kesusasteraan: Cerita dan puisi menyampaikan pengalaman masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q016",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Apakah ciri budaya yang ditunjukkan?\n\nPeraturan rasmi menetapkan tindakan yang dibenarkan atau dilarang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Undang-undang"
+        },
+        {
+          "id": "B",
+          "text": "Agama"
+        },
+        {
+          "id": "C",
+          "text": "Kesenian"
+        },
+        {
+          "id": "D",
+          "text": "Kesusasteraan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Undang-undang: Peraturan rasmi menetapkan tindakan yang dibenarkan atau dilarang.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q017",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Padankan pekerjaan masyarakat bandar.\n\nMengusahakan tanaman untuk membekalkan makanan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Petani"
+        },
+        {
+          "id": "B",
+          "text": "Pedagang"
+        },
+        {
+          "id": "C",
+          "text": "Tukang"
+        },
+        {
+          "id": "D",
+          "text": "Jurutulis"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Petani: Mengusahakan tanaman untuk membekalkan makanan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q018",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Padankan pekerjaan masyarakat bandar.\n\nMenghubungkan pengeluar dengan pembeli melalui jual beli.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Petani"
+        },
+        {
+          "id": "B",
+          "text": "Pedagang"
+        },
+        {
+          "id": "C",
+          "text": "Tukang"
+        },
+        {
+          "id": "D",
+          "text": "Jurutulis"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pedagang: Menghubungkan pengeluar dengan pembeli melalui jual beli.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q019",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Padankan pekerjaan masyarakat bandar.\n\nMenghasilkan barangan menggunakan kemahiran tangan khusus.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Petani"
+        },
+        {
+          "id": "B",
+          "text": "Pedagang"
+        },
+        {
+          "id": "C",
+          "text": "Tukang"
+        },
+        {
+          "id": "D",
+          "text": "Jurutulis"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Tukang: Menghasilkan barangan menggunakan kemahiran tangan khusus.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q020",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Padankan pekerjaan masyarakat bandar.\n\nMencatat urusan hasil dan pentadbiran kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Petani"
+        },
+        {
+          "id": "B",
+          "text": "Pedagang"
+        },
+        {
+          "id": "C",
+          "text": "Tukang"
+        },
+        {
+          "id": "D",
+          "text": "Jurutulis"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Jurutulis: Mencatat urusan hasil dan pentadbiran kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q021",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Kenal pasti fungsi kemudahan bandar.\n\nTempat pertukaran barangan antara pembeli dan penjual.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gudang"
+        },
+        {
+          "id": "B",
+          "text": "Terusan"
+        },
+        {
+          "id": "C",
+          "text": "Jalan"
+        },
+        {
+          "id": "D",
+          "text": "Pasar"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pasar: Tempat pertukaran barangan antara pembeli dan penjual.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q022",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Kenal pasti fungsi kemudahan bandar.\n\nBangunan untuk menyimpan lebihan hasil.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gudang"
+        },
+        {
+          "id": "B",
+          "text": "Terusan"
+        },
+        {
+          "id": "C",
+          "text": "Jalan"
+        },
+        {
+          "id": "D",
+          "text": "Pasar"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Gudang: Bangunan untuk menyimpan lebihan hasil.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q023",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Kenal pasti fungsi kemudahan bandar.\n\nSaluran yang membawa air ke kawasan pertanian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gudang"
+        },
+        {
+          "id": "B",
+          "text": "Terusan"
+        },
+        {
+          "id": "C",
+          "text": "Jalan"
+        },
+        {
+          "id": "D",
+          "text": "Pasar"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Terusan: Saluran yang membawa air ke kawasan pertanian.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q024",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Kenal pasti fungsi kemudahan bandar.\n\nLaluan darat bagi pergerakan manusia dan barangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gudang"
+        },
+        {
+          "id": "B",
+          "text": "Terusan"
+        },
+        {
+          "id": "C",
+          "text": "Jalan"
+        },
+        {
+          "id": "D",
+          "text": "Pasar"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Jalan: Laluan darat bagi pergerakan manusia dan barangan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q025",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Apakah hasil kemajuan yang paling berkaitan?\n\nTulisan membantu pemerintah mengetahui jumlah hasil yang dikutip.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penyelesaian pertikaian"
+        },
+        {
+          "id": "B",
+          "text": "Penyebaran ilmu"
+        },
+        {
+          "id": "C",
+          "text": "Rekod cukai"
+        },
+        {
+          "id": "D",
+          "text": "Bekalan makanan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Rekod cukai: Tulisan membantu pemerintah mengetahui jumlah hasil yang dikutip.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q026",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Apakah hasil kemajuan yang paling berkaitan?\n\nPengairan membolehkan sawah mendapat air dengan lebih teratur.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penyelesaian pertikaian"
+        },
+        {
+          "id": "B",
+          "text": "Penyebaran ilmu"
+        },
+        {
+          "id": "C",
+          "text": "Rekod cukai"
+        },
+        {
+          "id": "D",
+          "text": "Bekalan makanan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Bekalan makanan: Pengairan membolehkan sawah mendapat air dengan lebih teratur.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q027",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Apakah hasil kemajuan yang paling berkaitan?\n\nUndang-undang menyediakan aturan bagi menyelesaikan perselisihan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penyelesaian pertikaian"
+        },
+        {
+          "id": "B",
+          "text": "Penyebaran ilmu"
+        },
+        {
+          "id": "C",
+          "text": "Rekod cukai"
+        },
+        {
+          "id": "D",
+          "text": "Bekalan makanan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Penyelesaian pertikaian: Undang-undang menyediakan aturan bagi menyelesaikan perselisihan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q028",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Apakah hasil kemajuan yang paling berkaitan?\n\nCatatan membolehkan pengetahuan dirujuk oleh generasi berikutnya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penyelesaian pertikaian"
+        },
+        {
+          "id": "B",
+          "text": "Penyebaran ilmu"
+        },
+        {
+          "id": "C",
+          "text": "Rekod cukai"
+        },
+        {
+          "id": "D",
+          "text": "Bekalan makanan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Penyebaran ilmu: Catatan membolehkan pengetahuan dirujuk oleh generasi berikutnya.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q029",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Padankan masalah bandar dengan keperluan.\n\nSisa penduduk perlu diurus agar tidak mencemarkan petempatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agihan bekalan"
+        },
+        {
+          "id": "B",
+          "text": "Sanitasi"
+        },
+        {
+          "id": "C",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "D",
+          "text": "Pentadbiran"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Sanitasi: Sisa penduduk perlu diurus agar tidak mencemarkan petempatan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q030",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Padankan masalah bandar dengan keperluan.\n\nAncaman serangan memerlukan perlindungan terhadap penduduk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agihan bekalan"
+        },
+        {
+          "id": "B",
+          "text": "Sanitasi"
+        },
+        {
+          "id": "C",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "D",
+          "text": "Pentadbiran"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Keselamatan: Ancaman serangan memerlukan perlindungan terhadap penduduk.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q031",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Padankan masalah bandar dengan keperluan.\n\nPenduduk ramai memerlukan penyelarasan urusan awam.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agihan bekalan"
+        },
+        {
+          "id": "B",
+          "text": "Sanitasi"
+        },
+        {
+          "id": "C",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "D",
+          "text": "Pentadbiran"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pentadbiran: Penduduk ramai memerlukan penyelarasan urusan awam.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q032",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Padankan masalah bandar dengan keperluan.\n\nHasil makanan perlu sampai kepada penduduk yang bukan petani.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agihan bekalan"
+        },
+        {
+          "id": "B",
+          "text": "Sanitasi"
+        },
+        {
+          "id": "C",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "D",
+          "text": "Pentadbiran"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Agihan bekalan: Hasil makanan perlu sampai kepada penduduk yang bukan petani.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q033",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Apakah nilai pembangunan yang ditunjukkan?\n\nPeraturan dilaksanakan tanpa menindas golongan lemah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Keadilan"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "C",
+          "text": "Amanah"
+        },
+        {
+          "id": "D",
+          "text": "Keseimbangan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Keadilan: Peraturan dilaksanakan tanpa menindas golongan lemah.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q034",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Apakah nilai pembangunan yang ditunjukkan?\n\nPenduduk berganding tenaga membina saliran bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Keadilan"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "C",
+          "text": "Amanah"
+        },
+        {
+          "id": "D",
+          "text": "Keseimbangan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kerjasama: Penduduk berganding tenaga membina saliran bersama.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q035",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Apakah nilai pembangunan yang ditunjukkan?\n\nPegawai mengurus hasil masyarakat tanpa menyeleweng.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Keadilan"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "C",
+          "text": "Amanah"
+        },
+        {
+          "id": "D",
+          "text": "Keseimbangan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Amanah: Pegawai mengurus hasil masyarakat tanpa menyeleweng.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q036",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Apakah nilai pembangunan yang ditunjukkan?\n\nKemajuan fizikal disertai pembangunan akhlak dan ilmu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Keadilan"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "C",
+          "text": "Amanah"
+        },
+        {
+          "id": "D",
+          "text": "Keseimbangan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Keseimbangan: Kemajuan fizikal disertai pembangunan akhlak dan ilmu.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q037",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Kenal pasti hubungan antara ciri tamadun.\n\nMakanan yang cukup membolehkan sebahagian penduduk menjadi tukang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tulisan menyokong pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Bandar menyokong perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Teknologi meningkatkan pengeluaran"
+        },
+        {
+          "id": "D",
+          "text": "Lebihan hasil menyokong pekerjaan lain"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Lebihan hasil menyokong pekerjaan lain: Makanan yang cukup membolehkan sebahagian penduduk menjadi tukang.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q038",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Kenal pasti hubungan antara ciri tamadun.\n\nSenarai hasil membolehkan pegawai mengurus kutipan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tulisan menyokong pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Bandar menyokong perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Teknologi meningkatkan pengeluaran"
+        },
+        {
+          "id": "D",
+          "text": "Lebihan hasil menyokong pekerjaan lain"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Tulisan menyokong pentadbiran: Senarai hasil membolehkan pegawai mengurus kutipan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q039",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Kenal pasti hubungan antara ciri tamadun.\n\nPertemuan ramai penduduk mewujudkan pasaran yang lebih besar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tulisan menyokong pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Bandar menyokong perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Teknologi meningkatkan pengeluaran"
+        },
+        {
+          "id": "D",
+          "text": "Lebihan hasil menyokong pekerjaan lain"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Bandar menyokong perdagangan: Pertemuan ramai penduduk mewujudkan pasaran yang lebih besar.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t1-b04-q040",
+      "form": 1,
+      "chapter": 4,
+      "prompt": "Kenal pasti hubungan antara ciri tamadun.\n\nPeralatan lebih cekap membolehkan kerja ladang dipercepat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tulisan menyokong pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Bandar menyokong perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Teknologi meningkatkan pengeluaran"
+        },
+        {
+          "id": "D",
+          "text": "Lebihan hasil menyokong pekerjaan lain"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Teknologi meningkatkan pengeluaran: Peralatan lebih cekap membolehkan kerja ladang dipercepat.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    }
+  ]
+}

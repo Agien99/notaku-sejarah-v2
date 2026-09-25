@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 3,
+  "chapter": 8,
+  "title": "Kebijaksanaan Raja dan Pembesar Melayu Menangani Cabaran Barat",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t3_b08.json",
+  "questions": [
+    {
+      "id": "t3-b08-q001",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Kenal pasti tokoh kebijaksanaan tempatan.\n\nPemerintah Johor yang terkenal dengan pemodenan negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sultan Abu Bakar"
+        },
+        {
+          "id": "B",
+          "text": "Sultan Zainal Abidin III"
+        },
+        {
+          "id": "C",
+          "text": "Sultan Abdul Hamid Halim Shah"
+        },
+        {
+          "id": "D",
+          "text": "Sultan Muhammad IV"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Sultan Abu Bakar: Pemerintah Johor yang terkenal dengan pemodenan negeri.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q002",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Kenal pasti tokoh kebijaksanaan tempatan.\n\nPemerintah Terengganu yang memasyhurkan undang-undang kerajaan 1911.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sultan Abu Bakar"
+        },
+        {
+          "id": "B",
+          "text": "Sultan Zainal Abidin III"
+        },
+        {
+          "id": "C",
+          "text": "Sultan Abdul Hamid Halim Shah"
+        },
+        {
+          "id": "D",
+          "text": "Sultan Muhammad IV"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Sultan Zainal Abidin III: Pemerintah Terengganu yang memasyhurkan undang-undang kerajaan 1911.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q003",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Kenal pasti tokoh kebijaksanaan tempatan.\n\nPemerintah Kedah yang menghadapi cabaran pengaruh British.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sultan Abu Bakar"
+        },
+        {
+          "id": "B",
+          "text": "Sultan Zainal Abidin III"
+        },
+        {
+          "id": "C",
+          "text": "Sultan Abdul Hamid Halim Shah"
+        },
+        {
+          "id": "D",
+          "text": "Sultan Muhammad IV"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Sultan Abdul Hamid Halim Shah: Pemerintah Kedah yang menghadapi cabaran pengaruh British.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q004",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Kenal pasti tokoh kebijaksanaan tempatan.\n\nPemerintah Kelantan ketika peluasan pengaruh British awal abad ke-20.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sultan Abu Bakar"
+        },
+        {
+          "id": "B",
+          "text": "Sultan Zainal Abidin III"
+        },
+        {
+          "id": "C",
+          "text": "Sultan Abdul Hamid Halim Shah"
+        },
+        {
+          "id": "D",
+          "text": "Sultan Muhammad IV"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Sultan Muhammad IV: Pemerintah Kelantan ketika peluasan pengaruh British awal abad ke-20.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q005",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Padankan tokoh Johor dengan sumbangan.\n\nMenteri Besar Johor yang pertama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dato' Abdul Rahman Andak"
+        },
+        {
+          "id": "B",
+          "text": "Dato' Muhammad Salleh Perang"
+        },
+        {
+          "id": "C",
+          "text": "Dato' Muhammad Ibrahim Munsyi"
+        },
+        {
+          "id": "D",
+          "text": "Dato' Jaafar Muhammad"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Dato' Jaafar Muhammad: Menteri Besar Johor yang pertama.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q006",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Padankan tokoh Johor dengan sumbangan.\n\nPembesar penting dalam hubungan luar Johor.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dato' Abdul Rahman Andak"
+        },
+        {
+          "id": "B",
+          "text": "Dato' Muhammad Salleh Perang"
+        },
+        {
+          "id": "C",
+          "text": "Dato' Muhammad Ibrahim Munsyi"
+        },
+        {
+          "id": "D",
+          "text": "Dato' Jaafar Muhammad"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Dato' Abdul Rahman Andak: Pembesar penting dalam hubungan luar Johor.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q007",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Padankan tokoh Johor dengan sumbangan.\n\nTokoh yang membantu pemetaan dan pentadbiran wilayah Johor.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dato' Abdul Rahman Andak"
+        },
+        {
+          "id": "B",
+          "text": "Dato' Muhammad Salleh Perang"
+        },
+        {
+          "id": "C",
+          "text": "Dato' Muhammad Ibrahim Munsyi"
+        },
+        {
+          "id": "D",
+          "text": "Dato' Jaafar Muhammad"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Dato' Muhammad Salleh Perang: Tokoh yang membantu pemetaan dan pentadbiran wilayah Johor.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q008",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Padankan tokoh Johor dengan sumbangan.\n\nTokoh yang menyumbang dalam perkembangan pendidikan Johor.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dato' Abdul Rahman Andak"
+        },
+        {
+          "id": "B",
+          "text": "Dato' Muhammad Salleh Perang"
+        },
+        {
+          "id": "C",
+          "text": "Dato' Muhammad Ibrahim Munsyi"
+        },
+        {
+          "id": "D",
+          "text": "Dato' Jaafar Muhammad"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Dato' Muhammad Ibrahim Munsyi: Tokoh yang menyumbang dalam perkembangan pendidikan Johor.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q009",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Kenal pasti strategi menghadapi Barat.\n\nHubungan luar digunakan mempertahankan kepentingan negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perundangan"
+        },
+        {
+          "id": "B",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "C",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "D",
+          "text": "Pemodenan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Diplomasi: Hubungan luar digunakan mempertahankan kepentingan negeri.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q010",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Kenal pasti strategi menghadapi Barat.\n\nPentadbiran diperkemas dengan jabatan dan pegawai.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perundangan"
+        },
+        {
+          "id": "B",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "C",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "D",
+          "text": "Pemodenan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pemodenan: Pentadbiran diperkemas dengan jabatan dan pegawai.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q011",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Kenal pasti strategi menghadapi Barat.\n\nPerlembagaan bertulis mengehadkan penyerahan kuasa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perundangan"
+        },
+        {
+          "id": "B",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "C",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "D",
+          "text": "Pemodenan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perundangan: Perlembagaan bertulis mengehadkan penyerahan kuasa.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q012",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Kenal pasti strategi menghadapi Barat.\n\nIlmu dibangunkan bagi menyediakan pentadbir tempatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perundangan"
+        },
+        {
+          "id": "B",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "C",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "D",
+          "text": "Pemodenan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pendidikan: Ilmu dibangunkan bagi menyediakan pentadbir tempatan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q013",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Padankan dokumen atau institusi.\n\nPerlembagaan negeri yang diperkenalkan pada 1895.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jabatan kerajaan"
+        },
+        {
+          "id": "B",
+          "text": "Undang-Undang Tubuh Johor"
+        },
+        {
+          "id": "C",
+          "text": "Undang-Undang Terengganu"
+        },
+        {
+          "id": "D",
+          "text": "Majlis Mesyuarat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Undang-Undang Tubuh Johor: Perlembagaan negeri yang diperkenalkan pada 1895.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q014",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Padankan dokumen atau institusi.\n\nAturan bertulis kerajaan yang diperkenalkan pada 1911.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jabatan kerajaan"
+        },
+        {
+          "id": "B",
+          "text": "Undang-Undang Tubuh Johor"
+        },
+        {
+          "id": "C",
+          "text": "Undang-Undang Terengganu"
+        },
+        {
+          "id": "D",
+          "text": "Majlis Mesyuarat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Undang-Undang Terengganu: Aturan bertulis kerajaan yang diperkenalkan pada 1911.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q015",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Padankan dokumen atau institusi.\n\nWadah perbincangan urusan pemerintah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jabatan kerajaan"
+        },
+        {
+          "id": "B",
+          "text": "Undang-Undang Tubuh Johor"
+        },
+        {
+          "id": "C",
+          "text": "Undang-Undang Terengganu"
+        },
+        {
+          "id": "D",
+          "text": "Majlis Mesyuarat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Majlis Mesyuarat: Wadah perbincangan urusan pemerintah.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q016",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Padankan dokumen atau institusi.\n\nUnit khusus untuk mengendalikan bidang pentadbiran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jabatan kerajaan"
+        },
+        {
+          "id": "B",
+          "text": "Undang-Undang Tubuh Johor"
+        },
+        {
+          "id": "C",
+          "text": "Undang-Undang Terengganu"
+        },
+        {
+          "id": "D",
+          "text": "Majlis Mesyuarat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Jabatan kerajaan: Unit khusus untuk mengendalikan bidang pentadbiran.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q017",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Apakah matlamat pembaharuan?\n\nHak menentukan pemerintahan negeri dipertahankan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedaulatan"
+        },
+        {
+          "id": "B",
+          "text": "Kecekapan"
+        },
+        {
+          "id": "C",
+          "text": "Kestabilan"
+        },
+        {
+          "id": "D",
+          "text": "Kebajikan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kedaulatan: Hak menentukan pemerintahan negeri dipertahankan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q018",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Apakah matlamat pembaharuan?\n\nUrusan kerajaan dilaksanakan dengan lebih teratur.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedaulatan"
+        },
+        {
+          "id": "B",
+          "text": "Kecekapan"
+        },
+        {
+          "id": "C",
+          "text": "Kestabilan"
+        },
+        {
+          "id": "D",
+          "text": "Kebajikan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kecekapan: Urusan kerajaan dilaksanakan dengan lebih teratur.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q019",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Apakah matlamat pembaharuan?\n\nKonflik dalaman dikurangkan melalui aturan jelas.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedaulatan"
+        },
+        {
+          "id": "B",
+          "text": "Kecekapan"
+        },
+        {
+          "id": "C",
+          "text": "Kestabilan"
+        },
+        {
+          "id": "D",
+          "text": "Kebajikan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kestabilan: Konflik dalaman dikurangkan melalui aturan jelas.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q020",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Apakah matlamat pembaharuan?\n\nKemudahan serta kepentingan rakyat diberi perhatian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedaulatan"
+        },
+        {
+          "id": "B",
+          "text": "Kecekapan"
+        },
+        {
+          "id": "C",
+          "text": "Kestabilan"
+        },
+        {
+          "id": "D",
+          "text": "Kebajikan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kebajikan: Kemudahan serta kepentingan rakyat diberi perhatian.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q021",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Kenal pasti kemahiran pemimpin.\n\nMengemukakan pendirian melalui perbincangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Merancang"
+        },
+        {
+          "id": "B",
+          "text": "Menilai risiko"
+        },
+        {
+          "id": "C",
+          "text": "Membina jaringan"
+        },
+        {
+          "id": "D",
+          "text": "Berunding"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Berunding: Mengemukakan pendirian melalui perbincangan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q022",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Kenal pasti kemahiran pemimpin.\n\nMenyusun langkah sebelum melaksanakan dasar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Merancang"
+        },
+        {
+          "id": "B",
+          "text": "Menilai risiko"
+        },
+        {
+          "id": "C",
+          "text": "Membina jaringan"
+        },
+        {
+          "id": "D",
+          "text": "Berunding"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Merancang: Menyusun langkah sebelum melaksanakan dasar.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q023",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Kenal pasti kemahiran pemimpin.\n\nMeneliti kemungkinan buruk sesuatu perjanjian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Merancang"
+        },
+        {
+          "id": "B",
+          "text": "Menilai risiko"
+        },
+        {
+          "id": "C",
+          "text": "Membina jaringan"
+        },
+        {
+          "id": "D",
+          "text": "Berunding"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Menilai risiko: Meneliti kemungkinan buruk sesuatu perjanjian.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q024",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Kenal pasti kemahiran pemimpin.\n\nMenjalin hubungan dengan pihak yang membantu kepentingan negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Merancang"
+        },
+        {
+          "id": "B",
+          "text": "Menilai risiko"
+        },
+        {
+          "id": "C",
+          "text": "Membina jaringan"
+        },
+        {
+          "id": "D",
+          "text": "Berunding"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Membina jaringan: Menjalin hubungan dengan pihak yang membantu kepentingan negeri.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q025",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Padankan pembaharuan dengan bidang.\n\nHasil dan belanja direkodkan secara teratur.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertahanan"
+        },
+        {
+          "id": "B",
+          "text": "Perhubungan"
+        },
+        {
+          "id": "C",
+          "text": "Kewangan"
+        },
+        {
+          "id": "D",
+          "text": "Pendidikan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kewangan: Hasil dan belanja direkodkan secara teratur.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q026",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Padankan pembaharuan dengan bidang.\n\nSekolah serta latihan pegawai diperkembangkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertahanan"
+        },
+        {
+          "id": "B",
+          "text": "Perhubungan"
+        },
+        {
+          "id": "C",
+          "text": "Kewangan"
+        },
+        {
+          "id": "D",
+          "text": "Pendidikan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pendidikan: Sekolah serta latihan pegawai diperkembangkan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q027",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Padankan pembaharuan dengan bidang.\n\nPasukan keselamatan disusun bagi menjaga negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertahanan"
+        },
+        {
+          "id": "B",
+          "text": "Perhubungan"
+        },
+        {
+          "id": "C",
+          "text": "Kewangan"
+        },
+        {
+          "id": "D",
+          "text": "Pendidikan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pertahanan: Pasukan keselamatan disusun bagi menjaga negeri.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q028",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Padankan pembaharuan dengan bidang.\n\nJalan dibina untuk menghubungkan pusat pentadbiran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertahanan"
+        },
+        {
+          "id": "B",
+          "text": "Perhubungan"
+        },
+        {
+          "id": "C",
+          "text": "Kewangan"
+        },
+        {
+          "id": "D",
+          "text": "Pendidikan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perhubungan: Jalan dibina untuk menghubungkan pusat pentadbiran.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q029",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Apakah fungsi perlembagaan negeri?\n\nSyarat pewarisan jawatan pemerintah diperjelas.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengatur mesyuarat"
+        },
+        {
+          "id": "B",
+          "text": "Menetapkan penggantian"
+        },
+        {
+          "id": "C",
+          "text": "Menyusun kuasa"
+        },
+        {
+          "id": "D",
+          "text": "Melindungi kedaulatan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Menetapkan penggantian: Syarat pewarisan jawatan pemerintah diperjelas.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q030",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Apakah fungsi perlembagaan negeri?\n\nTanggungjawab raja dan pegawai ditentukan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengatur mesyuarat"
+        },
+        {
+          "id": "B",
+          "text": "Menetapkan penggantian"
+        },
+        {
+          "id": "C",
+          "text": "Menyusun kuasa"
+        },
+        {
+          "id": "D",
+          "text": "Melindungi kedaulatan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Menyusun kuasa: Tanggungjawab raja dan pegawai ditentukan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q031",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Apakah fungsi perlembagaan negeri?\n\nLarangan menyerahkan negeri kepada kuasa asing dinyatakan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengatur mesyuarat"
+        },
+        {
+          "id": "B",
+          "text": "Menetapkan penggantian"
+        },
+        {
+          "id": "C",
+          "text": "Menyusun kuasa"
+        },
+        {
+          "id": "D",
+          "text": "Melindungi kedaulatan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Melindungi kedaulatan: Larangan menyerahkan negeri kepada kuasa asing dinyatakan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q032",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Apakah fungsi perlembagaan negeri?\n\nKaedah membuat keputusan kerajaan diberikan aturan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengatur mesyuarat"
+        },
+        {
+          "id": "B",
+          "text": "Menetapkan penggantian"
+        },
+        {
+          "id": "C",
+          "text": "Menyusun kuasa"
+        },
+        {
+          "id": "D",
+          "text": "Melindungi kedaulatan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Mengatur mesyuarat: Kaedah membuat keputusan kerajaan diberikan aturan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q033",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Kenal pasti sikap pemimpin berkesan.\n\nMemikirkan akibat dasar terhadap generasi akan datang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Berpandangan jauh"
+        },
+        {
+          "id": "B",
+          "text": "Berhati-hati"
+        },
+        {
+          "id": "C",
+          "text": "Terbuka kepada ilmu"
+        },
+        {
+          "id": "D",
+          "text": "Tegas berprinsip"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Berpandangan jauh: Memikirkan akibat dasar terhadap generasi akan datang.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q034",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Kenal pasti sikap pemimpin berkesan.\n\nTidak menerima tuntutan asing tanpa penelitian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Berpandangan jauh"
+        },
+        {
+          "id": "B",
+          "text": "Berhati-hati"
+        },
+        {
+          "id": "C",
+          "text": "Terbuka kepada ilmu"
+        },
+        {
+          "id": "D",
+          "text": "Tegas berprinsip"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Berhati-hati: Tidak menerima tuntutan asing tanpa penelitian.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q035",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Kenal pasti sikap pemimpin berkesan.\n\nMempelajari kaedah pentadbiran baharu yang bermanfaat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Berpandangan jauh"
+        },
+        {
+          "id": "B",
+          "text": "Berhati-hati"
+        },
+        {
+          "id": "C",
+          "text": "Terbuka kepada ilmu"
+        },
+        {
+          "id": "D",
+          "text": "Tegas berprinsip"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Terbuka kepada ilmu: Mempelajari kaedah pentadbiran baharu yang bermanfaat.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q036",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Kenal pasti sikap pemimpin berkesan.\n\nMempertahankan hak negeri ketika berunding.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Berpandangan jauh"
+        },
+        {
+          "id": "B",
+          "text": "Berhati-hati"
+        },
+        {
+          "id": "C",
+          "text": "Terbuka kepada ilmu"
+        },
+        {
+          "id": "D",
+          "text": "Tegas berprinsip"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Tegas berprinsip: Mempertahankan hak negeri ketika berunding.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q037",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Padankan ukuran kejayaan strategi.\n\nPemerintah masih dapat menentukan beberapa urusan penting.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pentadbiran diperkukuh"
+        },
+        {
+          "id": "B",
+          "text": "Ilmu tempatan berkembang"
+        },
+        {
+          "id": "C",
+          "text": "Kesedaran rakyat meningkat"
+        },
+        {
+          "id": "D",
+          "text": "Ruang kuasa dikekalkan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Ruang kuasa dikekalkan: Pemerintah masih dapat menentukan beberapa urusan penting.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q038",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Padankan ukuran kejayaan strategi.\n\nPegawai dan jabatan menjalankan tugas lebih sistematik.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pentadbiran diperkukuh"
+        },
+        {
+          "id": "B",
+          "text": "Ilmu tempatan berkembang"
+        },
+        {
+          "id": "C",
+          "text": "Kesedaran rakyat meningkat"
+        },
+        {
+          "id": "D",
+          "text": "Ruang kuasa dikekalkan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pentadbiran diperkukuh: Pegawai dan jabatan menjalankan tugas lebih sistematik.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q039",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Padankan ukuran kejayaan strategi.\n\nAnak negeri dilatih mengurus bidang baharu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pentadbiran diperkukuh"
+        },
+        {
+          "id": "B",
+          "text": "Ilmu tempatan berkembang"
+        },
+        {
+          "id": "C",
+          "text": "Kesedaran rakyat meningkat"
+        },
+        {
+          "id": "D",
+          "text": "Ruang kuasa dikekalkan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Ilmu tempatan berkembang: Anak negeri dilatih mengurus bidang baharu.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t3-b08-q040",
+      "form": 3,
+      "chapter": 8,
+      "prompt": "Padankan ukuran kejayaan strategi.\n\nMasyarakat memahami pentingnya mempertahankan kedaulatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pentadbiran diperkukuh"
+        },
+        {
+          "id": "B",
+          "text": "Ilmu tempatan berkembang"
+        },
+        {
+          "id": "C",
+          "text": "Kesedaran rakyat meningkat"
+        },
+        {
+          "id": "D",
+          "text": "Ruang kuasa dikekalkan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kesedaran rakyat meningkat: Masyarakat memahami pentingnya mempertahankan kedaulatan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    }
+  ]
+}

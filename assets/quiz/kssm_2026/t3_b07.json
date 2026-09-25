@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 3,
+  "chapter": 7,
+  "title": "Penentangan Masyarakat Tempatan",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t3_b07.json",
+  "questions": [
+    {
+      "id": "t3-b07-q001",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Padankan tokoh dengan kawasan penentangan.\n\nTokoh penentangan Naning.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dol Said"
+        },
+        {
+          "id": "B",
+          "text": "Dato' Maharaja Lela"
+        },
+        {
+          "id": "C",
+          "text": "Yamtuan Antah"
+        },
+        {
+          "id": "D",
+          "text": "Dato' Bahaman"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Dol Said: Tokoh penentangan Naning.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q002",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Padankan tokoh dengan kawasan penentangan.\n\nTokoh Perak yang dikaitkan dengan penentangan terhadap Birch.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dol Said"
+        },
+        {
+          "id": "B",
+          "text": "Dato' Maharaja Lela"
+        },
+        {
+          "id": "C",
+          "text": "Yamtuan Antah"
+        },
+        {
+          "id": "D",
+          "text": "Dato' Bahaman"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Dato' Maharaja Lela: Tokoh Perak yang dikaitkan dengan penentangan terhadap Birch.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q003",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Padankan tokoh dengan kawasan penentangan.\n\nTokoh Negeri Sembilan yang mempertahankan Seri Menanti.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dol Said"
+        },
+        {
+          "id": "B",
+          "text": "Dato' Maharaja Lela"
+        },
+        {
+          "id": "C",
+          "text": "Yamtuan Antah"
+        },
+        {
+          "id": "D",
+          "text": "Dato' Bahaman"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Yamtuan Antah: Tokoh Negeri Sembilan yang mempertahankan Seri Menanti.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q004",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Padankan tokoh dengan kawasan penentangan.\n\nTokoh penentangan Pahang dari Semantan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dol Said"
+        },
+        {
+          "id": "B",
+          "text": "Dato' Maharaja Lela"
+        },
+        {
+          "id": "C",
+          "text": "Yamtuan Antah"
+        },
+        {
+          "id": "D",
+          "text": "Dato' Bahaman"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Dato' Bahaman: Tokoh penentangan Pahang dari Semantan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q005",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Kenal pasti pejuang.\n\nPemimpin Iban yang menentang Brooke di Sarawak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sharif Masahor"
+        },
+        {
+          "id": "B",
+          "text": "Mat Salleh"
+        },
+        {
+          "id": "C",
+          "text": "Tok Janggut"
+        },
+        {
+          "id": "D",
+          "text": "Rentap"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Rentap: Pemimpin Iban yang menentang Brooke di Sarawak.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q006",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Kenal pasti pejuang.\n\nPembesar Sarawak yang menentang peluasan Brooke.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sharif Masahor"
+        },
+        {
+          "id": "B",
+          "text": "Mat Salleh"
+        },
+        {
+          "id": "C",
+          "text": "Tok Janggut"
+        },
+        {
+          "id": "D",
+          "text": "Rentap"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Sharif Masahor: Pembesar Sarawak yang menentang peluasan Brooke.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q007",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Kenal pasti pejuang.\n\nPemimpin Sabah yang menentang SBUB.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sharif Masahor"
+        },
+        {
+          "id": "B",
+          "text": "Mat Salleh"
+        },
+        {
+          "id": "C",
+          "text": "Tok Janggut"
+        },
+        {
+          "id": "D",
+          "text": "Rentap"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Mat Salleh: Pemimpin Sabah yang menentang SBUB.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q008",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Kenal pasti pejuang.\n\nTokoh penentangan di Pasir Puteh, Kelantan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sharif Masahor"
+        },
+        {
+          "id": "B",
+          "text": "Mat Salleh"
+        },
+        {
+          "id": "C",
+          "text": "Tok Janggut"
+        },
+        {
+          "id": "D",
+          "text": "Rentap"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Tok Janggut: Tokoh penentangan di Pasir Puteh, Kelantan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q009",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Padankan tokoh atau tempat.\n\nUlama yang membela penduduk dalam isu tanah Terengganu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bukit Sadok"
+        },
+        {
+          "id": "B",
+          "text": "Tambunan"
+        },
+        {
+          "id": "C",
+          "text": "Haji Abdul Rahman Limbong"
+        },
+        {
+          "id": "D",
+          "text": "Mat Sator"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Haji Abdul Rahman Limbong: Ulama yang membela penduduk dalam isu tanah Terengganu.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q010",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Padankan tokoh atau tempat.\n\nPemimpin Sabah yang meneruskan penentangan berkaitan gerakan Mat Salleh.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bukit Sadok"
+        },
+        {
+          "id": "B",
+          "text": "Tambunan"
+        },
+        {
+          "id": "C",
+          "text": "Haji Abdul Rahman Limbong"
+        },
+        {
+          "id": "D",
+          "text": "Mat Sator"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Mat Sator: Pemimpin Sabah yang meneruskan penentangan berkaitan gerakan Mat Salleh.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q011",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Padankan tokoh atau tempat.\n\nKubu yang dikaitkan dengan Rentap.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bukit Sadok"
+        },
+        {
+          "id": "B",
+          "text": "Tambunan"
+        },
+        {
+          "id": "C",
+          "text": "Haji Abdul Rahman Limbong"
+        },
+        {
+          "id": "D",
+          "text": "Mat Sator"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Bukit Sadok: Kubu yang dikaitkan dengan Rentap.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q012",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Padankan tokoh atau tempat.\n\nKawasan pertahanan penting Mat Salleh.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bukit Sadok"
+        },
+        {
+          "id": "B",
+          "text": "Tambunan"
+        },
+        {
+          "id": "C",
+          "text": "Haji Abdul Rahman Limbong"
+        },
+        {
+          "id": "D",
+          "text": "Mat Sator"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Tambunan: Kawasan pertahanan penting Mat Salleh.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q013",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Apakah punca penentangan?\n\nPenduduk membantah beban bayaran penjajah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peraturan tanah"
+        },
+        {
+          "id": "B",
+          "text": "Cukai baharu"
+        },
+        {
+          "id": "C",
+          "text": "Kehilangan kuasa"
+        },
+        {
+          "id": "D",
+          "text": "Campur tangan adat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Cukai baharu: Penduduk membantah beban bayaran penjajah.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q014",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Apakah punca penentangan?\n\nPembesar tidak lagi mengawal hasil serta urusan wilayah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peraturan tanah"
+        },
+        {
+          "id": "B",
+          "text": "Cukai baharu"
+        },
+        {
+          "id": "C",
+          "text": "Kehilangan kuasa"
+        },
+        {
+          "id": "D",
+          "text": "Campur tangan adat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kehilangan kuasa: Pembesar tidak lagi mengawal hasil serta urusan wilayah.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q015",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Apakah punca penentangan?\n\nAturan asing mengganggu amalan masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peraturan tanah"
+        },
+        {
+          "id": "B",
+          "text": "Cukai baharu"
+        },
+        {
+          "id": "C",
+          "text": "Kehilangan kuasa"
+        },
+        {
+          "id": "D",
+          "text": "Campur tangan adat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Campur tangan adat: Aturan asing mengganggu amalan masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q016",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Apakah punca penentangan?\n\nPenduduk memerlukan kebenaran baharu untuk mengusahakan kawasan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peraturan tanah"
+        },
+        {
+          "id": "B",
+          "text": "Cukai baharu"
+        },
+        {
+          "id": "C",
+          "text": "Kehilangan kuasa"
+        },
+        {
+          "id": "D",
+          "text": "Campur tangan adat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Peraturan tanah: Penduduk memerlukan kebenaran baharu untuk mengusahakan kawasan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q017",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Kenal pasti bentuk tindakan.\n\nPejuang menyerang kedudukan penjajah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Serangan bersenjata"
+        },
+        {
+          "id": "B",
+          "text": "Pembinaan kubu"
+        },
+        {
+          "id": "C",
+          "text": "Bantahan"
+        },
+        {
+          "id": "D",
+          "text": "Keengganan membayar cukai"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Serangan bersenjata: Pejuang menyerang kedudukan penjajah.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q018",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Kenal pasti bentuk tindakan.\n\nPertahanan disediakan di lokasi strategik.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Serangan bersenjata"
+        },
+        {
+          "id": "B",
+          "text": "Pembinaan kubu"
+        },
+        {
+          "id": "C",
+          "text": "Bantahan"
+        },
+        {
+          "id": "D",
+          "text": "Keengganan membayar cukai"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pembinaan kubu: Pertahanan disediakan di lokasi strategik.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q019",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Kenal pasti bentuk tindakan.\n\nTuntutan penolakan disampaikan kepada pihak berkuasa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Serangan bersenjata"
+        },
+        {
+          "id": "B",
+          "text": "Pembinaan kubu"
+        },
+        {
+          "id": "C",
+          "text": "Bantahan"
+        },
+        {
+          "id": "D",
+          "text": "Keengganan membayar cukai"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Bantahan: Tuntutan penolakan disampaikan kepada pihak berkuasa.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q020",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Kenal pasti bentuk tindakan.\n\nPenduduk menolak pungutan yang dianggap menindas.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Serangan bersenjata"
+        },
+        {
+          "id": "B",
+          "text": "Pembinaan kubu"
+        },
+        {
+          "id": "C",
+          "text": "Bantahan"
+        },
+        {
+          "id": "D",
+          "text": "Keengganan membayar cukai"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Keengganan membayar cukai: Penduduk menolak pungutan yang dianggap menindas.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q021",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Padankan kekuatan gerakan.\n\nPejuang memahami hutan dan laluan setempat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sokongan penduduk"
+        },
+        {
+          "id": "B",
+          "text": "Kepimpinan"
+        },
+        {
+          "id": "C",
+          "text": "Semangat perjuangan"
+        },
+        {
+          "id": "D",
+          "text": "Pengetahuan kawasan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pengetahuan kawasan: Pejuang memahami hutan dan laluan setempat.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q022",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Padankan kekuatan gerakan.\n\nMasyarakat menyediakan bekalan serta maklumat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sokongan penduduk"
+        },
+        {
+          "id": "B",
+          "text": "Kepimpinan"
+        },
+        {
+          "id": "C",
+          "text": "Semangat perjuangan"
+        },
+        {
+          "id": "D",
+          "text": "Pengetahuan kawasan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Sokongan penduduk: Masyarakat menyediakan bekalan serta maklumat.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q023",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Padankan kekuatan gerakan.\n\nTokoh menyelaraskan tindakan pengikut.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sokongan penduduk"
+        },
+        {
+          "id": "B",
+          "text": "Kepimpinan"
+        },
+        {
+          "id": "C",
+          "text": "Semangat perjuangan"
+        },
+        {
+          "id": "D",
+          "text": "Pengetahuan kawasan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kepimpinan: Tokoh menyelaraskan tindakan pengikut.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q024",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Padankan kekuatan gerakan.\n\nKeazaman mempertahankan hak mendorong pengorbanan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sokongan penduduk"
+        },
+        {
+          "id": "B",
+          "text": "Kepimpinan"
+        },
+        {
+          "id": "C",
+          "text": "Semangat perjuangan"
+        },
+        {
+          "id": "D",
+          "text": "Pengetahuan kawasan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Semangat perjuangan: Keazaman mempertahankan hak mendorong pengorbanan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q025",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Apakah kelemahan gerakan?\n\nTeknologi senjata tidak setanding pihak penjajah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kekurangan bekalan"
+        },
+        {
+          "id": "B",
+          "text": "Perpecahan"
+        },
+        {
+          "id": "C",
+          "text": "Persenjataan terhad"
+        },
+        {
+          "id": "D",
+          "text": "Gerakan setempat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Persenjataan terhad: Teknologi senjata tidak setanding pihak penjajah.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q026",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Apakah kelemahan gerakan?\n\nPenentangan sukar diselaraskan antara wilayah jauh.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kekurangan bekalan"
+        },
+        {
+          "id": "B",
+          "text": "Perpecahan"
+        },
+        {
+          "id": "C",
+          "text": "Persenjataan terhad"
+        },
+        {
+          "id": "D",
+          "text": "Gerakan setempat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Gerakan setempat: Penentangan sukar diselaraskan antara wilayah jauh.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q027",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Apakah kelemahan gerakan?\n\nMakanan dan bahan perang tidak mencukupi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kekurangan bekalan"
+        },
+        {
+          "id": "B",
+          "text": "Perpecahan"
+        },
+        {
+          "id": "C",
+          "text": "Persenjataan terhad"
+        },
+        {
+          "id": "D",
+          "text": "Gerakan setempat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kekurangan bekalan: Makanan dan bahan perang tidak mencukupi.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q028",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Apakah kelemahan gerakan?\n\nKetidaksetujuan antara kelompok melemahkan kerjasama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kekurangan bekalan"
+        },
+        {
+          "id": "B",
+          "text": "Perpecahan"
+        },
+        {
+          "id": "C",
+          "text": "Persenjataan terhad"
+        },
+        {
+          "id": "D",
+          "text": "Gerakan setempat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perpecahan: Ketidaksetujuan antara kelompok melemahkan kerjasama.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q029",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Kenal pasti tindak balas penjajah.\n\nPasukan bersenjata dihantar menumpaskan gerakan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rundingan"
+        },
+        {
+          "id": "B",
+          "text": "Tindakan tentera"
+        },
+        {
+          "id": "C",
+          "text": "Penangkapan"
+        },
+        {
+          "id": "D",
+          "text": "Pembuangan negeri"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Tindakan tentera: Pasukan bersenjata dihantar menumpaskan gerakan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q030",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Kenal pasti tindak balas penjajah.\n\nPemimpin ditahan untuk menghentikan kegiatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rundingan"
+        },
+        {
+          "id": "B",
+          "text": "Tindakan tentera"
+        },
+        {
+          "id": "C",
+          "text": "Penangkapan"
+        },
+        {
+          "id": "D",
+          "text": "Pembuangan negeri"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Penangkapan: Pemimpin ditahan untuk menghentikan kegiatan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q031",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Kenal pasti tindak balas penjajah.\n\nTokoh disingkirkan dari kawasan asalnya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rundingan"
+        },
+        {
+          "id": "B",
+          "text": "Tindakan tentera"
+        },
+        {
+          "id": "C",
+          "text": "Penangkapan"
+        },
+        {
+          "id": "D",
+          "text": "Pembuangan negeri"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pembuangan negeri: Tokoh disingkirkan dari kawasan asalnya.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q032",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Kenal pasti tindak balas penjajah.\n\nPerbincangan diadakan bagi meredakan pertentangan tertentu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rundingan"
+        },
+        {
+          "id": "B",
+          "text": "Tindakan tentera"
+        },
+        {
+          "id": "C",
+          "text": "Penangkapan"
+        },
+        {
+          "id": "D",
+          "text": "Pembuangan negeri"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Rundingan: Perbincangan diadakan bagi meredakan pertentangan tertentu.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q033",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Padankan kesan penentangan.\n\nPenduduk menyedari implikasi campur tangan asing.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesedaran mempertahankan hak"
+        },
+        {
+          "id": "B",
+          "text": "Pengorbanan pemimpin"
+        },
+        {
+          "id": "C",
+          "text": "Perubahan strategi"
+        },
+        {
+          "id": "D",
+          "text": "Ingatan masyarakat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kesedaran mempertahankan hak: Penduduk menyedari implikasi campur tangan asing.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q034",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Padankan kesan penentangan.\n\nTokoh menghadapi hukuman kerana perjuangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesedaran mempertahankan hak"
+        },
+        {
+          "id": "B",
+          "text": "Pengorbanan pemimpin"
+        },
+        {
+          "id": "C",
+          "text": "Perubahan strategi"
+        },
+        {
+          "id": "D",
+          "text": "Ingatan masyarakat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pengorbanan pemimpin: Tokoh menghadapi hukuman kerana perjuangan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q035",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Padankan kesan penentangan.\n\nPengalaman tempatan menjadi pengajaran bagi gerakan kemudian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesedaran mempertahankan hak"
+        },
+        {
+          "id": "B",
+          "text": "Pengorbanan pemimpin"
+        },
+        {
+          "id": "C",
+          "text": "Perubahan strategi"
+        },
+        {
+          "id": "D",
+          "text": "Ingatan masyarakat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perubahan strategi: Pengalaman tempatan menjadi pengajaran bagi gerakan kemudian.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q036",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Padankan kesan penentangan.\n\nKisah perjuangan diwariskan kepada generasi seterusnya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesedaran mempertahankan hak"
+        },
+        {
+          "id": "B",
+          "text": "Pengorbanan pemimpin"
+        },
+        {
+          "id": "C",
+          "text": "Perubahan strategi"
+        },
+        {
+          "id": "D",
+          "text": "Ingatan masyarakat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Ingatan masyarakat: Kisah perjuangan diwariskan kepada generasi seterusnya.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q037",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Apakah amalan mengkaji pejuang?\n\nTindakan difahami berdasarkan tekanan zaman tersebut.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Membandingkan sumber"
+        },
+        {
+          "id": "B",
+          "text": "Memahami matlamat"
+        },
+        {
+          "id": "C",
+          "text": "Menghargai pengorbanan"
+        },
+        {
+          "id": "D",
+          "text": "Menilai konteks"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Menilai konteks: Tindakan difahami berdasarkan tekanan zaman tersebut.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q038",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Apakah amalan mengkaji pejuang?\n\nLaporan penjajah diteliti bersama keterangan tempatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Membandingkan sumber"
+        },
+        {
+          "id": "B",
+          "text": "Memahami matlamat"
+        },
+        {
+          "id": "C",
+          "text": "Menghargai pengorbanan"
+        },
+        {
+          "id": "D",
+          "text": "Menilai konteks"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Membandingkan sumber: Laporan penjajah diteliti bersama keterangan tempatan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q039",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Apakah amalan mengkaji pejuang?\n\nPenentangan dilihat sebagai usaha mempertahankan hak tertentu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Membandingkan sumber"
+        },
+        {
+          "id": "B",
+          "text": "Memahami matlamat"
+        },
+        {
+          "id": "C",
+          "text": "Menghargai pengorbanan"
+        },
+        {
+          "id": "D",
+          "text": "Menilai konteks"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Memahami matlamat: Penentangan dilihat sebagai usaha mempertahankan hak tertentu.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t3-b07-q040",
+      "form": 3,
+      "chapter": 7,
+      "prompt": "Apakah amalan mengkaji pejuang?\n\nSumbangan tokoh dikenang tanpa mereka-reka fakta.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Membandingkan sumber"
+        },
+        {
+          "id": "B",
+          "text": "Memahami matlamat"
+        },
+        {
+          "id": "C",
+          "text": "Menghargai pengorbanan"
+        },
+        {
+          "id": "D",
+          "text": "Menilai konteks"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Menghargai pengorbanan: Sumbangan tokoh dikenang tanpa mereka-reka fakta.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    }
+  ]
+}

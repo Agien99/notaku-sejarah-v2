@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 5,
+  "chapter": 2,
+  "title": "Perlembagaan Persekutuan",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t5_b02.json",
+  "questions": [
+    {
+      "id": "t5-b02-q001",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Kenal pasti asas undang-undang.\n\nUndang-undang tertinggi yang menyusun pemerintahan Persekutuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perlembagaan"
+        },
+        {
+          "id": "B",
+          "text": "Undang-undang bertulis"
+        },
+        {
+          "id": "C",
+          "text": "Adat"
+        },
+        {
+          "id": "D",
+          "text": "Undang-undang Inggeris"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perlembagaan: Undang-undang tertinggi yang menyusun pemerintahan Persekutuan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q002",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Kenal pasti asas undang-undang.\n\nPeraturan yang direkod dan digubal melalui kuasa yang sah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perlembagaan"
+        },
+        {
+          "id": "B",
+          "text": "Undang-undang bertulis"
+        },
+        {
+          "id": "C",
+          "text": "Adat"
+        },
+        {
+          "id": "D",
+          "text": "Undang-undang Inggeris"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Undang-undang bertulis: Peraturan yang direkod dan digubal melalui kuasa yang sah.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q003",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Kenal pasti asas undang-undang.\n\nAturan tradisi masyarakat yang diwarisi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perlembagaan"
+        },
+        {
+          "id": "B",
+          "text": "Undang-undang bertulis"
+        },
+        {
+          "id": "C",
+          "text": "Adat"
+        },
+        {
+          "id": "D",
+          "text": "Undang-undang Inggeris"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Adat: Aturan tradisi masyarakat yang diwarisi.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q004",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Kenal pasti asas undang-undang.\n\nPengaruh perundangan yang dibawa semasa pentadbiran British.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perlembagaan"
+        },
+        {
+          "id": "B",
+          "text": "Undang-undang bertulis"
+        },
+        {
+          "id": "C",
+          "text": "Adat"
+        },
+        {
+          "id": "D",
+          "text": "Undang-undang Inggeris"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Undang-undang Inggeris: Pengaruh perundangan yang dibawa semasa pentadbiran British.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q005",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Padankan perkembangan sejarah.\n\nTahun Majlis Negeri Perak menjadi perkembangan penting perundangan moden.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1946"
+        },
+        {
+          "id": "B",
+          "text": "1948"
+        },
+        {
+          "id": "C",
+          "text": "1957"
+        },
+        {
+          "id": "D",
+          "text": "1877"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "1877: Tahun Majlis Negeri Perak menjadi perkembangan penting perundangan moden.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q006",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Padankan perkembangan sejarah.\n\nTahun Malayan Union diperkenalkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1946"
+        },
+        {
+          "id": "B",
+          "text": "1948"
+        },
+        {
+          "id": "C",
+          "text": "1957"
+        },
+        {
+          "id": "D",
+          "text": "1877"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "1946: Tahun Malayan Union diperkenalkan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q007",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Padankan perkembangan sejarah.\n\nTahun susunan Persekutuan Tanah Melayu menggantikan Malayan Union.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1946"
+        },
+        {
+          "id": "B",
+          "text": "1948"
+        },
+        {
+          "id": "C",
+          "text": "1957"
+        },
+        {
+          "id": "D",
+          "text": "1877"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "1948: Tahun susunan Persekutuan Tanah Melayu menggantikan Malayan Union.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q008",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Padankan perkembangan sejarah.\n\nTahun perlembagaan negara merdeka diperkenalkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1946"
+        },
+        {
+          "id": "B",
+          "text": "1948"
+        },
+        {
+          "id": "C",
+          "text": "1957"
+        },
+        {
+          "id": "D",
+          "text": "1877"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "1957: Tahun perlembagaan negara merdeka diperkenalkan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q009",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Kenal pasti ciri tradisional perlembagaan.\n\nInstitusi pemerintah negeri diteruskan dalam kerangka negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bahasa Melayu"
+        },
+        {
+          "id": "B",
+          "text": "Kedudukan istimewa"
+        },
+        {
+          "id": "C",
+          "text": "Pemerintahan beraja"
+        },
+        {
+          "id": "D",
+          "text": "Agama Islam"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pemerintahan beraja: Institusi pemerintah negeri diteruskan dalam kerangka negara.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q010",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Kenal pasti ciri tradisional perlembagaan.\n\nAgama Persekutuan menurut peruntukan perlembagaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bahasa Melayu"
+        },
+        {
+          "id": "B",
+          "text": "Kedudukan istimewa"
+        },
+        {
+          "id": "C",
+          "text": "Pemerintahan beraja"
+        },
+        {
+          "id": "D",
+          "text": "Agama Islam"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Agama Islam: Agama Persekutuan menurut peruntukan perlembagaan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q011",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Kenal pasti ciri tradisional perlembagaan.\n\nBahasa kebangsaan negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bahasa Melayu"
+        },
+        {
+          "id": "B",
+          "text": "Kedudukan istimewa"
+        },
+        {
+          "id": "C",
+          "text": "Pemerintahan beraja"
+        },
+        {
+          "id": "D",
+          "text": "Agama Islam"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Bahasa Melayu: Bahasa kebangsaan negara.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q012",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Kenal pasti ciri tradisional perlembagaan.\n\nPeruntukan yang memelihara kedudukan orang Melayu dan anak negeri Sabah serta Sarawak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bahasa Melayu"
+        },
+        {
+          "id": "B",
+          "text": "Kedudukan istimewa"
+        },
+        {
+          "id": "C",
+          "text": "Pemerintahan beraja"
+        },
+        {
+          "id": "D",
+          "text": "Agama Islam"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kedudukan istimewa: Peruntukan yang memelihara kedudukan orang Melayu dan anak negeri Sabah serta Sarawak.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q013",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Padankan unsur moden.\n\nPembahagian bidang urusan antara pusat dengan negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pilihan raya"
+        },
+        {
+          "id": "B",
+          "text": "Kerajaan Persekutuan"
+        },
+        {
+          "id": "C",
+          "text": "Demokrasi Berparlimen"
+        },
+        {
+          "id": "D",
+          "text": "Kewarganegaraan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kerajaan Persekutuan: Pembahagian bidang urusan antara pusat dengan negeri.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q014",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Padankan unsur moden.\n\nPemerintahan melibatkan wakil rakyat dalam Parlimen.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pilihan raya"
+        },
+        {
+          "id": "B",
+          "text": "Kerajaan Persekutuan"
+        },
+        {
+          "id": "C",
+          "text": "Demokrasi Berparlimen"
+        },
+        {
+          "id": "D",
+          "text": "Kewarganegaraan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Demokrasi Berparlimen: Pemerintahan melibatkan wakil rakyat dalam Parlimen.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q015",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Padankan unsur moden.\n\nTaraf sah seseorang sebagai anggota negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pilihan raya"
+        },
+        {
+          "id": "B",
+          "text": "Kerajaan Persekutuan"
+        },
+        {
+          "id": "C",
+          "text": "Demokrasi Berparlimen"
+        },
+        {
+          "id": "D",
+          "text": "Kewarganegaraan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kewarganegaraan: Taraf sah seseorang sebagai anggota negara.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q016",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Padankan unsur moden.\n\nProses rakyat memilih wakil mengikut aturan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pilihan raya"
+        },
+        {
+          "id": "B",
+          "text": "Kerajaan Persekutuan"
+        },
+        {
+          "id": "C",
+          "text": "Demokrasi Berparlimen"
+        },
+        {
+          "id": "D",
+          "text": "Kewarganegaraan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pilihan raya: Proses rakyat memilih wakil mengikut aturan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q017",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Kenal pasti fungsi perlembagaan.\n\nPemerintah tidak boleh bertindak tanpa batas aturan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengehadkan kuasa"
+        },
+        {
+          "id": "B",
+          "text": "Menjamin hak"
+        },
+        {
+          "id": "C",
+          "text": "Menyusun institusi"
+        },
+        {
+          "id": "D",
+          "text": "Menyelesaikan pertikaian kuasa"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Mengehadkan kuasa: Pemerintah tidak boleh bertindak tanpa batas aturan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q018",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Kenal pasti fungsi perlembagaan.\n\nKebebasan tertentu dilindungi menurut peruntukan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengehadkan kuasa"
+        },
+        {
+          "id": "B",
+          "text": "Menjamin hak"
+        },
+        {
+          "id": "C",
+          "text": "Menyusun institusi"
+        },
+        {
+          "id": "D",
+          "text": "Menyelesaikan pertikaian kuasa"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Menjamin hak: Kebebasan tertentu dilindungi menurut peruntukan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q019",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Kenal pasti fungsi perlembagaan.\n\nHubungan badan kerajaan dijelaskan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengehadkan kuasa"
+        },
+        {
+          "id": "B",
+          "text": "Menjamin hak"
+        },
+        {
+          "id": "C",
+          "text": "Menyusun institusi"
+        },
+        {
+          "id": "D",
+          "text": "Menyelesaikan pertikaian kuasa"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Menyusun institusi: Hubungan badan kerajaan dijelaskan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q020",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Kenal pasti fungsi perlembagaan.\n\nBidang kuasa dirujuk apabila pusat dan negeri berbeza pendapat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengehadkan kuasa"
+        },
+        {
+          "id": "B",
+          "text": "Menjamin hak"
+        },
+        {
+          "id": "C",
+          "text": "Menyusun institusi"
+        },
+        {
+          "id": "D",
+          "text": "Menyelesaikan pertikaian kuasa"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Menyelesaikan pertikaian kuasa: Bidang kuasa dirujuk apabila pusat dan negeri berbeza pendapat.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q021",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Padankan pindaan sejarah.\n\nMenyesuaikan susunan perlembagaan bagi penyertaan wilayah baharu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pindaan 1965"
+        },
+        {
+          "id": "B",
+          "text": "Pembentukan Malaysia"
+        },
+        {
+          "id": "C",
+          "text": "Pemisahan Singapura"
+        },
+        {
+          "id": "D",
+          "text": "Pindaan 1963"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pindaan 1963: Menyesuaikan susunan perlembagaan bagi penyertaan wilayah baharu.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q022",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Padankan pindaan sejarah.\n\nMenyesuaikan keanggotaan selepas sebuah negeri keluar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pindaan 1965"
+        },
+        {
+          "id": "B",
+          "text": "Pembentukan Malaysia"
+        },
+        {
+          "id": "C",
+          "text": "Pemisahan Singapura"
+        },
+        {
+          "id": "D",
+          "text": "Pindaan 1963"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pindaan 1965: Menyesuaikan keanggotaan selepas sebuah negeri keluar.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q023",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Padankan pindaan sejarah.\n\nPerubahan politik 16 September yang melibatkan Sabah dan Sarawak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pindaan 1965"
+        },
+        {
+          "id": "B",
+          "text": "Pembentukan Malaysia"
+        },
+        {
+          "id": "C",
+          "text": "Pemisahan Singapura"
+        },
+        {
+          "id": "D",
+          "text": "Pindaan 1963"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pembentukan Malaysia: Perubahan politik 16 September yang melibatkan Sabah dan Sarawak.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q024",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Padankan pindaan sejarah.\n\nPeristiwa 9 Ogos 1965 yang mengubah komposisi Persekutuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pindaan 1965"
+        },
+        {
+          "id": "B",
+          "text": "Pembentukan Malaysia"
+        },
+        {
+          "id": "C",
+          "text": "Pemisahan Singapura"
+        },
+        {
+          "id": "D",
+          "text": "Pindaan 1963"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pemisahan Singapura: Peristiwa 9 Ogos 1965 yang mengubah komposisi Persekutuan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q025",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Kenal pasti institusi.\n\nBadan perundangan pada peringkat Persekutuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mahkamah"
+        },
+        {
+          "id": "B",
+          "text": "Jemaah Menteri"
+        },
+        {
+          "id": "C",
+          "text": "Parlimen"
+        },
+        {
+          "id": "D",
+          "text": "Dewan Undangan Negeri"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Parlimen: Badan perundangan pada peringkat Persekutuan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q026",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Kenal pasti institusi.\n\nBadan perundangan pada peringkat negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mahkamah"
+        },
+        {
+          "id": "B",
+          "text": "Jemaah Menteri"
+        },
+        {
+          "id": "C",
+          "text": "Parlimen"
+        },
+        {
+          "id": "D",
+          "text": "Dewan Undangan Negeri"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Dewan Undangan Negeri: Badan perundangan pada peringkat negeri.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q027",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Kenal pasti institusi.\n\nInstitusi yang mengadili pertikaian melalui proses kehakiman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mahkamah"
+        },
+        {
+          "id": "B",
+          "text": "Jemaah Menteri"
+        },
+        {
+          "id": "C",
+          "text": "Parlimen"
+        },
+        {
+          "id": "D",
+          "text": "Dewan Undangan Negeri"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Mahkamah: Institusi yang mengadili pertikaian melalui proses kehakiman.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q028",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Kenal pasti institusi.\n\nBadan eksekutif yang merancang dasar kerajaan Persekutuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mahkamah"
+        },
+        {
+          "id": "B",
+          "text": "Jemaah Menteri"
+        },
+        {
+          "id": "C",
+          "text": "Parlimen"
+        },
+        {
+          "id": "D",
+          "text": "Dewan Undangan Negeri"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Jemaah Menteri: Badan eksekutif yang merancang dasar kerajaan Persekutuan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q029",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Apakah prinsip perundangan yang ditunjukkan?\n\nUndang-undang biasa mesti selaras dengan undang-undang tertinggi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertanggungjawaban"
+        },
+        {
+          "id": "B",
+          "text": "Keluhuran perlembagaan"
+        },
+        {
+          "id": "C",
+          "text": "Kedaulatan undang-undang"
+        },
+        {
+          "id": "D",
+          "text": "Prosedur sah"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Keluhuran perlembagaan: Undang-undang biasa mesti selaras dengan undang-undang tertinggi.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q030",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Apakah prinsip perundangan yang ditunjukkan?\n\nKuasa dilaksanakan berdasarkan aturan, bukan kehendak peribadi semata-mata.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertanggungjawaban"
+        },
+        {
+          "id": "B",
+          "text": "Keluhuran perlembagaan"
+        },
+        {
+          "id": "C",
+          "text": "Kedaulatan undang-undang"
+        },
+        {
+          "id": "D",
+          "text": "Prosedur sah"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kedaulatan undang-undang: Kuasa dilaksanakan berdasarkan aturan, bukan kehendak peribadi semata-mata.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q031",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Apakah prinsip perundangan yang ditunjukkan?\n\nPindaan dibuat mengikut syarat yang ditetapkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertanggungjawaban"
+        },
+        {
+          "id": "B",
+          "text": "Keluhuran perlembagaan"
+        },
+        {
+          "id": "C",
+          "text": "Kedaulatan undang-undang"
+        },
+        {
+          "id": "D",
+          "text": "Prosedur sah"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Prosedur sah: Pindaan dibuat mengikut syarat yang ditetapkan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q032",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Apakah prinsip perundangan yang ditunjukkan?\n\nInstitusi perlu menjelaskan tindakan dalam bidang kuasanya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertanggungjawaban"
+        },
+        {
+          "id": "B",
+          "text": "Keluhuran perlembagaan"
+        },
+        {
+          "id": "C",
+          "text": "Kedaulatan undang-undang"
+        },
+        {
+          "id": "D",
+          "text": "Prosedur sah"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pertanggungjawaban: Institusi perlu menjelaskan tindakan dalam bidang kuasanya.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q033",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Padankan kaedah kajian.\n\nPengkaji merujuk ayat sebenar dokumen.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Membaca teks"
+        },
+        {
+          "id": "B",
+          "text": "Meneliti pindaan"
+        },
+        {
+          "id": "C",
+          "text": "Mengkaji sejarah"
+        },
+        {
+          "id": "D",
+          "text": "Membandingkan peruntukan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Membaca teks: Pengkaji merujuk ayat sebenar dokumen.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q034",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Padankan kaedah kajian.\n\nPengkaji menyemak perubahan mengikut tahun.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Membaca teks"
+        },
+        {
+          "id": "B",
+          "text": "Meneliti pindaan"
+        },
+        {
+          "id": "C",
+          "text": "Mengkaji sejarah"
+        },
+        {
+          "id": "D",
+          "text": "Membandingkan peruntukan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Meneliti pindaan: Pengkaji menyemak perubahan mengikut tahun.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q035",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Padankan kaedah kajian.\n\nPengkaji meneliti keadaan yang melahirkan persetujuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Membaca teks"
+        },
+        {
+          "id": "B",
+          "text": "Meneliti pindaan"
+        },
+        {
+          "id": "C",
+          "text": "Mengkaji sejarah"
+        },
+        {
+          "id": "D",
+          "text": "Membandingkan peruntukan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Mengkaji sejarah: Pengkaji meneliti keadaan yang melahirkan persetujuan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q036",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Padankan kaedah kajian.\n\nPengkaji melihat hubungan antara bahagian dokumen.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Membaca teks"
+        },
+        {
+          "id": "B",
+          "text": "Meneliti pindaan"
+        },
+        {
+          "id": "C",
+          "text": "Mengkaji sejarah"
+        },
+        {
+          "id": "D",
+          "text": "Membandingkan peruntukan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Membandingkan peruntukan: Pengkaji melihat hubungan antara bahagian dokumen.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q037",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Apakah kesan perlembagaan yang stabil?\n\nRakyat mengetahui asas hak dan tanggungjawab.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perlindungan institusi"
+        },
+        {
+          "id": "B",
+          "text": "Keharmonian"
+        },
+        {
+          "id": "C",
+          "text": "Keyakinan pentadbiran"
+        },
+        {
+          "id": "D",
+          "text": "Kepastian aturan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kepastian aturan: Rakyat mengetahui asas hak dan tanggungjawab.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q038",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Apakah kesan perlembagaan yang stabil?\n\nPeranan badan negara tidak bergantung pada kehendak individu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perlindungan institusi"
+        },
+        {
+          "id": "B",
+          "text": "Keharmonian"
+        },
+        {
+          "id": "C",
+          "text": "Keyakinan pentadbiran"
+        },
+        {
+          "id": "D",
+          "text": "Kepastian aturan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perlindungan institusi: Peranan badan negara tidak bergantung pada kehendak individu.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q039",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Apakah kesan perlembagaan yang stabil?\n\nPerbezaan dapat diurus melalui kerangka bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perlindungan institusi"
+        },
+        {
+          "id": "B",
+          "text": "Keharmonian"
+        },
+        {
+          "id": "C",
+          "text": "Keyakinan pentadbiran"
+        },
+        {
+          "id": "D",
+          "text": "Kepastian aturan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Keharmonian: Perbezaan dapat diurus melalui kerangka bersama.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t5-b02-q040",
+      "form": 5,
+      "chapter": 2,
+      "prompt": "Apakah kesan perlembagaan yang stabil?\n\nUrusan kerajaan mempunyai rujukan yang jelas.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perlindungan institusi"
+        },
+        {
+          "id": "B",
+          "text": "Keharmonian"
+        },
+        {
+          "id": "C",
+          "text": "Keyakinan pentadbiran"
+        },
+        {
+          "id": "D",
+          "text": "Kepastian aturan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Keyakinan pentadbiran: Urusan kerajaan mempunyai rujukan yang jelas.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    }
+  ]
+}

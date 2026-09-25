@@ -51,7 +51,7 @@ void main() {
   }
 
   testWidgets(
-    'selects form and exposes unavailable chapters without starting them',
+    'selects form and exposes all published chapters',
     (tester) async {
       await tester.pumpWidget(
         MaterialApp(
@@ -64,15 +64,15 @@ void main() {
       await tester.tap(find.text('Tingkatan 1'));
       await tester.pumpAndSettle();
       expect(find.text('Pilih bab'), findsOneWidget);
-      expect(find.text('Mulakan kuiz'), findsOneWidget);
-      expect(find.text('Belum tersedia'), findsWidgets);
-      final unavailable = tester.widget<ListTile>(
+      expect(find.text('Mulakan kuiz'), findsWidgets);
+      expect(find.text('Belum tersedia'), findsNothing);
+      final available = tester.widget<ListTile>(
         find.ancestor(
-          of: find.text('Belum tersedia').first,
+          of: find.text('Mulakan kuiz').first,
           matching: find.byType(ListTile),
         ),
       );
-      expect(unavailable.onTap, isNull);
+      expect(available.onTap, isNotNull);
     },
   );
 

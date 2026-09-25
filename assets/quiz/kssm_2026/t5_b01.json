@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 5,
+  "chapter": 1,
+  "title": "Kedaulatan Negara",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t5_b01.json",
+  "questions": [
+    {
+      "id": "t5-b01-q001",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Kenal pasti jenis kedaulatan.\n\nBerteraskan kewibawaan pemerintah dalam kerajaan lama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tradisional"
+        },
+        {
+          "id": "B",
+          "text": "Moden"
+        },
+        {
+          "id": "C",
+          "text": "Undang-undang"
+        },
+        {
+          "id": "D",
+          "text": "Antarabangsa"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Tradisional: Berteraskan kewibawaan pemerintah dalam kerajaan lama.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q002",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Kenal pasti jenis kedaulatan.\n\nBerkait perkembangan negara bangsa dan pemerintahan sendiri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tradisional"
+        },
+        {
+          "id": "B",
+          "text": "Moden"
+        },
+        {
+          "id": "C",
+          "text": "Undang-undang"
+        },
+        {
+          "id": "D",
+          "text": "Antarabangsa"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Moden: Berkait perkembangan negara bangsa dan pemerintahan sendiri.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q003",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Kenal pasti jenis kedaulatan.\n\nMenekankan pematuhan aturan serta keluhuran perlembagaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tradisional"
+        },
+        {
+          "id": "B",
+          "text": "Moden"
+        },
+        {
+          "id": "C",
+          "text": "Undang-undang"
+        },
+        {
+          "id": "D",
+          "text": "Antarabangsa"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Undang-undang: Menekankan pematuhan aturan serta keluhuran perlembagaan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q004",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Kenal pasti jenis kedaulatan.\n\nBerkait pengiktirafan negara oleh masyarakat dunia.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tradisional"
+        },
+        {
+          "id": "B",
+          "text": "Moden"
+        },
+        {
+          "id": "C",
+          "text": "Undang-undang"
+        },
+        {
+          "id": "D",
+          "text": "Antarabangsa"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Antarabangsa: Berkait pengiktirafan negara oleh masyarakat dunia.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q005",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Padankan ciri negara berdaulat.\n\nInstitusi yang mengurus pentadbiran negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sempadan"
+        },
+        {
+          "id": "B",
+          "text": "Perundangan"
+        },
+        {
+          "id": "C",
+          "text": "Rakyat"
+        },
+        {
+          "id": "D",
+          "text": "Pemerintahan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pemerintahan: Institusi yang mengurus pentadbiran negara.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q006",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Padankan ciri negara berdaulat.\n\nHad wilayah kekuasaan negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sempadan"
+        },
+        {
+          "id": "B",
+          "text": "Perundangan"
+        },
+        {
+          "id": "C",
+          "text": "Rakyat"
+        },
+        {
+          "id": "D",
+          "text": "Pemerintahan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Sempadan: Had wilayah kekuasaan negara.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q007",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Padankan ciri negara berdaulat.\n\nAturan yang menyusun kehidupan dan kuasa kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sempadan"
+        },
+        {
+          "id": "B",
+          "text": "Perundangan"
+        },
+        {
+          "id": "C",
+          "text": "Rakyat"
+        },
+        {
+          "id": "D",
+          "text": "Pemerintahan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perundangan: Aturan yang menyusun kehidupan dan kuasa kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q008",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Padankan ciri negara berdaulat.\n\nAnggota negara yang mempunyai hak serta tanggungjawab.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sempadan"
+        },
+        {
+          "id": "B",
+          "text": "Perundangan"
+        },
+        {
+          "id": "C",
+          "text": "Rakyat"
+        },
+        {
+          "id": "D",
+          "text": "Pemerintahan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Rakyat: Anggota negara yang mempunyai hak serta tanggungjawab.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q009",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Apakah kepentingan kedaulatan?\n\nDasar negara tidak ditentukan oleh penjajah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kestabilan sosial"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan luar"
+        },
+        {
+          "id": "C",
+          "text": "Kebebasan mentadbir"
+        },
+        {
+          "id": "D",
+          "text": "Perancangan ekonomi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kebebasan mentadbir: Dasar negara tidak ditentukan oleh penjajah.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q010",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Apakah kepentingan kedaulatan?\n\nSumber diurus mengikut keperluan pembangunan sendiri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kestabilan sosial"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan luar"
+        },
+        {
+          "id": "C",
+          "text": "Kebebasan mentadbir"
+        },
+        {
+          "id": "D",
+          "text": "Perancangan ekonomi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Perancangan ekonomi: Sumber diurus mengikut keperluan pembangunan sendiri.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q011",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Apakah kepentingan kedaulatan?\n\nKeamanan membolehkan masyarakat hidup teratur.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kestabilan sosial"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan luar"
+        },
+        {
+          "id": "C",
+          "text": "Kebebasan mentadbir"
+        },
+        {
+          "id": "D",
+          "text": "Perancangan ekonomi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kestabilan sosial: Keamanan membolehkan masyarakat hidup teratur.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q012",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Apakah kepentingan kedaulatan?\n\nNegara memilih rakan kerjasama antarabangsa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kestabilan sosial"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan luar"
+        },
+        {
+          "id": "C",
+          "text": "Kebebasan mentadbir"
+        },
+        {
+          "id": "D",
+          "text": "Perancangan ekonomi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Hubungan luar: Negara memilih rakan kerjasama antarabangsa.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q013",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Kenal pasti tanggungjawab pemerintah.\n\nUrusan awam dilaksanakan tanpa pembaziran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebajikan"
+        },
+        {
+          "id": "B",
+          "text": "Pentadbiran cekap"
+        },
+        {
+          "id": "C",
+          "text": "Pertahanan"
+        },
+        {
+          "id": "D",
+          "text": "Keadilan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pentadbiran cekap: Urusan awam dilaksanakan tanpa pembaziran.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q014",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Kenal pasti tanggungjawab pemerintah.\n\nSempadan dan keselamatan negara dilindungi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebajikan"
+        },
+        {
+          "id": "B",
+          "text": "Pentadbiran cekap"
+        },
+        {
+          "id": "C",
+          "text": "Pertahanan"
+        },
+        {
+          "id": "D",
+          "text": "Keadilan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pertahanan: Sempadan dan keselamatan negara dilindungi.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q015",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Kenal pasti tanggungjawab pemerintah.\n\nPeraturan dilaksanakan secara saksama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebajikan"
+        },
+        {
+          "id": "B",
+          "text": "Pentadbiran cekap"
+        },
+        {
+          "id": "C",
+          "text": "Pertahanan"
+        },
+        {
+          "id": "D",
+          "text": "Keadilan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Keadilan: Peraturan dilaksanakan secara saksama.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q016",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Kenal pasti tanggungjawab pemerintah.\n\nKeperluan asas penduduk diberi perhatian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebajikan"
+        },
+        {
+          "id": "B",
+          "text": "Pentadbiran cekap"
+        },
+        {
+          "id": "C",
+          "text": "Pertahanan"
+        },
+        {
+          "id": "D",
+          "text": "Keadilan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kebajikan: Keperluan asas penduduk diberi perhatian.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q017",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Padankan tanggungjawab rakyat.\n\nMenghormati aturan sah kehidupan bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Patuh undang-undang"
+        },
+        {
+          "id": "B",
+          "text": "Menjaga perpaduan"
+        },
+        {
+          "id": "C",
+          "text": "Menyumbang ilmu"
+        },
+        {
+          "id": "D",
+          "text": "Bersikap patriotik"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Patuh undang-undang: Menghormati aturan sah kehidupan bersama.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q018",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Padankan tanggungjawab rakyat.\n\nMengelakkan permusuhan antara kelompok masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Patuh undang-undang"
+        },
+        {
+          "id": "B",
+          "text": "Menjaga perpaduan"
+        },
+        {
+          "id": "C",
+          "text": "Menyumbang ilmu"
+        },
+        {
+          "id": "D",
+          "text": "Bersikap patriotik"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Menjaga perpaduan: Mengelakkan permusuhan antara kelompok masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q019",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Padankan tanggungjawab rakyat.\n\nKemahiran digunakan untuk pembangunan negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Patuh undang-undang"
+        },
+        {
+          "id": "B",
+          "text": "Menjaga perpaduan"
+        },
+        {
+          "id": "C",
+          "text": "Menyumbang ilmu"
+        },
+        {
+          "id": "D",
+          "text": "Bersikap patriotik"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Menyumbang ilmu: Kemahiran digunakan untuk pembangunan negara.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q020",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Padankan tanggungjawab rakyat.\n\nMempunyai rasa cinta dan tanggungjawab terhadap tanah air.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Patuh undang-undang"
+        },
+        {
+          "id": "B",
+          "text": "Menjaga perpaduan"
+        },
+        {
+          "id": "C",
+          "text": "Menyumbang ilmu"
+        },
+        {
+          "id": "D",
+          "text": "Bersikap patriotik"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Bersikap patriotik: Mempunyai rasa cinta dan tanggungjawab terhadap tanah air.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q021",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Apakah bentuk ancaman kedaulatan?\n\nPihak luar memasuki wilayah secara menyalahi aturan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Campur tangan asing"
+        },
+        {
+          "id": "B",
+          "text": "Perpecahan dalaman"
+        },
+        {
+          "id": "C",
+          "text": "Kelemahan pentadbiran"
+        },
+        {
+          "id": "D",
+          "text": "Pencerobohan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pencerobohan: Pihak luar memasuki wilayah secara menyalahi aturan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q022",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Apakah bentuk ancaman kedaulatan?\n\nKuasa lain memaksa keputusan politik negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Campur tangan asing"
+        },
+        {
+          "id": "B",
+          "text": "Perpecahan dalaman"
+        },
+        {
+          "id": "C",
+          "text": "Kelemahan pentadbiran"
+        },
+        {
+          "id": "D",
+          "text": "Pencerobohan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Campur tangan asing: Kuasa lain memaksa keputusan politik negara.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q023",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Apakah bentuk ancaman kedaulatan?\n\nKonflik masyarakat melemahkan kekuatan bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Campur tangan asing"
+        },
+        {
+          "id": "B",
+          "text": "Perpecahan dalaman"
+        },
+        {
+          "id": "C",
+          "text": "Kelemahan pentadbiran"
+        },
+        {
+          "id": "D",
+          "text": "Pencerobohan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perpecahan dalaman: Konflik masyarakat melemahkan kekuatan bersama.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q024",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Apakah bentuk ancaman kedaulatan?\n\nPenyelewengan mengurangkan keupayaan institusi negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Campur tangan asing"
+        },
+        {
+          "id": "B",
+          "text": "Perpecahan dalaman"
+        },
+        {
+          "id": "C",
+          "text": "Kelemahan pentadbiran"
+        },
+        {
+          "id": "D",
+          "text": "Pencerobohan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kelemahan pentadbiran: Penyelewengan mengurangkan keupayaan institusi negara.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q025",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Kenal pasti kaedah mempertahankan negara.\n\nPertikaian dibawa ke meja rundingan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "B",
+          "text": "Kesiapsiagaan"
+        },
+        {
+          "id": "C",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "D",
+          "text": "Penguatkuasaan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Diplomasi: Pertikaian dibawa ke meja rundingan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q026",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Kenal pasti kaedah mempertahankan negara.\n\nPelanggaran aturan ditangani mengikut undang-undang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "B",
+          "text": "Kesiapsiagaan"
+        },
+        {
+          "id": "C",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "D",
+          "text": "Penguatkuasaan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Penguatkuasaan: Pelanggaran aturan ditangani mengikut undang-undang.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q027",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Kenal pasti kaedah mempertahankan negara.\n\nRakyat dididik memahami sejarah dan tanggungjawab.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "B",
+          "text": "Kesiapsiagaan"
+        },
+        {
+          "id": "C",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "D",
+          "text": "Penguatkuasaan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pendidikan: Rakyat dididik memahami sejarah dan tanggungjawab.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q028",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Kenal pasti kaedah mempertahankan negara.\n\nKeupayaan menghadapi ancaman disediakan lebih awal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "B",
+          "text": "Kesiapsiagaan"
+        },
+        {
+          "id": "C",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "D",
+          "text": "Penguatkuasaan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kesiapsiagaan: Keupayaan menghadapi ancaman disediakan lebih awal.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q029",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Padankan unsur identiti negara.\n\nBahasa bersama menjadi wahana hubungan rasmi dan perpaduan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jata Negara"
+        },
+        {
+          "id": "B",
+          "text": "Bahasa kebangsaan"
+        },
+        {
+          "id": "C",
+          "text": "Bendera"
+        },
+        {
+          "id": "D",
+          "text": "Lagu kebangsaan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Bahasa kebangsaan: Bahasa bersama menjadi wahana hubungan rasmi dan perpaduan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q030",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Padankan unsur identiti negara.\n\nKain berlambang menjadi tanda negara ketika dikibarkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jata Negara"
+        },
+        {
+          "id": "B",
+          "text": "Bahasa kebangsaan"
+        },
+        {
+          "id": "C",
+          "text": "Bendera"
+        },
+        {
+          "id": "D",
+          "text": "Lagu kebangsaan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Bendera: Kain berlambang menjadi tanda negara ketika dikibarkan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q031",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Padankan unsur identiti negara.\n\nKarya muzik rasmi membangkitkan kesetiaan nasional.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jata Negara"
+        },
+        {
+          "id": "B",
+          "text": "Bahasa kebangsaan"
+        },
+        {
+          "id": "C",
+          "text": "Bendera"
+        },
+        {
+          "id": "D",
+          "text": "Lagu kebangsaan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Lagu kebangsaan: Karya muzik rasmi membangkitkan kesetiaan nasional.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q032",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Padankan unsur identiti negara.\n\nLambang rasmi kerajaan digunakan pada dokumen tertentu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jata Negara"
+        },
+        {
+          "id": "B",
+          "text": "Bahasa kebangsaan"
+        },
+        {
+          "id": "C",
+          "text": "Bendera"
+        },
+        {
+          "id": "D",
+          "text": "Lagu kebangsaan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Jata Negara: Lambang rasmi kerajaan digunakan pada dokumen tertentu.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q033",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Apakah prinsip hubungan antarabangsa?\n\nKedaulatan negara lain diterima.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Saling menghormati"
+        },
+        {
+          "id": "B",
+          "text": "Tidak mencampuri urusan dalaman"
+        },
+        {
+          "id": "C",
+          "text": "Penyelesaian aman"
+        },
+        {
+          "id": "D",
+          "text": "Kerjasama setara"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Saling menghormati: Kedaulatan negara lain diterima.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q034",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Apakah prinsip hubungan antarabangsa?\n\nNegara tidak memaksakan pemerintahan terhadap negara lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Saling menghormati"
+        },
+        {
+          "id": "B",
+          "text": "Tidak mencampuri urusan dalaman"
+        },
+        {
+          "id": "C",
+          "text": "Penyelesaian aman"
+        },
+        {
+          "id": "D",
+          "text": "Kerjasama setara"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Tidak mencampuri urusan dalaman: Negara tidak memaksakan pemerintahan terhadap negara lain.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q035",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Apakah prinsip hubungan antarabangsa?\n\nKonflik ditangani melalui rundingan dan saluran sah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Saling menghormati"
+        },
+        {
+          "id": "B",
+          "text": "Tidak mencampuri urusan dalaman"
+        },
+        {
+          "id": "C",
+          "text": "Penyelesaian aman"
+        },
+        {
+          "id": "D",
+          "text": "Kerjasama setara"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Penyelesaian aman: Konflik ditangani melalui rundingan dan saluran sah.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q036",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Apakah prinsip hubungan antarabangsa?\n\nPersetujuan dibuat dengan mengambil kira kepentingan pihak terlibat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Saling menghormati"
+        },
+        {
+          "id": "B",
+          "text": "Tidak mencampuri urusan dalaman"
+        },
+        {
+          "id": "C",
+          "text": "Penyelesaian aman"
+        },
+        {
+          "id": "D",
+          "text": "Kerjasama setara"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kerjasama setara: Persetujuan dibuat dengan mengambil kira kepentingan pihak terlibat.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q037",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Kenal pasti tindakan berwibawa.\n\nDakwaan keselamatan disahkan sebelum disebarkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Melapor ancaman"
+        },
+        {
+          "id": "B",
+          "text": "Menghormati kepelbagaian"
+        },
+        {
+          "id": "C",
+          "text": "Menolak rasuah"
+        },
+        {
+          "id": "D",
+          "text": "Menyemak maklumat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Menyemak maklumat: Dakwaan keselamatan disahkan sebelum disebarkan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q038",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Kenal pasti tindakan berwibawa.\n\nMaklumat pencerobohan disampaikan kepada pihak berkuasa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Melapor ancaman"
+        },
+        {
+          "id": "B",
+          "text": "Menghormati kepelbagaian"
+        },
+        {
+          "id": "C",
+          "text": "Menolak rasuah"
+        },
+        {
+          "id": "D",
+          "text": "Menyemak maklumat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Melapor ancaman: Maklumat pencerobohan disampaikan kepada pihak berkuasa.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q039",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Kenal pasti tindakan berwibawa.\n\nPerbezaan masyarakat tidak dijadikan alasan permusuhan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Melapor ancaman"
+        },
+        {
+          "id": "B",
+          "text": "Menghormati kepelbagaian"
+        },
+        {
+          "id": "C",
+          "text": "Menolak rasuah"
+        },
+        {
+          "id": "D",
+          "text": "Menyemak maklumat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Menghormati kepelbagaian: Perbezaan masyarakat tidak dijadikan alasan permusuhan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t5-b01-q040",
+      "form": 5,
+      "chapter": 1,
+      "prompt": "Kenal pasti tindakan berwibawa.\n\nKuasa awam tidak digunakan untuk keuntungan peribadi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Melapor ancaman"
+        },
+        {
+          "id": "B",
+          "text": "Menghormati kepelbagaian"
+        },
+        {
+          "id": "C",
+          "text": "Menolak rasuah"
+        },
+        {
+          "id": "D",
+          "text": "Menyemak maklumat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Menolak rasuah: Kuasa awam tidak digunakan untuk keuntungan peribadi.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    }
+  ]
+}

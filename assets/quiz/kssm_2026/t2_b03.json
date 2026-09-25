@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 2,
+  "chapter": 3,
+  "title": "Sosiobudaya Masyarakat Kerajaan Alam Melayu",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t2_b03.json",
+  "questions": [
+    {
+      "id": "t2-b03-q001",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Kenal pasti bidang sosiobudaya.\n\nSistem pertuturan masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bahasa"
+        },
+        {
+          "id": "B",
+          "text": "Tulisan"
+        },
+        {
+          "id": "C",
+          "text": "Persuratan"
+        },
+        {
+          "id": "D",
+          "text": "Seni bina"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Bahasa: Sistem pertuturan masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q002",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Kenal pasti bidang sosiobudaya.\n\nSimbol untuk merekod pertuturan dan maklumat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bahasa"
+        },
+        {
+          "id": "B",
+          "text": "Tulisan"
+        },
+        {
+          "id": "C",
+          "text": "Persuratan"
+        },
+        {
+          "id": "D",
+          "text": "Seni bina"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Tulisan: Simbol untuk merekod pertuturan dan maklumat.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q003",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Kenal pasti bidang sosiobudaya.\n\nPenghasilan karya bertulis.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bahasa"
+        },
+        {
+          "id": "B",
+          "text": "Tulisan"
+        },
+        {
+          "id": "C",
+          "text": "Persuratan"
+        },
+        {
+          "id": "D",
+          "text": "Seni bina"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Persuratan: Penghasilan karya bertulis.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q004",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Kenal pasti bidang sosiobudaya.\n\nReka bentuk serta pembinaan bangunan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bahasa"
+        },
+        {
+          "id": "B",
+          "text": "Tulisan"
+        },
+        {
+          "id": "C",
+          "text": "Persuratan"
+        },
+        {
+          "id": "D",
+          "text": "Seni bina"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Seni bina: Reka bentuk serta pembinaan bangunan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q005",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Padankan bahasa sejarah.\n\nBahasa India yang mempengaruhi istilah kerajaan awal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Melayu Kuno"
+        },
+        {
+          "id": "B",
+          "text": "Jawa Kuno"
+        },
+        {
+          "id": "C",
+          "text": "Khmer"
+        },
+        {
+          "id": "D",
+          "text": "Sanskrit"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Sanskrit: Bahasa India yang mempengaruhi istilah kerajaan awal.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q006",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Padankan bahasa sejarah.\n\nBahasa pada banyak prasasti Srivijaya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Melayu Kuno"
+        },
+        {
+          "id": "B",
+          "text": "Jawa Kuno"
+        },
+        {
+          "id": "C",
+          "text": "Khmer"
+        },
+        {
+          "id": "D",
+          "text": "Sanskrit"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Melayu Kuno: Bahasa pada banyak prasasti Srivijaya.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q007",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Padankan bahasa sejarah.\n\nBahasa yang berkembang dalam persuratan kerajaan Jawa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Melayu Kuno"
+        },
+        {
+          "id": "B",
+          "text": "Jawa Kuno"
+        },
+        {
+          "id": "C",
+          "text": "Khmer"
+        },
+        {
+          "id": "D",
+          "text": "Sanskrit"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Jawa Kuno: Bahasa yang berkembang dalam persuratan kerajaan Jawa.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q008",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Padankan bahasa sejarah.\n\nBahasa masyarakat utama kerajaan Angkor.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Melayu Kuno"
+        },
+        {
+          "id": "B",
+          "text": "Jawa Kuno"
+        },
+        {
+          "id": "C",
+          "text": "Khmer"
+        },
+        {
+          "id": "D",
+          "text": "Sanskrit"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Khmer: Bahasa masyarakat utama kerajaan Angkor.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q009",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Kenal pasti sistem tulisan.\n\nTulisan berasaskan India Selatan pada prasasti awal serantau.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jawi"
+        },
+        {
+          "id": "B",
+          "text": "Rumi"
+        },
+        {
+          "id": "C",
+          "text": "Pallava"
+        },
+        {
+          "id": "D",
+          "text": "Kawi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pallava: Tulisan berasaskan India Selatan pada prasasti awal serantau.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q010",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Kenal pasti sistem tulisan.\n\nTulisan yang berkembang dalam lingkungan Jawa kuno.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jawi"
+        },
+        {
+          "id": "B",
+          "text": "Rumi"
+        },
+        {
+          "id": "C",
+          "text": "Pallava"
+        },
+        {
+          "id": "D",
+          "text": "Kawi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kawi: Tulisan yang berkembang dalam lingkungan Jawa kuno.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q011",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Kenal pasti sistem tulisan.\n\nTulisan Melayu yang berasaskan huruf Arab.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jawi"
+        },
+        {
+          "id": "B",
+          "text": "Rumi"
+        },
+        {
+          "id": "C",
+          "text": "Pallava"
+        },
+        {
+          "id": "D",
+          "text": "Kawi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Jawi: Tulisan Melayu yang berasaskan huruf Arab.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q012",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Kenal pasti sistem tulisan.\n\nTulisan Melayu yang berasaskan abjad Latin.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jawi"
+        },
+        {
+          "id": "B",
+          "text": "Rumi"
+        },
+        {
+          "id": "C",
+          "text": "Pallava"
+        },
+        {
+          "id": "D",
+          "text": "Kawi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Rumi: Tulisan Melayu yang berasaskan abjad Latin.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q013",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Padankan bentuk karya.\n\nCatatan pada permukaan batu atau bahan tahan lama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Salasilah"
+        },
+        {
+          "id": "B",
+          "text": "Prasasti"
+        },
+        {
+          "id": "C",
+          "text": "Hikayat"
+        },
+        {
+          "id": "D",
+          "text": "Puisi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Prasasti: Catatan pada permukaan batu atau bahan tahan lama.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q014",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Padankan bentuk karya.\n\nKarya naratif tentang tokoh dan peristiwa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Salasilah"
+        },
+        {
+          "id": "B",
+          "text": "Prasasti"
+        },
+        {
+          "id": "C",
+          "text": "Hikayat"
+        },
+        {
+          "id": "D",
+          "text": "Puisi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Hikayat: Karya naratif tentang tokoh dan peristiwa.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q015",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Padankan bentuk karya.\n\nKarya berangkap yang menekankan bahasa berirama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Salasilah"
+        },
+        {
+          "id": "B",
+          "text": "Prasasti"
+        },
+        {
+          "id": "C",
+          "text": "Hikayat"
+        },
+        {
+          "id": "D",
+          "text": "Puisi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Puisi: Karya berangkap yang menekankan bahasa berirama.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q016",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Padankan bentuk karya.\n\nCatatan hubungan keturunan sesuatu keluarga.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Salasilah"
+        },
+        {
+          "id": "B",
+          "text": "Prasasti"
+        },
+        {
+          "id": "C",
+          "text": "Hikayat"
+        },
+        {
+          "id": "D",
+          "text": "Puisi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Salasilah: Catatan hubungan keturunan sesuatu keluarga.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q017",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Kenal pasti golongan sosial.\n\nGolongan pemerintah tertinggi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raja"
+        },
+        {
+          "id": "B",
+          "text": "Pembesar"
+        },
+        {
+          "id": "C",
+          "text": "Pendeta"
+        },
+        {
+          "id": "D",
+          "text": "Rakyat biasa"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Raja: Golongan pemerintah tertinggi.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q018",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Kenal pasti golongan sosial.\n\nGolongan yang membantu pentadbiran raja.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raja"
+        },
+        {
+          "id": "B",
+          "text": "Pembesar"
+        },
+        {
+          "id": "C",
+          "text": "Pendeta"
+        },
+        {
+          "id": "D",
+          "text": "Rakyat biasa"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pembesar: Golongan yang membantu pentadbiran raja.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q019",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Kenal pasti golongan sosial.\n\nGolongan berpengetahuan agama dalam kerajaan Hindu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raja"
+        },
+        {
+          "id": "B",
+          "text": "Pembesar"
+        },
+        {
+          "id": "C",
+          "text": "Pendeta"
+        },
+        {
+          "id": "D",
+          "text": "Rakyat biasa"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pendeta: Golongan berpengetahuan agama dalam kerajaan Hindu.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q020",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Kenal pasti golongan sosial.\n\nPenduduk yang menjalankan kegiatan seperti bertani dan berniaga.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raja"
+        },
+        {
+          "id": "B",
+          "text": "Pembesar"
+        },
+        {
+          "id": "C",
+          "text": "Pendeta"
+        },
+        {
+          "id": "D",
+          "text": "Rakyat biasa"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Rakyat biasa: Penduduk yang menjalankan kegiatan seperti bertani dan berniaga.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q021",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Padankan fungsi bahasa.\n\nPertuturan membolehkan jiran memahami satu sama lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Penyampaian ajaran"
+        },
+        {
+          "id": "D",
+          "text": "Perhubungan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Perhubungan: Pertuturan membolehkan jiran memahami satu sama lain.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q022",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Padankan fungsi bahasa.\n\nArahan kerajaan disampaikan kepada pegawai.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Penyampaian ajaran"
+        },
+        {
+          "id": "D",
+          "text": "Perhubungan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pentadbiran: Arahan kerajaan disampaikan kepada pegawai.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q023",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Padankan fungsi bahasa.\n\nBahasa perantara memudahkan tawar-menawar pedagang asing.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Penyampaian ajaran"
+        },
+        {
+          "id": "D",
+          "text": "Perhubungan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perdagangan: Bahasa perantara memudahkan tawar-menawar pedagang asing.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q024",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Padankan fungsi bahasa.\n\nTeks agama menerangkan pegangan kepada penganut.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Penyampaian ajaran"
+        },
+        {
+          "id": "D",
+          "text": "Perhubungan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Penyampaian ajaran: Teks agama menerangkan pegangan kepada penganut.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q025",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Kenal pasti bukti kemahiran binaan.\n\nBahan disusun kukuh untuk menampung bangunan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sistem air"
+        },
+        {
+          "id": "B",
+          "text": "Reka bentuk menara"
+        },
+        {
+          "id": "C",
+          "text": "Susunan batu"
+        },
+        {
+          "id": "D",
+          "text": "Ukiran dinding"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Susunan batu: Bahan disusun kukuh untuk menampung bangunan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q026",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Kenal pasti bukti kemahiran binaan.\n\nPermukaan dihias dengan gambaran dan corak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sistem air"
+        },
+        {
+          "id": "B",
+          "text": "Reka bentuk menara"
+        },
+        {
+          "id": "C",
+          "text": "Susunan batu"
+        },
+        {
+          "id": "D",
+          "text": "Ukiran dinding"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Ukiran dinding: Permukaan dihias dengan gambaran dan corak.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q027",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Kenal pasti bukti kemahiran binaan.\n\nSaluran mengurus bekalan serta aliran keluar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sistem air"
+        },
+        {
+          "id": "B",
+          "text": "Reka bentuk menara"
+        },
+        {
+          "id": "C",
+          "text": "Susunan batu"
+        },
+        {
+          "id": "D",
+          "text": "Ukiran dinding"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Sistem air: Saluran mengurus bekalan serta aliran keluar.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q028",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Kenal pasti bukti kemahiran binaan.\n\nStruktur tinggi dirancang dengan bentuk tersendiri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sistem air"
+        },
+        {
+          "id": "B",
+          "text": "Reka bentuk menara"
+        },
+        {
+          "id": "C",
+          "text": "Susunan batu"
+        },
+        {
+          "id": "D",
+          "text": "Ukiran dinding"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Reka bentuk menara: Struktur tinggi dirancang dengan bentuk tersendiri.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q029",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Apakah proses budaya yang berlaku?\n\nIstilah asing diterima dalam bahasa tempatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penyebaran"
+        },
+        {
+          "id": "B",
+          "text": "Penyerapan"
+        },
+        {
+          "id": "C",
+          "text": "Penyesuaian"
+        },
+        {
+          "id": "D",
+          "text": "Pewarisan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Penyerapan: Istilah asing diterima dalam bahasa tempatan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q030",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Apakah proses budaya yang berlaku?\n\nPengaruh luar diubah mengikut keperluan masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penyebaran"
+        },
+        {
+          "id": "B",
+          "text": "Penyerapan"
+        },
+        {
+          "id": "C",
+          "text": "Penyesuaian"
+        },
+        {
+          "id": "D",
+          "text": "Pewarisan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Penyesuaian: Pengaruh luar diubah mengikut keperluan masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q031",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Apakah proses budaya yang berlaku?\n\nKemahiran disampaikan daripada generasi tua kepada muda.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penyebaran"
+        },
+        {
+          "id": "B",
+          "text": "Penyerapan"
+        },
+        {
+          "id": "C",
+          "text": "Penyesuaian"
+        },
+        {
+          "id": "D",
+          "text": "Pewarisan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pewarisan: Kemahiran disampaikan daripada generasi tua kepada muda.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q032",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Apakah proses budaya yang berlaku?\n\nKarya dibawa ke kawasan baharu melalui hubungan masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penyebaran"
+        },
+        {
+          "id": "B",
+          "text": "Penyerapan"
+        },
+        {
+          "id": "C",
+          "text": "Penyesuaian"
+        },
+        {
+          "id": "D",
+          "text": "Pewarisan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Penyebaran: Karya dibawa ke kawasan baharu melalui hubungan masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q033",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Padankan sumber dengan persoalan kajian.\n\nMembantu mengkaji urusan lingkungan pemerintah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Catatan istana"
+        },
+        {
+          "id": "B",
+          "text": "Batu bersurat"
+        },
+        {
+          "id": "C",
+          "text": "Tinggalan bangunan"
+        },
+        {
+          "id": "D",
+          "text": "Cerita lisan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Catatan istana: Membantu mengkaji urusan lingkungan pemerintah.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q034",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Padankan sumber dengan persoalan kajian.\n\nMemberikan bukti bentuk aksara sesuatu zaman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Catatan istana"
+        },
+        {
+          "id": "B",
+          "text": "Batu bersurat"
+        },
+        {
+          "id": "C",
+          "text": "Tinggalan bangunan"
+        },
+        {
+          "id": "D",
+          "text": "Cerita lisan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Batu bersurat: Memberikan bukti bentuk aksara sesuatu zaman.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q035",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Padankan sumber dengan persoalan kajian.\n\nMenunjukkan teknik dan bahan pembinaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Catatan istana"
+        },
+        {
+          "id": "B",
+          "text": "Batu bersurat"
+        },
+        {
+          "id": "C",
+          "text": "Tinggalan bangunan"
+        },
+        {
+          "id": "D",
+          "text": "Cerita lisan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Tinggalan bangunan: Menunjukkan teknik dan bahan pembinaan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q036",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Padankan sumber dengan persoalan kajian.\n\nMenyimpan ingatan masyarakat melalui penceritaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Catatan istana"
+        },
+        {
+          "id": "B",
+          "text": "Batu bersurat"
+        },
+        {
+          "id": "C",
+          "text": "Tinggalan bangunan"
+        },
+        {
+          "id": "D",
+          "text": "Cerita lisan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Cerita lisan: Menyimpan ingatan masyarakat melalui penceritaan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q037",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Kenal pasti langkah menjaga warisan.\n\nKarya lama direkod dan dikatalogkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemuliharaan"
+        },
+        {
+          "id": "B",
+          "text": "Pengajaran"
+        },
+        {
+          "id": "C",
+          "text": "Penyelidikan"
+        },
+        {
+          "id": "D",
+          "text": "Dokumentasi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Dokumentasi: Karya lama direkod dan dikatalogkan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q038",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Kenal pasti langkah menjaga warisan.\n\nBangunan bersejarah dirawat oleh pakar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemuliharaan"
+        },
+        {
+          "id": "B",
+          "text": "Pengajaran"
+        },
+        {
+          "id": "C",
+          "text": "Penyelidikan"
+        },
+        {
+          "id": "D",
+          "text": "Dokumentasi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pemuliharaan: Bangunan bersejarah dirawat oleh pakar.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q039",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Kenal pasti langkah menjaga warisan.\n\nBahasa serta seni tradisi diperkenalkan kepada pelajar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemuliharaan"
+        },
+        {
+          "id": "B",
+          "text": "Pengajaran"
+        },
+        {
+          "id": "C",
+          "text": "Penyelidikan"
+        },
+        {
+          "id": "D",
+          "text": "Dokumentasi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pengajaran: Bahasa serta seni tradisi diperkenalkan kepada pelajar.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t2-b03-q040",
+      "form": 2,
+      "chapter": 3,
+      "prompt": "Kenal pasti langkah menjaga warisan.\n\nMakna tulisan lama dikaji dengan bukti.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemuliharaan"
+        },
+        {
+          "id": "B",
+          "text": "Pengajaran"
+        },
+        {
+          "id": "C",
+          "text": "Penyelidikan"
+        },
+        {
+          "id": "D",
+          "text": "Dokumentasi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Penyelidikan: Makna tulisan lama dikaji dengan bukti.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    }
+  ]
+}

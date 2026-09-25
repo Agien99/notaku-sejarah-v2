@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 4,
+  "chapter": 9,
+  "title": "Perlembagaan Persekutuan Tanah Melayu 1957",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t4_b09.json",
+  "questions": [
+    {
+      "id": "t4-b09-q001",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Kenal pasti peristiwa atau badan.\n\nPerbincangan 1956 menentukan langkah kemerdekaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rundingan London"
+        },
+        {
+          "id": "B",
+          "text": "Suruhanjaya Reid"
+        },
+        {
+          "id": "C",
+          "text": "Memorandum"
+        },
+        {
+          "id": "D",
+          "text": "Jawatankuasa Kerja"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Rundingan London: Perbincangan 1956 menentukan langkah kemerdekaan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q002",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Kenal pasti peristiwa atau badan.\n\nBadan bebas yang mengesyorkan perlembagaan PTM.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rundingan London"
+        },
+        {
+          "id": "B",
+          "text": "Suruhanjaya Reid"
+        },
+        {
+          "id": "C",
+          "text": "Memorandum"
+        },
+        {
+          "id": "D",
+          "text": "Jawatankuasa Kerja"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Suruhanjaya Reid: Badan bebas yang mengesyorkan perlembagaan PTM.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q003",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Kenal pasti peristiwa atau badan.\n\nPandangan bertulis yang dikemukakan kepada suruhanjaya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rundingan London"
+        },
+        {
+          "id": "B",
+          "text": "Suruhanjaya Reid"
+        },
+        {
+          "id": "C",
+          "text": "Memorandum"
+        },
+        {
+          "id": "D",
+          "text": "Jawatankuasa Kerja"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Memorandum: Pandangan bertulis yang dikemukakan kepada suruhanjaya.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q004",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Kenal pasti peristiwa atau badan.\n\nBadan yang meneliti cadangan selepas laporan suruhanjaya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rundingan London"
+        },
+        {
+          "id": "B",
+          "text": "Suruhanjaya Reid"
+        },
+        {
+          "id": "C",
+          "text": "Memorandum"
+        },
+        {
+          "id": "D",
+          "text": "Jawatankuasa Kerja"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Jawatankuasa Kerja: Badan yang meneliti cadangan selepas laporan suruhanjaya.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q005",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Padankan tokoh suruhanjaya.\n\nPengerusi Suruhanjaya Perlembagaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sir Ivor Jennings"
+        },
+        {
+          "id": "B",
+          "text": "B. Malik"
+        },
+        {
+          "id": "C",
+          "text": "Hakim Abdul Hamid"
+        },
+        {
+          "id": "D",
+          "text": "Lord Reid"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Lord Reid: Pengerusi Suruhanjaya Perlembagaan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q006",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Padankan tokoh suruhanjaya.\n\nAhli dari Britain selain pengerusi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sir Ivor Jennings"
+        },
+        {
+          "id": "B",
+          "text": "B. Malik"
+        },
+        {
+          "id": "C",
+          "text": "Hakim Abdul Hamid"
+        },
+        {
+          "id": "D",
+          "text": "Lord Reid"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Sir Ivor Jennings: Ahli dari Britain selain pengerusi.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q007",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Padankan tokoh suruhanjaya.\n\nAhli suruhanjaya dari India.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sir Ivor Jennings"
+        },
+        {
+          "id": "B",
+          "text": "B. Malik"
+        },
+        {
+          "id": "C",
+          "text": "Hakim Abdul Hamid"
+        },
+        {
+          "id": "D",
+          "text": "Lord Reid"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "B. Malik: Ahli suruhanjaya dari India.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q008",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Padankan tokoh suruhanjaya.\n\nAhli suruhanjaya dari Pakistan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sir Ivor Jennings"
+        },
+        {
+          "id": "B",
+          "text": "B. Malik"
+        },
+        {
+          "id": "C",
+          "text": "Hakim Abdul Hamid"
+        },
+        {
+          "id": "D",
+          "text": "Lord Reid"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Hakim Abdul Hamid: Ahli suruhanjaya dari Pakistan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q009",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Kenal pasti pihak rundingan.\n\nMembawa kepentingan institusi pemerintah negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerajaan British"
+        },
+        {
+          "id": "B",
+          "text": "Masyarakat awam"
+        },
+        {
+          "id": "C",
+          "text": "Wakil Raja-raja Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Wakil Parti Perikatan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Wakil Raja-raja Melayu: Membawa kepentingan institusi pemerintah negeri.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q010",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Kenal pasti pihak rundingan.\n\nMembawa mandat politik gabungan tempatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerajaan British"
+        },
+        {
+          "id": "B",
+          "text": "Masyarakat awam"
+        },
+        {
+          "id": "C",
+          "text": "Wakil Raja-raja Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Wakil Parti Perikatan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Wakil Parti Perikatan: Membawa mandat politik gabungan tempatan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q011",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Kenal pasti pihak rundingan.\n\nKuasa yang perlu memindahkan tanggungjawab pemerintahan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerajaan British"
+        },
+        {
+          "id": "B",
+          "text": "Masyarakat awam"
+        },
+        {
+          "id": "C",
+          "text": "Wakil Raja-raja Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Wakil Parti Perikatan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kerajaan British: Kuasa yang perlu memindahkan tanggungjawab pemerintahan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q012",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Kenal pasti pihak rundingan.\n\nMengemukakan pandangan melalui memorandum.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerajaan British"
+        },
+        {
+          "id": "B",
+          "text": "Masyarakat awam"
+        },
+        {
+          "id": "C",
+          "text": "Wakil Raja-raja Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Wakil Parti Perikatan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Masyarakat awam: Mengemukakan pandangan melalui memorandum.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q013",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Padankan prinsip perlembagaan.\n\nPembahagian kuasa pusat dan negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kewarganegaraan"
+        },
+        {
+          "id": "B",
+          "text": "Persekutuan"
+        },
+        {
+          "id": "C",
+          "text": "Raja Berperlembagaan"
+        },
+        {
+          "id": "D",
+          "text": "Demokrasi Berparlimen"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Persekutuan: Pembahagian kuasa pusat dan negeri.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q014",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Padankan prinsip perlembagaan.\n\nRaja menjalankan fungsi menurut peruntukan undang-undang tertinggi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kewarganegaraan"
+        },
+        {
+          "id": "B",
+          "text": "Persekutuan"
+        },
+        {
+          "id": "C",
+          "text": "Raja Berperlembagaan"
+        },
+        {
+          "id": "D",
+          "text": "Demokrasi Berparlimen"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Raja Berperlembagaan: Raja menjalankan fungsi menurut peruntukan undang-undang tertinggi.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q015",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Padankan prinsip perlembagaan.\n\nRakyat memilih wakil ke badan perundangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kewarganegaraan"
+        },
+        {
+          "id": "B",
+          "text": "Persekutuan"
+        },
+        {
+          "id": "C",
+          "text": "Raja Berperlembagaan"
+        },
+        {
+          "id": "D",
+          "text": "Demokrasi Berparlimen"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Demokrasi Berparlimen: Rakyat memilih wakil ke badan perundangan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q016",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Padankan prinsip perlembagaan.\n\nTaraf keanggotaan sah dalam negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kewarganegaraan"
+        },
+        {
+          "id": "B",
+          "text": "Persekutuan"
+        },
+        {
+          "id": "C",
+          "text": "Raja Berperlembagaan"
+        },
+        {
+          "id": "D",
+          "text": "Demokrasi Berparlimen"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kewarganegaraan: Taraf keanggotaan sah dalam negara.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q017",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Kenal pasti peruntukan penting 1957.\n\nBahasa kebangsaan Persekutuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bahasa Melayu"
+        },
+        {
+          "id": "B",
+          "text": "Agama Islam"
+        },
+        {
+          "id": "C",
+          "text": "Kedudukan istimewa orang Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Kepentingan sah kaum lain"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Bahasa Melayu: Bahasa kebangsaan Persekutuan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q018",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Kenal pasti peruntukan penting 1957.\n\nAgama Persekutuan dengan kebebasan agama lain menurut peruntukan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bahasa Melayu"
+        },
+        {
+          "id": "B",
+          "text": "Agama Islam"
+        },
+        {
+          "id": "C",
+          "text": "Kedudukan istimewa orang Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Kepentingan sah kaum lain"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Agama Islam: Agama Persekutuan dengan kebebasan agama lain menurut peruntukan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q019",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Kenal pasti peruntukan penting 1957.\n\nPerlindungan tertentu untuk masyarakat Melayu dalam persetujuan perlembagaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bahasa Melayu"
+        },
+        {
+          "id": "B",
+          "text": "Agama Islam"
+        },
+        {
+          "id": "C",
+          "text": "Kedudukan istimewa orang Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Kepentingan sah kaum lain"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kedudukan istimewa orang Melayu: Perlindungan tertentu untuk masyarakat Melayu dalam persetujuan perlembagaan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q020",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Kenal pasti peruntukan penting 1957.\n\nHak masyarakat bukan Melayu yang turut dilindungi dalam rangka muafakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bahasa Melayu"
+        },
+        {
+          "id": "B",
+          "text": "Agama Islam"
+        },
+        {
+          "id": "C",
+          "text": "Kedudukan istimewa orang Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Kepentingan sah kaum lain"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kepentingan sah kaum lain: Hak masyarakat bukan Melayu yang turut dilindungi dalam rangka muafakat.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q021",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Apakah fungsi perlembagaan?\n\nHad tugas kerajaan dinyatakan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menjamin hak"
+        },
+        {
+          "id": "B",
+          "text": "Mengatur institusi"
+        },
+        {
+          "id": "C",
+          "text": "Menjadi rujukan tertinggi"
+        },
+        {
+          "id": "D",
+          "text": "Menentukan kuasa"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Menentukan kuasa: Had tugas kerajaan dinyatakan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q022",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Apakah fungsi perlembagaan?\n\nPerlindungan tertentu diberikan kepada rakyat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menjamin hak"
+        },
+        {
+          "id": "B",
+          "text": "Mengatur institusi"
+        },
+        {
+          "id": "C",
+          "text": "Menjadi rujukan tertinggi"
+        },
+        {
+          "id": "D",
+          "text": "Menentukan kuasa"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Menjamin hak: Perlindungan tertentu diberikan kepada rakyat.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q023",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Apakah fungsi perlembagaan?\n\nHubungan badan pemerintahan disusun.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menjamin hak"
+        },
+        {
+          "id": "B",
+          "text": "Mengatur institusi"
+        },
+        {
+          "id": "C",
+          "text": "Menjadi rujukan tertinggi"
+        },
+        {
+          "id": "D",
+          "text": "Menentukan kuasa"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Mengatur institusi: Hubungan badan pemerintahan disusun.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q024",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Apakah fungsi perlembagaan?\n\nUndang-undang lain mesti selaras dengannya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menjamin hak"
+        },
+        {
+          "id": "B",
+          "text": "Mengatur institusi"
+        },
+        {
+          "id": "C",
+          "text": "Menjadi rujukan tertinggi"
+        },
+        {
+          "id": "D",
+          "text": "Menentukan kuasa"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Menjadi rujukan tertinggi: Undang-undang lain mesti selaras dengannya.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q025",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Padankan langkah penggubalan.\n\nSuruhanjaya menerima memorandum pelbagai pihak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Meneliti cadangan"
+        },
+        {
+          "id": "B",
+          "text": "Mengesahkan persetujuan"
+        },
+        {
+          "id": "C",
+          "text": "Mendapatkan pandangan"
+        },
+        {
+          "id": "D",
+          "text": "Menyediakan laporan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Mendapatkan pandangan: Suruhanjaya menerima memorandum pelbagai pihak.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q026",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Padankan langkah penggubalan.\n\nSyor dirumuskan selepas kajian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Meneliti cadangan"
+        },
+        {
+          "id": "B",
+          "text": "Mengesahkan persetujuan"
+        },
+        {
+          "id": "C",
+          "text": "Mendapatkan pandangan"
+        },
+        {
+          "id": "D",
+          "text": "Menyediakan laporan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Menyediakan laporan: Syor dirumuskan selepas kajian.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q027",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Padankan langkah penggubalan.\n\nPeruntukan dibincang dan dipinda melalui rundingan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Meneliti cadangan"
+        },
+        {
+          "id": "B",
+          "text": "Mengesahkan persetujuan"
+        },
+        {
+          "id": "C",
+          "text": "Mendapatkan pandangan"
+        },
+        {
+          "id": "D",
+          "text": "Menyediakan laporan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Meneliti cadangan: Peruntukan dibincang dan dipinda melalui rundingan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q028",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Padankan langkah penggubalan.\n\nDokumen dipersetujui sebelum negara merdeka.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Meneliti cadangan"
+        },
+        {
+          "id": "B",
+          "text": "Mengesahkan persetujuan"
+        },
+        {
+          "id": "C",
+          "text": "Mendapatkan pandangan"
+        },
+        {
+          "id": "D",
+          "text": "Menyediakan laporan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Mengesahkan persetujuan: Dokumen dipersetujui sebelum negara merdeka.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q029",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Kenal pasti asas muafakat.\n\nPihak berbeza menyesuaikan tuntutan demi persetujuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kepentingan bersama"
+        },
+        {
+          "id": "B",
+          "text": "Tolak ansur"
+        },
+        {
+          "id": "C",
+          "text": "Keseimbangan"
+        },
+        {
+          "id": "D",
+          "text": "Pengiktirafan sejarah"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Tolak ansur: Pihak berbeza menyesuaikan tuntutan demi persetujuan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q030",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Kenal pasti asas muafakat.\n\nHak dan tanggungjawab pelbagai kelompok diambil kira.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kepentingan bersama"
+        },
+        {
+          "id": "B",
+          "text": "Tolak ansur"
+        },
+        {
+          "id": "C",
+          "text": "Keseimbangan"
+        },
+        {
+          "id": "D",
+          "text": "Pengiktirafan sejarah"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Keseimbangan: Hak dan tanggungjawab pelbagai kelompok diambil kira.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q031",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Kenal pasti asas muafakat.\n\nInstitusi sedia ada dipertimbangkan dalam negara baharu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kepentingan bersama"
+        },
+        {
+          "id": "B",
+          "text": "Tolak ansur"
+        },
+        {
+          "id": "C",
+          "text": "Keseimbangan"
+        },
+        {
+          "id": "D",
+          "text": "Pengiktirafan sejarah"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pengiktirafan sejarah: Institusi sedia ada dipertimbangkan dalam negara baharu.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q032",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Kenal pasti asas muafakat.\n\nKestabilan negara menjadi tujuan perundingan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kepentingan bersama"
+        },
+        {
+          "id": "B",
+          "text": "Tolak ansur"
+        },
+        {
+          "id": "C",
+          "text": "Keseimbangan"
+        },
+        {
+          "id": "D",
+          "text": "Pengiktirafan sejarah"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kepentingan bersama: Kestabilan negara menjadi tujuan perundingan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q033",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Padankan tarikh dengan peristiwa.\n\nTahun suruhanjaya perlembagaan ditubuhkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1956"
+        },
+        {
+          "id": "B",
+          "text": "1957"
+        },
+        {
+          "id": "C",
+          "text": "31 Ogos 1957"
+        },
+        {
+          "id": "D",
+          "text": "16 September 1963"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "1956: Tahun suruhanjaya perlembagaan ditubuhkan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q034",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Padankan tarikh dengan peristiwa.\n\nTahun perjanjian perlembagaan menuju kemerdekaan dimuktamadkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1956"
+        },
+        {
+          "id": "B",
+          "text": "1957"
+        },
+        {
+          "id": "C",
+          "text": "31 Ogos 1957"
+        },
+        {
+          "id": "D",
+          "text": "16 September 1963"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "1957: Tahun perjanjian perlembagaan menuju kemerdekaan dimuktamadkan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q035",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Padankan tarikh dengan peristiwa.\n\nTarikh kemerdekaan Persekutuan Tanah Melayu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1956"
+        },
+        {
+          "id": "B",
+          "text": "1957"
+        },
+        {
+          "id": "C",
+          "text": "31 Ogos 1957"
+        },
+        {
+          "id": "D",
+          "text": "16 September 1963"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "31 Ogos 1957: Tarikh kemerdekaan Persekutuan Tanah Melayu.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q036",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Padankan tarikh dengan peristiwa.\n\nTarikh pembentukan Malaysia, bukan tarikh kemerdekaan PTM.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1956"
+        },
+        {
+          "id": "B",
+          "text": "1957"
+        },
+        {
+          "id": "C",
+          "text": "31 Ogos 1957"
+        },
+        {
+          "id": "D",
+          "text": "16 September 1963"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "16 September 1963: Tarikh pembentukan Malaysia, bukan tarikh kemerdekaan PTM.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q037",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Apakah amalan memahami perlembagaan?\n\nMaksud hukum diteliti berdasarkan teksnya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Membezakan konteks"
+        },
+        {
+          "id": "B",
+          "text": "Menggunakan sumber sah"
+        },
+        {
+          "id": "C",
+          "text": "Mengelakkan petikan terpisah"
+        },
+        {
+          "id": "D",
+          "text": "Membaca peruntukan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Membaca peruntukan: Maksud hukum diteliti berdasarkan teksnya.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q038",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Apakah amalan memahami perlembagaan?\n\nSusunan 1957 dibezakan daripada pindaan kemudian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Membezakan konteks"
+        },
+        {
+          "id": "B",
+          "text": "Menggunakan sumber sah"
+        },
+        {
+          "id": "C",
+          "text": "Mengelakkan petikan terpisah"
+        },
+        {
+          "id": "D",
+          "text": "Membaca peruntukan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Membezakan konteks: Susunan 1957 dibezakan daripada pindaan kemudian.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q039",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Apakah amalan memahami perlembagaan?\n\nRujukan rasmi digunakan untuk mengesahkan kandungan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Membezakan konteks"
+        },
+        {
+          "id": "B",
+          "text": "Menggunakan sumber sah"
+        },
+        {
+          "id": "C",
+          "text": "Mengelakkan petikan terpisah"
+        },
+        {
+          "id": "D",
+          "text": "Membaca peruntukan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Menggunakan sumber sah: Rujukan rasmi digunakan untuk mengesahkan kandungan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t4-b09-q040",
+      "form": 4,
+      "chapter": 9,
+      "prompt": "Apakah amalan memahami perlembagaan?\n\nSatu ayat tidak ditafsir tanpa bahagian yang berkaitan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Membezakan konteks"
+        },
+        {
+          "id": "B",
+          "text": "Menggunakan sumber sah"
+        },
+        {
+          "id": "C",
+          "text": "Mengelakkan petikan terpisah"
+        },
+        {
+          "id": "D",
+          "text": "Membaca peruntukan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Mengelakkan petikan terpisah: Satu ayat tidak ditafsir tanpa bahagian yang berkaitan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 4,
+  "chapter": 2,
+  "title": "Kebangkitan Nasionalisme",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t4_b02.json",
+  "questions": [
+    {
+      "id": "t4-b02-q001",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Kenal pasti konsep.\n\nKesedaran membela bangsa dan menentukan masa depannya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nasionalisme"
+        },
+        {
+          "id": "B",
+          "text": "Imperialisme"
+        },
+        {
+          "id": "C",
+          "text": "Reformasi"
+        },
+        {
+          "id": "D",
+          "text": "Kemerdekaan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Nasionalisme: Kesedaran membela bangsa dan menentukan masa depannya.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q002",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Kenal pasti konsep.\n\nPeluasan kuasa sebuah negara terhadap wilayah lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nasionalisme"
+        },
+        {
+          "id": "B",
+          "text": "Imperialisme"
+        },
+        {
+          "id": "C",
+          "text": "Reformasi"
+        },
+        {
+          "id": "D",
+          "text": "Kemerdekaan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Imperialisme: Peluasan kuasa sebuah negara terhadap wilayah lain.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q003",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Kenal pasti konsep.\n\nUsaha membaharui sistem sedia ada.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nasionalisme"
+        },
+        {
+          "id": "B",
+          "text": "Imperialisme"
+        },
+        {
+          "id": "C",
+          "text": "Reformasi"
+        },
+        {
+          "id": "D",
+          "text": "Kemerdekaan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Reformasi: Usaha membaharui sistem sedia ada.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q004",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Kenal pasti konsep.\n\nKebebasan negara daripada penguasaan asing.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nasionalisme"
+        },
+        {
+          "id": "B",
+          "text": "Imperialisme"
+        },
+        {
+          "id": "C",
+          "text": "Reformasi"
+        },
+        {
+          "id": "D",
+          "text": "Kemerdekaan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kemerdekaan: Kebebasan negara daripada penguasaan asing.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q005",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Padankan peristiwa Barat.\n\nPerubahan England 1688 yang mengukuhkan kuasa Parlimen.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Revolusi Amerika"
+        },
+        {
+          "id": "B",
+          "text": "Revolusi Perancis"
+        },
+        {
+          "id": "C",
+          "text": "Revolusi Perindustrian"
+        },
+        {
+          "id": "D",
+          "text": "Revolusi Keagungan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Revolusi Keagungan: Perubahan England 1688 yang mengukuhkan kuasa Parlimen.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q006",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Padankan peristiwa Barat.\n\nPerjuangan koloni Amerika melepaskan penguasaan British.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Revolusi Amerika"
+        },
+        {
+          "id": "B",
+          "text": "Revolusi Perancis"
+        },
+        {
+          "id": "C",
+          "text": "Revolusi Perindustrian"
+        },
+        {
+          "id": "D",
+          "text": "Revolusi Keagungan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Revolusi Amerika: Perjuangan koloni Amerika melepaskan penguasaan British.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q007",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Padankan peristiwa Barat.\n\nGerakan 1789 menentang pemerintahan mutlak di Perancis.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Revolusi Amerika"
+        },
+        {
+          "id": "B",
+          "text": "Revolusi Perancis"
+        },
+        {
+          "id": "C",
+          "text": "Revolusi Perindustrian"
+        },
+        {
+          "id": "D",
+          "text": "Revolusi Keagungan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Revolusi Perancis: Gerakan 1789 menentang pemerintahan mutlak di Perancis.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q008",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Padankan peristiwa Barat.\n\nPerubahan pengeluaran yang mendorong persaingan ekonomi penjajah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Revolusi Amerika"
+        },
+        {
+          "id": "B",
+          "text": "Revolusi Perancis"
+        },
+        {
+          "id": "C",
+          "text": "Revolusi Perindustrian"
+        },
+        {
+          "id": "D",
+          "text": "Revolusi Keagungan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Revolusi Perindustrian: Perubahan pengeluaran yang mendorong persaingan ekonomi penjajah.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q009",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Kenal pasti tokoh Asia.\n\nTokoh India terkenal dengan penentangan tanpa kekerasan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jose Rizal"
+        },
+        {
+          "id": "B",
+          "text": "Soekarno"
+        },
+        {
+          "id": "C",
+          "text": "Mahatma Gandhi"
+        },
+        {
+          "id": "D",
+          "text": "Sun Yat Sen"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Mahatma Gandhi: Tokoh India terkenal dengan penentangan tanpa kekerasan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q010",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Kenal pasti tokoh Asia.\n\nTokoh revolusi China dan prinsip San Min Chu-i.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jose Rizal"
+        },
+        {
+          "id": "B",
+          "text": "Soekarno"
+        },
+        {
+          "id": "C",
+          "text": "Mahatma Gandhi"
+        },
+        {
+          "id": "D",
+          "text": "Sun Yat Sen"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Sun Yat Sen: Tokoh revolusi China dan prinsip San Min Chu-i.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q011",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Kenal pasti tokoh Asia.\n\nTokoh Filipina yang menggunakan penulisan mengkritik penjajahan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jose Rizal"
+        },
+        {
+          "id": "B",
+          "text": "Soekarno"
+        },
+        {
+          "id": "C",
+          "text": "Mahatma Gandhi"
+        },
+        {
+          "id": "D",
+          "text": "Sun Yat Sen"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Jose Rizal: Tokoh Filipina yang menggunakan penulisan mengkritik penjajahan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q012",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Kenal pasti tokoh Asia.\n\nTokoh nasionalisme Indonesia yang kemudian menjadi presidennya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jose Rizal"
+        },
+        {
+          "id": "B",
+          "text": "Soekarno"
+        },
+        {
+          "id": "C",
+          "text": "Mahatma Gandhi"
+        },
+        {
+          "id": "D",
+          "text": "Sun Yat Sen"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Soekarno: Tokoh nasionalisme Indonesia yang kemudian menjadi presidennya.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q013",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Padankan negara dengan pengalaman nasionalisme.\n\nGerakan menentang penjajahan British.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thailand"
+        },
+        {
+          "id": "B",
+          "text": "India"
+        },
+        {
+          "id": "C",
+          "text": "China"
+        },
+        {
+          "id": "D",
+          "text": "Jepun"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "India: Gerakan menentang penjajahan British.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q014",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Padankan negara dengan pengalaman nasionalisme.\n\nRevolusi 1911 menjatuhkan dinasti Qing.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thailand"
+        },
+        {
+          "id": "B",
+          "text": "India"
+        },
+        {
+          "id": "C",
+          "text": "China"
+        },
+        {
+          "id": "D",
+          "text": "Jepun"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "China: Revolusi 1911 menjatuhkan dinasti Qing.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q015",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Padankan negara dengan pengalaman nasionalisme.\n\nPemulihan Meiji mempercepat pemodenan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thailand"
+        },
+        {
+          "id": "B",
+          "text": "India"
+        },
+        {
+          "id": "C",
+          "text": "China"
+        },
+        {
+          "id": "D",
+          "text": "Jepun"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Jepun: Pemulihan Meiji mempercepat pemodenan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q016",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Padankan negara dengan pengalaman nasionalisme.\n\nPembaharuan membantu mengekalkan kemerdekaan daripada penjajahan Barat secara langsung.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thailand"
+        },
+        {
+          "id": "B",
+          "text": "India"
+        },
+        {
+          "id": "C",
+          "text": "China"
+        },
+        {
+          "id": "D",
+          "text": "Jepun"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Thailand: Pembaharuan membantu mengekalkan kemerdekaan daripada penjajahan Barat secara langsung.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q017",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Kenal pasti tokoh tempatan.\n\nPengarang reformis yang dikaitkan dengan Hikayat Faridah Hanum.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Syed Sheikh al-Hadi"
+        },
+        {
+          "id": "B",
+          "text": "Sheikh Tahir Jalaluddin"
+        },
+        {
+          "id": "C",
+          "text": "Ibrahim Haji Yaakob"
+        },
+        {
+          "id": "D",
+          "text": "Zainal Abidin Ahmad"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Syed Sheikh al-Hadi: Pengarang reformis yang dikaitkan dengan Hikayat Faridah Hanum.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q018",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Kenal pasti tokoh tempatan.\n\nTokoh pembaharuan Islam yang terlibat dengan Al-Imam.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Syed Sheikh al-Hadi"
+        },
+        {
+          "id": "B",
+          "text": "Sheikh Tahir Jalaluddin"
+        },
+        {
+          "id": "C",
+          "text": "Ibrahim Haji Yaakob"
+        },
+        {
+          "id": "D",
+          "text": "Zainal Abidin Ahmad"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Sheikh Tahir Jalaluddin: Tokoh pembaharuan Islam yang terlibat dengan Al-Imam.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q019",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Kenal pasti tokoh tempatan.\n\nPemimpin Kesatuan Melayu Muda.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Syed Sheikh al-Hadi"
+        },
+        {
+          "id": "B",
+          "text": "Sheikh Tahir Jalaluddin"
+        },
+        {
+          "id": "C",
+          "text": "Ibrahim Haji Yaakob"
+        },
+        {
+          "id": "D",
+          "text": "Zainal Abidin Ahmad"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Ibrahim Haji Yaakob: Pemimpin Kesatuan Melayu Muda.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q020",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Kenal pasti tokoh tempatan.\n\nTokoh bahasa dan pemikiran yang dikenali sebagai Za'ba.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Syed Sheikh al-Hadi"
+        },
+        {
+          "id": "B",
+          "text": "Sheikh Tahir Jalaluddin"
+        },
+        {
+          "id": "C",
+          "text": "Ibrahim Haji Yaakob"
+        },
+        {
+          "id": "D",
+          "text": "Zainal Abidin Ahmad"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Zainal Abidin Ahmad: Tokoh bahasa dan pemikiran yang dikenali sebagai Za'ba.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q021",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Padankan saluran kesedaran.\n\nRencana menyebarkan isu masyarakat kepada pembaca.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Novel"
+        },
+        {
+          "id": "B",
+          "text": "Persatuan"
+        },
+        {
+          "id": "C",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "D",
+          "text": "Akhbar"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Akhbar: Rencana menyebarkan isu masyarakat kepada pembaca.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q022",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Padankan saluran kesedaran.\n\nCerita digunakan menyampaikan kritikan sosial.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Novel"
+        },
+        {
+          "id": "B",
+          "text": "Persatuan"
+        },
+        {
+          "id": "C",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "D",
+          "text": "Akhbar"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Novel: Cerita digunakan menyampaikan kritikan sosial.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q023",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Padankan saluran kesedaran.\n\nPertubuhan menyatukan anggota memperjuangkan kepentingan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Novel"
+        },
+        {
+          "id": "B",
+          "text": "Persatuan"
+        },
+        {
+          "id": "C",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "D",
+          "text": "Akhbar"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Persatuan: Pertubuhan menyatukan anggota memperjuangkan kepentingan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q024",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Padankan saluran kesedaran.\n\nPengajian membina pemikiran dan kesedaran hak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Novel"
+        },
+        {
+          "id": "B",
+          "text": "Persatuan"
+        },
+        {
+          "id": "C",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "D",
+          "text": "Akhbar"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pendidikan: Pengajian membina pemikiran dan kesedaran hak.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q025",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Apakah faktor kebangkitan nasionalisme?\n\nSeruan pembaharuan mendorong masyarakat menilai kemunduran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perkembangan media"
+        },
+        {
+          "id": "B",
+          "text": "Gerakan luar negara"
+        },
+        {
+          "id": "C",
+          "text": "Pengaruh agama"
+        },
+        {
+          "id": "D",
+          "text": "Karya kreatif"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pengaruh agama: Seruan pembaharuan mendorong masyarakat menilai kemunduran.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q026",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Apakah faktor kebangkitan nasionalisme?\n\nPuisi dan cerita membangkitkan semangat bangsa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perkembangan media"
+        },
+        {
+          "id": "B",
+          "text": "Gerakan luar negara"
+        },
+        {
+          "id": "C",
+          "text": "Pengaruh agama"
+        },
+        {
+          "id": "D",
+          "text": "Karya kreatif"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Karya kreatif: Puisi dan cerita membangkitkan semangat bangsa.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q027",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Apakah faktor kebangkitan nasionalisme?\n\nBahan bercetak mempercepat penyebaran idea.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perkembangan media"
+        },
+        {
+          "id": "B",
+          "text": "Gerakan luar negara"
+        },
+        {
+          "id": "C",
+          "text": "Pengaruh agama"
+        },
+        {
+          "id": "D",
+          "text": "Karya kreatif"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perkembangan media: Bahan bercetak mempercepat penyebaran idea.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q028",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Apakah faktor kebangkitan nasionalisme?\n\nPerjuangan bangsa lain memberikan inspirasi tempatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perkembangan media"
+        },
+        {
+          "id": "B",
+          "text": "Gerakan luar negara"
+        },
+        {
+          "id": "C",
+          "text": "Pengaruh agama"
+        },
+        {
+          "id": "D",
+          "text": "Karya kreatif"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Gerakan luar negara: Perjuangan bangsa lain memberikan inspirasi tempatan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q029",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Kenal pasti tuntutan gerakan.\n\nSekolah dan pengajian mahu diperluas.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemeliharaan bahasa"
+        },
+        {
+          "id": "B",
+          "text": "Pendidikan lebih baik"
+        },
+        {
+          "id": "C",
+          "text": "Peluang ekonomi"
+        },
+        {
+          "id": "D",
+          "text": "Hak politik"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pendidikan lebih baik: Sekolah dan pengajian mahu diperluas.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q030",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Kenal pasti tuntutan gerakan.\n\nPenduduk tempatan mahu meningkatkan taraf hidup.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemeliharaan bahasa"
+        },
+        {
+          "id": "B",
+          "text": "Pendidikan lebih baik"
+        },
+        {
+          "id": "C",
+          "text": "Peluang ekonomi"
+        },
+        {
+          "id": "D",
+          "text": "Hak politik"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Peluang ekonomi: Penduduk tempatan mahu meningkatkan taraf hidup.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q031",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Kenal pasti tuntutan gerakan.\n\nRakyat mahu terlibat menentukan pemerintahan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemeliharaan bahasa"
+        },
+        {
+          "id": "B",
+          "text": "Pendidikan lebih baik"
+        },
+        {
+          "id": "C",
+          "text": "Peluang ekonomi"
+        },
+        {
+          "id": "D",
+          "text": "Hak politik"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Hak politik: Rakyat mahu terlibat menentukan pemerintahan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q032",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Kenal pasti tuntutan gerakan.\n\nBahasa sendiri mahu diperkukuh sebagai identiti.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemeliharaan bahasa"
+        },
+        {
+          "id": "B",
+          "text": "Pendidikan lebih baik"
+        },
+        {
+          "id": "C",
+          "text": "Peluang ekonomi"
+        },
+        {
+          "id": "D",
+          "text": "Hak politik"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pemeliharaan bahasa: Bahasa sendiri mahu diperkukuh sebagai identiti.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q033",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Padankan cara perjuangan.\n\nHujah disampaikan melalui rencana dan karya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penulisan"
+        },
+        {
+          "id": "B",
+          "text": "Petisyen"
+        },
+        {
+          "id": "C",
+          "text": "Pemulauan"
+        },
+        {
+          "id": "D",
+          "text": "Penubuhan organisasi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Penulisan: Hujah disampaikan melalui rencana dan karya.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q034",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Padankan cara perjuangan.\n\nTuntutan bertulis dihantar kepada pihak berkuasa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penulisan"
+        },
+        {
+          "id": "B",
+          "text": "Petisyen"
+        },
+        {
+          "id": "C",
+          "text": "Pemulauan"
+        },
+        {
+          "id": "D",
+          "text": "Penubuhan organisasi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Petisyen: Tuntutan bertulis dihantar kepada pihak berkuasa.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q035",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Padankan cara perjuangan.\n\nKerjasama ekonomi tertentu ditolak sebagai bantahan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penulisan"
+        },
+        {
+          "id": "B",
+          "text": "Petisyen"
+        },
+        {
+          "id": "C",
+          "text": "Pemulauan"
+        },
+        {
+          "id": "D",
+          "text": "Penubuhan organisasi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pemulauan: Kerjasama ekonomi tertentu ditolak sebagai bantahan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q036",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Padankan cara perjuangan.\n\nGerakan disusun melalui badan dengan kepimpinan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penulisan"
+        },
+        {
+          "id": "B",
+          "text": "Petisyen"
+        },
+        {
+          "id": "C",
+          "text": "Pemulauan"
+        },
+        {
+          "id": "D",
+          "text": "Penubuhan organisasi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Penubuhan organisasi: Gerakan disusun melalui badan dengan kepimpinan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q037",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Apakah nilai perjuangan yang ditunjukkan?\n\nTokoh mengkritik ketidakadilan walaupun berisiko.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesedaran ilmu"
+        },
+        {
+          "id": "B",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "C",
+          "text": "Pengorbanan"
+        },
+        {
+          "id": "D",
+          "text": "Keberanian"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Keberanian: Tokoh mengkritik ketidakadilan walaupun berisiko.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q038",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Apakah nilai perjuangan yang ditunjukkan?\n\nMasyarakat membaca dan menilai idea baharu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesedaran ilmu"
+        },
+        {
+          "id": "B",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "C",
+          "text": "Pengorbanan"
+        },
+        {
+          "id": "D",
+          "text": "Keberanian"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kesedaran ilmu: Masyarakat membaca dan menilai idea baharu.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q039",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Apakah nilai perjuangan yang ditunjukkan?\n\nKelompok bekerjasama mengejar matlamat bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesedaran ilmu"
+        },
+        {
+          "id": "B",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "C",
+          "text": "Pengorbanan"
+        },
+        {
+          "id": "D",
+          "text": "Keberanian"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perpaduan: Kelompok bekerjasama mengejar matlamat bersama.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t4-b02-q040",
+      "form": 4,
+      "chapter": 2,
+      "prompt": "Apakah nilai perjuangan yang ditunjukkan?\n\nMasa dan harta disumbangkan untuk perjuangan bangsa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesedaran ilmu"
+        },
+        {
+          "id": "B",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "C",
+          "text": "Pengorbanan"
+        },
+        {
+          "id": "D",
+          "text": "Keberanian"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pengorbanan: Masa dan harta disumbangkan untuk perjuangan bangsa.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    }
+  ]
+}

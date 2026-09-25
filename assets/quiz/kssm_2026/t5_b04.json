@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 5,
+  "chapter": 4,
+  "title": "Sistem Persekutuan",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t5_b04.json",
+  "questions": [
+    {
+      "id": "t5-b04-q001",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Padankan perkembangan persekutuan.\n\nPembentukan Negeri-negeri Melayu Bersekutu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1896"
+        },
+        {
+          "id": "B",
+          "text": "1948"
+        },
+        {
+          "id": "C",
+          "text": "1957"
+        },
+        {
+          "id": "D",
+          "text": "1963"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "1896: Pembentukan Negeri-negeri Melayu Bersekutu.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q002",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Padankan perkembangan persekutuan.\n\nPenubuhan Persekutuan Tanah Melayu menggantikan Malayan Union.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1896"
+        },
+        {
+          "id": "B",
+          "text": "1948"
+        },
+        {
+          "id": "C",
+          "text": "1957"
+        },
+        {
+          "id": "D",
+          "text": "1963"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "1948: Penubuhan Persekutuan Tanah Melayu menggantikan Malayan Union.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q003",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Padankan perkembangan persekutuan.\n\nPTM menjadi persekutuan yang merdeka.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1896"
+        },
+        {
+          "id": "B",
+          "text": "1948"
+        },
+        {
+          "id": "C",
+          "text": "1957"
+        },
+        {
+          "id": "D",
+          "text": "1963"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "1957: PTM menjadi persekutuan yang merdeka.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q004",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Padankan perkembangan persekutuan.\n\nMalaysia dibentuk dengan penyertaan wilayah baharu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1896"
+        },
+        {
+          "id": "B",
+          "text": "1948"
+        },
+        {
+          "id": "C",
+          "text": "1957"
+        },
+        {
+          "id": "D",
+          "text": "1963"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "1963: Malaysia dibentuk dengan penyertaan wilayah baharu.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q005",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Kenal pasti senarai atau prinsip bidang kuasa.\n\nBidang seperti pertahanan dan hubungan luar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Senarai Negeri"
+        },
+        {
+          "id": "B",
+          "text": "Senarai Bersama"
+        },
+        {
+          "id": "C",
+          "text": "Keluhuran Perlembagaan"
+        },
+        {
+          "id": "D",
+          "text": "Senarai Persekutuan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Senarai Persekutuan: Bidang seperti pertahanan dan hubungan luar.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q006",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Kenal pasti senarai atau prinsip bidang kuasa.\n\nBidang seperti tanah dan adat Melayu menurut peruntukan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Senarai Negeri"
+        },
+        {
+          "id": "B",
+          "text": "Senarai Bersama"
+        },
+        {
+          "id": "C",
+          "text": "Keluhuran Perlembagaan"
+        },
+        {
+          "id": "D",
+          "text": "Senarai Persekutuan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Senarai Negeri: Bidang seperti tanah dan adat Melayu menurut peruntukan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q007",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Kenal pasti senarai atau prinsip bidang kuasa.\n\nBidang yang melibatkan peranan kedua-dua peringkat kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Senarai Negeri"
+        },
+        {
+          "id": "B",
+          "text": "Senarai Bersama"
+        },
+        {
+          "id": "C",
+          "text": "Keluhuran Perlembagaan"
+        },
+        {
+          "id": "D",
+          "text": "Senarai Persekutuan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Senarai Bersama: Bidang yang melibatkan peranan kedua-dua peringkat kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q008",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Kenal pasti senarai atau prinsip bidang kuasa.\n\nRujukan tertinggi untuk menentukan pembahagian kuasa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Senarai Negeri"
+        },
+        {
+          "id": "B",
+          "text": "Senarai Bersama"
+        },
+        {
+          "id": "C",
+          "text": "Keluhuran Perlembagaan"
+        },
+        {
+          "id": "D",
+          "text": "Senarai Persekutuan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Keluhuran Perlembagaan: Rujukan tertinggi untuk menentukan pembahagian kuasa.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q009",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Padankan bidang Persekutuan.\n\nMengurus keselamatan ketenteraan negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "B",
+          "text": "Kewangan"
+        },
+        {
+          "id": "C",
+          "text": "Pertahanan"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan luar"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pertahanan: Mengurus keselamatan ketenteraan negara.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q010",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Padankan bidang Persekutuan.\n\nMenjalin diplomasi dengan negara lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "B",
+          "text": "Kewangan"
+        },
+        {
+          "id": "C",
+          "text": "Pertahanan"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan luar"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Hubungan luar: Menjalin diplomasi dengan negara lain.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q011",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Padankan bidang Persekutuan.\n\nMengatur dasar pembelajaran kebangsaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "B",
+          "text": "Kewangan"
+        },
+        {
+          "id": "C",
+          "text": "Pertahanan"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan luar"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pendidikan: Mengatur dasar pembelajaran kebangsaan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q012",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Padankan bidang Persekutuan.\n\nMengurus dasar fiskal dan urusan kewangan Persekutuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "B",
+          "text": "Kewangan"
+        },
+        {
+          "id": "C",
+          "text": "Pertahanan"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan luar"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kewangan: Mengurus dasar fiskal dan urusan kewangan Persekutuan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q013",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Kenal pasti urusan negeri.\n\nPengurusan hak penggunaan kawasan daratan menurut bidang negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerajaan tempatan"
+        },
+        {
+          "id": "B",
+          "text": "Tanah"
+        },
+        {
+          "id": "C",
+          "text": "Agama Islam"
+        },
+        {
+          "id": "D",
+          "text": "Adat Melayu"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Tanah: Pengurusan hak penggunaan kawasan daratan menurut bidang negeri.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q014",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Kenal pasti urusan negeri.\n\nPentadbiran hal ehwal Islam di negeri menurut peruntukan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerajaan tempatan"
+        },
+        {
+          "id": "B",
+          "text": "Tanah"
+        },
+        {
+          "id": "C",
+          "text": "Agama Islam"
+        },
+        {
+          "id": "D",
+          "text": "Adat Melayu"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Agama Islam: Pentadbiran hal ehwal Islam di negeri menurut peruntukan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q015",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Kenal pasti urusan negeri.\n\nPemeliharaan aturan tradisi Melayu tertentu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerajaan tempatan"
+        },
+        {
+          "id": "B",
+          "text": "Tanah"
+        },
+        {
+          "id": "C",
+          "text": "Agama Islam"
+        },
+        {
+          "id": "D",
+          "text": "Adat Melayu"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Adat Melayu: Pemeliharaan aturan tradisi Melayu tertentu.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q016",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Kenal pasti urusan negeri.\n\nUrusan pihak berkuasa setempat menurut rangka perundangan berkaitan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerajaan tempatan"
+        },
+        {
+          "id": "B",
+          "text": "Tanah"
+        },
+        {
+          "id": "C",
+          "text": "Agama Islam"
+        },
+        {
+          "id": "D",
+          "text": "Adat Melayu"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kerajaan tempatan: Urusan pihak berkuasa setempat menurut rangka perundangan berkaitan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q017",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Padankan bidang kerjasama.\n\nPenyediaan tempat kediaman melibatkan penyelarasan pusat dan negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perumahan"
+        },
+        {
+          "id": "B",
+          "text": "Kebajikan masyarakat"
+        },
+        {
+          "id": "C",
+          "text": "Perancangan bandar"
+        },
+        {
+          "id": "D",
+          "text": "Kesihatan awam"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perumahan: Penyediaan tempat kediaman melibatkan penyelarasan pusat dan negeri.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q018",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Padankan bidang kerjasama.\n\nBantuan kepada golongan memerlukan diselaraskan pelbagai agensi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perumahan"
+        },
+        {
+          "id": "B",
+          "text": "Kebajikan masyarakat"
+        },
+        {
+          "id": "C",
+          "text": "Perancangan bandar"
+        },
+        {
+          "id": "D",
+          "text": "Kesihatan awam"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kebajikan masyarakat: Bantuan kepada golongan memerlukan diselaraskan pelbagai agensi.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q019",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Padankan bidang kerjasama.\n\nPembangunan petempatan memerlukan aturan guna tanah bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perumahan"
+        },
+        {
+          "id": "B",
+          "text": "Kebajikan masyarakat"
+        },
+        {
+          "id": "C",
+          "text": "Perancangan bandar"
+        },
+        {
+          "id": "D",
+          "text": "Kesihatan awam"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perancangan bandar: Pembangunan petempatan memerlukan aturan guna tanah bersama.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q020",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Padankan bidang kerjasama.\n\nPencegahan penyakit memerlukan kerjasama merentas sempadan pentadbiran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perumahan"
+        },
+        {
+          "id": "B",
+          "text": "Kebajikan masyarakat"
+        },
+        {
+          "id": "C",
+          "text": "Perancangan bandar"
+        },
+        {
+          "id": "D",
+          "text": "Kesihatan awam"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kesihatan awam: Pencegahan penyakit memerlukan kerjasama merentas sempadan pentadbiran.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q021",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Kenal pasti majlis penyelarasan.\n\nMenyelaras dasar berkaitan pentadbiran tanah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Majlis Kewangan Negara"
+        },
+        {
+          "id": "B",
+          "text": "Majlis Negara bagi Kerajaan Tempatan"
+        },
+        {
+          "id": "C",
+          "text": "Majlis Keselamatan Negara"
+        },
+        {
+          "id": "D",
+          "text": "Majlis Tanah Negara"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Majlis Tanah Negara: Menyelaras dasar berkaitan pentadbiran tanah.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q022",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Kenal pasti majlis penyelarasan.\n\nMembincangkan hubungan kewangan Persekutuan dan negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Majlis Kewangan Negara"
+        },
+        {
+          "id": "B",
+          "text": "Majlis Negara bagi Kerajaan Tempatan"
+        },
+        {
+          "id": "C",
+          "text": "Majlis Keselamatan Negara"
+        },
+        {
+          "id": "D",
+          "text": "Majlis Tanah Negara"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Majlis Kewangan Negara: Membincangkan hubungan kewangan Persekutuan dan negeri.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q023",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Kenal pasti majlis penyelarasan.\n\nWadah penyelarasan dasar pihak berkuasa tempatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Majlis Kewangan Negara"
+        },
+        {
+          "id": "B",
+          "text": "Majlis Negara bagi Kerajaan Tempatan"
+        },
+        {
+          "id": "C",
+          "text": "Majlis Keselamatan Negara"
+        },
+        {
+          "id": "D",
+          "text": "Majlis Tanah Negara"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Majlis Negara bagi Kerajaan Tempatan: Wadah penyelarasan dasar pihak berkuasa tempatan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q024",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Kenal pasti majlis penyelarasan.\n\nMenyelaras perkara keselamatan negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Majlis Kewangan Negara"
+        },
+        {
+          "id": "B",
+          "text": "Majlis Negara bagi Kerajaan Tempatan"
+        },
+        {
+          "id": "C",
+          "text": "Majlis Keselamatan Negara"
+        },
+        {
+          "id": "D",
+          "text": "Majlis Tanah Negara"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Majlis Keselamatan Negara: Menyelaras perkara keselamatan negara.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q025",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Apakah manfaat kerjasama kerajaan?\n\nDua agensi tidak membina kemudahan sama tanpa keperluan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menyeragamkan dasar"
+        },
+        {
+          "id": "B",
+          "text": "Menyelesaikan masalah rentas wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Mengurangkan pertindihan"
+        },
+        {
+          "id": "D",
+          "text": "Menyatukan sumber"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Mengurangkan pertindihan: Dua agensi tidak membina kemudahan sama tanpa keperluan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q026",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Apakah manfaat kerjasama kerajaan?\n\nKewangan dan kepakaran digabungkan untuk projek.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menyeragamkan dasar"
+        },
+        {
+          "id": "B",
+          "text": "Menyelesaikan masalah rentas wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Mengurangkan pertindihan"
+        },
+        {
+          "id": "D",
+          "text": "Menyatukan sumber"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Menyatukan sumber: Kewangan dan kepakaran digabungkan untuk projek.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q027",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Apakah manfaat kerjasama kerajaan?\n\nAturan yang sepadan memudahkan pelaksanaan bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menyeragamkan dasar"
+        },
+        {
+          "id": "B",
+          "text": "Menyelesaikan masalah rentas wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Mengurangkan pertindihan"
+        },
+        {
+          "id": "D",
+          "text": "Menyatukan sumber"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Menyeragamkan dasar: Aturan yang sepadan memudahkan pelaksanaan bersama.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q028",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Apakah manfaat kerjasama kerajaan?\n\nBanjir merentasi sempadan negeri ditangani secara terselaras.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menyeragamkan dasar"
+        },
+        {
+          "id": "B",
+          "text": "Menyelesaikan masalah rentas wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Mengurangkan pertindihan"
+        },
+        {
+          "id": "D",
+          "text": "Menyatukan sumber"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Menyelesaikan masalah rentas wilayah: Banjir merentasi sempadan negeri ditangani secara terselaras.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q029",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Padankan tanggungjawab pembangunan.\n\nPeruntukan kewangan dikenal pasti untuk kemudahan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemantauan"
+        },
+        {
+          "id": "B",
+          "text": "Penyediaan dana"
+        },
+        {
+          "id": "C",
+          "text": "Kelulusan tanah"
+        },
+        {
+          "id": "D",
+          "text": "Pelaksanaan projek"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Penyediaan dana: Peruntukan kewangan dikenal pasti untuk kemudahan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q030",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Padankan tanggungjawab pembangunan.\n\nPenggunaan tapak dirujuk kepada pihak berkuasa berkaitan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemantauan"
+        },
+        {
+          "id": "B",
+          "text": "Penyediaan dana"
+        },
+        {
+          "id": "C",
+          "text": "Kelulusan tanah"
+        },
+        {
+          "id": "D",
+          "text": "Pelaksanaan projek"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kelulusan tanah: Penggunaan tapak dirujuk kepada pihak berkuasa berkaitan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q031",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Padankan tanggungjawab pembangunan.\n\nKerja pembinaan dijalankan mengikut rancangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemantauan"
+        },
+        {
+          "id": "B",
+          "text": "Penyediaan dana"
+        },
+        {
+          "id": "C",
+          "text": "Kelulusan tanah"
+        },
+        {
+          "id": "D",
+          "text": "Pelaksanaan projek"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pelaksanaan projek: Kerja pembinaan dijalankan mengikut rancangan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q032",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Padankan tanggungjawab pembangunan.\n\nKemajuan dan mutu kerja disemak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemantauan"
+        },
+        {
+          "id": "B",
+          "text": "Penyediaan dana"
+        },
+        {
+          "id": "C",
+          "text": "Kelulusan tanah"
+        },
+        {
+          "id": "D",
+          "text": "Pelaksanaan projek"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pemantauan: Kemajuan dan mutu kerja disemak.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q033",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Apakah asas kekuatan persekutuan?\n\nSetiap peringkat tidak melampaui bidangnya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menghormati kuasa"
+        },
+        {
+          "id": "B",
+          "text": "Rundingan"
+        },
+        {
+          "id": "C",
+          "text": "Perkongsian maklumat"
+        },
+        {
+          "id": "D",
+          "text": "Kepentingan rakyat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Menghormati kuasa: Setiap peringkat tidak melampaui bidangnya.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q034",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Apakah asas kekuatan persekutuan?\n\nPerbezaan pendapat diselesaikan melalui perbincangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menghormati kuasa"
+        },
+        {
+          "id": "B",
+          "text": "Rundingan"
+        },
+        {
+          "id": "C",
+          "text": "Perkongsian maklumat"
+        },
+        {
+          "id": "D",
+          "text": "Kepentingan rakyat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Rundingan: Perbezaan pendapat diselesaikan melalui perbincangan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q035",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Apakah asas kekuatan persekutuan?\n\nData disalurkan supaya tindakan agensi sepadan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menghormati kuasa"
+        },
+        {
+          "id": "B",
+          "text": "Rundingan"
+        },
+        {
+          "id": "C",
+          "text": "Perkongsian maklumat"
+        },
+        {
+          "id": "D",
+          "text": "Kepentingan rakyat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perkongsian maklumat: Data disalurkan supaya tindakan agensi sepadan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q036",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Apakah asas kekuatan persekutuan?\n\nKeputusan dinilai berdasarkan manfaat masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menghormati kuasa"
+        },
+        {
+          "id": "B",
+          "text": "Rundingan"
+        },
+        {
+          "id": "C",
+          "text": "Perkongsian maklumat"
+        },
+        {
+          "id": "D",
+          "text": "Kepentingan rakyat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kepentingan rakyat: Keputusan dinilai berdasarkan manfaat masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q037",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Kenal pasti cabaran pentadbiran.\n\nLebih satu agensi menjalankan urusan sama tanpa pembahagian jelas.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jurang sumber"
+        },
+        {
+          "id": "B",
+          "text": "Konflik bidang kuasa"
+        },
+        {
+          "id": "C",
+          "text": "Kelewatan penyelarasan"
+        },
+        {
+          "id": "D",
+          "text": "Pertindihan tugas"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pertindihan tugas: Lebih satu agensi menjalankan urusan sama tanpa pembahagian jelas.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q038",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Kenal pasti cabaran pentadbiran.\n\nKeupayaan kewangan berbeza antara wilayah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jurang sumber"
+        },
+        {
+          "id": "B",
+          "text": "Konflik bidang kuasa"
+        },
+        {
+          "id": "C",
+          "text": "Kelewatan penyelarasan"
+        },
+        {
+          "id": "D",
+          "text": "Pertindihan tugas"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Jurang sumber: Keupayaan kewangan berbeza antara wilayah.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q039",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Kenal pasti cabaran pentadbiran.\n\nPihak berbeza mempertikaikan siapa berhak membuat keputusan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jurang sumber"
+        },
+        {
+          "id": "B",
+          "text": "Konflik bidang kuasa"
+        },
+        {
+          "id": "C",
+          "text": "Kelewatan penyelarasan"
+        },
+        {
+          "id": "D",
+          "text": "Pertindihan tugas"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Konflik bidang kuasa: Pihak berbeza mempertikaikan siapa berhak membuat keputusan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t5-b04-q040",
+      "form": 5,
+      "chapter": 4,
+      "prompt": "Kenal pasti cabaran pentadbiran.\n\nProjek tertangguh kerana persetujuan bersama lambat dicapai.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jurang sumber"
+        },
+        {
+          "id": "B",
+          "text": "Konflik bidang kuasa"
+        },
+        {
+          "id": "C",
+          "text": "Kelewatan penyelarasan"
+        },
+        {
+          "id": "D",
+          "text": "Pertindihan tugas"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kelewatan penyelarasan: Projek tertangguh kerana persetujuan bersama lambat dicapai.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    }
+  ]
+}

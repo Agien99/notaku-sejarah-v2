@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 2,
+  "chapter": 1,
+  "title": "Kerajaan Alam Melayu",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t2_b01.json",
+  "questions": [
+    {
+      "id": "t2-b01-q001",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Kenal pasti kerajaan Alam Melayu.\n\nKerajaan awal di hilir Sungai Mekong.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Funan"
+        },
+        {
+          "id": "B",
+          "text": "Angkor"
+        },
+        {
+          "id": "C",
+          "text": "Srivijaya"
+        },
+        {
+          "id": "D",
+          "text": "Majapahit"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Funan: Kerajaan awal di hilir Sungai Mekong.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q002",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Kenal pasti kerajaan Alam Melayu.\n\nKerajaan yang terkenal dengan Angkor Wat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Funan"
+        },
+        {
+          "id": "B",
+          "text": "Angkor"
+        },
+        {
+          "id": "C",
+          "text": "Srivijaya"
+        },
+        {
+          "id": "D",
+          "text": "Majapahit"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Angkor: Kerajaan yang terkenal dengan Angkor Wat.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q003",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Kenal pasti kerajaan Alam Melayu.\n\nKerajaan maritim berpusat di Sumatera.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Funan"
+        },
+        {
+          "id": "B",
+          "text": "Angkor"
+        },
+        {
+          "id": "C",
+          "text": "Srivijaya"
+        },
+        {
+          "id": "D",
+          "text": "Majapahit"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Srivijaya: Kerajaan maritim berpusat di Sumatera.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q004",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Kenal pasti kerajaan Alam Melayu.\n\nKerajaan besar berpusat di Jawa Timur.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Funan"
+        },
+        {
+          "id": "B",
+          "text": "Angkor"
+        },
+        {
+          "id": "C",
+          "text": "Srivijaya"
+        },
+        {
+          "id": "D",
+          "text": "Majapahit"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Majapahit: Kerajaan besar berpusat di Jawa Timur.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q005",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Padankan kerajaan dengan kawasan.\n\nKerajaan di pesisir Vietnam tengah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedah Tua"
+        },
+        {
+          "id": "B",
+          "text": "Gangga Nagara"
+        },
+        {
+          "id": "C",
+          "text": "Angkor"
+        },
+        {
+          "id": "D",
+          "text": "Champa"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Champa: Kerajaan di pesisir Vietnam tengah.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q006",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Padankan kerajaan dengan kawasan.\n\nKerajaan berkaitan Lembah Bujang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedah Tua"
+        },
+        {
+          "id": "B",
+          "text": "Gangga Nagara"
+        },
+        {
+          "id": "C",
+          "text": "Angkor"
+        },
+        {
+          "id": "D",
+          "text": "Champa"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kedah Tua: Kerajaan berkaitan Lembah Bujang.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q007",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Padankan kerajaan dengan kawasan.\n\nKerajaan awal yang dikaitkan dengan Beruas, Perak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedah Tua"
+        },
+        {
+          "id": "B",
+          "text": "Gangga Nagara"
+        },
+        {
+          "id": "C",
+          "text": "Angkor"
+        },
+        {
+          "id": "D",
+          "text": "Champa"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Gangga Nagara: Kerajaan awal yang dikaitkan dengan Beruas, Perak.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q008",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Padankan kerajaan dengan kawasan.\n\nKerajaan yang memanfaatkan kawasan Tonle Sap.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedah Tua"
+        },
+        {
+          "id": "B",
+          "text": "Gangga Nagara"
+        },
+        {
+          "id": "C",
+          "text": "Angkor"
+        },
+        {
+          "id": "D",
+          "text": "Champa"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Angkor: Kerajaan yang memanfaatkan kawasan Tonle Sap.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q009",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Kenal pasti aspek konsep Alam Melayu.\n\nLingkungan kepulauan dan tanah besar serantau.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Budaya"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan sejarah"
+        },
+        {
+          "id": "C",
+          "text": "Geografi"
+        },
+        {
+          "id": "D",
+          "text": "Bahasa"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Geografi: Lingkungan kepulauan dan tanah besar serantau.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q010",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Kenal pasti aspek konsep Alam Melayu.\n\nPersamaan pertuturan dalam rumpun Melayu-Polinesia.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Budaya"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan sejarah"
+        },
+        {
+          "id": "C",
+          "text": "Geografi"
+        },
+        {
+          "id": "D",
+          "text": "Bahasa"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Bahasa: Persamaan pertuturan dalam rumpun Melayu-Polinesia.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q011",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Kenal pasti aspek konsep Alam Melayu.\n\nPersamaan adat serta amalan masyarakat serantau.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Budaya"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan sejarah"
+        },
+        {
+          "id": "C",
+          "text": "Geografi"
+        },
+        {
+          "id": "D",
+          "text": "Bahasa"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Budaya: Persamaan adat serta amalan masyarakat serantau.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q012",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Kenal pasti aspek konsep Alam Melayu.\n\nJalinan kerajaan melalui perdagangan dan diplomasi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Budaya"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan sejarah"
+        },
+        {
+          "id": "C",
+          "text": "Geografi"
+        },
+        {
+          "id": "D",
+          "text": "Bahasa"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Hubungan sejarah: Jalinan kerajaan melalui perdagangan dan diplomasi.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q013",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Padankan lokasi pusat kerajaan.\n\nPusat yang dikaitkan dengan Srivijaya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tonle Sap"
+        },
+        {
+          "id": "B",
+          "text": "Palembang"
+        },
+        {
+          "id": "C",
+          "text": "Trowulan"
+        },
+        {
+          "id": "D",
+          "text": "Lembah Bujang"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Palembang: Pusat yang dikaitkan dengan Srivijaya.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q014",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Padankan lokasi pusat kerajaan.\n\nKawasan pusat Majapahit di Jawa Timur.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tonle Sap"
+        },
+        {
+          "id": "B",
+          "text": "Palembang"
+        },
+        {
+          "id": "C",
+          "text": "Trowulan"
+        },
+        {
+          "id": "D",
+          "text": "Lembah Bujang"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Trowulan: Kawasan pusat Majapahit di Jawa Timur.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q015",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Padankan lokasi pusat kerajaan.\n\nKompleks tinggalan Kedah Tua.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tonle Sap"
+        },
+        {
+          "id": "B",
+          "text": "Palembang"
+        },
+        {
+          "id": "C",
+          "text": "Trowulan"
+        },
+        {
+          "id": "D",
+          "text": "Lembah Bujang"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Lembah Bujang: Kompleks tinggalan Kedah Tua.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q016",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Padankan lokasi pusat kerajaan.\n\nTasik besar yang menyokong pertanian Angkor.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tonle Sap"
+        },
+        {
+          "id": "B",
+          "text": "Palembang"
+        },
+        {
+          "id": "C",
+          "text": "Trowulan"
+        },
+        {
+          "id": "D",
+          "text": "Lembah Bujang"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Tonle Sap: Tasik besar yang menyokong pertanian Angkor.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q017",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Apakah asas kemasyhuran kerajaan?\n\nBekalan beras menyokong penduduk dan hasil kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertanian"
+        },
+        {
+          "id": "B",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Kekuatan tentera"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan diplomatik"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pertanian: Bekalan beras menyokong penduduk dan hasil kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q018",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Apakah asas kemasyhuran kerajaan?\n\nPelabuhan mengumpulkan barangan pedagang pelbagai wilayah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertanian"
+        },
+        {
+          "id": "B",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Kekuatan tentera"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan diplomatik"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perdagangan: Pelabuhan mengumpulkan barangan pedagang pelbagai wilayah.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q019",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Apakah asas kemasyhuran kerajaan?\n\nAngkatan mempertahankan wilayah serta pengaruh.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertanian"
+        },
+        {
+          "id": "B",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Kekuatan tentera"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan diplomatik"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kekuatan tentera: Angkatan mempertahankan wilayah serta pengaruh.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q020",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Apakah asas kemasyhuran kerajaan?\n\nUtusan menjalinkan hubungan dengan kerajaan luar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertanian"
+        },
+        {
+          "id": "B",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Kekuatan tentera"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan diplomatik"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Hubungan diplomatik: Utusan menjalinkan hubungan dengan kerajaan luar.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q021",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Kenal pasti rakan hubungan luar.\n\nKerajaan Asia Timur yang menerima utusan Alam Melayu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "India"
+        },
+        {
+          "id": "B",
+          "text": "Parsi"
+        },
+        {
+          "id": "C",
+          "text": "Arab"
+        },
+        {
+          "id": "D",
+          "text": "China"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "China: Kerajaan Asia Timur yang menerima utusan Alam Melayu.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q022",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Kenal pasti rakan hubungan luar.\n\nWilayah Asia Selatan yang membawa pengaruh Sanskrit.",
+      "options": [
+        {
+          "id": "A",
+          "text": "India"
+        },
+        {
+          "id": "B",
+          "text": "Parsi"
+        },
+        {
+          "id": "C",
+          "text": "Arab"
+        },
+        {
+          "id": "D",
+          "text": "China"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "India: Wilayah Asia Selatan yang membawa pengaruh Sanskrit.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q023",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Kenal pasti rakan hubungan luar.\n\nWilayah Iran yang terlibat dalam jaringan perdagangan timur-barat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "India"
+        },
+        {
+          "id": "B",
+          "text": "Parsi"
+        },
+        {
+          "id": "C",
+          "text": "Arab"
+        },
+        {
+          "id": "D",
+          "text": "China"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Parsi: Wilayah Iran yang terlibat dalam jaringan perdagangan timur-barat.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q024",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Kenal pasti rakan hubungan luar.\n\nWilayah Asia Barat yang turut menyebarkan Islam melalui jaringan pedagang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "India"
+        },
+        {
+          "id": "B",
+          "text": "Parsi"
+        },
+        {
+          "id": "C",
+          "text": "Arab"
+        },
+        {
+          "id": "D",
+          "text": "China"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Arab: Wilayah Asia Barat yang turut menyebarkan Islam melalui jaringan pedagang.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q025",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Padankan bukti dengan maklumat.\n\nTulisan pada batu membantu mengenal pemerintah dan peristiwa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Seramik asing"
+        },
+        {
+          "id": "B",
+          "text": "Catatan pengembara"
+        },
+        {
+          "id": "C",
+          "text": "Prasasti"
+        },
+        {
+          "id": "D",
+          "text": "Candi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Prasasti: Tulisan pada batu membantu mengenal pemerintah dan peristiwa.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q026",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Padankan bukti dengan maklumat.\n\nBinaan agama membuktikan amalan kepercayaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Seramik asing"
+        },
+        {
+          "id": "B",
+          "text": "Catatan pengembara"
+        },
+        {
+          "id": "C",
+          "text": "Prasasti"
+        },
+        {
+          "id": "D",
+          "text": "Candi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Candi: Binaan agama membuktikan amalan kepercayaan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q027",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Padankan bukti dengan maklumat.\n\nBarangan import menunjukkan hubungan perdagangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Seramik asing"
+        },
+        {
+          "id": "B",
+          "text": "Catatan pengembara"
+        },
+        {
+          "id": "C",
+          "text": "Prasasti"
+        },
+        {
+          "id": "D",
+          "text": "Candi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Seramik asing: Barangan import menunjukkan hubungan perdagangan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q028",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Padankan bukti dengan maklumat.\n\nRekod pelawat menerangkan keadaan kerajaan yang disinggahi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Seramik asing"
+        },
+        {
+          "id": "B",
+          "text": "Catatan pengembara"
+        },
+        {
+          "id": "C",
+          "text": "Prasasti"
+        },
+        {
+          "id": "D",
+          "text": "Candi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Catatan pengembara: Rekod pelawat menerangkan keadaan kerajaan yang disinggahi.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q029",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Apakah kelebihan kedudukan pelabuhan?\n\nBerada pada jalan pelayaran utama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hubungan pedalaman"
+        },
+        {
+          "id": "B",
+          "text": "Laluan strategik"
+        },
+        {
+          "id": "C",
+          "text": "Perlindungan semula jadi"
+        },
+        {
+          "id": "D",
+          "text": "Sumber air"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Laluan strategik: Berada pada jalan pelayaran utama.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q030",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Apakah kelebihan kedudukan pelabuhan?\n\nTeluk mengurangkan pendedahan kapal kepada ombak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hubungan pedalaman"
+        },
+        {
+          "id": "B",
+          "text": "Laluan strategik"
+        },
+        {
+          "id": "C",
+          "text": "Perlindungan semula jadi"
+        },
+        {
+          "id": "D",
+          "text": "Sumber air"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perlindungan semula jadi: Teluk mengurangkan pendedahan kapal kepada ombak.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q031",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Apakah kelebihan kedudukan pelabuhan?\n\nSungai membekalkan keperluan kapal dan penduduk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hubungan pedalaman"
+        },
+        {
+          "id": "B",
+          "text": "Laluan strategik"
+        },
+        {
+          "id": "C",
+          "text": "Perlindungan semula jadi"
+        },
+        {
+          "id": "D",
+          "text": "Sumber air"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Sumber air: Sungai membekalkan keperluan kapal dan penduduk.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q032",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Apakah kelebihan kedudukan pelabuhan?\n\nLaluan sungai membawa hasil hutan ke pesisir.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hubungan pedalaman"
+        },
+        {
+          "id": "B",
+          "text": "Laluan strategik"
+        },
+        {
+          "id": "C",
+          "text": "Perlindungan semula jadi"
+        },
+        {
+          "id": "D",
+          "text": "Sumber air"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Hubungan pedalaman: Laluan sungai membawa hasil hutan ke pesisir.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q033",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Kenal pasti bentuk hubungan kerajaan.\n\nPedagang membawa hasil tempatan untuk ditukar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Keagamaan"
+        },
+        {
+          "id": "C",
+          "text": "Diplomatik"
+        },
+        {
+          "id": "D",
+          "text": "Kebudayaan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perdagangan: Pedagang membawa hasil tempatan untuk ditukar.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q034",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Kenal pasti bentuk hubungan kerajaan.\n\nPendeta dan sami berkongsi ajaran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Keagamaan"
+        },
+        {
+          "id": "C",
+          "text": "Diplomatik"
+        },
+        {
+          "id": "D",
+          "text": "Kebudayaan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Keagamaan: Pendeta dan sami berkongsi ajaran.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q035",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Kenal pasti bentuk hubungan kerajaan.\n\nUtusan membawa surat pemerintah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Keagamaan"
+        },
+        {
+          "id": "C",
+          "text": "Diplomatik"
+        },
+        {
+          "id": "D",
+          "text": "Kebudayaan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Diplomatik: Utusan membawa surat pemerintah.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q036",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Kenal pasti bentuk hubungan kerajaan.\n\nSeni dan bahasa saling mempengaruhi masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Keagamaan"
+        },
+        {
+          "id": "C",
+          "text": "Diplomatik"
+        },
+        {
+          "id": "D",
+          "text": "Kebudayaan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kebudayaan: Seni dan bahasa saling mempengaruhi masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q037",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Padankan pengajaran dengan situasi.\n\nMasyarakat menerima pengaruh luar secara terpilih.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebijaksanaan"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "C",
+          "text": "Pemeliharaan warisan"
+        },
+        {
+          "id": "D",
+          "text": "Keterbukaan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Keterbukaan: Masyarakat menerima pengaruh luar secara terpilih.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q038",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Padankan pengajaran dengan situasi.\n\nPemerintah memanfaatkan kedudukan wilayahnya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebijaksanaan"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "C",
+          "text": "Pemeliharaan warisan"
+        },
+        {
+          "id": "D",
+          "text": "Keterbukaan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kebijaksanaan: Pemerintah memanfaatkan kedudukan wilayahnya.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q039",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Padankan pengajaran dengan situasi.\n\nKerajaan menjalin hubungan yang menguntungkan bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebijaksanaan"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "C",
+          "text": "Pemeliharaan warisan"
+        },
+        {
+          "id": "D",
+          "text": "Keterbukaan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kerjasama: Kerajaan menjalin hubungan yang menguntungkan bersama.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t2-b01-q040",
+      "form": 2,
+      "chapter": 1,
+      "prompt": "Padankan pengajaran dengan situasi.\n\nTapak kerajaan lama dilindungi daripada kerosakan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebijaksanaan"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "C",
+          "text": "Pemeliharaan warisan"
+        },
+        {
+          "id": "D",
+          "text": "Keterbukaan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pemeliharaan warisan: Tapak kerajaan lama dilindungi daripada kerosakan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    }
+  ]
+}

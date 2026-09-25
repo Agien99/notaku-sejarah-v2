@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 4,
+  "chapter": 8,
+  "title": "Pilihan Raya",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t4_b08.json",
+  "questions": [
+    {
+      "id": "t4-b08-q001",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Padankan tahun pilihan raya.\n\nTahun pilihan raya majlis perbandaran George Town.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1951"
+        },
+        {
+          "id": "B",
+          "text": "1952"
+        },
+        {
+          "id": "C",
+          "text": "1955"
+        },
+        {
+          "id": "D",
+          "text": "1957"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "1951: Tahun pilihan raya majlis perbandaran George Town.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q002",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Padankan tahun pilihan raya.\n\nTahun kerjasama UMNO-MCA dalam pilihan raya Kuala Lumpur.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1951"
+        },
+        {
+          "id": "B",
+          "text": "1952"
+        },
+        {
+          "id": "C",
+          "text": "1955"
+        },
+        {
+          "id": "D",
+          "text": "1957"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "1952: Tahun kerjasama UMNO-MCA dalam pilihan raya Kuala Lumpur.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q003",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Padankan tahun pilihan raya.\n\nTahun pilihan raya umum pertama Persekutuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1951"
+        },
+        {
+          "id": "B",
+          "text": "1952"
+        },
+        {
+          "id": "C",
+          "text": "1955"
+        },
+        {
+          "id": "D",
+          "text": "1957"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "1955: Tahun pilihan raya umum pertama Persekutuan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q004",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Padankan tahun pilihan raya.\n\nTahun kemerdekaan selepas perkembangan pemerintahan sendiri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1951"
+        },
+        {
+          "id": "B",
+          "text": "1952"
+        },
+        {
+          "id": "C",
+          "text": "1955"
+        },
+        {
+          "id": "D",
+          "text": "1957"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "1957: Tahun kemerdekaan selepas perkembangan pemerintahan sendiri.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q005",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Kenal pasti angka pilihan raya Persekutuan 1955.\n\nJumlah kerusi yang dipertandingkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "51"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "27 Julai"
+        },
+        {
+          "id": "D",
+          "text": "52"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "52: Jumlah kerusi yang dipertandingkan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q006",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Kenal pasti angka pilihan raya Persekutuan 1955.\n\nJumlah kerusi dimenangi Perikatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "51"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "27 Julai"
+        },
+        {
+          "id": "D",
+          "text": "52"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "51: Jumlah kerusi dimenangi Perikatan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q007",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Kenal pasti angka pilihan raya Persekutuan 1955.\n\nJumlah kerusi dimenangi PAS.",
+      "options": [
+        {
+          "id": "A",
+          "text": "51"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "27 Julai"
+        },
+        {
+          "id": "D",
+          "text": "52"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "1: Jumlah kerusi dimenangi PAS.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q008",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Kenal pasti angka pilihan raya Persekutuan 1955.\n\nTarikh pengundian dalam tahun tersebut.",
+      "options": [
+        {
+          "id": "A",
+          "text": "51"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "27 Julai"
+        },
+        {
+          "id": "D",
+          "text": "52"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "27 Julai: Tarikh pengundian dalam tahun tersebut.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q009",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Padankan pihak pilihan raya.\n\nIndividu layak yang memilih wakil.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Parti"
+        },
+        {
+          "id": "B",
+          "text": "Petugas pilihan raya"
+        },
+        {
+          "id": "C",
+          "text": "Pengundi"
+        },
+        {
+          "id": "D",
+          "text": "Calon"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pengundi: Individu layak yang memilih wakil.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q010",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Padankan pihak pilihan raya.\n\nIndividu yang bertanding mendapatkan kerusi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Parti"
+        },
+        {
+          "id": "B",
+          "text": "Petugas pilihan raya"
+        },
+        {
+          "id": "C",
+          "text": "Pengundi"
+        },
+        {
+          "id": "D",
+          "text": "Calon"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Calon: Individu yang bertanding mendapatkan kerusi.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q011",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Padankan pihak pilihan raya.\n\nOrganisasi yang menawarkan dasar dan wakil.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Parti"
+        },
+        {
+          "id": "B",
+          "text": "Petugas pilihan raya"
+        },
+        {
+          "id": "C",
+          "text": "Pengundi"
+        },
+        {
+          "id": "D",
+          "text": "Calon"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Parti: Organisasi yang menawarkan dasar dan wakil.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q012",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Padankan pihak pilihan raya.\n\nIndividu yang mengendalikan proses pengundian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Parti"
+        },
+        {
+          "id": "B",
+          "text": "Petugas pilihan raya"
+        },
+        {
+          "id": "C",
+          "text": "Pengundi"
+        },
+        {
+          "id": "D",
+          "text": "Calon"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Petugas pilihan raya: Individu yang mengendalikan proses pengundian.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q013",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Kenal pasti tahap pilihan raya.\n\nNama pemilih dimasukkan dalam senarai kelayakan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengundian"
+        },
+        {
+          "id": "B",
+          "text": "Pendaftaran"
+        },
+        {
+          "id": "C",
+          "text": "Penamaan calon"
+        },
+        {
+          "id": "D",
+          "text": "Kempen"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pendaftaran: Nama pemilih dimasukkan dalam senarai kelayakan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q014",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Kenal pasti tahap pilihan raya.\n\nPeserta rasmi pertandingan dikemukakan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengundian"
+        },
+        {
+          "id": "B",
+          "text": "Pendaftaran"
+        },
+        {
+          "id": "C",
+          "text": "Penamaan calon"
+        },
+        {
+          "id": "D",
+          "text": "Kempen"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Penamaan calon: Peserta rasmi pertandingan dikemukakan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q015",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Kenal pasti tahap pilihan raya.\n\nDasar dan janji diterangkan kepada pengundi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengundian"
+        },
+        {
+          "id": "B",
+          "text": "Pendaftaran"
+        },
+        {
+          "id": "C",
+          "text": "Penamaan calon"
+        },
+        {
+          "id": "D",
+          "text": "Kempen"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kempen: Dasar dan janji diterangkan kepada pengundi.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q016",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Kenal pasti tahap pilihan raya.\n\nPemilih menandakan pilihan secara rahsia.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengundian"
+        },
+        {
+          "id": "B",
+          "text": "Pendaftaran"
+        },
+        {
+          "id": "C",
+          "text": "Penamaan calon"
+        },
+        {
+          "id": "D",
+          "text": "Kempen"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pengundian: Pemilih menandakan pilihan secara rahsia.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q017",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Padankan langkah selepas mengundi.\n\nKertas pilihan yang sah dijumlahkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengiraan undi"
+        },
+        {
+          "id": "B",
+          "text": "Pengumuman keputusan"
+        },
+        {
+          "id": "C",
+          "text": "Pembentukan kerajaan"
+        },
+        {
+          "id": "D",
+          "text": "Pelantikan kabinet"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pengiraan undi: Kertas pilihan yang sah dijumlahkan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q018",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Padankan langkah selepas mengundi.\n\nPemenang kerusi dimaklumkan kepada orang ramai.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengiraan undi"
+        },
+        {
+          "id": "B",
+          "text": "Pengumuman keputusan"
+        },
+        {
+          "id": "C",
+          "text": "Pembentukan kerajaan"
+        },
+        {
+          "id": "D",
+          "text": "Pelantikan kabinet"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pengumuman keputusan: Pemenang kerusi dimaklumkan kepada orang ramai.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q019",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Padankan langkah selepas mengundi.\n\nPihak yang mendapat sokongan mencukupi mengambil tanggungjawab memerintah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengiraan undi"
+        },
+        {
+          "id": "B",
+          "text": "Pengumuman keputusan"
+        },
+        {
+          "id": "C",
+          "text": "Pembentukan kerajaan"
+        },
+        {
+          "id": "D",
+          "text": "Pelantikan kabinet"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pembentukan kerajaan: Pihak yang mendapat sokongan mencukupi mengambil tanggungjawab memerintah.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q020",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Padankan langkah selepas mengundi.\n\nKetua kerajaan memilih anggota mengurus portfolio.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengiraan undi"
+        },
+        {
+          "id": "B",
+          "text": "Pengumuman keputusan"
+        },
+        {
+          "id": "C",
+          "text": "Pembentukan kerajaan"
+        },
+        {
+          "id": "D",
+          "text": "Pelantikan kabinet"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pelantikan kabinet: Ketua kerajaan memilih anggota mengurus portfolio.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q021",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Kenal pasti tokoh atau parti 1955.\n\nPemimpin yang menjadi Ketua Menteri selepas pilihan raya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dato' Onn Jaafar"
+        },
+        {
+          "id": "B",
+          "text": "Parti Perikatan"
+        },
+        {
+          "id": "C",
+          "text": "PAS"
+        },
+        {
+          "id": "D",
+          "text": "Tunku Abdul Rahman"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Tunku Abdul Rahman: Pemimpin yang menjadi Ketua Menteri selepas pilihan raya.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q022",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Kenal pasti tokoh atau parti 1955.\n\nPemimpin Parti Negara dalam persaingan pilihan raya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dato' Onn Jaafar"
+        },
+        {
+          "id": "B",
+          "text": "Parti Perikatan"
+        },
+        {
+          "id": "C",
+          "text": "PAS"
+        },
+        {
+          "id": "D",
+          "text": "Tunku Abdul Rahman"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Dato' Onn Jaafar: Pemimpin Parti Negara dalam persaingan pilihan raya.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q023",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Kenal pasti tokoh atau parti 1955.\n\nGabungan yang memenangi hampir semua kerusi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dato' Onn Jaafar"
+        },
+        {
+          "id": "B",
+          "text": "Parti Perikatan"
+        },
+        {
+          "id": "C",
+          "text": "PAS"
+        },
+        {
+          "id": "D",
+          "text": "Tunku Abdul Rahman"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Parti Perikatan: Gabungan yang memenangi hampir semua kerusi.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q024",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Kenal pasti tokoh atau parti 1955.\n\nParti yang memperoleh satu kerusi selain Perikatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dato' Onn Jaafar"
+        },
+        {
+          "id": "B",
+          "text": "Parti Perikatan"
+        },
+        {
+          "id": "C",
+          "text": "PAS"
+        },
+        {
+          "id": "D",
+          "text": "Tunku Abdul Rahman"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "PAS: Parti yang memperoleh satu kerusi selain Perikatan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q025",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Apakah kepentingan pilihan raya?\n\nKerajaan mendapat asas sokongan melalui undi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertanggungjawaban"
+        },
+        {
+          "id": "B",
+          "text": "Pendidikan politik"
+        },
+        {
+          "id": "C",
+          "text": "Mandat"
+        },
+        {
+          "id": "D",
+          "text": "Perwakilan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Mandat: Kerajaan mendapat asas sokongan melalui undi.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q026",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Apakah kepentingan pilihan raya?\n\nPenduduk mempunyai wakil membawa kepentingan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertanggungjawaban"
+        },
+        {
+          "id": "B",
+          "text": "Pendidikan politik"
+        },
+        {
+          "id": "C",
+          "text": "Mandat"
+        },
+        {
+          "id": "D",
+          "text": "Perwakilan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Perwakilan: Penduduk mempunyai wakil membawa kepentingan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q027",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Apakah kepentingan pilihan raya?\n\nPemimpin perlu menjelaskan tindakan kepada rakyat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertanggungjawaban"
+        },
+        {
+          "id": "B",
+          "text": "Pendidikan politik"
+        },
+        {
+          "id": "C",
+          "text": "Mandat"
+        },
+        {
+          "id": "D",
+          "text": "Perwakilan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pertanggungjawaban: Pemimpin perlu menjelaskan tindakan kepada rakyat.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q028",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Apakah kepentingan pilihan raya?\n\nMasyarakat mempelajari proses memilih kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertanggungjawaban"
+        },
+        {
+          "id": "B",
+          "text": "Pendidikan politik"
+        },
+        {
+          "id": "C",
+          "text": "Mandat"
+        },
+        {
+          "id": "D",
+          "text": "Perwakilan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pendidikan politik: Masyarakat mempelajari proses memilih kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q029",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Padankan institusi.\n\nBadan yang berkembang melalui penyertaan wakil terpilih peringkat Persekutuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerajaan negeri"
+        },
+        {
+          "id": "B",
+          "text": "Majlis Perundangan Persekutuan"
+        },
+        {
+          "id": "C",
+          "text": "Kabinet"
+        },
+        {
+          "id": "D",
+          "text": "Majlis perbandaran"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Majlis Perundangan Persekutuan: Badan yang berkembang melalui penyertaan wakil terpilih peringkat Persekutuan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q030",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Padankan institusi.\n\nJemaah menteri yang mengurus dasar kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerajaan negeri"
+        },
+        {
+          "id": "B",
+          "text": "Majlis Perundangan Persekutuan"
+        },
+        {
+          "id": "C",
+          "text": "Kabinet"
+        },
+        {
+          "id": "D",
+          "text": "Majlis perbandaran"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kabinet: Jemaah menteri yang mengurus dasar kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q031",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Padankan institusi.\n\nBadan tempatan yang mengadakan pilihan raya bandar awal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerajaan negeri"
+        },
+        {
+          "id": "B",
+          "text": "Majlis Perundangan Persekutuan"
+        },
+        {
+          "id": "C",
+          "text": "Kabinet"
+        },
+        {
+          "id": "D",
+          "text": "Majlis perbandaran"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Majlis perbandaran: Badan tempatan yang mengadakan pilihan raya bandar awal.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q032",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Padankan institusi.\n\nPentadbiran peringkat wilayah negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerajaan negeri"
+        },
+        {
+          "id": "B",
+          "text": "Majlis Perundangan Persekutuan"
+        },
+        {
+          "id": "C",
+          "text": "Kabinet"
+        },
+        {
+          "id": "D",
+          "text": "Majlis perbandaran"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kerajaan negeri: Pentadbiran peringkat wilayah negeri.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q033",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Kenal pasti amalan pilihan raya berintegriti.\n\nPilihan individu tidak perlu didedahkan kepada pihak lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerahsiaan"
+        },
+        {
+          "id": "B",
+          "text": "Ketelusan"
+        },
+        {
+          "id": "C",
+          "text": "Pilihan bebas"
+        },
+        {
+          "id": "D",
+          "text": "Pematuhan peraturan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kerahsiaan: Pilihan individu tidak perlu didedahkan kepada pihak lain.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q034",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Kenal pasti amalan pilihan raya berintegriti.\n\nProses pengiraan dapat disemak mengikut aturan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerahsiaan"
+        },
+        {
+          "id": "B",
+          "text": "Ketelusan"
+        },
+        {
+          "id": "C",
+          "text": "Pilihan bebas"
+        },
+        {
+          "id": "D",
+          "text": "Pematuhan peraturan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Ketelusan: Proses pengiraan dapat disemak mengikut aturan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q035",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Kenal pasti amalan pilihan raya berintegriti.\n\nPengundi tidak diugut memilih calon tertentu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerahsiaan"
+        },
+        {
+          "id": "B",
+          "text": "Ketelusan"
+        },
+        {
+          "id": "C",
+          "text": "Pilihan bebas"
+        },
+        {
+          "id": "D",
+          "text": "Pematuhan peraturan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pilihan bebas: Pengundi tidak diugut memilih calon tertentu.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q036",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Kenal pasti amalan pilihan raya berintegriti.\n\nCalon dan parti mengikut tatacara pertandingan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerahsiaan"
+        },
+        {
+          "id": "B",
+          "text": "Ketelusan"
+        },
+        {
+          "id": "C",
+          "text": "Pilihan bebas"
+        },
+        {
+          "id": "D",
+          "text": "Pematuhan peraturan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pematuhan peraturan: Calon dan parti mengikut tatacara pertandingan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q037",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Apakah kesan pilihan raya 1955?\n\nWakil terpilih mendapat peranan lebih besar dalam kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rundingan merdeka dipercepat"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama kaum dibuktikan"
+        },
+        {
+          "id": "C",
+          "text": "Pengalaman kabinet diperoleh"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan tempatan diperkukuh"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kepimpinan tempatan diperkukuh: Wakil terpilih mendapat peranan lebih besar dalam kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q038",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Apakah kesan pilihan raya 1955?\n\nKemenangan memberi kedudukan kukuh untuk berunding dengan British.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rundingan merdeka dipercepat"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama kaum dibuktikan"
+        },
+        {
+          "id": "C",
+          "text": "Pengalaman kabinet diperoleh"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan tempatan diperkukuh"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Rundingan merdeka dipercepat: Kemenangan memberi kedudukan kukuh untuk berunding dengan British.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q039",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Apakah kesan pilihan raya 1955?\n\nSokongan terhadap gabungan menunjukkan penerimaan muafakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rundingan merdeka dipercepat"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama kaum dibuktikan"
+        },
+        {
+          "id": "C",
+          "text": "Pengalaman kabinet diperoleh"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan tempatan diperkukuh"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kerjasama kaum dibuktikan: Sokongan terhadap gabungan menunjukkan penerimaan muafakat.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t4-b08-q040",
+      "form": 4,
+      "chapter": 8,
+      "prompt": "Apakah kesan pilihan raya 1955?\n\nMenteri tempatan belajar mengurus urusan negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rundingan merdeka dipercepat"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama kaum dibuktikan"
+        },
+        {
+          "id": "C",
+          "text": "Pengalaman kabinet diperoleh"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan tempatan diperkukuh"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pengalaman kabinet diperoleh: Menteri tempatan belajar mengurus urusan negara.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    }
+  ]
+}

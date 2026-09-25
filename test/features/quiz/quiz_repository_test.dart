@@ -28,7 +28,7 @@ void main() {
         assetBundle: _MemoryAssetBundle(const <String, String>{}),
       );
 
-      expect(await repository.getQuestions(form: 5, chapter: 10), isEmpty);
+      expect(await repository.getQuestions(form: 6, chapter: 1), isEmpty);
     });
 
     test('rejects duplicate question IDs', () {

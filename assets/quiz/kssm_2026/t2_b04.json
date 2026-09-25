@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 2,
+  "chapter": 4,
+  "title": "Agama, Kepercayaan dan Keunikan Warisan Masyarakat Kerajaan Alam Melayu",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t2_b04.json",
+  "questions": [
+    {
+      "id": "t2-b04-q001",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Kenal pasti kepercayaan atau agama.\n\nKepercayaan bahawa unsur alam mempunyai roh.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Animisme"
+        },
+        {
+          "id": "B",
+          "text": "Dinamisme"
+        },
+        {
+          "id": "C",
+          "text": "Hindu"
+        },
+        {
+          "id": "D",
+          "text": "Buddha"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Animisme: Kepercayaan bahawa unsur alam mempunyai roh.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q002",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Kenal pasti kepercayaan atau agama.\n\nKepercayaan terhadap kekuatan luar biasa pada objek tertentu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Animisme"
+        },
+        {
+          "id": "B",
+          "text": "Dinamisme"
+        },
+        {
+          "id": "C",
+          "text": "Hindu"
+        },
+        {
+          "id": "D",
+          "text": "Buddha"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Dinamisme: Kepercayaan terhadap kekuatan luar biasa pada objek tertentu.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q003",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Kenal pasti kepercayaan atau agama.\n\nAgama yang berkaitan pemujaan dewa seperti Shiva dan Vishnu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Animisme"
+        },
+        {
+          "id": "B",
+          "text": "Dinamisme"
+        },
+        {
+          "id": "C",
+          "text": "Hindu"
+        },
+        {
+          "id": "D",
+          "text": "Buddha"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Hindu: Agama yang berkaitan pemujaan dewa seperti Shiva dan Vishnu.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q004",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Kenal pasti kepercayaan atau agama.\n\nAgama yang berasaskan ajaran Siddhartha Gautama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Animisme"
+        },
+        {
+          "id": "B",
+          "text": "Dinamisme"
+        },
+        {
+          "id": "C",
+          "text": "Hindu"
+        },
+        {
+          "id": "D",
+          "text": "Buddha"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Buddha: Agama yang berasaskan ajaran Siddhartha Gautama.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q005",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Padankan saluran penyebaran agama.\n\nHubungan jual beli membawa penganut bertemu masyarakat tempatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pendeta"
+        },
+        {
+          "id": "B",
+          "text": "Pemerintah"
+        },
+        {
+          "id": "C",
+          "text": "Perkahwinan"
+        },
+        {
+          "id": "D",
+          "text": "Pedagang"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pedagang: Hubungan jual beli membawa penganut bertemu masyarakat tempatan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q006",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Padankan saluran penyebaran agama.\n\nGolongan agama menyampaikan ajaran secara khusus.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pendeta"
+        },
+        {
+          "id": "B",
+          "text": "Pemerintah"
+        },
+        {
+          "id": "C",
+          "text": "Perkahwinan"
+        },
+        {
+          "id": "D",
+          "text": "Pedagang"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pendeta: Golongan agama menyampaikan ajaran secara khusus.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q007",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Padankan saluran penyebaran agama.\n\nPenerimaan oleh istana mempengaruhi perkembangan dalam kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pendeta"
+        },
+        {
+          "id": "B",
+          "text": "Pemerintah"
+        },
+        {
+          "id": "C",
+          "text": "Perkahwinan"
+        },
+        {
+          "id": "D",
+          "text": "Pedagang"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pemerintah: Penerimaan oleh istana mempengaruhi perkembangan dalam kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q008",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Padankan saluran penyebaran agama.\n\nIkatan keluarga antara kelompok membantu pertukaran pegangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pendeta"
+        },
+        {
+          "id": "B",
+          "text": "Pemerintah"
+        },
+        {
+          "id": "C",
+          "text": "Perkahwinan"
+        },
+        {
+          "id": "D",
+          "text": "Pedagang"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perkahwinan: Ikatan keluarga antara kelompok membantu pertukaran pegangan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q009",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Kenal pasti warisan keagamaan.\n\nBinaan ibadat Hindu atau Buddha dalam kerajaan awal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Prasasti agama"
+        },
+        {
+          "id": "B",
+          "text": "Arca keagamaan"
+        },
+        {
+          "id": "C",
+          "text": "Candi"
+        },
+        {
+          "id": "D",
+          "text": "Masjid"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Candi: Binaan ibadat Hindu atau Buddha dalam kerajaan awal.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q010",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Kenal pasti warisan keagamaan.\n\nTempat ibadat berjemaah masyarakat Islam.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Prasasti agama"
+        },
+        {
+          "id": "B",
+          "text": "Arca keagamaan"
+        },
+        {
+          "id": "C",
+          "text": "Candi"
+        },
+        {
+          "id": "D",
+          "text": "Masjid"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Masjid: Tempat ibadat berjemaah masyarakat Islam.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q011",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Kenal pasti warisan keagamaan.\n\nCatatan batu yang memuatkan ajaran atau doa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Prasasti agama"
+        },
+        {
+          "id": "B",
+          "text": "Arca keagamaan"
+        },
+        {
+          "id": "C",
+          "text": "Candi"
+        },
+        {
+          "id": "D",
+          "text": "Masjid"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Prasasti agama: Catatan batu yang memuatkan ajaran atau doa.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q012",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Kenal pasti warisan keagamaan.\n\nPatung yang dikaitkan dengan pemujaan atau simbol kepercayaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Prasasti agama"
+        },
+        {
+          "id": "B",
+          "text": "Arca keagamaan"
+        },
+        {
+          "id": "C",
+          "text": "Candi"
+        },
+        {
+          "id": "D",
+          "text": "Masjid"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Arca keagamaan: Patung yang dikaitkan dengan pemujaan atau simbol kepercayaan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q013",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Padankan ciri warisan kerajaan.\n\nKepimpinan diwarisi dalam lingkungan dinasti.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bahasa perantara"
+        },
+        {
+          "id": "B",
+          "text": "Institusi beraja"
+        },
+        {
+          "id": "C",
+          "text": "Adat istiadat"
+        },
+        {
+          "id": "D",
+          "text": "Undang-undang"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Institusi beraja: Kepimpinan diwarisi dalam lingkungan dinasti.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q014",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Padankan ciri warisan kerajaan.\n\nUpacara tertentu mengatur acara istana.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bahasa perantara"
+        },
+        {
+          "id": "B",
+          "text": "Institusi beraja"
+        },
+        {
+          "id": "C",
+          "text": "Adat istiadat"
+        },
+        {
+          "id": "D",
+          "text": "Undang-undang"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Adat istiadat: Upacara tertentu mengatur acara istana.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q015",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Padankan ciri warisan kerajaan.\n\nPeraturan menyusun kehidupan masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bahasa perantara"
+        },
+        {
+          "id": "B",
+          "text": "Institusi beraja"
+        },
+        {
+          "id": "C",
+          "text": "Adat istiadat"
+        },
+        {
+          "id": "D",
+          "text": "Undang-undang"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Undang-undang: Peraturan menyusun kehidupan masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q016",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Padankan ciri warisan kerajaan.\n\nPertuturan bersama menghubungkan pedagang berbeza asal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bahasa perantara"
+        },
+        {
+          "id": "B",
+          "text": "Institusi beraja"
+        },
+        {
+          "id": "C",
+          "text": "Adat istiadat"
+        },
+        {
+          "id": "D",
+          "text": "Undang-undang"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Bahasa perantara: Pertuturan bersama menghubungkan pedagang berbeza asal.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q017",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Kenal pasti nilai hidup bersama.\n\nMemberi ruang kepada masyarakat berlainan pegangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Toleransi"
+        },
+        {
+          "id": "B",
+          "text": "Hormat"
+        },
+        {
+          "id": "C",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "D",
+          "text": "Kesederhanaan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Toleransi: Memberi ruang kepada masyarakat berlainan pegangan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q018",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Kenal pasti nilai hidup bersama.\n\nTidak menghina tempat ibadat orang lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Toleransi"
+        },
+        {
+          "id": "B",
+          "text": "Hormat"
+        },
+        {
+          "id": "C",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "D",
+          "text": "Kesederhanaan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Hormat: Tidak menghina tempat ibadat orang lain.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q019",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Kenal pasti nilai hidup bersama.\n\nKomuniti berganding tenaga menjaga kawasan warisan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Toleransi"
+        },
+        {
+          "id": "B",
+          "text": "Hormat"
+        },
+        {
+          "id": "C",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "D",
+          "text": "Kesederhanaan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kerjasama: Komuniti berganding tenaga menjaga kawasan warisan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q020",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Kenal pasti nilai hidup bersama.\n\nMengamalkan kehidupan tanpa berlebih-lebihan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Toleransi"
+        },
+        {
+          "id": "B",
+          "text": "Hormat"
+        },
+        {
+          "id": "C",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "D",
+          "text": "Kesederhanaan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kesederhanaan: Mengamalkan kehidupan tanpa berlebih-lebihan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q021",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Padankan unsur pengaruh luar.\n\nPerkataan berkaitan pemerintahan dipinjam daripada bahasa India.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tulisan berasaskan Arab"
+        },
+        {
+          "id": "B",
+          "text": "Seni bina Hindu-Buddha"
+        },
+        {
+          "id": "C",
+          "text": "Tradisi pengajian Islam"
+        },
+        {
+          "id": "D",
+          "text": "Istilah Sanskrit"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Istilah Sanskrit: Perkataan berkaitan pemerintahan dipinjam daripada bahasa India.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q022",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Padankan unsur pengaruh luar.\n\nHuruf disesuaikan untuk membentuk tulisan Jawi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tulisan berasaskan Arab"
+        },
+        {
+          "id": "B",
+          "text": "Seni bina Hindu-Buddha"
+        },
+        {
+          "id": "C",
+          "text": "Tradisi pengajian Islam"
+        },
+        {
+          "id": "D",
+          "text": "Istilah Sanskrit"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Tulisan berasaskan Arab: Huruf disesuaikan untuk membentuk tulisan Jawi.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q023",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Padankan unsur pengaruh luar.\n\nCandi menunjukkan hubungan budaya dengan Asia Selatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tulisan berasaskan Arab"
+        },
+        {
+          "id": "B",
+          "text": "Seni bina Hindu-Buddha"
+        },
+        {
+          "id": "C",
+          "text": "Tradisi pengajian Islam"
+        },
+        {
+          "id": "D",
+          "text": "Istilah Sanskrit"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Seni bina Hindu-Buddha: Candi menunjukkan hubungan budaya dengan Asia Selatan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q024",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Padankan unsur pengaruh luar.\n\nPembelajaran agama berkembang bersama ulama tempatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tulisan berasaskan Arab"
+        },
+        {
+          "id": "B",
+          "text": "Seni bina Hindu-Buddha"
+        },
+        {
+          "id": "C",
+          "text": "Tradisi pengajian Islam"
+        },
+        {
+          "id": "D",
+          "text": "Istilah Sanskrit"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Tradisi pengajian Islam: Pembelajaran agama berkembang bersama ulama tempatan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q025",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Apakah bukti perubahan budaya?\n\nPemerintah menggunakan panggilan yang mencerminkan pegangan baharu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembinaan tempat ibadat"
+        },
+        {
+          "id": "B",
+          "text": "Penghasilan karya"
+        },
+        {
+          "id": "C",
+          "text": "Pertukaran gelaran"
+        },
+        {
+          "id": "D",
+          "text": "Perkembangan aksara"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pertukaran gelaran: Pemerintah menggunakan panggilan yang mencerminkan pegangan baharu.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q026",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Apakah bukti perubahan budaya?\n\nSistem tulisan disesuaikan dengan bahasa setempat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembinaan tempat ibadat"
+        },
+        {
+          "id": "B",
+          "text": "Penghasilan karya"
+        },
+        {
+          "id": "C",
+          "text": "Pertukaran gelaran"
+        },
+        {
+          "id": "D",
+          "text": "Perkembangan aksara"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Perkembangan aksara: Sistem tulisan disesuaikan dengan bahasa setempat.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q027",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Apakah bukti perubahan budaya?\n\nKomuniti mendirikan bangunan untuk amalan agamanya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembinaan tempat ibadat"
+        },
+        {
+          "id": "B",
+          "text": "Penghasilan karya"
+        },
+        {
+          "id": "C",
+          "text": "Pertukaran gelaran"
+        },
+        {
+          "id": "D",
+          "text": "Perkembangan aksara"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pembinaan tempat ibadat: Komuniti mendirikan bangunan untuk amalan agamanya.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q028",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Apakah bukti perubahan budaya?\n\nPenulis menghasilkan teks yang mengandungi nilai kepercayaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembinaan tempat ibadat"
+        },
+        {
+          "id": "B",
+          "text": "Penghasilan karya"
+        },
+        {
+          "id": "C",
+          "text": "Pertukaran gelaran"
+        },
+        {
+          "id": "D",
+          "text": "Perkembangan aksara"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Penghasilan karya: Penulis menghasilkan teks yang mengandungi nilai kepercayaan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q029",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Padankan keunikan warisan ekonomi.\n\nPusat menerima dan mengedarkan semula barangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hasil hutan"
+        },
+        {
+          "id": "B",
+          "text": "Pelabuhan entrepot"
+        },
+        {
+          "id": "C",
+          "text": "Pengairan"
+        },
+        {
+          "id": "D",
+          "text": "Kemahiran maritim"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pelabuhan entrepot: Pusat menerima dan mengedarkan semula barangan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q030",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Padankan keunikan warisan ekonomi.\n\nSistem air menyokong pertanian kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hasil hutan"
+        },
+        {
+          "id": "B",
+          "text": "Pelabuhan entrepot"
+        },
+        {
+          "id": "C",
+          "text": "Pengairan"
+        },
+        {
+          "id": "D",
+          "text": "Kemahiran maritim"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pengairan: Sistem air menyokong pertanian kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q031",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Padankan keunikan warisan ekonomi.\n\nPengetahuan kapal dan pelayaran diwariskan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hasil hutan"
+        },
+        {
+          "id": "B",
+          "text": "Pelabuhan entrepot"
+        },
+        {
+          "id": "C",
+          "text": "Pengairan"
+        },
+        {
+          "id": "D",
+          "text": "Kemahiran maritim"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kemahiran maritim: Pengetahuan kapal dan pelayaran diwariskan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q032",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Padankan keunikan warisan ekonomi.\n\nSumber pedalaman dibawa ke pasaran luar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hasil hutan"
+        },
+        {
+          "id": "B",
+          "text": "Pelabuhan entrepot"
+        },
+        {
+          "id": "C",
+          "text": "Pengairan"
+        },
+        {
+          "id": "D",
+          "text": "Kemahiran maritim"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Hasil hutan: Sumber pedalaman dibawa ke pasaran luar.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q033",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Kenal pasti pendekatan kajian agama.\n\nAhli sejarah meneliti prasasti dan binaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengkaji bukti"
+        },
+        {
+          "id": "B",
+          "text": "Menghormati konteks"
+        },
+        {
+          "id": "C",
+          "text": "Membezakan sumber"
+        },
+        {
+          "id": "D",
+          "text": "Mengelakkan stereotaip"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Mengkaji bukti: Ahli sejarah meneliti prasasti dan binaan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q034",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Kenal pasti pendekatan kajian agama.\n\nAmalan lama difahami berdasarkan keadaan zamannya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengkaji bukti"
+        },
+        {
+          "id": "B",
+          "text": "Menghormati konteks"
+        },
+        {
+          "id": "C",
+          "text": "Membezakan sumber"
+        },
+        {
+          "id": "D",
+          "text": "Mengelakkan stereotaip"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Menghormati konteks: Amalan lama difahami berdasarkan keadaan zamannya.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q035",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Kenal pasti pendekatan kajian agama.\n\nLegenda dibezakan daripada catatan sezaman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengkaji bukti"
+        },
+        {
+          "id": "B",
+          "text": "Menghormati konteks"
+        },
+        {
+          "id": "C",
+          "text": "Membezakan sumber"
+        },
+        {
+          "id": "D",
+          "text": "Mengelakkan stereotaip"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Membezakan sumber: Legenda dibezakan daripada catatan sezaman.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q036",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Kenal pasti pendekatan kajian agama.\n\nSatu amalan tidak dianggap mewakili semua masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengkaji bukti"
+        },
+        {
+          "id": "B",
+          "text": "Menghormati konteks"
+        },
+        {
+          "id": "C",
+          "text": "Membezakan sumber"
+        },
+        {
+          "id": "D",
+          "text": "Mengelakkan stereotaip"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Mengelakkan stereotaip: Satu amalan tidak dianggap mewakili semua masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q037",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Apakah kepentingan warisan?\n\nMasyarakat mengenali ciri yang membentuk dirinya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengetahuan"
+        },
+        {
+          "id": "B",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "C",
+          "text": "Kelangsungan budaya"
+        },
+        {
+          "id": "D",
+          "text": "Identiti"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Identiti: Masyarakat mengenali ciri yang membentuk dirinya.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q038",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Apakah kepentingan warisan?\n\nTinggalan membantu generasi baharu memahami masa lalu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengetahuan"
+        },
+        {
+          "id": "B",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "C",
+          "text": "Kelangsungan budaya"
+        },
+        {
+          "id": "D",
+          "text": "Identiti"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pengetahuan: Tinggalan membantu generasi baharu memahami masa lalu.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q039",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Apakah kepentingan warisan?\n\nPenghargaan terhadap kepelbagaian mengeratkan hubungan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengetahuan"
+        },
+        {
+          "id": "B",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "C",
+          "text": "Kelangsungan budaya"
+        },
+        {
+          "id": "D",
+          "text": "Identiti"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perpaduan: Penghargaan terhadap kepelbagaian mengeratkan hubungan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t2-b04-q040",
+      "form": 2,
+      "chapter": 4,
+      "prompt": "Apakah kepentingan warisan?\n\nAmalan baik diteruskan tanpa memutuskan hubungan generasi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengetahuan"
+        },
+        {
+          "id": "B",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "C",
+          "text": "Kelangsungan budaya"
+        },
+        {
+          "id": "D",
+          "text": "Identiti"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kelangsungan budaya: Amalan baik diteruskan tanpa memutuskan hubungan generasi.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    }
+  ]
+}

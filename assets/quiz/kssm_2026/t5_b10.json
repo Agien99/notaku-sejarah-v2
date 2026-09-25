@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 5,
+  "chapter": 10,
+  "title": "Kecemerlangan Malaysia di Persada Dunia",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t5_b10.json",
+  "questions": [
+    {
+      "id": "t5-b10-q001",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Kenal pasti isu rentas sempadan.\n\nManusia dieksploitasi melalui kegiatan jenayah terancang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemerdagangan manusia"
+        },
+        {
+          "id": "B",
+          "text": "Penyalahgunaan dadah"
+        },
+        {
+          "id": "C",
+          "text": "Penyakit berjangkit"
+        },
+        {
+          "id": "D",
+          "text": "Pertindihan tuntutan wilayah"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pemerdagangan manusia: Manusia dieksploitasi melalui kegiatan jenayah terancang.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q002",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Kenal pasti isu rentas sempadan.\n\nBahan terlarang disalah guna dan diedar merentas negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemerdagangan manusia"
+        },
+        {
+          "id": "B",
+          "text": "Penyalahgunaan dadah"
+        },
+        {
+          "id": "C",
+          "text": "Penyakit berjangkit"
+        },
+        {
+          "id": "D",
+          "text": "Pertindihan tuntutan wilayah"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Penyalahgunaan dadah: Bahan terlarang disalah guna dan diedar merentas negara.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q003",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Kenal pasti isu rentas sempadan.\n\nWabak merebak melalui pergerakan manusia serta hubungan global.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemerdagangan manusia"
+        },
+        {
+          "id": "B",
+          "text": "Penyalahgunaan dadah"
+        },
+        {
+          "id": "C",
+          "text": "Penyakit berjangkit"
+        },
+        {
+          "id": "D",
+          "text": "Pertindihan tuntutan wilayah"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Penyakit berjangkit: Wabak merebak melalui pergerakan manusia serta hubungan global.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q004",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Kenal pasti isu rentas sempadan.\n\nLebih satu negara menuntut kawasan yang sama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemerdagangan manusia"
+        },
+        {
+          "id": "B",
+          "text": "Penyalahgunaan dadah"
+        },
+        {
+          "id": "C",
+          "text": "Penyakit berjangkit"
+        },
+        {
+          "id": "D",
+          "text": "Pertindihan tuntutan wilayah"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pertindihan tuntutan wilayah: Lebih satu negara menuntut kawasan yang sama.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q005",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Padankan forum atau kerjasama ekonomi.\n\nForum ekonomi Asia-Pasifik.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ASEAN"
+        },
+        {
+          "id": "B",
+          "text": "WTO"
+        },
+        {
+          "id": "C",
+          "text": "Kerjasama Selatan-Selatan"
+        },
+        {
+          "id": "D",
+          "text": "APEC"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "APEC: Forum ekonomi Asia-Pasifik.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q006",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Padankan forum atau kerjasama ekonomi.\n\nKerjasama ekonomi dalam lingkungan Asia Tenggara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ASEAN"
+        },
+        {
+          "id": "B",
+          "text": "WTO"
+        },
+        {
+          "id": "C",
+          "text": "Kerjasama Selatan-Selatan"
+        },
+        {
+          "id": "D",
+          "text": "APEC"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "ASEAN: Kerjasama ekonomi dalam lingkungan Asia Tenggara.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q007",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Padankan forum atau kerjasama ekonomi.\n\nPertubuhan yang mengurus aturan perdagangan dunia.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ASEAN"
+        },
+        {
+          "id": "B",
+          "text": "WTO"
+        },
+        {
+          "id": "C",
+          "text": "Kerjasama Selatan-Selatan"
+        },
+        {
+          "id": "D",
+          "text": "APEC"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "WTO: Pertubuhan yang mengurus aturan perdagangan dunia.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q008",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Padankan forum atau kerjasama ekonomi.\n\nHubungan pembangunan antara negara-negara membangun.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ASEAN"
+        },
+        {
+          "id": "B",
+          "text": "WTO"
+        },
+        {
+          "id": "C",
+          "text": "Kerjasama Selatan-Selatan"
+        },
+        {
+          "id": "D",
+          "text": "APEC"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kerjasama Selatan-Selatan: Hubungan pembangunan antara negara-negara membangun.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q009",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Apakah kepentingan hubungan ekonomi?\n\nProduk tempatan mendapat pembeli di luar negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemindahan teknologi"
+        },
+        {
+          "id": "B",
+          "text": "Kepelbagaian rakan"
+        },
+        {
+          "id": "C",
+          "text": "Pasaran eksport"
+        },
+        {
+          "id": "D",
+          "text": "Pelaburan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pasaran eksport: Produk tempatan mendapat pembeli di luar negara.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q010",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Apakah kepentingan hubungan ekonomi?\n\nModal baharu membiayai perusahaan dan pekerjaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemindahan teknologi"
+        },
+        {
+          "id": "B",
+          "text": "Kepelbagaian rakan"
+        },
+        {
+          "id": "C",
+          "text": "Pasaran eksport"
+        },
+        {
+          "id": "D",
+          "text": "Pelaburan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pelaburan: Modal baharu membiayai perusahaan dan pekerjaan.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q011",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Apakah kepentingan hubungan ekonomi?\n\nPengetahuan pengeluaran dikongsi melalui kerjasama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemindahan teknologi"
+        },
+        {
+          "id": "B",
+          "text": "Kepelbagaian rakan"
+        },
+        {
+          "id": "C",
+          "text": "Pasaran eksport"
+        },
+        {
+          "id": "D",
+          "text": "Pelaburan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pemindahan teknologi: Pengetahuan pengeluaran dikongsi melalui kerjasama.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q012",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Apakah kepentingan hubungan ekonomi?\n\nRisiko pergantungan pada satu negara dikurangkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemindahan teknologi"
+        },
+        {
+          "id": "B",
+          "text": "Kepelbagaian rakan"
+        },
+        {
+          "id": "C",
+          "text": "Pasaran eksport"
+        },
+        {
+          "id": "D",
+          "text": "Pelaburan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kepelbagaian rakan: Risiko pergantungan pada satu negara dikurangkan.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q013",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Kenal pasti bentuk bantuan kemanusiaan.\n\nPasukan perubatan membantu mangsa konflik.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemulihan pendidikan"
+        },
+        {
+          "id": "B",
+          "text": "Rawatan"
+        },
+        {
+          "id": "C",
+          "text": "Makanan"
+        },
+        {
+          "id": "D",
+          "text": "Tempat perlindungan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Rawatan: Pasukan perubatan membantu mangsa konflik.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q014",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Kenal pasti bentuk bantuan kemanusiaan.\n\nBekalan nutrisi dihantar kepada penduduk terjejas.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemulihan pendidikan"
+        },
+        {
+          "id": "B",
+          "text": "Rawatan"
+        },
+        {
+          "id": "C",
+          "text": "Makanan"
+        },
+        {
+          "id": "D",
+          "text": "Tempat perlindungan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Makanan: Bekalan nutrisi dihantar kepada penduduk terjejas.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q015",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Kenal pasti bentuk bantuan kemanusiaan.\n\nKediaman sementara disediakan selepas bencana.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemulihan pendidikan"
+        },
+        {
+          "id": "B",
+          "text": "Rawatan"
+        },
+        {
+          "id": "C",
+          "text": "Makanan"
+        },
+        {
+          "id": "D",
+          "text": "Tempat perlindungan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Tempat perlindungan: Kediaman sementara disediakan selepas bencana.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q016",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Kenal pasti bentuk bantuan kemanusiaan.\n\nKanak-kanak dibantu kembali belajar selepas krisis.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemulihan pendidikan"
+        },
+        {
+          "id": "B",
+          "text": "Rawatan"
+        },
+        {
+          "id": "C",
+          "text": "Makanan"
+        },
+        {
+          "id": "D",
+          "text": "Tempat perlindungan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pemulihan pendidikan: Kanak-kanak dibantu kembali belajar selepas krisis.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q017",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Padankan lokasi dengan konteks kemanusiaan.\n\nWilayah yang menjadi tumpuan solidariti Malaysia berkaitan konflik berpanjangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Palestin"
+        },
+        {
+          "id": "B",
+          "text": "Syria"
+        },
+        {
+          "id": "C",
+          "text": "Aceh"
+        },
+        {
+          "id": "D",
+          "text": "Sri Lanka"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Palestin: Wilayah yang menjadi tumpuan solidariti Malaysia berkaitan konflik berpanjangan.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q018",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Padankan lokasi dengan konteks kemanusiaan.\n\nNegara Asia Barat yang mengalami krisis pelarian akibat perang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Palestin"
+        },
+        {
+          "id": "B",
+          "text": "Syria"
+        },
+        {
+          "id": "C",
+          "text": "Aceh"
+        },
+        {
+          "id": "D",
+          "text": "Sri Lanka"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Syria: Negara Asia Barat yang mengalami krisis pelarian akibat perang.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q019",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Padankan lokasi dengan konteks kemanusiaan.\n\nWilayah Indonesia yang teruk terjejas oleh tsunami 2004.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Palestin"
+        },
+        {
+          "id": "B",
+          "text": "Syria"
+        },
+        {
+          "id": "C",
+          "text": "Aceh"
+        },
+        {
+          "id": "D",
+          "text": "Sri Lanka"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Aceh: Wilayah Indonesia yang teruk terjejas oleh tsunami 2004.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q020",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Padankan lokasi dengan konteks kemanusiaan.\n\nNegara pulau Asia Selatan yang turut terjejas tsunami 2004.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Palestin"
+        },
+        {
+          "id": "B",
+          "text": "Syria"
+        },
+        {
+          "id": "C",
+          "text": "Aceh"
+        },
+        {
+          "id": "D",
+          "text": "Sri Lanka"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Sri Lanka: Negara pulau Asia Selatan yang turut terjejas tsunami 2004.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q021",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Kenal pasti unsur kelestarian.\n\nPernyataan Komanwel 1989 yang memberi perhatian kepada alam sekitar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antartika"
+        },
+        {
+          "id": "B",
+          "text": "Pembangunan lestari"
+        },
+        {
+          "id": "C",
+          "text": "Pemuliharaan hutan"
+        },
+        {
+          "id": "D",
+          "text": "Deklarasi Langkawi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Deklarasi Langkawi: Pernyataan Komanwel 1989 yang memberi perhatian kepada alam sekitar.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q022",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Kenal pasti unsur kelestarian.\n\nBenua kutub selatan yang mempunyai kepentingan ekologi global.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antartika"
+        },
+        {
+          "id": "B",
+          "text": "Pembangunan lestari"
+        },
+        {
+          "id": "C",
+          "text": "Pemuliharaan hutan"
+        },
+        {
+          "id": "D",
+          "text": "Deklarasi Langkawi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Antartika: Benua kutub selatan yang mempunyai kepentingan ekologi global.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q023",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Kenal pasti unsur kelestarian.\n\nKemajuan yang mempertimbangkan keperluan generasi akan datang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antartika"
+        },
+        {
+          "id": "B",
+          "text": "Pembangunan lestari"
+        },
+        {
+          "id": "C",
+          "text": "Pemuliharaan hutan"
+        },
+        {
+          "id": "D",
+          "text": "Deklarasi Langkawi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pembangunan lestari: Kemajuan yang mempertimbangkan keperluan generasi akan datang.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q024",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Kenal pasti unsur kelestarian.\n\nUsaha melindungi kawasan pokok dan habitat semula jadi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antartika"
+        },
+        {
+          "id": "B",
+          "text": "Pembangunan lestari"
+        },
+        {
+          "id": "C",
+          "text": "Pemuliharaan hutan"
+        },
+        {
+          "id": "D",
+          "text": "Deklarasi Langkawi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pemuliharaan hutan: Usaha melindungi kawasan pokok dan habitat semula jadi.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q025",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Apakah pendekatan menangani isu minyak sawit?\n\nDakwaan terhadap produk dinilai melalui penyelidikan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diplomasi perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Maklumat pengguna"
+        },
+        {
+          "id": "C",
+          "text": "Bukti saintifik"
+        },
+        {
+          "id": "D",
+          "text": "Amalan mampan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Bukti saintifik: Dakwaan terhadap produk dinilai melalui penyelidikan.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q026",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Apakah pendekatan menangani isu minyak sawit?\n\nPengeluaran ditambah baik dengan mengambil kira kesan alam.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diplomasi perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Maklumat pengguna"
+        },
+        {
+          "id": "C",
+          "text": "Bukti saintifik"
+        },
+        {
+          "id": "D",
+          "text": "Amalan mampan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Amalan mampan: Pengeluaran ditambah baik dengan mengambil kira kesan alam.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q027",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Apakah pendekatan menangani isu minyak sawit?\n\nHalangan pasaran dibincang dengan negara rakan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diplomasi perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Maklumat pengguna"
+        },
+        {
+          "id": "C",
+          "text": "Bukti saintifik"
+        },
+        {
+          "id": "D",
+          "text": "Amalan mampan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Diplomasi perdagangan: Halangan pasaran dibincang dengan negara rakan.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q028",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Apakah pendekatan menangani isu minyak sawit?\n\nFakta produk diterangkan bagi mengurangkan salah tanggapan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diplomasi perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Maklumat pengguna"
+        },
+        {
+          "id": "C",
+          "text": "Bukti saintifik"
+        },
+        {
+          "id": "D",
+          "text": "Amalan mampan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Maklumat pengguna: Fakta produk diterangkan bagi mengurangkan salah tanggapan.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q029",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Padankan matlamat serantau.\n\nBekalan asas diperkukuh melalui hubungan negara jiran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerjasama maritim"
+        },
+        {
+          "id": "B",
+          "text": "Keselamatan makanan"
+        },
+        {
+          "id": "C",
+          "text": "Zon bebas senjata nuklear"
+        },
+        {
+          "id": "D",
+          "text": "Pengurusan bencana"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Keselamatan makanan: Bekalan asas diperkukuh melalui hubungan negara jiran.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q030",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Padankan matlamat serantau.\n\nAsia Tenggara mahu dilindungi daripada penempatan senjata nuklear.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerjasama maritim"
+        },
+        {
+          "id": "B",
+          "text": "Keselamatan makanan"
+        },
+        {
+          "id": "C",
+          "text": "Zon bebas senjata nuklear"
+        },
+        {
+          "id": "D",
+          "text": "Pengurusan bencana"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Zon bebas senjata nuklear: Asia Tenggara mahu dilindungi daripada penempatan senjata nuklear.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q031",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Padankan matlamat serantau.\n\nNegara menyelaras bantuan ketika kejadian alam besar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerjasama maritim"
+        },
+        {
+          "id": "B",
+          "text": "Keselamatan makanan"
+        },
+        {
+          "id": "C",
+          "text": "Zon bebas senjata nuklear"
+        },
+        {
+          "id": "D",
+          "text": "Pengurusan bencana"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pengurusan bencana: Negara menyelaras bantuan ketika kejadian alam besar.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q032",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Padankan matlamat serantau.\n\nPerairan dijaga melalui perkongsian maklumat serta tindakan bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerjasama maritim"
+        },
+        {
+          "id": "B",
+          "text": "Keselamatan makanan"
+        },
+        {
+          "id": "C",
+          "text": "Zon bebas senjata nuklear"
+        },
+        {
+          "id": "D",
+          "text": "Pengurusan bencana"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kerjasama maritim: Perairan dijaga melalui perkongsian maklumat serta tindakan bersama.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q033",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Kenal pasti cabaran ekonomi global.\n\nKetidakstabilan sistem kewangan menjejaskan kegiatan ekonomi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Krisis kewangan"
+        },
+        {
+          "id": "B",
+          "text": "Turun naik harga"
+        },
+        {
+          "id": "C",
+          "text": "Gangguan bekalan"
+        },
+        {
+          "id": "D",
+          "text": "Persaingan pasaran"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Krisis kewangan: Ketidakstabilan sistem kewangan menjejaskan kegiatan ekonomi.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q034",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Kenal pasti cabaran ekonomi global.\n\nPerubahan nilai komoditi mempengaruhi pendapatan eksport.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Krisis kewangan"
+        },
+        {
+          "id": "B",
+          "text": "Turun naik harga"
+        },
+        {
+          "id": "C",
+          "text": "Gangguan bekalan"
+        },
+        {
+          "id": "D",
+          "text": "Persaingan pasaran"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Turun naik harga: Perubahan nilai komoditi mempengaruhi pendapatan eksport.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q035",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Kenal pasti cabaran ekonomi global.\n\nBarangan perantara sukar diperoleh akibat konflik atau bencana.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Krisis kewangan"
+        },
+        {
+          "id": "B",
+          "text": "Turun naik harga"
+        },
+        {
+          "id": "C",
+          "text": "Gangguan bekalan"
+        },
+        {
+          "id": "D",
+          "text": "Persaingan pasaran"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Gangguan bekalan: Barangan perantara sukar diperoleh akibat konflik atau bencana.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q036",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Kenal pasti cabaran ekonomi global.\n\nPengeluar bersaing memenuhi mutu dan harga pembeli.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Krisis kewangan"
+        },
+        {
+          "id": "B",
+          "text": "Turun naik harga"
+        },
+        {
+          "id": "C",
+          "text": "Gangguan bekalan"
+        },
+        {
+          "id": "D",
+          "text": "Persaingan pasaran"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Persaingan pasaran: Pengeluar bersaing memenuhi mutu dan harga pembeli.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q037",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Apakah sikap Malaysia di persada dunia?\n\nMangsa krisis dibantu atas keperluan mereka.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "B",
+          "text": "Kebijaksanaan dasar"
+        },
+        {
+          "id": "C",
+          "text": "Keamanan"
+        },
+        {
+          "id": "D",
+          "text": "Tanggungjawab kemanusiaan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Tanggungjawab kemanusiaan: Mangsa krisis dibantu atas keperluan mereka.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q038",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Apakah sikap Malaysia di persada dunia?\n\nMasalah global ditangani bersama negara lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "B",
+          "text": "Kebijaksanaan dasar"
+        },
+        {
+          "id": "C",
+          "text": "Keamanan"
+        },
+        {
+          "id": "D",
+          "text": "Tanggungjawab kemanusiaan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kerjasama: Masalah global ditangani bersama negara lain.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q039",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Apakah sikap Malaysia di persada dunia?\n\nKeputusan disesuaikan dengan cabaran serta kepentingan negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "B",
+          "text": "Kebijaksanaan dasar"
+        },
+        {
+          "id": "C",
+          "text": "Keamanan"
+        },
+        {
+          "id": "D",
+          "text": "Tanggungjawab kemanusiaan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kebijaksanaan dasar: Keputusan disesuaikan dengan cabaran serta kepentingan negara.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t5-b10-q040",
+      "form": 5,
+      "chapter": 10,
+      "prompt": "Apakah sikap Malaysia di persada dunia?\n\nPertikaian diusahakan penyelesaiannya tanpa kekerasan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "B",
+          "text": "Kebijaksanaan dasar"
+        },
+        {
+          "id": "C",
+          "text": "Keamanan"
+        },
+        {
+          "id": "D",
+          "text": "Tanggungjawab kemanusiaan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Keamanan: Pertikaian diusahakan penyelesaiannya tanpa kekerasan.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    }
+  ]
+}

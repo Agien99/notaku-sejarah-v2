@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 1,
+  "chapter": 2,
+  "title": "Zaman Air Batu",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t1_b02.json",
+  "questions": [
+    {
+      "id": "t1-b02-q001",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Padankan tahap perkembangan bumi.\n\nTahap yang paling awal antara empat pilihan ini dalam garis masa bab.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Miosen"
+        },
+        {
+          "id": "B",
+          "text": "Pliosen"
+        },
+        {
+          "id": "C",
+          "text": "Pleistosen"
+        },
+        {
+          "id": "D",
+          "text": "Holosen"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Miosen: Tahap yang paling awal antara empat pilihan ini dalam garis masa bab.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q002",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Padankan tahap perkembangan bumi.\n\nTahap selepas Miosen tetapi sebelum Pleistosen.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Miosen"
+        },
+        {
+          "id": "B",
+          "text": "Pliosen"
+        },
+        {
+          "id": "C",
+          "text": "Pleistosen"
+        },
+        {
+          "id": "D",
+          "text": "Holosen"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pliosen: Tahap selepas Miosen tetapi sebelum Pleistosen.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q003",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Padankan tahap perkembangan bumi.\n\nTahap yang terkenal dengan peluasan glasier berulang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Miosen"
+        },
+        {
+          "id": "B",
+          "text": "Pliosen"
+        },
+        {
+          "id": "C",
+          "text": "Pleistosen"
+        },
+        {
+          "id": "D",
+          "text": "Holosen"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pleistosen: Tahap yang terkenal dengan peluasan glasier berulang.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q004",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Padankan tahap perkembangan bumi.\n\nTahap selepas Pleistosen yang merangkumi kehidupan manusia masa kini.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Miosen"
+        },
+        {
+          "id": "B",
+          "text": "Pliosen"
+        },
+        {
+          "id": "C",
+          "text": "Pleistosen"
+        },
+        {
+          "id": "D",
+          "text": "Holosen"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Holosen: Tahap selepas Pleistosen yang merangkumi kehidupan manusia masa kini.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q005",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Kenal pasti unsur geografi.\n\nDaratan luas seperti Asia dan Afrika.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lautan"
+        },
+        {
+          "id": "B",
+          "text": "Selat"
+        },
+        {
+          "id": "C",
+          "text": "Pulau"
+        },
+        {
+          "id": "D",
+          "text": "Benua"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Benua: Daratan luas seperti Asia dan Afrika.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q006",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Kenal pasti unsur geografi.\n\nKawasan air masin sangat luas seperti Pasifik.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lautan"
+        },
+        {
+          "id": "B",
+          "text": "Selat"
+        },
+        {
+          "id": "C",
+          "text": "Pulau"
+        },
+        {
+          "id": "D",
+          "text": "Benua"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Lautan: Kawasan air masin sangat luas seperti Pasifik.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q007",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Kenal pasti unsur geografi.\n\nLaluan air sempit yang memisahkan dua kawasan daratan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lautan"
+        },
+        {
+          "id": "B",
+          "text": "Selat"
+        },
+        {
+          "id": "C",
+          "text": "Pulau"
+        },
+        {
+          "id": "D",
+          "text": "Benua"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Selat: Laluan air sempit yang memisahkan dua kawasan daratan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q008",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Kenal pasti unsur geografi.\n\nDaratan yang dikelilingi air.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lautan"
+        },
+        {
+          "id": "B",
+          "text": "Selat"
+        },
+        {
+          "id": "C",
+          "text": "Pulau"
+        },
+        {
+          "id": "D",
+          "text": "Benua"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pulau: Daratan yang dikelilingi air.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q009",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Padankan proses alam.\n\nAir berubah menjadi ais apabila kehilangan haba yang mencukupi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hakisan"
+        },
+        {
+          "id": "B",
+          "text": "Pemendapan"
+        },
+        {
+          "id": "C",
+          "text": "Pembekuan"
+        },
+        {
+          "id": "D",
+          "text": "Pencairan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pembekuan: Air berubah menjadi ais apabila kehilangan haba yang mencukupi.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q010",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Padankan proses alam.\n\nAis berubah menjadi air apabila menerima haba.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hakisan"
+        },
+        {
+          "id": "B",
+          "text": "Pemendapan"
+        },
+        {
+          "id": "C",
+          "text": "Pembekuan"
+        },
+        {
+          "id": "D",
+          "text": "Pencairan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pencairan: Ais berubah menjadi air apabila menerima haba.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q011",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Padankan proses alam.\n\nPermukaan bumi dikikis dan bahannya dipindahkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hakisan"
+        },
+        {
+          "id": "B",
+          "text": "Pemendapan"
+        },
+        {
+          "id": "C",
+          "text": "Pembekuan"
+        },
+        {
+          "id": "D",
+          "text": "Pencairan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Hakisan: Permukaan bumi dikikis dan bahannya dipindahkan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q012",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Padankan proses alam.\n\nBahan yang diangkut air terkumpul di lokasi baharu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hakisan"
+        },
+        {
+          "id": "B",
+          "text": "Pemendapan"
+        },
+        {
+          "id": "C",
+          "text": "Pembekuan"
+        },
+        {
+          "id": "D",
+          "text": "Pencairan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pemendapan: Bahan yang diangkut air terkumpul di lokasi baharu.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q013",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Kenal pasti hubungan suhu dan ais.\n\nKeadaan yang menggalakkan pembentukan ais apabila cukup sejuk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ais daratan mencair"
+        },
+        {
+          "id": "B",
+          "text": "Suhu menurun"
+        },
+        {
+          "id": "C",
+          "text": "Suhu meningkat"
+        },
+        {
+          "id": "D",
+          "text": "Ais daratan bertambah"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Suhu menurun: Keadaan yang menggalakkan pembentukan ais apabila cukup sejuk.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q014",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Kenal pasti hubungan suhu dan ais.\n\nKeadaan yang mempercepat pencairan apabila melebihi takat beku.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ais daratan mencair"
+        },
+        {
+          "id": "B",
+          "text": "Suhu menurun"
+        },
+        {
+          "id": "C",
+          "text": "Suhu meningkat"
+        },
+        {
+          "id": "D",
+          "text": "Ais daratan bertambah"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Suhu meningkat: Keadaan yang mempercepat pencairan apabila melebihi takat beku.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q015",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Kenal pasti hubungan suhu dan ais.\n\nLebih banyak air tersimpan di daratan sebagai glasier.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ais daratan mencair"
+        },
+        {
+          "id": "B",
+          "text": "Suhu menurun"
+        },
+        {
+          "id": "C",
+          "text": "Suhu meningkat"
+        },
+        {
+          "id": "D",
+          "text": "Ais daratan bertambah"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Ais daratan bertambah: Lebih banyak air tersimpan di daratan sebagai glasier.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q016",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Kenal pasti hubungan suhu dan ais.\n\nAir daripada glasier daratan kembali mengalir ke laut.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ais daratan mencair"
+        },
+        {
+          "id": "B",
+          "text": "Suhu menurun"
+        },
+        {
+          "id": "C",
+          "text": "Suhu meningkat"
+        },
+        {
+          "id": "D",
+          "text": "Ais daratan bertambah"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Ais daratan mencair: Air daripada glasier daratan kembali mengalir ke laut.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q017",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Apakah kesan perubahan aras laut?\n\nDasar laut cetek menjadi permukaan kering apabila laut surut jauh.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Daratan terdedah"
+        },
+        {
+          "id": "B",
+          "text": "Daratan ditenggelami"
+        },
+        {
+          "id": "C",
+          "text": "Jambatan darat"
+        },
+        {
+          "id": "D",
+          "text": "Pemisahan daratan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Daratan terdedah: Dasar laut cetek menjadi permukaan kering apabila laut surut jauh.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q018",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Apakah kesan perubahan aras laut?\n\nKawasan pantai rendah diliputi air apabila laut naik.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Daratan terdedah"
+        },
+        {
+          "id": "B",
+          "text": "Daratan ditenggelami"
+        },
+        {
+          "id": "C",
+          "text": "Jambatan darat"
+        },
+        {
+          "id": "D",
+          "text": "Pemisahan daratan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Daratan ditenggelami: Kawasan pantai rendah diliputi air apabila laut naik.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q019",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Apakah kesan perubahan aras laut?\n\nDua wilayah dihubungkan tanah kering ketika aras laut rendah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Daratan terdedah"
+        },
+        {
+          "id": "B",
+          "text": "Daratan ditenggelami"
+        },
+        {
+          "id": "C",
+          "text": "Jambatan darat"
+        },
+        {
+          "id": "D",
+          "text": "Pemisahan daratan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Jambatan darat: Dua wilayah dihubungkan tanah kering ketika aras laut rendah.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q020",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Apakah kesan perubahan aras laut?\n\nLaluan darat antara dua wilayah terputus oleh air laut.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Daratan terdedah"
+        },
+        {
+          "id": "B",
+          "text": "Daratan ditenggelami"
+        },
+        {
+          "id": "C",
+          "text": "Jambatan darat"
+        },
+        {
+          "id": "D",
+          "text": "Pemisahan daratan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pemisahan daratan: Laluan darat antara dua wilayah terputus oleh air laut.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q021",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Padankan lokasi atau wilayah.\n\nPelantar benua cetek yang pernah menghubungkan sebahagian wilayah rantau ini.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Asia Tenggara"
+        },
+        {
+          "id": "B",
+          "text": "Kutub"
+        },
+        {
+          "id": "C",
+          "text": "Kawasan pesisir"
+        },
+        {
+          "id": "D",
+          "text": "Pentas Sunda"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pentas Sunda: Pelantar benua cetek yang pernah menghubungkan sebahagian wilayah rantau ini.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q022",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Padankan lokasi atau wilayah.\n\nRantau yang merangkumi Malaysia, Indonesia dan Thailand.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Asia Tenggara"
+        },
+        {
+          "id": "B",
+          "text": "Kutub"
+        },
+        {
+          "id": "C",
+          "text": "Kawasan pesisir"
+        },
+        {
+          "id": "D",
+          "text": "Pentas Sunda"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Asia Tenggara: Rantau yang merangkumi Malaysia, Indonesia dan Thailand.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q023",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Padankan lokasi atau wilayah.\n\nKawasan bumi di sekitar hujung utara atau selatan paksi putarannya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Asia Tenggara"
+        },
+        {
+          "id": "B",
+          "text": "Kutub"
+        },
+        {
+          "id": "C",
+          "text": "Kawasan pesisir"
+        },
+        {
+          "id": "D",
+          "text": "Pentas Sunda"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kutub: Kawasan bumi di sekitar hujung utara atau selatan paksi putarannya.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q024",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Padankan lokasi atau wilayah.\n\nZon berhampiran pertemuan daratan dengan laut.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Asia Tenggara"
+        },
+        {
+          "id": "B",
+          "text": "Kutub"
+        },
+        {
+          "id": "C",
+          "text": "Kawasan pesisir"
+        },
+        {
+          "id": "D",
+          "text": "Pentas Sunda"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kawasan pesisir: Zon berhampiran pertemuan daratan dengan laut.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q025",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Kenal pasti penyesuaian hidupan.\n\nCiri mamalia sejuk yang membantu mengurangkan kehilangan haba.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perlindungan gua"
+        },
+        {
+          "id": "B",
+          "text": "Perubahan diet"
+        },
+        {
+          "id": "C",
+          "text": "Bulu tebal"
+        },
+        {
+          "id": "D",
+          "text": "Migrasi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Bulu tebal: Ciri mamalia sejuk yang membantu mengurangkan kehilangan haba.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q026",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Kenal pasti penyesuaian hidupan.\n\nPergerakan haiwan ke kawasan lebih sesuai apabila habitat berubah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perlindungan gua"
+        },
+        {
+          "id": "B",
+          "text": "Perubahan diet"
+        },
+        {
+          "id": "C",
+          "text": "Bulu tebal"
+        },
+        {
+          "id": "D",
+          "text": "Migrasi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Migrasi: Pergerakan haiwan ke kawasan lebih sesuai apabila habitat berubah.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q027",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Kenal pasti penyesuaian hidupan.\n\nPenggunaan ruang semula jadi untuk berlindung daripada cuaca.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perlindungan gua"
+        },
+        {
+          "id": "B",
+          "text": "Perubahan diet"
+        },
+        {
+          "id": "C",
+          "text": "Bulu tebal"
+        },
+        {
+          "id": "D",
+          "text": "Migrasi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perlindungan gua: Penggunaan ruang semula jadi untuk berlindung daripada cuaca.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q028",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Kenal pasti penyesuaian hidupan.\n\nManusia beralih sumber makanan apabila sumber lama sukar diperoleh.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perlindungan gua"
+        },
+        {
+          "id": "B",
+          "text": "Perubahan diet"
+        },
+        {
+          "id": "C",
+          "text": "Bulu tebal"
+        },
+        {
+          "id": "D",
+          "text": "Migrasi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perubahan diet: Manusia beralih sumber makanan apabila sumber lama sukar diperoleh.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q029",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Apakah bukti yang berguna untuk mengkaji perubahan alam?\n\nTinggalan hidupan membantu mengenal pasti spesies yang pernah wujud.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Garis pantai lama"
+        },
+        {
+          "id": "B",
+          "text": "Fosil"
+        },
+        {
+          "id": "C",
+          "text": "Lapisan sedimen"
+        },
+        {
+          "id": "D",
+          "text": "Bentuk muka bumi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Fosil: Tinggalan hidupan membantu mengenal pasti spesies yang pernah wujud.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q030",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Apakah bukti yang berguna untuk mengkaji perubahan alam?\n\nSusunan mendapan membantu meneliti urutan perubahan persekitaran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Garis pantai lama"
+        },
+        {
+          "id": "B",
+          "text": "Fosil"
+        },
+        {
+          "id": "C",
+          "text": "Lapisan sedimen"
+        },
+        {
+          "id": "D",
+          "text": "Bentuk muka bumi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Lapisan sedimen: Susunan mendapan membantu meneliti urutan perubahan persekitaran.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q031",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Apakah bukti yang berguna untuk mengkaji perubahan alam?\n\nLembah dan kesan hakisan membantu mengesan kegiatan glasier.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Garis pantai lama"
+        },
+        {
+          "id": "B",
+          "text": "Fosil"
+        },
+        {
+          "id": "C",
+          "text": "Lapisan sedimen"
+        },
+        {
+          "id": "D",
+          "text": "Bentuk muka bumi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Bentuk muka bumi: Lembah dan kesan hakisan membantu mengesan kegiatan glasier.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q032",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Apakah bukti yang berguna untuk mengkaji perubahan alam?\n\nKedudukan bekas pinggir laut membantu membandingkan aras air dahulu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Garis pantai lama"
+        },
+        {
+          "id": "B",
+          "text": "Fosil"
+        },
+        {
+          "id": "C",
+          "text": "Lapisan sedimen"
+        },
+        {
+          "id": "D",
+          "text": "Bentuk muka bumi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Garis pantai lama: Kedudukan bekas pinggir laut membantu membandingkan aras air dahulu.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q033",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Padankan cabaran manusia dengan kesannya.\n\nPemburu sukar mendapatkan buruan selepas populasi haiwan menurun.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bekalan makanan berkurang"
+        },
+        {
+          "id": "B",
+          "text": "Laluan perjalanan berubah"
+        },
+        {
+          "id": "C",
+          "text": "Petempatan dipindahkan"
+        },
+        {
+          "id": "D",
+          "text": "Habitat haiwan mengecil"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Bekalan makanan berkurang: Pemburu sukar mendapatkan buruan selepas populasi haiwan menurun.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q034",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Padankan cabaran manusia dengan kesannya.\n\nPengembara tidak lagi dapat menyeberangi kawasan yang ditenggelami laut.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bekalan makanan berkurang"
+        },
+        {
+          "id": "B",
+          "text": "Laluan perjalanan berubah"
+        },
+        {
+          "id": "C",
+          "text": "Petempatan dipindahkan"
+        },
+        {
+          "id": "D",
+          "text": "Habitat haiwan mengecil"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Laluan perjalanan berubah: Pengembara tidak lagi dapat menyeberangi kawasan yang ditenggelami laut.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q035",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Padankan cabaran manusia dengan kesannya.\n\nPenduduk meninggalkan kawasan rendah yang sering dinaiki air.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bekalan makanan berkurang"
+        },
+        {
+          "id": "B",
+          "text": "Laluan perjalanan berubah"
+        },
+        {
+          "id": "C",
+          "text": "Petempatan dipindahkan"
+        },
+        {
+          "id": "D",
+          "text": "Habitat haiwan mengecil"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Petempatan dipindahkan: Penduduk meninggalkan kawasan rendah yang sering dinaiki air.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q036",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Padankan cabaran manusia dengan kesannya.\n\nHaiwan kehilangan sebahagian kawasan hidup akibat perubahan persekitaran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bekalan makanan berkurang"
+        },
+        {
+          "id": "B",
+          "text": "Laluan perjalanan berubah"
+        },
+        {
+          "id": "C",
+          "text": "Petempatan dipindahkan"
+        },
+        {
+          "id": "D",
+          "text": "Habitat haiwan mengecil"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Habitat haiwan mengecil: Haiwan kehilangan sebahagian kawasan hidup akibat perubahan persekitaran.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q037",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Apakah prinsip kajian alam yang ditunjukkan?\n\nMenyusun tahap geologi sebelum membandingkan perkembangannya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hubungan sebab-akibat"
+        },
+        {
+          "id": "B",
+          "text": "Perubahan beransur-ansur"
+        },
+        {
+          "id": "C",
+          "text": "Penyesuaian manusia"
+        },
+        {
+          "id": "D",
+          "text": "Urutan masa"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Urutan masa: Menyusun tahap geologi sebelum membandingkan perkembangannya.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q038",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Apakah prinsip kajian alam yang ditunjukkan?\n\nMenghubungkan pencairan ais daratan dengan kenaikan laut.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hubungan sebab-akibat"
+        },
+        {
+          "id": "B",
+          "text": "Perubahan beransur-ansur"
+        },
+        {
+          "id": "C",
+          "text": "Penyesuaian manusia"
+        },
+        {
+          "id": "D",
+          "text": "Urutan masa"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Hubungan sebab-akibat: Menghubungkan pencairan ais daratan dengan kenaikan laut.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q039",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Apakah prinsip kajian alam yang ditunjukkan?\n\nMenilai perubahan bumi dalam jangka geologi yang panjang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hubungan sebab-akibat"
+        },
+        {
+          "id": "B",
+          "text": "Perubahan beransur-ansur"
+        },
+        {
+          "id": "C",
+          "text": "Penyesuaian manusia"
+        },
+        {
+          "id": "D",
+          "text": "Urutan masa"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perubahan beransur-ansur: Menilai perubahan bumi dalam jangka geologi yang panjang.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t1-b02-q040",
+      "form": 1,
+      "chapter": 2,
+      "prompt": "Apakah prinsip kajian alam yang ditunjukkan?\n\nMeneliti cara penduduk mengubah kehidupan apabila alam berubah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hubungan sebab-akibat"
+        },
+        {
+          "id": "B",
+          "text": "Perubahan beransur-ansur"
+        },
+        {
+          "id": "C",
+          "text": "Penyesuaian manusia"
+        },
+        {
+          "id": "D",
+          "text": "Urutan masa"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Penyesuaian manusia: Meneliti cara penduduk mengubah kehidupan apabila alam berubah.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    }
+  ]
+}

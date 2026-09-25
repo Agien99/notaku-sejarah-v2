@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 2,
+  "chapter": 6,
+  "title": "Kesultanan Johor Riau",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t2_b06.json",
+  "questions": [
+    {
+      "id": "t2-b06-q001",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Kenal pasti tokoh atau kelompok.\n\nPengasas Kesultanan Johor Riau pada 1528.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sultan Alauddin Riayat Shah II"
+        },
+        {
+          "id": "B",
+          "text": "Tun Sri Lanang"
+        },
+        {
+          "id": "C",
+          "text": "Raja Ali Haji"
+        },
+        {
+          "id": "D",
+          "text": "Orang Laut"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Sultan Alauddin Riayat Shah II: Pengasas Kesultanan Johor Riau pada 1528.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q002",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Kenal pasti tokoh atau kelompok.\n\nTokoh yang dikaitkan dengan penyusunan Sulalatus Salatin.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sultan Alauddin Riayat Shah II"
+        },
+        {
+          "id": "B",
+          "text": "Tun Sri Lanang"
+        },
+        {
+          "id": "C",
+          "text": "Raja Ali Haji"
+        },
+        {
+          "id": "D",
+          "text": "Orang Laut"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Tun Sri Lanang: Tokoh yang dikaitkan dengan penyusunan Sulalatus Salatin.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q003",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Kenal pasti tokoh atau kelompok.\n\nPengarang yang terkenal dengan Gurindam Dua Belas.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sultan Alauddin Riayat Shah II"
+        },
+        {
+          "id": "B",
+          "text": "Tun Sri Lanang"
+        },
+        {
+          "id": "C",
+          "text": "Raja Ali Haji"
+        },
+        {
+          "id": "D",
+          "text": "Orang Laut"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Raja Ali Haji: Pengarang yang terkenal dengan Gurindam Dua Belas.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q004",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Kenal pasti tokoh atau kelompok.\n\nKelompok maritim yang membantu keselamatan dan pelayaran kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sultan Alauddin Riayat Shah II"
+        },
+        {
+          "id": "B",
+          "text": "Tun Sri Lanang"
+        },
+        {
+          "id": "C",
+          "text": "Raja Ali Haji"
+        },
+        {
+          "id": "D",
+          "text": "Orang Laut"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Orang Laut: Kelompok maritim yang membantu keselamatan dan pelayaran kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q005",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Padankan pusat atau kawasan.\n\nWilayah daratan utama kesinambungan kesultanan selepas kejatuhan Melaka.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Riau"
+        },
+        {
+          "id": "B",
+          "text": "Lingga"
+        },
+        {
+          "id": "C",
+          "text": "Melaka"
+        },
+        {
+          "id": "D",
+          "text": "Johor"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Johor: Wilayah daratan utama kesinambungan kesultanan selepas kejatuhan Melaka.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q006",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Padankan pusat atau kawasan.\n\nKepulauan yang berkembang sebagai pusat perdagangan Johor Riau.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Riau"
+        },
+        {
+          "id": "B",
+          "text": "Lingga"
+        },
+        {
+          "id": "C",
+          "text": "Melaka"
+        },
+        {
+          "id": "D",
+          "text": "Johor"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Riau: Kepulauan yang berkembang sebagai pusat perdagangan Johor Riau.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q007",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Padankan pusat atau kawasan.\n\nKepulauan yang menjadi sebahagian lingkungan kerajaan Johor Riau.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Riau"
+        },
+        {
+          "id": "B",
+          "text": "Lingga"
+        },
+        {
+          "id": "C",
+          "text": "Melaka"
+        },
+        {
+          "id": "D",
+          "text": "Johor"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Lingga: Kepulauan yang menjadi sebahagian lingkungan kerajaan Johor Riau.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q008",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Padankan pusat atau kawasan.\n\nPusat lama yang ditawan Portugis pada 1511.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Riau"
+        },
+        {
+          "id": "B",
+          "text": "Lingga"
+        },
+        {
+          "id": "C",
+          "text": "Melaka"
+        },
+        {
+          "id": "D",
+          "text": "Johor"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Melaka: Pusat lama yang ditawan Portugis pada 1511.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q009",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Kenal pasti pihak dalam persaingan serantau.\n\nKesultanan pewaris Melaka dalam persaingan tiga segi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Portugis"
+        },
+        {
+          "id": "B",
+          "text": "Belanda"
+        },
+        {
+          "id": "C",
+          "text": "Johor"
+        },
+        {
+          "id": "D",
+          "text": "Aceh"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Johor: Kesultanan pewaris Melaka dalam persaingan tiga segi.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q010",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Kenal pasti pihak dalam persaingan serantau.\n\nKerajaan Sumatera yang bersaing menguasai perdagangan selat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Portugis"
+        },
+        {
+          "id": "B",
+          "text": "Belanda"
+        },
+        {
+          "id": "C",
+          "text": "Johor"
+        },
+        {
+          "id": "D",
+          "text": "Aceh"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Aceh: Kerajaan Sumatera yang bersaing menguasai perdagangan selat.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q011",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Kenal pasti pihak dalam persaingan serantau.\n\nKuasa Eropah yang menduduki Melaka sejak 1511.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Portugis"
+        },
+        {
+          "id": "B",
+          "text": "Belanda"
+        },
+        {
+          "id": "C",
+          "text": "Johor"
+        },
+        {
+          "id": "D",
+          "text": "Aceh"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Portugis: Kuasa Eropah yang menduduki Melaka sejak 1511.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q012",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Kenal pasti pihak dalam persaingan serantau.\n\nKuasa yang bekerjasama dengan Johor menewaskan Portugis pada 1641.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Portugis"
+        },
+        {
+          "id": "B",
+          "text": "Belanda"
+        },
+        {
+          "id": "C",
+          "text": "Johor"
+        },
+        {
+          "id": "D",
+          "text": "Aceh"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Belanda: Kuasa yang bekerjasama dengan Johor menewaskan Portugis pada 1641.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q013",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Apakah tujuan perpindahan pusat kerajaan?\n\nMengelakkan kawasan yang terdedah kepada serangan segera.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kelangsungan pemerintahan"
+        },
+        {
+          "id": "B",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "C",
+          "text": "Pertahanan"
+        },
+        {
+          "id": "D",
+          "text": "Akses perdagangan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Keselamatan: Mengelakkan kawasan yang terdedah kepada serangan segera.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q014",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Apakah tujuan perpindahan pusat kerajaan?\n\nMemilih lokasi yang lebih mudah dikawal tentera.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kelangsungan pemerintahan"
+        },
+        {
+          "id": "B",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "C",
+          "text": "Pertahanan"
+        },
+        {
+          "id": "D",
+          "text": "Akses perdagangan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pertahanan: Memilih lokasi yang lebih mudah dikawal tentera.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q015",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Apakah tujuan perpindahan pusat kerajaan?\n\nMendekatkan pusat dengan laluan kapal dan pedagang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kelangsungan pemerintahan"
+        },
+        {
+          "id": "B",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "C",
+          "text": "Pertahanan"
+        },
+        {
+          "id": "D",
+          "text": "Akses perdagangan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Akses perdagangan: Mendekatkan pusat dengan laluan kapal dan pedagang.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q016",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Apakah tujuan perpindahan pusat kerajaan?\n\nMemastikan institusi kerajaan terus berfungsi selepas pusat lama terganggu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kelangsungan pemerintahan"
+        },
+        {
+          "id": "B",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "C",
+          "text": "Pertahanan"
+        },
+        {
+          "id": "D",
+          "text": "Akses perdagangan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kelangsungan pemerintahan: Memastikan institusi kerajaan terus berfungsi selepas pusat lama terganggu.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q017",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Padankan peranan pelabuhan.\n\nHasil pedalaman dihimpunkan sebelum dijual.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pusat pengumpulan"
+        },
+        {
+          "id": "B",
+          "text": "Pusat pengedaran"
+        },
+        {
+          "id": "C",
+          "text": "Tempat persinggahan"
+        },
+        {
+          "id": "D",
+          "text": "Pasaran antarabangsa"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pusat pengumpulan: Hasil pedalaman dihimpunkan sebelum dijual.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q018",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Padankan peranan pelabuhan.\n\nBarangan dibawa semula ke pelabuhan lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pusat pengumpulan"
+        },
+        {
+          "id": "B",
+          "text": "Pusat pengedaran"
+        },
+        {
+          "id": "C",
+          "text": "Tempat persinggahan"
+        },
+        {
+          "id": "D",
+          "text": "Pasaran antarabangsa"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pusat pengedaran: Barangan dibawa semula ke pelabuhan lain.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q019",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Padankan peranan pelabuhan.\n\nKapal mendapatkan bekalan sebelum meneruskan perjalanan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pusat pengumpulan"
+        },
+        {
+          "id": "B",
+          "text": "Pusat pengedaran"
+        },
+        {
+          "id": "C",
+          "text": "Tempat persinggahan"
+        },
+        {
+          "id": "D",
+          "text": "Pasaran antarabangsa"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Tempat persinggahan: Kapal mendapatkan bekalan sebelum meneruskan perjalanan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q020",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Padankan peranan pelabuhan.\n\nPedagang pelbagai wilayah berurus niaga bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pusat pengumpulan"
+        },
+        {
+          "id": "B",
+          "text": "Pusat pengedaran"
+        },
+        {
+          "id": "C",
+          "text": "Tempat persinggahan"
+        },
+        {
+          "id": "D",
+          "text": "Pasaran antarabangsa"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pasaran antarabangsa: Pedagang pelbagai wilayah berurus niaga bersama.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q021",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Kenal pasti khidmat kepada pedagang.\n\nRondaan melindungi pelayaran daripada gangguan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gudang"
+        },
+        {
+          "id": "B",
+          "text": "Pembaikan kapal"
+        },
+        {
+          "id": "C",
+          "text": "Bekalan makanan"
+        },
+        {
+          "id": "D",
+          "text": "Keselamatan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Keselamatan: Rondaan melindungi pelayaran daripada gangguan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q022",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Kenal pasti khidmat kepada pedagang.\n\nMuatan disimpan sementara menunggu pembeli.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gudang"
+        },
+        {
+          "id": "B",
+          "text": "Pembaikan kapal"
+        },
+        {
+          "id": "C",
+          "text": "Bekalan makanan"
+        },
+        {
+          "id": "D",
+          "text": "Keselamatan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Gudang: Muatan disimpan sementara menunggu pembeli.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q023",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Kenal pasti khidmat kepada pedagang.\n\nKerosakan perahu dan kapal dibaiki.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gudang"
+        },
+        {
+          "id": "B",
+          "text": "Pembaikan kapal"
+        },
+        {
+          "id": "C",
+          "text": "Bekalan makanan"
+        },
+        {
+          "id": "D",
+          "text": "Keselamatan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pembaikan kapal: Kerosakan perahu dan kapal dibaiki.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q024",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Kenal pasti khidmat kepada pedagang.\n\nKeperluan anak kapal dibekalkan di pelabuhan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gudang"
+        },
+        {
+          "id": "B",
+          "text": "Pembaikan kapal"
+        },
+        {
+          "id": "C",
+          "text": "Bekalan makanan"
+        },
+        {
+          "id": "D",
+          "text": "Keselamatan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Bekalan makanan: Keperluan anak kapal dibekalkan di pelabuhan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q025",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Padankan istilah perdagangan.\n\nPemimpin pelayaran sesebuah kapal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cukai"
+        },
+        {
+          "id": "B",
+          "text": "Naungan"
+        },
+        {
+          "id": "C",
+          "text": "Nakhoda"
+        },
+        {
+          "id": "D",
+          "text": "Syahbandar"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Nakhoda: Pemimpin pelayaran sesebuah kapal.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q026",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Padankan istilah perdagangan.\n\nPegawai pengurusan urusan pelabuhan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cukai"
+        },
+        {
+          "id": "B",
+          "text": "Naungan"
+        },
+        {
+          "id": "C",
+          "text": "Nakhoda"
+        },
+        {
+          "id": "D",
+          "text": "Syahbandar"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Syahbandar: Pegawai pengurusan urusan pelabuhan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q027",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Padankan istilah perdagangan.\n\nBayaran hasil kerajaan daripada kegiatan ekonomi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cukai"
+        },
+        {
+          "id": "B",
+          "text": "Naungan"
+        },
+        {
+          "id": "C",
+          "text": "Nakhoda"
+        },
+        {
+          "id": "D",
+          "text": "Syahbandar"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Cukai: Bayaran hasil kerajaan daripada kegiatan ekonomi.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q028",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Padankan istilah perdagangan.\n\nPerlindungan pemerintah atau pembesar terhadap pedagang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cukai"
+        },
+        {
+          "id": "B",
+          "text": "Naungan"
+        },
+        {
+          "id": "C",
+          "text": "Nakhoda"
+        },
+        {
+          "id": "D",
+          "text": "Syahbandar"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Naungan: Perlindungan pemerintah atau pembesar terhadap pedagang.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q029",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Kenal pasti bentuk karya.\n\nKarya yang turut dikenali sebagai Sejarah Melayu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hikayat"
+        },
+        {
+          "id": "B",
+          "text": "Sulalatus Salatin"
+        },
+        {
+          "id": "C",
+          "text": "Gurindam Dua Belas"
+        },
+        {
+          "id": "D",
+          "text": "Tuhfat al-Nafis"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Sulalatus Salatin: Karya yang turut dikenali sebagai Sejarah Melayu.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q030",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Kenal pasti bentuk karya.\n\nKarya nasihat berangkap oleh Raja Ali Haji.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hikayat"
+        },
+        {
+          "id": "B",
+          "text": "Sulalatus Salatin"
+        },
+        {
+          "id": "C",
+          "text": "Gurindam Dua Belas"
+        },
+        {
+          "id": "D",
+          "text": "Tuhfat al-Nafis"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Gurindam Dua Belas: Karya nasihat berangkap oleh Raja Ali Haji.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q031",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Kenal pasti bentuk karya.\n\nKarya penting tentang sejarah Melayu dan Bugis.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hikayat"
+        },
+        {
+          "id": "B",
+          "text": "Sulalatus Salatin"
+        },
+        {
+          "id": "C",
+          "text": "Gurindam Dua Belas"
+        },
+        {
+          "id": "D",
+          "text": "Tuhfat al-Nafis"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Tuhfat al-Nafis: Karya penting tentang sejarah Melayu dan Bugis.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q032",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Kenal pasti bentuk karya.\n\nBentuk karya naratif tradisional tentang tokoh atau peristiwa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hikayat"
+        },
+        {
+          "id": "B",
+          "text": "Sulalatus Salatin"
+        },
+        {
+          "id": "C",
+          "text": "Gurindam Dua Belas"
+        },
+        {
+          "id": "D",
+          "text": "Tuhfat al-Nafis"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Hikayat: Bentuk karya naratif tradisional tentang tokoh atau peristiwa.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q033",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Apakah faktor perkembangan persuratan?\n\nPemerintah memberi sokongan kepada kegiatan pengarang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penaungan istana"
+        },
+        {
+          "id": "B",
+          "text": "Kemahiran penulis"
+        },
+        {
+          "id": "C",
+          "text": "Penggunaan bahasa Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Penyalinan naskhah"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Penaungan istana: Pemerintah memberi sokongan kepada kegiatan pengarang.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q034",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Apakah faktor perkembangan persuratan?\n\nGolongan terpelajar menghasilkan karya bermutu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penaungan istana"
+        },
+        {
+          "id": "B",
+          "text": "Kemahiran penulis"
+        },
+        {
+          "id": "C",
+          "text": "Penggunaan bahasa Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Penyalinan naskhah"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kemahiran penulis: Golongan terpelajar menghasilkan karya bermutu.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q035",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Apakah faktor perkembangan persuratan?\n\nBahasa serantau memudahkan karya difahami ramai.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penaungan istana"
+        },
+        {
+          "id": "B",
+          "text": "Kemahiran penulis"
+        },
+        {
+          "id": "C",
+          "text": "Penggunaan bahasa Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Penyalinan naskhah"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Penggunaan bahasa Melayu: Bahasa serantau memudahkan karya difahami ramai.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q036",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Apakah faktor perkembangan persuratan?\n\nKandungan disebarkan melalui salinan tulisan tangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penaungan istana"
+        },
+        {
+          "id": "B",
+          "text": "Kemahiran penulis"
+        },
+        {
+          "id": "C",
+          "text": "Penggunaan bahasa Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Penyalinan naskhah"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Penyalinan naskhah: Kandungan disebarkan melalui salinan tulisan tangan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q037",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Padankan pengajaran sejarah Johor Riau.\n\nKerajaan diteruskan walaupun menghadapi serangan berulang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama maritim"
+        },
+        {
+          "id": "C",
+          "text": "Pemeliharaan ilmu"
+        },
+        {
+          "id": "D",
+          "text": "Kecekalan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kecekalan: Kerajaan diteruskan walaupun menghadapi serangan berulang.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q038",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Padankan pengajaran sejarah Johor Riau.\n\nHubungan kuasa luar digunakan untuk menangani persaingan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama maritim"
+        },
+        {
+          "id": "C",
+          "text": "Pemeliharaan ilmu"
+        },
+        {
+          "id": "D",
+          "text": "Kecekalan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Diplomasi: Hubungan kuasa luar digunakan untuk menangani persaingan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q039",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Padankan pengajaran sejarah Johor Riau.\n\nPemerintah dan masyarakat laut saling menyokong keselamatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama maritim"
+        },
+        {
+          "id": "C",
+          "text": "Pemeliharaan ilmu"
+        },
+        {
+          "id": "D",
+          "text": "Kecekalan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kerjasama maritim: Pemerintah dan masyarakat laut saling menyokong keselamatan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t2-b06-q040",
+      "form": 2,
+      "chapter": 6,
+      "prompt": "Padankan pengajaran sejarah Johor Riau.\n\nKarya lama disimpan sebagai sumber generasi baharu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama maritim"
+        },
+        {
+          "id": "C",
+          "text": "Pemeliharaan ilmu"
+        },
+        {
+          "id": "D",
+          "text": "Kecekalan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pemeliharaan ilmu: Karya lama disimpan sebagai sumber generasi baharu.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    }
+  ]
+}
