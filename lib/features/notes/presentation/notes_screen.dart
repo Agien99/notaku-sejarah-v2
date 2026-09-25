@@ -5,8 +5,10 @@ import '../../../core/responsive/responsive_layout.dart';
 import '../../../core/theme/app_colors.dart';
 import '../../../core/theme/app_spacing.dart';
 import '../data/note_repository.dart';
+import '../domain/models/note_chapter.dart';
 import '../domain/models/note_form.dart';
 import 'chapter_list_screen.dart';
+import 'note_reader_screen.dart';
 import 'widgets/note_form_card.dart';
 
 class NotesScreen extends StatefulWidget {
@@ -58,6 +60,18 @@ class _NotesScreenState extends State<NotesScreen> {
     );
   }
 
+  void _openChapter(
+    BuildContext context,
+    NoteForm form,
+    NoteChapter chapter,
+  ) {
+    Navigator.of(context).push(
+      MaterialPageRoute<void>(
+        builder: (context) => NoteReaderScreen(form: form, chapter: chapter),
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     return ResponsiveLayout(
@@ -73,6 +87,8 @@ class _NotesScreenState extends State<NotesScreen> {
                 forms: _forms,
                 selectedForm: _selectedForm,
                 onFormSelected: (form) => _openForm(context, form, windowClass),
+                onChapterSelected: (form, chapter) =>
+                    _openChapter(context, form, chapter),
               )
             else
               _FormGrid(
@@ -124,16 +140,20 @@ class _NotesHeader extends StatelessWidget {
   }
 }
 
+typedef _ChapterSelection = void Function(NoteForm form, NoteChapter chapter);
+
 class _ExpandedNotesLayout extends StatelessWidget {
   const _ExpandedNotesLayout({
     required this.forms,
     required this.selectedForm,
     required this.onFormSelected,
+    required this.onChapterSelected,
   });
 
   final List<NoteForm> forms;
   final NoteForm? selectedForm;
   final ValueChanged<NoteForm> onFormSelected;
+  final _ChapterSelection onChapterSelected;
 
   @override
   Widget build(BuildContext context) {
@@ -154,7 +174,12 @@ class _ExpandedNotesLayout extends StatelessWidget {
           flex: 6,
           child: selectedForm == null
               ? const _SelectFormHint()
-              : ChapterListPanel(form: selectedForm!, compactHeader: true),
+              : ChapterListPanel(
+                  form: selectedForm!,
+                  compactHeader: true,
+                  onChapterSelected: (chapter) =>
+                      onChapterSelected(selectedForm!, chapter),
+                ),
         ),
       ],
     );

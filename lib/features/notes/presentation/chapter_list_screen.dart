@@ -6,6 +6,7 @@ import '../../../core/theme/app_radius.dart';
 import '../../../core/theme/app_spacing.dart';
 import '../domain/models/note_chapter.dart';
 import '../domain/models/note_form.dart';
+import 'note_reader_screen.dart';
 
 class ChapterListScreen extends StatelessWidget {
   const ChapterListScreen({
@@ -16,6 +17,20 @@ class ChapterListScreen extends StatelessWidget {
 
   final NoteForm form;
   final ValueChanged<NoteChapter>? onChapterSelected;
+
+  void _openChapter(BuildContext context, NoteChapter chapter) {
+    final callback = onChapterSelected;
+    if (callback != null) {
+      callback(chapter);
+      return;
+    }
+
+    Navigator.of(context).push(
+      MaterialPageRoute<void>(
+        builder: (context) => NoteReaderScreen(form: form, chapter: chapter),
+      ),
+    );
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -37,7 +52,8 @@ class ChapterListScreen extends StatelessWidget {
                   ),
                   child: ChapterListPanel(
                     form: form,
-                    onChapterSelected: onChapterSelected,
+                    onChapterSelected: (chapter) =>
+                        _openChapter(context, chapter),
                   ),
                 ),
               ),
@@ -71,11 +87,7 @@ class ChapterListPanel extends StatelessWidget {
         const SizedBox(height: AppSpacing.lg),
         LayoutBuilder(
           builder: (context, constraints) {
-            final columns = constraints.maxWidth >= 760
-                ? 2
-                : constraints.maxWidth >= 520
-                ? 2
-                : 1;
+            final columns = constraints.maxWidth >= 520 ? 2 : 1;
             const gap = AppSpacing.sm;
             final cardWidth =
                 (constraints.maxWidth - gap * (columns - 1)) / columns;
@@ -222,6 +234,13 @@ class _ChapterCard extends StatelessWidget {
                       chapter.title,
                       style: Theme.of(context).textTheme.titleMedium?.copyWith(
                         fontWeight: FontWeight.w700,
+                      ),
+                    ),
+                    const SizedBox(height: AppSpacing.xxs),
+                    Text(
+                      'Muka surat ${chapter.printedPage}',
+                      style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                        color: AppColors.textSecondary,
                       ),
                     ),
                   ],
