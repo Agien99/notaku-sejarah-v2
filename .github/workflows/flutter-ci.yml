@@ -68,7 +68,7 @@ jobs:
     name: Build Android APK
     runs-on: ubuntu-latest
     needs: quality
-    timeout-minutes: 35
+    timeout-minutes: 25
 
     steps:
       - name: Checkout
@@ -97,8 +97,6 @@ jobs:
           grep -F 'applicationId = "com.digitechgien.notakusejarah"' android/app/build.gradle.kts
           grep -F 'android:label="Notaku Sejarah"' android/app/src/main/AndroidManifest.xml
 
-      - name: Sync offline note PDFs
-        run: bash scripts/sync_note_assets.sh
 
       - name: Get dependencies
         run: flutter pub get
@@ -135,7 +133,7 @@ jobs:
     name: Build Web
     runs-on: ubuntu-latest
     needs: quality
-    timeout-minutes: 30
+    timeout-minutes: 20
 
     steps:
       - name: Checkout
@@ -205,8 +203,6 @@ jobs:
           grep -F '<title>Notaku Sejarah</title>' web/index.html
           grep -F '"orientation": "any"' web/manifest.json
 
-      - name: Sync offline note PDFs
-        run: bash scripts/sync_note_assets.sh
 
       - name: Get dependencies
         run: flutter pub get

@@ -1,4 +1,5 @@
 import 'note_chapter.dart';
+import 'note_curriculum.dart';
 
 class NoteForm {
   const NoteForm({
@@ -6,14 +7,14 @@ class NoteForm {
     required this.theme,
     required this.isAvailable,
     required this.chapters,
-    this.documentAsset,
+    required this.curriculum,
   });
 
   final int level;
   final String theme;
   final bool isAvailable;
   final List<NoteChapter> chapters;
-  final String? documentAsset;
+  final NoteCurriculum curriculum;
 
   String get title => 'Tingkatan $level';
 

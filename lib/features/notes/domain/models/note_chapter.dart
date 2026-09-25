@@ -2,14 +2,12 @@ class NoteChapter {
   const NoteChapter({
     required this.number,
     required this.title,
-    required this.printedPage,
-    required this.initialPageNumber,
+    required this.contentAsset,
   });
 
   final int number;
   final String title;
-  final int printedPage;
-  final int initialPageNumber;
+  final String contentAsset;
 
   String get label => 'Bab $number';
 }
