@@ -115,6 +115,7 @@ void main() {
     await pumpNotes(tester);
 
     await tester.ensureVisible(find.byKey(const ValueKey('note-form-5')));
+    await tester.ensureVisible(find.byKey(const ValueKey('note-form-5')));
     await tester.tap(find.byKey(const ValueKey('note-form-5')));
     await tester.pumpAndSettle();
 

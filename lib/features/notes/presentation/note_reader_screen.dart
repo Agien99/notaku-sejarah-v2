@@ -624,7 +624,6 @@ class _ReaderCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Card(
-      key: key,
       margin: EdgeInsets.zero,
       child: Padding(
         padding: const EdgeInsets.all(AppSpacing.lg),
