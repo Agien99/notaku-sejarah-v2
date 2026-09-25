@@ -6,17 +6,18 @@ A modern, responsive Flutter rebuild of **Notaku Sejarah**.
 
 ## Current phase
 
-**Phase 1 — Foundation & CI/CD: COMPLETE ✅**
+**Phase 5 — Kuiz** adds chapter selection, 15 randomized questions per attempt,
+answer navigation, scoring, explanations, retry and exit protection.
 
-Completed foundations:
+- Modern Heritage responsive app shell and Utama
+- Nota by form/chapter with direct chapter navigation
+- Validated question repository with a 20-question Tingkatan 1 Bab 1 practice bank
+- Interactive quizzes with shuffled questions and answer choices
+- Automated formatting, analysis, tests, Android APK and Flutter Web builds
 
-- Flutter project foundation
-- Modern Heritage design system
-- Responsive compact / medium / expanded architecture
-- Adaptive phone and tablet navigation
-- Automated Flutter CI validation
-- Android APK artifact builds
-- Flutter Web builds and GitHub Pages deployment
+Other quiz chapters are marked unavailable until their question banks are added.
+Attempts currently live in memory; persistent history and Rekod integration are
+planned for the next phase. See [Phase 5 details](docs/phase-5-kuiz.md).
 
 ## Phase 1 verification
 
@@ -123,7 +124,11 @@ lib/
 │   ├── responsive/
 │   └── theme/
 └── features/
-    └── foundation/
+    ├── home/
+    ├── notes/
+    ├── quiz/
+    ├── records/
+    └── shell/
 
 test/
 ├── app_test.dart
@@ -131,4 +136,4 @@ test/
     └── responsive/
 ```
 
-The temporary `foundation` feature is used only to validate Phase 1 architecture and will be replaced by real application features in later phases.
+Feature implementations share the core theme and responsive navigation. Quiz content is stored under `assets/quiz/` and loaded through `QuizRepository`.
