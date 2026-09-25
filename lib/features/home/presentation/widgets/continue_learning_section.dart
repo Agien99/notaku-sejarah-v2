@@ -5,10 +5,7 @@ import 'utama_empty_state_card.dart';
 import 'utama_section_header.dart';
 
 class ContinueLearningSection extends StatelessWidget {
-  const ContinueLearningSection({
-    required this.onStartNotes,
-    super.key,
-  });
+  const ContinueLearningSection({required this.onStartNotes, super.key});
 
   final VoidCallback onStartNotes;
 
