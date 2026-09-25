@@ -708,7 +708,7 @@ class _ChapterNavigation extends StatelessWidget {
         }
 
         return Row(
-          crossAxisAlignment: CrossAxisAlignment.stretch,
+          crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Expanded(
               child: previousChapter == null
