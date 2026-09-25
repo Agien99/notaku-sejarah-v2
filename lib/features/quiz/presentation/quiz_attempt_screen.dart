@@ -203,8 +203,6 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
         LinearProgressIndicator(
           value: session.answeredCount / session.questions.length,
           semanticsLabel: 'Kemajuan jawapan',
-          semanticsValue:
-              '${session.answeredCount} daripada ${session.questions.length}',
         ),
         const SizedBox(height: 8),
         Text('${session.answeredCount}/${session.questions.length} dijawab'),
