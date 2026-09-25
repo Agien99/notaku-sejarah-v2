@@ -36,6 +36,7 @@ class QuizQuestion {
     );
   }
 
-  QuizOption get correctOption =>
-      options.singleWhere((option) => option.id == correctOptionId);
+  QuizOption get correctOption => options.singleWhere(
+    (option) => option.id == correctOptionId,
+  );
 }
