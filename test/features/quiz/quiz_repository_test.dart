@@ -1,5 +1,3 @@
-import 'dart:typed_data';
-
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:notaku_sejarah_v2/features/quiz/data/quiz_repository.dart';
@@ -83,7 +81,7 @@ class _MemoryAssetBundle extends CachingAssetBundle {
   @override
   Future<ByteData> load(String key) async {
     final value = assets[key];
-    if (value == null) throw FlutterError('Missing test asset: $key');
+    if (value == null) throw StateError('Missing test asset: $key');
     return ByteData.sublistView(Uint8List.fromList(value.codeUnits));
   }
 }
