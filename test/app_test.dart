@@ -4,7 +4,7 @@ import 'package:notaku_sejarah_v2/app/app.dart';
 import 'package:notaku_sejarah_v2/core/theme/app_colors.dart';
 
 void main() {
-  testWidgets('renders app shell with bottom navigation on compact screens', (
+  testWidgets('renders Utama with bottom navigation on compact screens', (
     tester,
   ) async {
     tester.view.devicePixelRatio = 1;
@@ -13,7 +13,8 @@ void main() {
 
     await tester.pumpWidget(const NotakuSejarahApp());
 
-    expect(find.byKey(const ValueKey('shell-page-utama')), findsOneWidget);
+    expect(find.byKey(const ValueKey('screen-utama')), findsOneWidget);
+    expect(find.text('Selamat datang ke Notaku Sejarah'), findsOneWidget);
     expect(find.byType(NavigationBar), findsOneWidget);
     expect(find.byType(NavigationRail), findsNothing);
 
@@ -22,7 +23,7 @@ void main() {
     expect(materialApp.theme?.colorScheme.primary, AppColors.navy);
   });
 
-  testWidgets('switches destinations from the compact navigation bar', (
+  testWidgets('switches between feature screens on compact navigation', (
     tester,
   ) async {
     tester.view.devicePixelRatio = 1;
@@ -34,8 +35,44 @@ void main() {
     await tester.tap(find.text('Nota'));
     await tester.pumpAndSettle();
 
-    expect(find.byKey(const ValueKey('shell-page-nota')), findsOneWidget);
-    expect(find.byKey(const ValueKey('shell-page-utama')), findsNothing);
+    expect(find.byKey(const ValueKey('screen-nota')), findsOneWidget);
+    expect(find.text('Nota Sejarah'), findsOneWidget);
+
+    await tester.tap(find.text('Kuiz'));
+    await tester.pumpAndSettle();
+
+    expect(find.byKey(const ValueKey('screen-kuiz')), findsOneWidget);
+    expect(find.text('Uji kefahaman anda'), findsOneWidget);
+
+    await tester.tap(find.text('Rekod'));
+    await tester.pumpAndSettle();
+
+    expect(find.byKey(const ValueKey('screen-rekod')), findsOneWidget);
+    expect(find.text('Rekod pembelajaran'), findsOneWidget);
+  });
+
+  testWidgets('keeps the selected destination when the layout changes', (
+    tester,
+  ) async {
+    tester.view.devicePixelRatio = 1;
+    tester.view.physicalSize = const Size(390, 844);
+    addTearDown(tester.view.reset);
+
+    await tester.pumpWidget(const NotakuSejarahApp());
+
+    await tester.tap(find.text('Kuiz'));
+    await tester.pumpAndSettle();
+
+    tester.view.physicalSize = const Size(700, 1024);
+    await tester.pumpAndSettle();
+
+    expect(find.byKey(const ValueKey('screen-kuiz')), findsOneWidget);
+    expect(find.byType(NavigationRail), findsOneWidget);
+    expect(find.byType(NavigationBar), findsNothing);
+
+    final rail = tester.widget<NavigationRail>(find.byType(NavigationRail));
+    expect(rail.selectedIndex, 2);
+    expect(rail.extended, isFalse);
   });
 
   testWidgets('uses navigation rail on medium screens', (tester) async {
@@ -45,10 +82,10 @@ void main() {
 
     await tester.pumpWidget(const NotakuSejarahApp());
 
-    expect(find.byType(NavigationRail), findsOneWidget);
-    expect(find.byType(NavigationBar), findsNothing);
-
     final rail = tester.widget<NavigationRail>(find.byType(NavigationRail));
+
+    expect(find.byType(NavigationBar), findsNothing);
+    expect(rail.selectedIndex, 0);
     expect(rail.extended, isFalse);
   });
 
@@ -62,6 +99,8 @@ void main() {
     await tester.pumpWidget(const NotakuSejarahApp());
 
     final rail = tester.widget<NavigationRail>(find.byType(NavigationRail));
+
+    expect(rail.selectedIndex, 0);
     expect(rail.extended, isTrue);
   });
 }
