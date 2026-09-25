@@ -29,10 +29,7 @@ void main() {
     expect(find.text('Pintasan'), findsOneWidget);
     expect(find.text('Prestasi Terkini'), findsOneWidget);
     expect(find.text('Aktiviti Terkini'), findsOneWidget);
-    expect(
-      find.text('Belum ada pembelajaran untuk disambung'),
-      findsOneWidget,
-    );
+    expect(find.text('Belum ada pembelajaran untuk disambung'), findsOneWidget);
     expect(find.text('Belum ada keputusan kuiz'), findsOneWidget);
     expect(find.text('Belum ada aktiviti terkini'), findsOneWidget);
     expect(find.text('Boleh digunakan luar talian'), findsNothing);
@@ -100,9 +97,7 @@ void main() {
 
     await tester.pumpWidget(const NotakuSejarahApp());
 
-    await tester.ensureVisible(
-      find.byKey(const ValueKey('quick-action-nota')),
-    );
+    await tester.ensureVisible(find.byKey(const ValueKey('quick-action-nota')));
     await tester.tap(find.byKey(const ValueKey('quick-action-nota')));
     await tester.pumpAndSettle();
 
@@ -110,9 +105,7 @@ void main() {
 
     await tester.tap(navigationLabel('Utama'));
     await tester.pumpAndSettle();
-    await tester.ensureVisible(
-      find.byKey(const ValueKey('quick-action-kuiz')),
-    );
+    await tester.ensureVisible(find.byKey(const ValueKey('quick-action-kuiz')));
     await tester.tap(find.byKey(const ValueKey('quick-action-kuiz')));
     await tester.pumpAndSettle();
 
@@ -209,10 +202,7 @@ void main() {
       find.byKey(const ValueKey('latest-performance-empty')),
       findsOneWidget,
     );
-    expect(
-      find.byKey(const ValueKey('recent-activity-empty')),
-      findsOneWidget,
-    );
+    expect(find.byKey(const ValueKey('recent-activity-empty')), findsOneWidget);
     expect(rail.selectedIndex, 0);
     expect(rail.extended, isFalse);
     expect(tester.takeException(), isNull);
