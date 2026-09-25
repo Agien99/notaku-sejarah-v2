@@ -143,10 +143,8 @@ class _NotesHeader extends StatelessWidget {
           ),
           child: Text(
             'KSSM · Kandungan disemak 25 September 2026',
-            style: Theme.of(context).textTheme.labelLarge?.copyWith(
-              color: AppColors.navy,
-              fontWeight: FontWeight.w700,
-            ),
+            style: Theme.of(context).textTheme.labelLarge
+                ?.copyWith(color: AppColors.navy, fontWeight: FontWeight.w700),
           ),
         ),
       ],

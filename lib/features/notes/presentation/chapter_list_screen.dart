@@ -163,16 +163,14 @@ class _ChapterHeader extends StatelessWidget {
                 const SizedBox(height: AppSpacing.xxs),
                 Text(
                   form.theme,
-                  style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-                    color: AppColors.goldSoft,
-                  ),
+                  style: Theme.of(context).textTheme.bodyMedium
+                      ?.copyWith(color: AppColors.goldSoft),
                 ),
                 const SizedBox(height: AppSpacing.xs),
                 Text(
                   'Pilih salah satu daripada ${form.chapters.length} bab.',
-                  style: Theme.of(context).textTheme.bodySmall?.copyWith(
-                    color: AppColors.white,
-                  ),
+                  style: Theme.of(context).textTheme.bodySmall
+                      ?.copyWith(color: AppColors.white),
                 ),
                 const SizedBox(height: AppSpacing.xs),
                 Text(
@@ -240,16 +238,14 @@ class _ChapterCard extends StatelessWidget {
                     const SizedBox(height: AppSpacing.xxs),
                     Text(
                       chapter.title,
-                      style: Theme.of(context).textTheme.titleMedium?.copyWith(
-                        fontWeight: FontWeight.w700,
-                      ),
+                      style: Theme.of(context).textTheme.titleMedium
+                          ?.copyWith(fontWeight: FontWeight.w700),
                     ),
                     const SizedBox(height: AppSpacing.xxs),
                     Text(
                       'Baca nota',
-                      style: Theme.of(context).textTheme.bodySmall?.copyWith(
-                        color: AppColors.textSecondary,
-                      ),
+                      style: Theme.of(context).textTheme.bodySmall
+                          ?.copyWith(color: AppColors.textSecondary),
                     ),
                   ],
                 ),

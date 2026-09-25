@@ -6,7 +6,6 @@ import 'package:notaku_sejarah_v2/features/notes/data/note_content_repository.da
 import 'package:notaku_sejarah_v2/features/notes/data/note_seed_data.dart';
 import 'package:notaku_sejarah_v2/features/notes/domain/models/note_chapter.dart';
 import 'package:notaku_sejarah_v2/features/notes/domain/models/note_chapter_content.dart';
-import 'package:notaku_sejarah_v2/features/notes/domain/models/note_curriculum.dart';
 import 'package:notaku_sejarah_v2/features/notes/domain/models/note_form.dart';
 import 'package:notaku_sejarah_v2/features/notes/presentation/chapter_list_screen.dart';
 import 'package:notaku_sejarah_v2/features/notes/presentation/note_reader_screen.dart';
@@ -79,7 +78,10 @@ void main() {
     await pumpNotes(tester);
 
     expect(find.text('Nota Sejarah'), findsOneWidget);
-    expect(find.text('KSSM · Kandungan disemak 25 September 2026'), findsOneWidget);
+    expect(
+      find.text('KSSM · Kandungan disemak 25 September 2026'),
+      findsOneWidget,
+    );
     expect(find.text('Tingkatan 1'), findsOneWidget);
     expect(find.text('Tingkatan 2'), findsOneWidget);
     expect(find.text('Tingkatan 3'), findsOneWidget);
@@ -118,7 +120,10 @@ void main() {
 
     expect(find.byKey(const ValueKey('chapter-list-5')), findsOneWidget);
     expect(find.text('Kedaulatan Negara'), findsOneWidget);
-    expect(find.text('Kecemerlangan Malaysia di Persada Dunia'), findsOneWidget);
+    expect(
+      find.text('Kecemerlangan Malaysia di Persada Dunia'),
+      findsOneWidget,
+    );
     expect(tester.takeException(), isNull);
   });
 
@@ -135,7 +140,10 @@ void main() {
     expect(find.byKey(const ValueKey('chapter-list-1')), findsNothing);
     expect(find.byKey(const ValueKey('chapter-list-5')), findsOneWidget);
     expect(find.text('Kedaulatan Negara'), findsOneWidget);
-    expect(find.text('Kecemerlangan Malaysia di Persada Dunia'), findsOneWidget);
+    expect(
+      find.text('Kecemerlangan Malaysia di Persada Dunia'),
+      findsOneWidget,
+    );
     expect(tester.takeException(), isNull);
   });
 
@@ -162,10 +170,7 @@ void main() {
     await tester.tap(find.byKey(const ValueKey('note-chapter-8')));
     await tester.pump();
 
-    expect(
-      selectedChapter?.contentAsset,
-      'assets/notes/kssm_2026/t1_b08.json',
-    );
+    expect(selectedChapter?.contentAsset, 'assets/notes/kssm_2026/t1_b08.json');
     expect(tester.takeException(), isNull);
   });
 
@@ -194,7 +199,10 @@ void main() {
     expect(find.byKey(const ValueKey('note-section-1.1')), findsOneWidget);
     expect(find.byKey(const ValueKey('note-key-facts')), findsOneWidget);
     expect(find.byKey(const ValueKey('note-summary')), findsOneWidget);
-    expect(find.text('Kandungan KSSM · Versi 2026.1 · Semakan 2026-09-25'), findsOneWidget);
+    expect(
+      find.text('Kandungan KSSM · Versi 2026.1 · Semakan 2026-09-25'),
+      findsOneWidget,
+    );
     expect(tester.takeException(), isNull);
   });
 
@@ -250,32 +258,33 @@ void main() {
     expect(tester.takeException(), isNull);
   });
 
-  testWidgets('native reader uses expanded table of contents on tablet landscape', (
-    tester,
-  ) async {
-    await setSurface(tester, size: const Size(1180, 820));
-    final form = noteForms[3];
-    final chapter = form.chapters[8];
+  testWidgets(
+    'native reader uses expanded table of contents on tablet landscape',
+    (tester) async {
+      await setSurface(tester, size: const Size(1180, 820));
+      final form = noteForms[3];
+      final chapter = form.chapters[8];
 
-    await tester.pumpWidget(
-      MaterialApp(
-        home: NoteReaderScreen(
-          form: form,
-          chapter: chapter,
-          repository: _StaticRepository(_sampleContent(form, chapter)),
+      await tester.pumpWidget(
+        MaterialApp(
+          home: NoteReaderScreen(
+            form: form,
+            chapter: chapter,
+            repository: _StaticRepository(_sampleContent(form, chapter)),
+          ),
         ),
-      ),
-    );
-    await tester.pumpAndSettle();
+      );
+      await tester.pumpAndSettle();
 
-    expect(
-      find.byKey(const ValueKey('native-note-reader-expanded')),
-      findsOneWidget,
-    );
-    expect(find.text('Kandungan Bab'), findsOneWidget);
-    expect(find.byKey(const ValueKey('native-note-reader')), findsOneWidget);
-    expect(tester.takeException(), isNull);
-  });
+      expect(
+        find.byKey(const ValueKey('native-note-reader-expanded')),
+        findsOneWidget,
+      );
+      expect(find.text('Kandungan Bab'), findsOneWidget);
+      expect(find.byKey(const ValueKey('native-note-reader')), findsOneWidget);
+      expect(tester.takeException(), isNull);
+    },
+  );
 }
 
 NoteChapterContent _sampleContent(NoteForm form, NoteChapter chapter) {

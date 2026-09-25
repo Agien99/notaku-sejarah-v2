@@ -138,11 +138,7 @@ class _CompactReader extends StatelessWidget {
   Widget build(BuildContext context) {
     return SingleChildScrollView(
       key: const ValueKey('native-note-reader'),
-      child: _ReaderContent(
-        form: form,
-        chapter: chapter,
-        content: content,
-      ),
+      child: _ReaderContent(form: form, chapter: chapter, content: content),
     );
   }
 }
@@ -320,10 +316,8 @@ class _HeroChip extends StatelessWidget {
       ),
       child: Text(
         label,
-        style: Theme.of(context).textTheme.labelMedium?.copyWith(
-          color: AppColors.navy,
-          fontWeight: FontWeight.w800,
-        ),
+        style: Theme.of(context).textTheme.labelMedium
+            ?.copyWith(color: AppColors.navy, fontWeight: FontWeight.w800),
       ),
     );
   }
@@ -366,10 +360,7 @@ class _KeywordSection extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          const _SectionHeading(
-            icon: Icons.key_rounded,
-            title: 'Kata Kunci',
-          ),
+          const _SectionHeading(icon: Icons.key_rounded, title: 'Kata Kunci'),
           const SizedBox(height: AppSpacing.sm),
           Wrap(
             spacing: AppSpacing.xs,
@@ -411,10 +402,8 @@ class _SectionCard extends StatelessWidget {
           const SizedBox(height: AppSpacing.xxs),
           Text(
             section.title,
-            style: Theme.of(context).textTheme.titleLarge?.copyWith(
-              color: AppColors.navy,
-              fontWeight: FontWeight.w800,
-            ),
+            style: Theme.of(context).textTheme.titleLarge
+                ?.copyWith(color: AppColors.navy, fontWeight: FontWeight.w800),
           ),
           const SizedBox(height: AppSpacing.sm),
           Text(
@@ -506,10 +495,8 @@ class _SummaryCard extends StatelessWidget {
                 Expanded(
                   child: Text(
                     item,
-                    style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-                      color: AppColors.white,
-                      height: 1.5,
-                    ),
+                    style: Theme.of(context).textTheme.bodyMedium
+                        ?.copyWith(color: AppColors.white, height: 1.5),
                   ),
                 ),
               ],
@@ -561,9 +548,8 @@ class _TableOfContents extends StatelessWidget {
               const SizedBox(height: AppSpacing.lg),
               Text(
                 'Kandungan Bab',
-                style: Theme.of(context).textTheme.titleSmall?.copyWith(
-                  fontWeight: FontWeight.w800,
-                ),
+                style: Theme.of(context).textTheme.titleSmall
+                    ?.copyWith(fontWeight: FontWeight.w800),
               ),
               const SizedBox(height: AppSpacing.sm),
               for (final section in content.sections)
@@ -574,18 +560,18 @@ class _TableOfContents extends StatelessWidget {
                     children: [
                       Text(
                         section.id,
-                        style: Theme.of(context).textTheme.labelMedium?.copyWith(
-                          color: AppColors.royalBlue,
-                          fontWeight: FontWeight.w800,
-                        ),
+                        style: Theme.of(context).textTheme.labelMedium
+                            ?.copyWith(
+                              color: AppColors.royalBlue,
+                              fontWeight: FontWeight.w800,
+                            ),
                       ),
                       const SizedBox(width: AppSpacing.xs),
                       Expanded(
                         child: Text(
                           section.title,
-                          style: Theme.of(context).textTheme.bodySmall?.copyWith(
-                            height: 1.4,
-                          ),
+                          style: Theme.of(context).textTheme.bodySmall
+                              ?.copyWith(height: 1.4),
                         ),
                       ),
                     ],
@@ -624,9 +610,8 @@ class _ReviewStamp extends StatelessWidget {
       'Kandungan $curriculum · Versi $contentVersion · Semakan $reviewedOn',
       key: const ValueKey('note-review-stamp'),
       textAlign: TextAlign.center,
-      style: Theme.of(context).textTheme.bodySmall?.copyWith(
-        color: AppColors.textSecondary,
-      ),
+      style: Theme.of(context).textTheme.bodySmall
+          ?.copyWith(color: AppColors.textSecondary),
     );
   }
 }
@@ -669,10 +654,8 @@ class _SectionHeading extends StatelessWidget {
         Expanded(
           child: Text(
             title,
-            style: Theme.of(context).textTheme.titleMedium?.copyWith(
-              color: foreground,
-              fontWeight: FontWeight.w800,
-            ),
+            style: Theme.of(context).textTheme.titleMedium
+                ?.copyWith(color: foreground, fontWeight: FontWeight.w800),
           ),
         ),
       ],
@@ -751,9 +734,8 @@ class _ReaderErrorState extends StatelessWidget {
             const SizedBox(height: AppSpacing.md),
             Text(
               'Nota tidak dapat dibuka',
-              style: Theme.of(context).textTheme.titleLarge?.copyWith(
-                fontWeight: FontWeight.w800,
-              ),
+              style: Theme.of(context).textTheme.titleLarge
+                  ?.copyWith(fontWeight: FontWeight.w800),
             ),
             const SizedBox(height: AppSpacing.xs),
             Text(

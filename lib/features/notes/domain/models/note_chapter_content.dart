@@ -24,9 +24,7 @@ class NoteChapterContent {
       overview: json['overview'] as String,
       keywords: _stringList(json['keywords']),
       sections: (json['sections'] as List<dynamic>)
-          .map(
-            (item) => NoteSection.fromJson(item as Map<String, dynamic>),
-          )
+          .map((item) => NoteSection.fromJson(item as Map<String, dynamic>))
           .toList(growable: false),
       keyFacts: _stringList(json['keyFacts']),
       summary: _stringList(json['summary']),
