@@ -64,6 +64,18 @@ class _NoteReaderScreenState extends State<NoteReaderScreen> {
     });
   }
 
+  void _openChapter(NoteChapter chapter) {
+    Navigator.of(context).pushReplacement(
+      MaterialPageRoute<void>(
+        builder: (_) => NoteReaderScreen(
+          form: widget.form,
+          chapter: chapter,
+          repository: widget.repository,
+        ),
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -105,11 +117,13 @@ class _NoteReaderScreenState extends State<NoteReaderScreen> {
                               form: widget.form,
                               chapter: widget.chapter,
                               content: content,
+                              onChapterSelected: _openChapter,
                             )
                           : _CompactReader(
                               form: widget.form,
                               chapter: widget.chapter,
                               content: content,
+                              onChapterSelected: _openChapter,
                             ),
                     ),
                   ),
@@ -128,17 +142,24 @@ class _CompactReader extends StatelessWidget {
     required this.form,
     required this.chapter,
     required this.content,
+    required this.onChapterSelected,
   });
 
   final NoteForm form;
   final NoteChapter chapter;
   final NoteChapterContent content;
+  final ValueChanged<NoteChapter> onChapterSelected;
 
   @override
   Widget build(BuildContext context) {
     return SingleChildScrollView(
       key: const ValueKey('native-note-reader'),
-      child: _ReaderContent(form: form, chapter: chapter, content: content),
+      child: _ReaderContent(
+        form: form,
+        chapter: chapter,
+        content: content,
+        onChapterSelected: onChapterSelected,
+      ),
     );
   }
 }
@@ -148,11 +169,13 @@ class _ExpandedReader extends StatelessWidget {
     required this.form,
     required this.chapter,
     required this.content,
+    required this.onChapterSelected,
   });
 
   final NoteForm form;
   final NoteChapter chapter;
   final NoteChapterContent content;
+  final ValueChanged<NoteChapter> onChapterSelected;
 
   @override
   Widget build(BuildContext context) {
@@ -177,6 +200,7 @@ class _ExpandedReader extends StatelessWidget {
               chapter: chapter,
               content: content,
               showHeaderMetadata: false,
+              onChapterSelected: onChapterSelected,
             ),
           ),
         ),
@@ -190,12 +214,14 @@ class _ReaderContent extends StatelessWidget {
     required this.form,
     required this.chapter,
     required this.content,
+    required this.onChapterSelected,
     this.showHeaderMetadata = true,
   });
 
   final NoteForm form;
   final NoteChapter chapter;
   final NoteChapterContent content;
+  final ValueChanged<NoteChapter> onChapterSelected;
   final bool showHeaderMetadata;
 
   @override
@@ -232,6 +258,12 @@ class _ReaderContent extends StatelessWidget {
           curriculum: content.curriculum,
           contentVersion: content.contentVersion,
           reviewedOn: content.reviewedOn,
+        ),
+        const SizedBox(height: AppSpacing.lg),
+        _ChapterNavigation(
+          form: form,
+          chapter: chapter,
+          onChapterSelected: onChapterSelected,
         ),
       ],
     );
@@ -612,6 +644,201 @@ class _ReviewStamp extends StatelessWidget {
       textAlign: TextAlign.center,
       style: Theme.of(context).textTheme.bodySmall
           ?.copyWith(color: AppColors.textSecondary),
+    );
+  }
+}
+
+class _ChapterNavigation extends StatelessWidget {
+  const _ChapterNavigation({
+    required this.form,
+    required this.chapter,
+    required this.onChapterSelected,
+  });
+
+  final NoteForm form;
+  final NoteChapter chapter;
+  final ValueChanged<NoteChapter> onChapterSelected;
+
+  @override
+  Widget build(BuildContext context) {
+    final currentIndex = form.chapters.indexWhere(
+          (item) => item.number == chapter.number,
+    );
+
+    if (currentIndex == -1) {
+      return const SizedBox.shrink();
+    }
+
+    final previousChapter = currentIndex > 0
+        ? form.chapters[currentIndex - 1]
+        : null;
+
+    final nextChapter = currentIndex < form.chapters.length - 1
+        ? form.chapters[currentIndex + 1]
+        : null;
+
+    if (previousChapter == null && nextChapter == null) {
+      return const SizedBox.shrink();
+    }
+
+    return LayoutBuilder(
+      builder: (context, constraints) {
+        final stackCards = constraints.maxWidth < 600;
+
+        if (stackCards) {
+          return Column(
+            crossAxisAlignment: CrossAxisAlignment.stretch,
+            children: [
+              if (previousChapter != null)
+                _ChapterNavigationCard(
+                  chapter: previousChapter,
+                  direction: _ChapterNavigationDirection.previous,
+                  onTap: () => onChapterSelected(previousChapter),
+                ),
+              if (previousChapter != null && nextChapter != null)
+                const SizedBox(height: AppSpacing.sm),
+              if (nextChapter != null)
+                _ChapterNavigationCard(
+                  chapter: nextChapter,
+                  direction: _ChapterNavigationDirection.next,
+                  onTap: () => onChapterSelected(nextChapter),
+                ),
+            ],
+          );
+        }
+
+        return Row(
+          crossAxisAlignment: CrossAxisAlignment.stretch,
+          children: [
+            Expanded(
+              child: previousChapter == null
+                  ? const SizedBox.shrink()
+                  : _ChapterNavigationCard(
+                chapter: previousChapter,
+                direction: _ChapterNavigationDirection.previous,
+                onTap: () => onChapterSelected(previousChapter),
+              ),
+            ),
+            if (previousChapter != null && nextChapter != null)
+              const SizedBox(width: AppSpacing.md),
+            Expanded(
+              child: nextChapter == null
+                  ? const SizedBox.shrink()
+                  : _ChapterNavigationCard(
+                chapter: nextChapter,
+                direction: _ChapterNavigationDirection.next,
+                onTap: () => onChapterSelected(nextChapter),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+}
+
+enum _ChapterNavigationDirection {
+  previous,
+  next,
+}
+
+class _ChapterNavigationCard extends StatelessWidget {
+  const _ChapterNavigationCard({
+    required this.chapter,
+    required this.direction,
+    required this.onTap,
+  });
+
+  final NoteChapter chapter;
+  final _ChapterNavigationDirection direction;
+  final VoidCallback onTap;
+
+  bool get _isPrevious =>
+      direction == _ChapterNavigationDirection.previous;
+
+  @override
+  Widget build(BuildContext context) {
+    return Card(
+      margin: EdgeInsets.zero,
+      clipBehavior: Clip.antiAlias,
+      child: InkWell(
+        key: ValueKey(
+          _isPrevious ? 'previous-chapter' : 'next-chapter',
+        ),
+        onTap: onTap,
+        child: Padding(
+          padding: const EdgeInsets.all(AppSpacing.md),
+          child: Row(
+            children: [
+              if (_isPrevious) ...[
+                const Icon(
+                  Icons.arrow_back_rounded,
+                  color: AppColors.royalBlue,
+                ),
+                const SizedBox(width: AppSpacing.sm),
+              ],
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: _isPrevious
+                      ? CrossAxisAlignment.start
+                      : CrossAxisAlignment.end,
+                  children: [
+                    Text(
+                      _isPrevious
+                          ? 'Bab Sebelumnya'
+                          : 'Bab Seterusnya',
+                      textAlign:
+                      _isPrevious ? TextAlign.start : TextAlign.end,
+                      style: Theme.of(context)
+                          .textTheme
+                          .labelMedium
+                          ?.copyWith(
+                        color: AppColors.royalBlue,
+                        fontWeight: FontWeight.w800,
+                      ),
+                    ),
+                    const SizedBox(height: AppSpacing.xxs),
+                    Text(
+                      chapter.label,
+                      textAlign:
+                      _isPrevious ? TextAlign.start : TextAlign.end,
+                      style: Theme.of(context)
+                          .textTheme
+                          .titleMedium
+                          ?.copyWith(
+                        color: AppColors.navy,
+                        fontWeight: FontWeight.w800,
+                      ),
+                    ),
+                    const SizedBox(height: AppSpacing.xxs),
+                    Text(
+                      chapter.title,
+                      textAlign:
+                      _isPrevious ? TextAlign.start : TextAlign.end,
+                      maxLines: 2,
+                      overflow: TextOverflow.ellipsis,
+                      style: Theme.of(context)
+                          .textTheme
+                          .bodySmall
+                          ?.copyWith(
+                        color: AppColors.textSecondary,
+                        height: 1.4,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              if (!_isPrevious) ...[
+                const SizedBox(width: AppSpacing.sm),
+                const Icon(
+                  Icons.arrow_forward_rounded,
+                  color: AppColors.royalBlue,
+                ),
+              ],
+            ],
+          ),
+        ),
+      ),
     );
   }
 }
