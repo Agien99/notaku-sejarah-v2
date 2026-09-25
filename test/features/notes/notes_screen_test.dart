@@ -115,7 +115,6 @@ void main() {
     await pumpNotes(tester);
 
     await tester.ensureVisible(find.byKey(const ValueKey('note-form-5')));
-    await tester.ensureVisible(find.byKey(const ValueKey('note-form-5')));
     await tester.tap(find.byKey(const ValueKey('note-form-5')));
     await tester.pumpAndSettle();
 
@@ -135,6 +134,7 @@ void main() {
 
     expect(find.byKey(const ValueKey('chapter-list-1')), findsOneWidget);
 
+    await tester.ensureVisible(find.byKey(const ValueKey('note-form-5')));
     await tester.tap(find.byKey(const ValueKey('note-form-5')));
     await tester.pumpAndSettle();
 
