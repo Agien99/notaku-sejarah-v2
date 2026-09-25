@@ -1,88 +1,111 @@
 # Phase 3 — Nota
 
-Phase 3 implements the complete Nota learning flow:
+Phase 3 implements the complete native Nota learning flow:
 
-`Nota → Tingkatan → Bab → Reader`
+`Nota → Tingkatan → Bab → Native Note Reader`
 
-## 3.1 Data and repository
+## Curriculum snapshot
 
-- `NoteForm` and `NoteChapter` domain models.
-- Local/offline-first repository.
-- Chapter metadata includes the printed textbook page and physical PDF page.
-- Tingkatan 1–3 are available.
-- Tingkatan 4–5 remain **Akan Datang**.
+The content in this phase is versioned as:
 
-## 3.2 Nota landing
+- Curriculum: **KSSM**
+- Effective school session: **2026**
+- Content version: **2026.1**
+- Reviewed: **25 September 2026**
 
-- Responsive Tingkatan cards.
-- Compact phone layout uses one column.
-- Medium/tablet portrait uses two columns.
-- Expanded/tablet landscape uses a Tingkatan + chapter master-detail layout.
+The content model deliberately separates curriculum metadata from the reader.
+This prevents future Kurikulum Persekolahan 2027 content from silently replacing
+the KSSM material used by the 2026 cohort.
 
-## 3.3 Chapter list
+## Coverage
 
-- KSSM chapter list for Tingkatan 1–3.
-- Each chapter displays its printed textbook page.
-- Chapter selection opens the reader at the mapped physical PDF page.
+All five secondary forms are included:
 
-## 3.4 Reader
+| Form | Chapters |
+| --- | ---: |
+| Tingkatan 1 | 8 |
+| Tingkatan 2 | 10 |
+| Tingkatan 3 | 8 |
+| Tingkatan 4 | 10 |
+| Tingkatan 5 | 10 |
+| **Total** | **46** |
 
-- `pdfrx` asset reader for Android and Web.
-- Direct chapter opening through `initialPageNumber`.
-- Reading surface fills compact layouts and is width-limited on wide screens.
-- Loading, unavailable, and load-error states.
-- Retry action for PDF load failures.
-- Bounded PDF rendering cache for the large offline documents.
+Every chapter is stored as a small local JSON asset under:
 
-## 3.5 Offline content migration
+`assets/notes/kssm_2026/`
 
-The original V1 PDFs are Git LFS objects in `Agien99/Notaku_Sejarah`.
+The app does not bundle the original large V1 textbook PDFs.
 
-V2 keeps those PDFs offline without committing another copy of the large
-binaries into the new repository:
+## Native content model
 
-- `scripts/sync_note_assets.sh` synchronizes them on Linux/macOS/CI.
-- `scripts/sync_note_assets.ps1` provides the Windows workflow.
-- SHA-256 verification rejects Git LFS pointer files and corrupted downloads.
-- Generated PDFs live under `assets/notes/` and are ignored by Git.
-- Android and Web CI synchronize and verify all three PDFs before building.
+Each chapter contains:
 
-### Local setup
+- overview;
+- keywords;
+- structured subtopics;
+- concise bullet-point explanations;
+- key facts;
+- chapter summary;
+- curriculum, version and review metadata.
 
-Windows PowerShell:
+The notes are revision-oriented summaries rather than page-for-page copies of
+the textbooks.
 
-```powershell
-powershell -ExecutionPolicy Bypass -File scripts/sync_note_assets.ps1
-flutter pub get
-flutter run
-```
+## Responsive experience
 
-Git Bash/Linux/macOS:
+### Compact phone
 
-```bash
-bash scripts/sync_note_assets.sh
-flutter pub get
-flutter run
-```
+- single reading column;
+- chapter hero;
+- overview;
+- keyword chips;
+- subtopic cards;
+- key-fact callout;
+- chapter summary.
 
-Git and Git LFS are required for the first synchronization. Verified local PDFs
-are reused on later runs.
+### Medium / tablet portrait
 
-## 3.6 Responsive and state behavior
+- same reading sequence with wider spacing and content width.
 
-- Phone portrait and landscape.
-- Tablet portrait.
-- Tablet landscape/expanded master-detail.
-- Reader capped at 1120px on wide screens.
-- Explicit loading, unavailable, and error/retry states.
+### Expanded / tablet landscape
 
-## 3.7 Quality gates
+- chapter table of contents on the left;
+- independently scrollable reading content on the right.
+
+## Data integrity
+
+`AssetNoteContentRepository` loads and parses chapter JSON assets.
+
+The reader validates that loaded content matches:
+
+- Tingkatan;
+- chapter number;
+- chapter title;
+- curriculum code;
+- content version.
+
+A mismatch is treated as a content error rather than displaying the wrong note.
+
+## States
+
+The native reader includes:
+
+- loading state;
+- error state;
+- retry action;
+- successful structured-content state.
+
+## Quality gates
 
 Phase 3 is complete only when CI passes:
 
 - Dart formatting;
 - Flutter analyze;
-- widget tests;
+- all 46 JSON assets parse successfully;
+- metadata validation tests;
+- compact navigation tests;
+- Tingkatan 4 and Tingkatan 5 tests;
+- native reader tests;
+- tablet landscape tests;
 - Android debug APK build and identity verification;
-- Flutter Web release build;
-- verified offline PDF synchronization.
+- Flutter Web release build.
