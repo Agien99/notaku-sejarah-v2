@@ -9,9 +9,7 @@ class UtamaScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return const Column(
       crossAxisAlignment: CrossAxisAlignment.stretch,
-      children: [
-        UtamaHeader(),
-      ],
+      children: [UtamaHeader()],
     );
   }
 }
