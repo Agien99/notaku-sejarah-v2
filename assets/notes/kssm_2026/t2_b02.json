@@ -1,0 +1,69 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.1",
+  "reviewedOn": "2026-09-25",
+  "form": 2,
+  "chapter": 2,
+  "title": "Sistem Pemerintahan dan Kegiatan Ekonomi Masyarakat Kerajaan Alam Melayu",
+  "overview": "Bab ini menerangkan cara kerajaan Alam Melayu ditadbir dan bagaimana pertanian, perdagangan, hasil hutan, laut, perlombongan serta pembuatan menyokong ekonomi.",
+  "keywords": [
+    "pemerintahan beraja",
+    "pertanian",
+    "perdagangan",
+    "hasil hutan",
+    "perlombongan",
+    "pelabuhan"
+  ],
+  "sections": [
+    {
+      "id": "2.1",
+      "title": "Sistem Pemerintahan",
+      "intro": "Kebanyakan kerajaan Alam Melayu menggunakan pemerintahan beraja dengan struktur pentadbiran yang membantu pemerintah.",
+      "points": [
+        "Raja menjadi pusat pemerintahan dan lambang kerajaan.",
+        "Pembesar membantu urusan pentadbiran, keselamatan, kutipan hasil dan pengurusan wilayah.",
+        "Struktur pemerintahan berbeza mengikut kerajaan tetapi mempunyai tujuan yang sama, iaitu mengekalkan aturan dan kestabilan."
+      ]
+    },
+    {
+      "id": "2.2",
+      "title": "Pertanian",
+      "intro": "Pertanian menjadi asas kehidupan dan ekonomi banyak kerajaan.",
+      "points": [
+        "Padi merupakan tanaman penting di kawasan yang sesuai.",
+        "Rempah dan tanaman lain turut diusahakan untuk kegunaan tempatan dan perdagangan.",
+        "Sistem pengairan meningkatkan hasil pertanian di kerajaan tertentu."
+      ]
+    },
+    {
+      "id": "2.3",
+      "title": "Perdagangan",
+      "intro": "Kedudukan Alam Melayu di laluan perdagangan menjadikannya tempat pertemuan pedagang.",
+      "points": [
+        "Pelabuhan menerima pedagang tempatan dan luar.",
+        "Barangan tempatan ditukar dengan barangan dari China, India dan kawasan lain.",
+        "Pemerintah menyediakan kemudahan serta keselamatan bagi menggalakkan perdagangan."
+      ]
+    },
+    {
+      "id": "2.4",
+      "title": "Sumber dan Pembuatan",
+      "intro": "Masyarakat memanfaatkan sumber alam untuk keperluan dan pertukaran.",
+      "points": [
+        "Hasil hutan dan laut menjadi barangan penting.",
+        "Perlombongan menghasilkan bahan seperti emas dan bijih tertentu.",
+        "Kemahiran pembuatan menghasilkan barangan logam, tembikar dan produk kegunaan harian."
+      ]
+    }
+  ],
+  "keyFacts": [
+    "Pemerintahan beraja disokong pembesar dan pentadbiran wilayah.",
+    "Pertanian dan perdagangan saling melengkapi ekonomi Alam Melayu.",
+    "Sumber alam dimanfaatkan melalui pengumpulan, perlombongan dan pembuatan."
+  ],
+  "summary": [
+    "Kerajaan Alam Melayu mempunyai sistem pemerintahan yang tersusun.",
+    "Ekonomi berasaskan pertanian, perdagangan dan sumber alam.",
+    "Kedudukan strategik mengukuhkan hubungan ekonomi serantau."
+  ]
+}

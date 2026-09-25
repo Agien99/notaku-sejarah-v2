@@ -1,0 +1,68 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.1",
+  "reviewedOn": "2026-09-25",
+  "form": 2,
+  "chapter": 10,
+  "title": "Sarawak dan Sabah",
+  "overview": "Bab ini menerangkan kedudukan Sarawak dan Sabah dalam Alam Melayu, bentuk pemerintahan tempatan, kegiatan masyarakat dan keunikan budaya serta alam sekitar.",
+  "keywords": [
+    "Sarawak",
+    "Sabah",
+    "pemerintahan tempatan",
+    "sungai",
+    "pedalaman",
+    "kepelbagaian"
+  ],
+  "sections": [
+    {
+      "id": "10.1",
+      "title": "Sarawak dan Sabah dalam Alam Melayu",
+      "intro": "Sarawak dan Sabah mempunyai hubungan dengan jaringan politik, ekonomi dan budaya Alam Melayu.",
+      "points": [
+        "Hubungan perdagangan menghubungkan kawasan pesisir dengan Brunei, Kepulauan Sulu dan wilayah lain.",
+        "Sungai serta laut menjadi laluan penting pergerakan manusia dan barangan."
+      ]
+    },
+    {
+      "id": "10.2",
+      "title": "Pemerintahan Tempatan",
+      "intro": "Pemerintahan tempatan berkembang mengikut kawasan dan kelompok masyarakat.",
+      "points": [
+        "Di Sarawak, bentuk kepimpinan tempatan berbeza antara kawasan pesisir, sungai dan pedalaman.",
+        "Di Sabah, ketua tempatan dan hubungan dengan kuasa serantau memainkan peranan penting.",
+        "Struktur pemerintahan menyesuaikan diri dengan geografi serta masyarakat setempat."
+      ]
+    },
+    {
+      "id": "10.3",
+      "title": "Kegiatan Masyarakat",
+      "intro": "Masyarakat memanfaatkan alam mengikut lokasi tempat tinggal.",
+      "points": [
+        "Pertanian, hasil hutan, perikanan dan perdagangan menjadi kegiatan utama.",
+        "Sungai dan laut penting untuk pengangkutan serta pertukaran barangan.",
+        "Kemahiran tempatan berkembang berdasarkan sumber yang tersedia."
+      ]
+    },
+    {
+      "id": "10.4",
+      "title": "Keunikan Sarawak dan Sabah",
+      "intro": "Kepelbagaian etnik, bahasa, adat dan seni memperkayakan warisan kedua-dua wilayah.",
+      "points": [
+        "Rumah, pakaian, kraftangan dan upacara mencerminkan identiti masyarakat.",
+        "Pengetahuan tentang alam membantu kelangsungan hidup.",
+        "Permuafakatan masyarakat penting dalam pengurusan komuniti."
+      ]
+    }
+  ],
+  "keyFacts": [
+    "Sarawak dan Sabah ialah sebahagian daripada jaringan sejarah Alam Melayu.",
+    "Geografi sungai, pesisir dan pedalaman mempengaruhi pemerintahan serta ekonomi.",
+    "Kepelbagaian masyarakat menjadi kekuatan warisan budaya."
+  ],
+  "summary": [
+    "Sarawak dan Sabah mempunyai hubungan serantau yang panjang.",
+    "Pemerintahan serta ekonomi berkembang mengikut alam dan komuniti.",
+    "Kepelbagaian budaya menjadi unsur penting sejarah Malaysia."
+  ]
+}

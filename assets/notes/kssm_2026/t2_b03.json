@@ -1,0 +1,66 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.1",
+  "reviewedOn": "2026-09-25",
+  "form": 2,
+  "chapter": 3,
+  "title": "Sosiobudaya Masyarakat Kerajaan Alam Melayu",
+  "overview": "Bab ini meneliti bahasa, tulisan, persuratan, seni bina dan struktur sosial yang mencerminkan perkembangan kebudayaan masyarakat Alam Melayu.",
+  "keywords": [
+    "bahasa",
+    "tulisan",
+    "persuratan",
+    "seni bina",
+    "struktur sosial",
+    "warisan"
+  ],
+  "sections": [
+    {
+      "id": "3.1",
+      "title": "Bahasa dan Tulisan",
+      "intro": "Bahasa menjadi alat komunikasi, pentadbiran dan penyebaran ilmu.",
+      "points": [
+        "Pengaruh bahasa serantau dan bahasa luar dapat dilihat pada istilah serta tulisan yang digunakan.",
+        "Tulisan berkembang untuk tujuan keagamaan, pentadbiran dan peringatan sejarah."
+      ]
+    },
+    {
+      "id": "3.2",
+      "title": "Persuratan",
+      "intro": "Persuratan menunjukkan kewujudan tradisi ilmu dan penyimpanan maklumat.",
+      "points": [
+        "Inskripsi dan karya bertulis memberi bukti tentang pemerintahan, agama dan masyarakat.",
+        "Bahasa persuratan berubah mengikut perkembangan politik dan agama."
+      ]
+    },
+    {
+      "id": "3.3",
+      "title": "Seni Bina",
+      "intro": "Seni bina mencerminkan teknologi, kepercayaan dan keupayaan organisasi masyarakat.",
+      "points": [
+        "Candi, kompleks keagamaan dan binaan awam memerlukan kemahiran serta tenaga kerja terancang.",
+        "Angkor Wat dan Borobudur sering dikaji sebagai contoh pencapaian seni bina rantau."
+      ]
+    },
+    {
+      "id": "3.4",
+      "title": "Struktur Sosial",
+      "intro": "Masyarakat tersusun dalam kelompok dengan peranan berbeza.",
+      "points": [
+        "Golongan pemerintah dan pembesar mengurus kerajaan.",
+        "Rakyat menjalankan pertanian, perdagangan, pertukangan dan tugas lain.",
+        "Struktur sosial membantu pembahagian tanggungjawab dalam masyarakat."
+      ]
+    }
+  ],
+  "keyFacts": [
+    "Bahasa dan tulisan menjadi sumber penting sejarah.",
+    "Seni bina menunjukkan kemajuan teknologi dan organisasi.",
+    "Struktur sosial membantu kerajaan berfungsi secara teratur."
+  ],
+  "summary": [
+    "Sosiobudaya Alam Melayu berkembang melalui bahasa, tulisan dan persuratan.",
+    "Seni bina menjadi bukti pencapaian masyarakat.",
+    "Peranan sosial yang berbeza menyokong kestabilan kerajaan."
+  ]
+}

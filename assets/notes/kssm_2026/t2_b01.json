@@ -1,0 +1,67 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.1",
+  "reviewedOn": "2026-09-25",
+  "form": 2,
+  "chapter": 1,
+  "title": "Kerajaan Alam Melayu",
+  "overview": "Bab ini memperkenalkan konsep Alam Melayu, kewujudan kerajaan awal yang masyhur dan hubungan mereka dengan kerajaan luar yang sezaman.",
+  "keywords": [
+    "Alam Melayu",
+    "Funan",
+    "Champa",
+    "Srivijaya",
+    "Angkor",
+    "Majapahit"
+  ],
+  "sections": [
+    {
+      "id": "1.1",
+      "title": "Konsep Alam Melayu",
+      "intro": "Alam Melayu boleh difahami melalui persamaan geografi, bahasa dan budaya di rantau Asia Tenggara.",
+      "points": [
+        "Kawasan ini merangkumi kepulauan dan tanah besar Asia Tenggara yang mempunyai hubungan rapat sejak dahulu.",
+        "Bahasa serumpun dan persamaan budaya menunjukkan wujud hubungan antara masyarakat rantau ini."
+      ]
+    },
+    {
+      "id": "1.2",
+      "title": "Kewujudan Kerajaan Alam Melayu",
+      "intro": "Kerajaan awal muncul di lokasi strategik yang mempunyai sumber, laluan sungai atau hubungan perdagangan.",
+      "points": [
+        "Antara kerajaan yang dikaji ialah Funan, Champa, Srivijaya, Angkor, Majapahit, Kedah Tua dan Gangga Negara.",
+        "Perkembangan kerajaan dipengaruhi kepimpinan, ekonomi, kedudukan dan hubungan luar."
+      ]
+    },
+    {
+      "id": "1.3",
+      "title": "Kerajaan yang Masyhur",
+      "intro": "Sesetengah kerajaan mencapai pengaruh luas dalam perdagangan, politik atau kebudayaan.",
+      "points": [
+        "Srivijaya terkenal sebagai kuasa maritim dan pusat perdagangan.",
+        "Angkor berkembang melalui pertanian dan sistem pengairan.",
+        "Majapahit mempunyai pengaruh politik dan jaringan perdagangan yang luas."
+      ]
+    },
+    {
+      "id": "1.4",
+      "title": "Hubungan dengan Dunia Luar",
+      "intro": "Kerajaan Alam Melayu tidak berkembang secara terasing.",
+      "points": [
+        "Hubungan perdagangan menghubungkan rantau ini dengan India, China dan kawasan lain.",
+        "Hubungan diplomatik membantu keselamatan, perdagangan dan pengiktirafan.",
+        "Pertukaran budaya dan agama berlaku melalui jaringan ini."
+      ]
+    }
+  ],
+  "keyFacts": [
+    "Alam Melayu ialah ruang geografi dan budaya yang saling berkait.",
+    "Kedudukan strategik membantu kemajuan kerajaan.",
+    "Hubungan luar penting kepada perdagangan dan diplomasi."
+  ],
+  "summary": [
+    "Kerajaan Alam Melayu berkembang di rantau yang mempunyai hubungan geografi, bahasa dan budaya.",
+    "Funan, Champa, Srivijaya, Angkor, Majapahit, Kedah Tua dan Gangga Negara ialah contoh penting.",
+    "Hubungan perdagangan dan diplomatik menghubungkan Alam Melayu dengan dunia luar."
+  ]
+}

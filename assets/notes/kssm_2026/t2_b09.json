@@ -1,0 +1,67 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.1",
+  "reviewedOn": "2026-09-25",
+  "form": 2,
+  "chapter": 9,
+  "title": "Warisan Kerajaan Kedah, Kelantan, Negeri Sembilan dan Perlis",
+  "overview": "Bab ini meneliti warisan pemerintahan, adat, undang-undang, persuratan dan kesenian empat kerajaan serta keunikan Adat Perpatih dan pemerintahan Negeri Sembilan.",
+  "keywords": [
+    "warisan",
+    "Adat Perpatih",
+    "Undang",
+    "Yamtuan Besar",
+    "persuratan",
+    "kesenian"
+  ],
+  "sections": [
+    {
+      "id": "9.1",
+      "title": "Sistem Pemerintahan Beraja",
+      "intro": "Institusi beraja menjadi unsur utama kesinambungan politik negeri.",
+      "points": [
+        "Raja atau sultan menjadi lambang pemerintahan dan identiti negeri.",
+        "Pembesar dan institusi tempatan membantu pentadbiran."
+      ]
+    },
+    {
+      "id": "9.2",
+      "title": "Adat, Undang-undang dan Persuratan",
+      "intro": "Warisan bukan hanya berbentuk institusi politik tetapi juga aturan sosial dan budaya.",
+      "points": [
+        "Adat istiadat menentukan tatacara kehidupan serta upacara tertentu.",
+        "Undang-undang membantu mengawal masyarakat.",
+        "Persuratan merekodkan sejarah, salasilah, hukum dan budaya."
+      ]
+    },
+    {
+      "id": "9.3",
+      "title": "Kesenian",
+      "intro": "Kesenian tempatan memperlihatkan identiti masyarakat dan kemahiran yang diwarisi.",
+      "points": [
+        "Seni persembahan, kraftangan dan seni bina berkembang mengikut tradisi negeri.",
+        "Warisan kesenian menjadi sumber penting identiti budaya."
+      ]
+    },
+    {
+      "id": "9.4",
+      "title": "Keunikan Negeri Sembilan",
+      "intro": "Adat Perpatih membentuk struktur masyarakat dan pemerintahan yang tersendiri.",
+      "points": [
+        "Sistem berasaskan suku dan luak memberi peranan kepada pemimpin adat.",
+        "Undang memilih Yamtuan Besar melalui proses yang berbeza daripada sistem pewarisan mutlak.",
+        "Musyawarah menjadi unsur penting dalam tradisi pemerintahan."
+      ]
+    }
+  ],
+  "keyFacts": [
+    "Warisan merangkumi politik, undang-undang dan budaya.",
+    "Adat Perpatih memberi identiti khusus kepada Negeri Sembilan.",
+    "Persuratan dan kesenian membantu memelihara memori sejarah."
+  ],
+  "summary": [
+    "Warisan kerajaan Melayu terus hidup melalui institusi dan budaya.",
+    "Negeri Sembilan mempunyai struktur adat yang unik.",
+    "Pemeliharaan warisan membantu memahami identiti negeri dan negara."
+  ]
+}
