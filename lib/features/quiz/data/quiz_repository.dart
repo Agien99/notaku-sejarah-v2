@@ -67,7 +67,9 @@ class QuizRepository {
         );
       }
       if (question.options.length < 2) {
-        throw QuizDataException('${question.id} requires at least two options.');
+        throw QuizDataException(
+          '${question.id} requires at least two options.',
+        );
       }
 
       final optionIds = <String>{};
