@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 1,
+  "chapter": 7,
+  "title": "Peningkatan Tamadun India dan China",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t1_b07.json",
+  "questions": [
+    {
+      "id": "t1-b07-q001",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Kenal pasti tokoh.\n\nPengasas empayar Maurya di India.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chandragupta Maurya"
+        },
+        {
+          "id": "B",
+          "text": "Asoka"
+        },
+        {
+          "id": "C",
+          "text": "Confucius"
+        },
+        {
+          "id": "D",
+          "text": "Qin Shi Huang"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Chandragupta Maurya: Pengasas empayar Maurya di India.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q002",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Kenal pasti tokoh.\n\nPemerintah Maurya yang berubah pendekatan selepas Perang Kalinga.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chandragupta Maurya"
+        },
+        {
+          "id": "B",
+          "text": "Asoka"
+        },
+        {
+          "id": "C",
+          "text": "Confucius"
+        },
+        {
+          "id": "D",
+          "text": "Qin Shi Huang"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Asoka: Pemerintah Maurya yang berubah pendekatan selepas Perang Kalinga.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q003",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Kenal pasti tokoh.\n\nTokoh China yang menekankan etika dan tanggungjawab sosial.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chandragupta Maurya"
+        },
+        {
+          "id": "B",
+          "text": "Asoka"
+        },
+        {
+          "id": "C",
+          "text": "Confucius"
+        },
+        {
+          "id": "D",
+          "text": "Qin Shi Huang"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Confucius: Tokoh China yang menekankan etika dan tanggungjawab sosial.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q004",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Kenal pasti tokoh.\n\nPemerintah yang menyatukan China di bawah dinasti Qin.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chandragupta Maurya"
+        },
+        {
+          "id": "B",
+          "text": "Asoka"
+        },
+        {
+          "id": "C",
+          "text": "Confucius"
+        },
+        {
+          "id": "D",
+          "text": "Qin Shi Huang"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Qin Shi Huang: Pemerintah yang menyatukan China di bawah dinasti Qin.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q005",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Padankan istilah politik.\n\nWilayah luas di bawah pemerintahan sebuah kuasa utama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dinasti"
+        },
+        {
+          "id": "B",
+          "text": "Birokrasi"
+        },
+        {
+          "id": "C",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "D",
+          "text": "Empayar"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Empayar: Wilayah luas di bawah pemerintahan sebuah kuasa utama.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q006",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Padankan istilah politik.\n\nSusur galur keluarga pemerintah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dinasti"
+        },
+        {
+          "id": "B",
+          "text": "Birokrasi"
+        },
+        {
+          "id": "C",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "D",
+          "text": "Empayar"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Dinasti: Susur galur keluarga pemerintah.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q007",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Padankan istilah politik.\n\nSistem pegawai yang mengurus pentadbiran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dinasti"
+        },
+        {
+          "id": "B",
+          "text": "Birokrasi"
+        },
+        {
+          "id": "C",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "D",
+          "text": "Empayar"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Birokrasi: Sistem pegawai yang mengurus pentadbiran.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q008",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Padankan istilah politik.\n\nHubungan dan perundingan antara pemerintah atau negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dinasti"
+        },
+        {
+          "id": "B",
+          "text": "Birokrasi"
+        },
+        {
+          "id": "C",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "D",
+          "text": "Empayar"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Diplomasi: Hubungan dan perundingan antara pemerintah atau negara.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q009",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Apakah cara perluasan pengaruh?\n\nTentera digunakan untuk menakluk kawasan baharu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penyebaran agama"
+        },
+        {
+          "id": "B",
+          "text": "Pentadbiran wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Ketenteraan"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan diplomatik"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Ketenteraan: Tentera digunakan untuk menakluk kawasan baharu.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q010",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Apakah cara perluasan pengaruh?\n\nRundingan membina hubungan dengan kerajaan lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penyebaran agama"
+        },
+        {
+          "id": "B",
+          "text": "Pentadbiran wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Ketenteraan"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan diplomatik"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Hubungan diplomatik: Rundingan membina hubungan dengan kerajaan lain.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q011",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Apakah cara perluasan pengaruh?\n\nAjaran dibawa oleh pendakwah ke masyarakat lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penyebaran agama"
+        },
+        {
+          "id": "B",
+          "text": "Pentadbiran wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Ketenteraan"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan diplomatik"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Penyebaran agama: Ajaran dibawa oleh pendakwah ke masyarakat lain.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q012",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Apakah cara perluasan pengaruh?\n\nPegawai ditempatkan untuk mengurus kawasan yang dikuasai.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penyebaran agama"
+        },
+        {
+          "id": "B",
+          "text": "Pentadbiran wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Ketenteraan"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan diplomatik"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pentadbiran wilayah: Pegawai ditempatkan untuk mengurus kawasan yang dikuasai.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q013",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Padankan keperluan empayar.\n\nPertahanan melindungi penduduk dan sempadan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pegawai cekap"
+        },
+        {
+          "id": "B",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "C",
+          "text": "Hasil kerajaan"
+        },
+        {
+          "id": "D",
+          "text": "Perhubungan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Keselamatan: Pertahanan melindungi penduduk dan sempadan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q014",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Padankan keperluan empayar.\n\nKutipan sumber membiayai urusan pemerintahan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pegawai cekap"
+        },
+        {
+          "id": "B",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "C",
+          "text": "Hasil kerajaan"
+        },
+        {
+          "id": "D",
+          "text": "Perhubungan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Hasil kerajaan: Kutipan sumber membiayai urusan pemerintahan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q015",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Padankan keperluan empayar.\n\nLaluan membantu arahan sampai ke kawasan jauh.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pegawai cekap"
+        },
+        {
+          "id": "B",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "C",
+          "text": "Hasil kerajaan"
+        },
+        {
+          "id": "D",
+          "text": "Perhubungan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Perhubungan: Laluan membantu arahan sampai ke kawasan jauh.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q016",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Padankan keperluan empayar.\n\nPentadbir berkemahiran melaksanakan tugas dengan teratur.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pegawai cekap"
+        },
+        {
+          "id": "B",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "C",
+          "text": "Hasil kerajaan"
+        },
+        {
+          "id": "D",
+          "text": "Perhubungan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pegawai cekap: Pentadbir berkemahiran melaksanakan tugas dengan teratur.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q017",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Kenal pasti aspek perubahan Asoka.\n\nPerang Kalinga menjadi titik perubahan penting pemerintahannya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengalaman peperangan"
+        },
+        {
+          "id": "B",
+          "text": "Penekanan moral"
+        },
+        {
+          "id": "C",
+          "text": "Penyebaran Buddha"
+        },
+        {
+          "id": "D",
+          "text": "Keamanan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pengalaman peperangan: Perang Kalinga menjadi titik perubahan penting pemerintahannya.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q018",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Kenal pasti aspek perubahan Asoka.\n\nNilai etika diberi perhatian dalam urusan kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengalaman peperangan"
+        },
+        {
+          "id": "B",
+          "text": "Penekanan moral"
+        },
+        {
+          "id": "C",
+          "text": "Penyebaran Buddha"
+        },
+        {
+          "id": "D",
+          "text": "Keamanan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Penekanan moral: Nilai etika diberi perhatian dalam urusan kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q019",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Kenal pasti aspek perubahan Asoka.\n\nUtusan membantu membawa ajaran yang disokongnya ke wilayah lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengalaman peperangan"
+        },
+        {
+          "id": "B",
+          "text": "Penekanan moral"
+        },
+        {
+          "id": "C",
+          "text": "Penyebaran Buddha"
+        },
+        {
+          "id": "D",
+          "text": "Keamanan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Penyebaran Buddha: Utusan membantu membawa ajaran yang disokongnya ke wilayah lain.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q020",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Kenal pasti aspek perubahan Asoka.\n\nPendekatan selepas Kalinga mengurangkan penekanan terhadap penaklukan berdarah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengalaman peperangan"
+        },
+        {
+          "id": "B",
+          "text": "Penekanan moral"
+        },
+        {
+          "id": "C",
+          "text": "Penyebaran Buddha"
+        },
+        {
+          "id": "D",
+          "text": "Keamanan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Keamanan: Pendekatan selepas Kalinga mengurangkan penekanan terhadap penaklukan berdarah.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q021",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Apakah fungsi pendidikan China?\n\nGolongan terpelajar disediakan untuk berkhidmat dalam kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mewariskan ilmu"
+        },
+        {
+          "id": "B",
+          "text": "Membentuk etika"
+        },
+        {
+          "id": "C",
+          "text": "Meningkatkan kemahiran menulis"
+        },
+        {
+          "id": "D",
+          "text": "Melahirkan pegawai"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Melahirkan pegawai: Golongan terpelajar disediakan untuk berkhidmat dalam kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q022",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Apakah fungsi pendidikan China?\n\nTeks klasik dipelajari oleh generasi baharu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mewariskan ilmu"
+        },
+        {
+          "id": "B",
+          "text": "Membentuk etika"
+        },
+        {
+          "id": "C",
+          "text": "Meningkatkan kemahiran menulis"
+        },
+        {
+          "id": "D",
+          "text": "Melahirkan pegawai"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Mewariskan ilmu: Teks klasik dipelajari oleh generasi baharu.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q023",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Apakah fungsi pendidikan China?\n\nPelajar diajar tanggungjawab terhadap keluarga dan masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mewariskan ilmu"
+        },
+        {
+          "id": "B",
+          "text": "Membentuk etika"
+        },
+        {
+          "id": "C",
+          "text": "Meningkatkan kemahiran menulis"
+        },
+        {
+          "id": "D",
+          "text": "Melahirkan pegawai"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Membentuk etika: Pelajar diajar tanggungjawab terhadap keluarga dan masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q024",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Apakah fungsi pendidikan China?\n\nLatihan menghasilkan jawapan bertulis menjadi sebahagian pembelajaran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mewariskan ilmu"
+        },
+        {
+          "id": "B",
+          "text": "Membentuk etika"
+        },
+        {
+          "id": "C",
+          "text": "Meningkatkan kemahiran menulis"
+        },
+        {
+          "id": "D",
+          "text": "Melahirkan pegawai"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Meningkatkan kemahiran menulis: Latihan menghasilkan jawapan bertulis menjadi sebahagian pembelajaran.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q025",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Padankan unsur peperiksaan.\n\nIndividu yang menduduki ujian pemilihan pegawai.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penilaian"
+        },
+        {
+          "id": "B",
+          "text": "Kelayakan"
+        },
+        {
+          "id": "C",
+          "text": "Calon"
+        },
+        {
+          "id": "D",
+          "text": "Soalan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Calon: Individu yang menduduki ujian pemilihan pegawai.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q026",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Padankan unsur peperiksaan.\n\nTugasan yang menguji penguasaan pengetahuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penilaian"
+        },
+        {
+          "id": "B",
+          "text": "Kelayakan"
+        },
+        {
+          "id": "C",
+          "text": "Calon"
+        },
+        {
+          "id": "D",
+          "text": "Soalan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Soalan: Tugasan yang menguji penguasaan pengetahuan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q027",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Padankan unsur peperiksaan.\n\nProses menyemak mutu jawapan peserta.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penilaian"
+        },
+        {
+          "id": "B",
+          "text": "Kelayakan"
+        },
+        {
+          "id": "C",
+          "text": "Calon"
+        },
+        {
+          "id": "D",
+          "text": "Soalan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Penilaian: Proses menyemak mutu jawapan peserta.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q028",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Padankan unsur peperiksaan.\n\nSyarat kemampuan yang diperlukan untuk memegang jawatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penilaian"
+        },
+        {
+          "id": "B",
+          "text": "Kelayakan"
+        },
+        {
+          "id": "C",
+          "text": "Calon"
+        },
+        {
+          "id": "D",
+          "text": "Soalan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kelayakan: Syarat kemampuan yang diperlukan untuk memegang jawatan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q029",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Kenal pasti nilai pembelajaran.\n\nBelajar berulang kali walaupun bahan sukar dikuasai.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Integriti"
+        },
+        {
+          "id": "B",
+          "text": "Ketekunan"
+        },
+        {
+          "id": "C",
+          "text": "Disiplin"
+        },
+        {
+          "id": "D",
+          "text": "Hormat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Ketekunan: Belajar berulang kali walaupun bahan sukar dikuasai.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q030",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Kenal pasti nilai pembelajaran.\n\nMematuhi aturan dan jadual pengajian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Integriti"
+        },
+        {
+          "id": "B",
+          "text": "Ketekunan"
+        },
+        {
+          "id": "C",
+          "text": "Disiplin"
+        },
+        {
+          "id": "D",
+          "text": "Hormat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Disiplin: Mematuhi aturan dan jadual pengajian.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q031",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Kenal pasti nilai pembelajaran.\n\nMenghargai peranan guru serta orang tua.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Integriti"
+        },
+        {
+          "id": "B",
+          "text": "Ketekunan"
+        },
+        {
+          "id": "C",
+          "text": "Disiplin"
+        },
+        {
+          "id": "D",
+          "text": "Hormat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Hormat: Menghargai peranan guru serta orang tua.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q032",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Kenal pasti nilai pembelajaran.\n\nMenjawab peperiksaan tanpa menipu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Integriti"
+        },
+        {
+          "id": "B",
+          "text": "Ketekunan"
+        },
+        {
+          "id": "C",
+          "text": "Disiplin"
+        },
+        {
+          "id": "D",
+          "text": "Hormat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Integriti: Menjawab peperiksaan tanpa menipu.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q033",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Apakah kesan pentadbiran berasaskan ilmu?\n\nPegawai terlatih menyelesaikan urusan dengan lebih teratur.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kecekapan"
+        },
+        {
+          "id": "B",
+          "text": "Keseragaman urusan"
+        },
+        {
+          "id": "C",
+          "text": "Mobiliti melalui pendidikan"
+        },
+        {
+          "id": "D",
+          "text": "Penyimpanan rekod"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kecekapan: Pegawai terlatih menyelesaikan urusan dengan lebih teratur.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q034",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Apakah kesan pentadbiran berasaskan ilmu?\n\nProsedur yang difahami bersama memudahkan kerja di wilayah berbeza.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kecekapan"
+        },
+        {
+          "id": "B",
+          "text": "Keseragaman urusan"
+        },
+        {
+          "id": "C",
+          "text": "Mobiliti melalui pendidikan"
+        },
+        {
+          "id": "D",
+          "text": "Penyimpanan rekod"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Keseragaman urusan: Prosedur yang difahami bersama memudahkan kerja di wilayah berbeza.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q035",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Apakah kesan pentadbiran berasaskan ilmu?\n\nPencapaian pembelajaran membuka peluang tertentu dalam perkhidmatan kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kecekapan"
+        },
+        {
+          "id": "B",
+          "text": "Keseragaman urusan"
+        },
+        {
+          "id": "C",
+          "text": "Mobiliti melalui pendidikan"
+        },
+        {
+          "id": "D",
+          "text": "Penyimpanan rekod"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Mobiliti melalui pendidikan: Pencapaian pembelajaran membuka peluang tertentu dalam perkhidmatan kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q036",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Apakah kesan pentadbiran berasaskan ilmu?\n\nKemahiran menulis membolehkan maklumat pentadbiran dikekalkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kecekapan"
+        },
+        {
+          "id": "B",
+          "text": "Keseragaman urusan"
+        },
+        {
+          "id": "C",
+          "text": "Mobiliti melalui pendidikan"
+        },
+        {
+          "id": "D",
+          "text": "Penyimpanan rekod"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Penyimpanan rekod: Kemahiran menulis membolehkan maklumat pentadbiran dikekalkan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q037",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Padankan situasi dengan pengajaran.\n\nLatihan pegawai membantu mengurus empayar yang luas.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kuasa memerlukan tanggungjawab"
+        },
+        {
+          "id": "B",
+          "text": "Peperangan membawa penderitaan"
+        },
+        {
+          "id": "C",
+          "text": "Nilai mempengaruhi kepimpinan"
+        },
+        {
+          "id": "D",
+          "text": "Ilmu menyokong pemerintahan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Ilmu menyokong pemerintahan: Latihan pegawai membantu mengurus empayar yang luas.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q038",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Padankan situasi dengan pengajaran.\n\nPemerintah perlu mempertimbangkan kebajikan penduduk wilayahnya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kuasa memerlukan tanggungjawab"
+        },
+        {
+          "id": "B",
+          "text": "Peperangan membawa penderitaan"
+        },
+        {
+          "id": "C",
+          "text": "Nilai mempengaruhi kepimpinan"
+        },
+        {
+          "id": "D",
+          "text": "Ilmu menyokong pemerintahan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kuasa memerlukan tanggungjawab: Pemerintah perlu mempertimbangkan kebajikan penduduk wilayahnya.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q039",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Padankan situasi dengan pengajaran.\n\nKorban konflik mendorong pemerintah menilai semula penaklukan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kuasa memerlukan tanggungjawab"
+        },
+        {
+          "id": "B",
+          "text": "Peperangan membawa penderitaan"
+        },
+        {
+          "id": "C",
+          "text": "Nilai mempengaruhi kepimpinan"
+        },
+        {
+          "id": "D",
+          "text": "Ilmu menyokong pemerintahan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Peperangan membawa penderitaan: Korban konflik mendorong pemerintah menilai semula penaklukan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t1-b07-q040",
+      "form": 1,
+      "chapter": 7,
+      "prompt": "Padankan situasi dengan pengajaran.\n\nPrinsip etika diterapkan dalam keputusan kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kuasa memerlukan tanggungjawab"
+        },
+        {
+          "id": "B",
+          "text": "Peperangan membawa penderitaan"
+        },
+        {
+          "id": "C",
+          "text": "Nilai mempengaruhi kepimpinan"
+        },
+        {
+          "id": "D",
+          "text": "Ilmu menyokong pemerintahan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Nilai mempengaruhi kepimpinan: Prinsip etika diterapkan dalam keputusan kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    }
+  ]
+}

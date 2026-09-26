@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 4,
+  "chapter": 6,
+  "title": "Ancaman Komunis dan Perisytiharan Darurat",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t4_b06.json",
+  "questions": [
+    {
+      "id": "t4-b06-q001",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Kenal pasti tokoh atau organisasi.\n\nParti yang melancarkan perjuangan bersenjata untuk merebut kuasa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "PKM"
+        },
+        {
+          "id": "B",
+          "text": "Sir Harold Briggs"
+        },
+        {
+          "id": "C",
+          "text": "Gerald Templer"
+        },
+        {
+          "id": "D",
+          "text": "Tunku Abdul Rahman"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "PKM: Parti yang melancarkan perjuangan bersenjata untuk merebut kuasa.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q002",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Kenal pasti tokoh atau organisasi.\n\nTokoh yang dikaitkan dengan rancangan penempatan semula.",
+      "options": [
+        {
+          "id": "A",
+          "text": "PKM"
+        },
+        {
+          "id": "B",
+          "text": "Sir Harold Briggs"
+        },
+        {
+          "id": "C",
+          "text": "Gerald Templer"
+        },
+        {
+          "id": "D",
+          "text": "Tunku Abdul Rahman"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Sir Harold Briggs: Tokoh yang dikaitkan dengan rancangan penempatan semula.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q003",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Kenal pasti tokoh atau organisasi.\n\nPesuruhjaya Tinggi yang menekankan usaha memenangi hati rakyat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "PKM"
+        },
+        {
+          "id": "B",
+          "text": "Sir Harold Briggs"
+        },
+        {
+          "id": "C",
+          "text": "Gerald Templer"
+        },
+        {
+          "id": "D",
+          "text": "Tunku Abdul Rahman"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Gerald Templer: Pesuruhjaya Tinggi yang menekankan usaha memenangi hati rakyat.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q004",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Kenal pasti tokoh atau organisasi.\n\nPemimpin kerajaan dalam Rundingan Baling 1955.",
+      "options": [
+        {
+          "id": "A",
+          "text": "PKM"
+        },
+        {
+          "id": "B",
+          "text": "Sir Harold Briggs"
+        },
+        {
+          "id": "C",
+          "text": "Gerald Templer"
+        },
+        {
+          "id": "D",
+          "text": "Tunku Abdul Rahman"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Tunku Abdul Rahman: Pemimpin kerajaan dalam Rundingan Baling 1955.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q005",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Padankan tarikh sejarah.\n\nTahun Darurat diisytiharkan di Tanah Melayu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1950"
+        },
+        {
+          "id": "B",
+          "text": "1955"
+        },
+        {
+          "id": "C",
+          "text": "1960"
+        },
+        {
+          "id": "D",
+          "text": "1948"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "1948: Tahun Darurat diisytiharkan di Tanah Melayu.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q006",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Padankan tarikh sejarah.\n\nTahun Rancangan Briggs diperkenalkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1950"
+        },
+        {
+          "id": "B",
+          "text": "1955"
+        },
+        {
+          "id": "C",
+          "text": "1960"
+        },
+        {
+          "id": "D",
+          "text": "1948"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "1950: Tahun Rancangan Briggs diperkenalkan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q007",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Padankan tarikh sejarah.\n\nTahun Rundingan Baling berlangsung.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1950"
+        },
+        {
+          "id": "B",
+          "text": "1955"
+        },
+        {
+          "id": "C",
+          "text": "1960"
+        },
+        {
+          "id": "D",
+          "text": "1948"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "1955: Tahun Rundingan Baling berlangsung.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q008",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Padankan tarikh sejarah.\n\nTahun Darurat ditamatkan secara rasmi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1950"
+        },
+        {
+          "id": "B",
+          "text": "1955"
+        },
+        {
+          "id": "C",
+          "text": "1960"
+        },
+        {
+          "id": "D",
+          "text": "1948"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "1960: Tahun Darurat ditamatkan secara rasmi.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q009",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Apakah bentuk ancaman komunis?\n\nKemudahan seperti landasan dan komunikasi dirosakkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ugutan"
+        },
+        {
+          "id": "B",
+          "text": "Gangguan ekonomi"
+        },
+        {
+          "id": "C",
+          "text": "Sabotaj"
+        },
+        {
+          "id": "D",
+          "text": "Serangan bersenjata"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Sabotaj: Kemudahan seperti landasan dan komunikasi dirosakkan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q010",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Apakah bentuk ancaman komunis?\n\nPasukan keselamatan atau sasaran lain diserang dengan senjata.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ugutan"
+        },
+        {
+          "id": "B",
+          "text": "Gangguan ekonomi"
+        },
+        {
+          "id": "C",
+          "text": "Sabotaj"
+        },
+        {
+          "id": "D",
+          "text": "Serangan bersenjata"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Serangan bersenjata: Pasukan keselamatan atau sasaran lain diserang dengan senjata.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q011",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Apakah bentuk ancaman komunis?\n\nPenduduk dipaksa memberikan bantuan melalui ancaman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ugutan"
+        },
+        {
+          "id": "B",
+          "text": "Gangguan ekonomi"
+        },
+        {
+          "id": "C",
+          "text": "Sabotaj"
+        },
+        {
+          "id": "D",
+          "text": "Serangan bersenjata"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Ugutan: Penduduk dipaksa memberikan bantuan melalui ancaman.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q012",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Apakah bentuk ancaman komunis?\n\nLadang dan lombong terganggu sehingga pengeluaran merosot.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ugutan"
+        },
+        {
+          "id": "B",
+          "text": "Gangguan ekonomi"
+        },
+        {
+          "id": "C",
+          "text": "Sabotaj"
+        },
+        {
+          "id": "D",
+          "text": "Serangan bersenjata"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Gangguan ekonomi: Ladang dan lombong terganggu sehingga pengeluaran merosot.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q013",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Kenal pasti langkah keselamatan.\n\nPergerakan dihadkan pada masa tertentu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kawasan larangan"
+        },
+        {
+          "id": "B",
+          "text": "Perintah berkurung"
+        },
+        {
+          "id": "C",
+          "text": "Kawalan makanan"
+        },
+        {
+          "id": "D",
+          "text": "Kad pengenalan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perintah berkurung: Pergerakan dihadkan pada masa tertentu.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q014",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Kenal pasti langkah keselamatan.\n\nBekalan disekat daripada sampai kepada gerila.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kawasan larangan"
+        },
+        {
+          "id": "B",
+          "text": "Perintah berkurung"
+        },
+        {
+          "id": "C",
+          "text": "Kawalan makanan"
+        },
+        {
+          "id": "D",
+          "text": "Kad pengenalan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kawalan makanan: Bekalan disekat daripada sampai kepada gerila.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q015",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Kenal pasti langkah keselamatan.\n\nDokumen membantu mengenal pasti penduduk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kawasan larangan"
+        },
+        {
+          "id": "B",
+          "text": "Perintah berkurung"
+        },
+        {
+          "id": "C",
+          "text": "Kawalan makanan"
+        },
+        {
+          "id": "D",
+          "text": "Kad pengenalan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kad pengenalan: Dokumen membantu mengenal pasti penduduk.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q016",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Kenal pasti langkah keselamatan.\n\nKemasukan ke tempat tertentu dihadkan demi keselamatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kawasan larangan"
+        },
+        {
+          "id": "B",
+          "text": "Perintah berkurung"
+        },
+        {
+          "id": "C",
+          "text": "Kawalan makanan"
+        },
+        {
+          "id": "D",
+          "text": "Kad pengenalan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kawasan larangan: Kemasukan ke tempat tertentu dihadkan demi keselamatan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q017",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Padankan pasukan atau peranan.\n\nMenguatkuasakan undang-undang dan mengumpulkan maklumat keselamatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Polis"
+        },
+        {
+          "id": "B",
+          "text": "Tentera"
+        },
+        {
+          "id": "C",
+          "text": "Home Guard"
+        },
+        {
+          "id": "D",
+          "text": "Special Constables"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Polis: Menguatkuasakan undang-undang dan mengumpulkan maklumat keselamatan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q018",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Padankan pasukan atau peranan.\n\nMenjalankan operasi ketenteraan menentang gerila.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Polis"
+        },
+        {
+          "id": "B",
+          "text": "Tentera"
+        },
+        {
+          "id": "C",
+          "text": "Home Guard"
+        },
+        {
+          "id": "D",
+          "text": "Special Constables"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Tentera: Menjalankan operasi ketenteraan menentang gerila.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q019",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Padankan pasukan atau peranan.\n\nPasukan pertahanan setempat yang melibatkan penduduk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Polis"
+        },
+        {
+          "id": "B",
+          "text": "Tentera"
+        },
+        {
+          "id": "C",
+          "text": "Home Guard"
+        },
+        {
+          "id": "D",
+          "text": "Special Constables"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Home Guard: Pasukan pertahanan setempat yang melibatkan penduduk.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q020",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Padankan pasukan atau peranan.\n\nAnggota tambahan yang membantu menjaga lokasi seperti ladang dan lombong.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Polis"
+        },
+        {
+          "id": "B",
+          "text": "Tentera"
+        },
+        {
+          "id": "C",
+          "text": "Home Guard"
+        },
+        {
+          "id": "D",
+          "text": "Special Constables"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Special Constables: Anggota tambahan yang membantu menjaga lokasi seperti ladang dan lombong.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q021",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Kenal pasti strategi Rancangan Briggs.\n\nPenduduk tertentu dipindahkan ke kampung baharu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemutusan bekalan"
+        },
+        {
+          "id": "B",
+          "text": "Kawalan komuniti"
+        },
+        {
+          "id": "C",
+          "text": "Penyelarasan operasi"
+        },
+        {
+          "id": "D",
+          "text": "Penempatan semula"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Penempatan semula: Penduduk tertentu dipindahkan ke kampung baharu.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q022",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Kenal pasti strategi Rancangan Briggs.\n\nHubungan makanan antara penyokong dengan gerila disekat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemutusan bekalan"
+        },
+        {
+          "id": "B",
+          "text": "Kawalan komuniti"
+        },
+        {
+          "id": "C",
+          "text": "Penyelarasan operasi"
+        },
+        {
+          "id": "D",
+          "text": "Penempatan semula"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pemutusan bekalan: Hubungan makanan antara penyokong dengan gerila disekat.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q023",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Kenal pasti strategi Rancangan Briggs.\n\nKawasan petempatan disusun supaya lebih mudah dilindungi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemutusan bekalan"
+        },
+        {
+          "id": "B",
+          "text": "Kawalan komuniti"
+        },
+        {
+          "id": "C",
+          "text": "Penyelarasan operasi"
+        },
+        {
+          "id": "D",
+          "text": "Penempatan semula"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kawalan komuniti: Kawasan petempatan disusun supaya lebih mudah dilindungi.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q024",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Kenal pasti strategi Rancangan Briggs.\n\nTindakan awam dan keselamatan digabungkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemutusan bekalan"
+        },
+        {
+          "id": "B",
+          "text": "Kawalan komuniti"
+        },
+        {
+          "id": "C",
+          "text": "Penyelarasan operasi"
+        },
+        {
+          "id": "D",
+          "text": "Penempatan semula"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Penyelarasan operasi: Tindakan awam dan keselamatan digabungkan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q025",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Apakah pendekatan perang saraf?\n\nRisalah dan siaran menjelaskan dasar kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kemudahan rakyat"
+        },
+        {
+          "id": "B",
+          "text": "Sokongan masyarakat"
+        },
+        {
+          "id": "C",
+          "text": "Penerangan"
+        },
+        {
+          "id": "D",
+          "text": "Tawaran menyerah diri"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Penerangan: Risalah dan siaran menjelaskan dasar kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q026",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Apakah pendekatan perang saraf?\n\nGerila digalakkan meletakkan senjata melalui syarat tertentu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kemudahan rakyat"
+        },
+        {
+          "id": "B",
+          "text": "Sokongan masyarakat"
+        },
+        {
+          "id": "C",
+          "text": "Penerangan"
+        },
+        {
+          "id": "D",
+          "text": "Tawaran menyerah diri"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Tawaran menyerah diri: Gerila digalakkan meletakkan senjata melalui syarat tertentu.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q027",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Apakah pendekatan perang saraf?\n\nPerkhidmatan diperbaiki untuk mengurangkan ketidakpuasan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kemudahan rakyat"
+        },
+        {
+          "id": "B",
+          "text": "Sokongan masyarakat"
+        },
+        {
+          "id": "C",
+          "text": "Penerangan"
+        },
+        {
+          "id": "D",
+          "text": "Tawaran menyerah diri"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kemudahan rakyat: Perkhidmatan diperbaiki untuk mengurangkan ketidakpuasan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q028",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Apakah pendekatan perang saraf?\n\nKepercayaan penduduk menjadi asas mendapatkan kerjasama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kemudahan rakyat"
+        },
+        {
+          "id": "B",
+          "text": "Sokongan masyarakat"
+        },
+        {
+          "id": "C",
+          "text": "Penerangan"
+        },
+        {
+          "id": "D",
+          "text": "Tawaran menyerah diri"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Sokongan masyarakat: Kepercayaan penduduk menjadi asas mendapatkan kerjasama.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q029",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Padankan Rundingan Baling dengan unsurnya.\n\nNegeri tempat rundingan berlangsung.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peletakan senjata"
+        },
+        {
+          "id": "B",
+          "text": "Kedah"
+        },
+        {
+          "id": "C",
+          "text": "Chin Peng"
+        },
+        {
+          "id": "D",
+          "text": "David Marshall"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kedah: Negeri tempat rundingan berlangsung.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q030",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Padankan Rundingan Baling dengan unsurnya.\n\nWakil utama PKM dalam rundingan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peletakan senjata"
+        },
+        {
+          "id": "B",
+          "text": "Kedah"
+        },
+        {
+          "id": "C",
+          "text": "Chin Peng"
+        },
+        {
+          "id": "D",
+          "text": "David Marshall"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Chin Peng: Wakil utama PKM dalam rundingan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q031",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Padankan Rundingan Baling dengan unsurnya.\n\nKetua Menteri Singapura yang turut terlibat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peletakan senjata"
+        },
+        {
+          "id": "B",
+          "text": "Kedah"
+        },
+        {
+          "id": "C",
+          "text": "Chin Peng"
+        },
+        {
+          "id": "D",
+          "text": "David Marshall"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "David Marshall: Ketua Menteri Singapura yang turut terlibat.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q032",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Padankan Rundingan Baling dengan unsurnya.\n\nIsu penting yang dituntut daripada pihak komunis.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peletakan senjata"
+        },
+        {
+          "id": "B",
+          "text": "Kedah"
+        },
+        {
+          "id": "C",
+          "text": "Chin Peng"
+        },
+        {
+          "id": "D",
+          "text": "David Marshall"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Peletakan senjata: Isu penting yang dituntut daripada pihak komunis.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q033",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Kenal pasti kesan Darurat.\n\nPeruntukan besar diperlukan bagi operasi keselamatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kos kerajaan meningkat"
+        },
+        {
+          "id": "B",
+          "text": "Kebebasan bergerak terhad"
+        },
+        {
+          "id": "C",
+          "text": "Ekonomi terganggu"
+        },
+        {
+          "id": "D",
+          "text": "Penderitaan penduduk"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kos kerajaan meningkat: Peruntukan besar diperlukan bagi operasi keselamatan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q034",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Kenal pasti kesan Darurat.\n\nPerintah berkurung mengehadkan perjalanan harian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kos kerajaan meningkat"
+        },
+        {
+          "id": "B",
+          "text": "Kebebasan bergerak terhad"
+        },
+        {
+          "id": "C",
+          "text": "Ekonomi terganggu"
+        },
+        {
+          "id": "D",
+          "text": "Penderitaan penduduk"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kebebasan bergerak terhad: Perintah berkurung mengehadkan perjalanan harian.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q035",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Kenal pasti kesan Darurat.\n\nSerangan menjejaskan pengeluaran dan pelaburan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kos kerajaan meningkat"
+        },
+        {
+          "id": "B",
+          "text": "Kebebasan bergerak terhad"
+        },
+        {
+          "id": "C",
+          "text": "Ekonomi terganggu"
+        },
+        {
+          "id": "D",
+          "text": "Penderitaan penduduk"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Ekonomi terganggu: Serangan menjejaskan pengeluaran dan pelaburan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q036",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Kenal pasti kesan Darurat.\n\nKematian serta perpindahan menjejaskan keluarga.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kos kerajaan meningkat"
+        },
+        {
+          "id": "B",
+          "text": "Kebebasan bergerak terhad"
+        },
+        {
+          "id": "C",
+          "text": "Ekonomi terganggu"
+        },
+        {
+          "id": "D",
+          "text": "Penderitaan penduduk"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Penderitaan penduduk: Kematian serta perpindahan menjejaskan keluarga.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q037",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Apakah pengajaran keselamatan?\n\nPenduduk membantu pihak berkuasa mengesan ancaman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ketepatan maklumat"
+        },
+        {
+          "id": "B",
+          "text": "Keamanan"
+        },
+        {
+          "id": "C",
+          "text": "Keseimbangan tindakan"
+        },
+        {
+          "id": "D",
+          "text": "Kerjasama rakyat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kerjasama rakyat: Penduduk membantu pihak berkuasa mengesan ancaman.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q038",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Apakah pengajaran keselamatan?\n\nLaporan perlu disahkan supaya orang tidak bersalah tidak dituduh.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ketepatan maklumat"
+        },
+        {
+          "id": "B",
+          "text": "Keamanan"
+        },
+        {
+          "id": "C",
+          "text": "Keseimbangan tindakan"
+        },
+        {
+          "id": "D",
+          "text": "Kerjasama rakyat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Ketepatan maklumat: Laporan perlu disahkan supaya orang tidak bersalah tidak dituduh.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q039",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Apakah pengajaran keselamatan?\n\nPerselisihan politik wajar diselesaikan tanpa keganasan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ketepatan maklumat"
+        },
+        {
+          "id": "B",
+          "text": "Keamanan"
+        },
+        {
+          "id": "C",
+          "text": "Keseimbangan tindakan"
+        },
+        {
+          "id": "D",
+          "text": "Kerjasama rakyat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Keamanan: Perselisihan politik wajar diselesaikan tanpa keganasan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t4-b06-q040",
+      "form": 4,
+      "chapter": 6,
+      "prompt": "Apakah pengajaran keselamatan?\n\nKeselamatan disertai perhatian terhadap kebajikan masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ketepatan maklumat"
+        },
+        {
+          "id": "B",
+          "text": "Keamanan"
+        },
+        {
+          "id": "C",
+          "text": "Keseimbangan tindakan"
+        },
+        {
+          "id": "D",
+          "text": "Kerjasama rakyat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Keseimbangan tindakan: Keselamatan disertai perhatian terhadap kebajikan masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    }
+  ]
+}

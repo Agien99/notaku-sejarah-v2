@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 4,
+  "chapter": 7,
+  "title": "Usaha ke Arah Kemerdekaan",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t4_b07.json",
+  "questions": [
+    {
+      "id": "t4-b07-q001",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Kenal pasti usaha menuju kemerdekaan.\n\nJawatankuasa yang membincangkan hubungan antara kaum.",
+      "options": [
+        {
+          "id": "A",
+          "text": "CLC"
+        },
+        {
+          "id": "B",
+          "text": "Sistem Ahli"
+        },
+        {
+          "id": "C",
+          "text": "Pendidikan kebangsaan"
+        },
+        {
+          "id": "D",
+          "text": "Kerjasama parti"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "CLC: Jawatankuasa yang membincangkan hubungan antara kaum.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q002",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Kenal pasti usaha menuju kemerdekaan.\n\nLatihan mentadbir melalui pelantikan pemimpin tempatan menjaga portfolio.",
+      "options": [
+        {
+          "id": "A",
+          "text": "CLC"
+        },
+        {
+          "id": "B",
+          "text": "Sistem Ahli"
+        },
+        {
+          "id": "C",
+          "text": "Pendidikan kebangsaan"
+        },
+        {
+          "id": "D",
+          "text": "Kerjasama parti"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Sistem Ahli: Latihan mentadbir melalui pelantikan pemimpin tempatan menjaga portfolio.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q003",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Kenal pasti usaha menuju kemerdekaan.\n\nUsaha membina asas sekolah yang menyatukan penduduk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "CLC"
+        },
+        {
+          "id": "B",
+          "text": "Sistem Ahli"
+        },
+        {
+          "id": "C",
+          "text": "Pendidikan kebangsaan"
+        },
+        {
+          "id": "D",
+          "text": "Kerjasama parti"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pendidikan kebangsaan: Usaha membina asas sekolah yang menyatukan penduduk.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q004",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Kenal pasti usaha menuju kemerdekaan.\n\nGabungan politik menunjukkan kemampuan bekerjasama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "CLC"
+        },
+        {
+          "id": "B",
+          "text": "Sistem Ahli"
+        },
+        {
+          "id": "C",
+          "text": "Pendidikan kebangsaan"
+        },
+        {
+          "id": "D",
+          "text": "Kerjasama parti"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kerjasama parti: Gabungan politik menunjukkan kemampuan bekerjasama.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q005",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Padankan tokoh.\n\nPemimpin Melayu yang terlibat dalam perbincangan antara kaum.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tan Cheng Lock"
+        },
+        {
+          "id": "B",
+          "text": "Tunku Abdul Rahman"
+        },
+        {
+          "id": "C",
+          "text": "E.E.C. Thuraisingham"
+        },
+        {
+          "id": "D",
+          "text": "Dato' Onn Jaafar"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Dato' Onn Jaafar: Pemimpin Melayu yang terlibat dalam perbincangan antara kaum.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q006",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Padankan tokoh.\n\nPemimpin MCA dan tokoh kerjasama masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tan Cheng Lock"
+        },
+        {
+          "id": "B",
+          "text": "Tunku Abdul Rahman"
+        },
+        {
+          "id": "C",
+          "text": "E.E.C. Thuraisingham"
+        },
+        {
+          "id": "D",
+          "text": "Dato' Onn Jaafar"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Tan Cheng Lock: Pemimpin MCA dan tokoh kerjasama masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q007",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Padankan tokoh.\n\nPemimpin Perikatan yang mengetuai perjuangan kemerdekaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tan Cheng Lock"
+        },
+        {
+          "id": "B",
+          "text": "Tunku Abdul Rahman"
+        },
+        {
+          "id": "C",
+          "text": "E.E.C. Thuraisingham"
+        },
+        {
+          "id": "D",
+          "text": "Dato' Onn Jaafar"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Tunku Abdul Rahman: Pemimpin Perikatan yang mengetuai perjuangan kemerdekaan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q008",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Padankan tokoh.\n\nPengerusi Jawatankuasa Hubungan Antara Kaum.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tan Cheng Lock"
+        },
+        {
+          "id": "B",
+          "text": "Tunku Abdul Rahman"
+        },
+        {
+          "id": "C",
+          "text": "E.E.C. Thuraisingham"
+        },
+        {
+          "id": "D",
+          "text": "Dato' Onn Jaafar"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "E.E.C. Thuraisingham: Pengerusi Jawatankuasa Hubungan Antara Kaum.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q009",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Kenal pasti bidang perbincangan CLC.\n\nPenyertaan penduduk dalam pemerintahan sendiri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kewarganegaraan"
+        },
+        {
+          "id": "B",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "C",
+          "text": "Politik"
+        },
+        {
+          "id": "D",
+          "text": "Ekonomi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Politik: Penyertaan penduduk dalam pemerintahan sendiri.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q010",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Kenal pasti bidang perbincangan CLC.\n\nPeluang meningkatkan taraf hidup masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kewarganegaraan"
+        },
+        {
+          "id": "B",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "C",
+          "text": "Politik"
+        },
+        {
+          "id": "D",
+          "text": "Ekonomi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Ekonomi: Peluang meningkatkan taraf hidup masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q011",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Kenal pasti bidang perbincangan CLC.\n\nSyarat menjadi anggota negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kewarganegaraan"
+        },
+        {
+          "id": "B",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "C",
+          "text": "Politik"
+        },
+        {
+          "id": "D",
+          "text": "Ekonomi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kewarganegaraan: Syarat menjadi anggota negara.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q012",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Kenal pasti bidang perbincangan CLC.\n\nPembelajaran sebagai asas persefahaman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kewarganegaraan"
+        },
+        {
+          "id": "B",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "C",
+          "text": "Politik"
+        },
+        {
+          "id": "D",
+          "text": "Ekonomi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pendidikan: Pembelajaran sebagai asas persefahaman.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q013",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Padankan unsur Sistem Ahli.\n\nBidang tanggungjawab seperti kesihatan atau pendidikan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Latihan pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Portfolio"
+        },
+        {
+          "id": "C",
+          "text": "Ahli tempatan"
+        },
+        {
+          "id": "D",
+          "text": "Majlis Perundangan Persekutuan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Portfolio: Bidang tanggungjawab seperti kesihatan atau pendidikan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q014",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Padankan unsur Sistem Ahli.\n\nPemimpin anak negeri yang dilantik mengurus bidang tertentu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Latihan pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Portfolio"
+        },
+        {
+          "id": "C",
+          "text": "Ahli tempatan"
+        },
+        {
+          "id": "D",
+          "text": "Majlis Perundangan Persekutuan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Ahli tempatan: Pemimpin anak negeri yang dilantik mengurus bidang tertentu.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q015",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Padankan unsur Sistem Ahli.\n\nInstitusi tempat ahli membentangkan urusan berkaitan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Latihan pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Portfolio"
+        },
+        {
+          "id": "C",
+          "text": "Ahli tempatan"
+        },
+        {
+          "id": "D",
+          "text": "Majlis Perundangan Persekutuan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Majlis Perundangan Persekutuan: Institusi tempat ahli membentangkan urusan berkaitan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q016",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Padankan unsur Sistem Ahli.\n\nPengalaman yang disediakan sebelum pemerintahan sendiri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Latihan pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Portfolio"
+        },
+        {
+          "id": "C",
+          "text": "Ahli tempatan"
+        },
+        {
+          "id": "D",
+          "text": "Majlis Perundangan Persekutuan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Latihan pentadbiran: Pengalaman yang disediakan sebelum pemerintahan sendiri.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q017",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Kenal pasti laporan atau dasar pendidikan.\n\nCadangan 1951 tentang pembentukan sekolah kebangsaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Laporan Barnes"
+        },
+        {
+          "id": "B",
+          "text": "Laporan Fenn-Wu"
+        },
+        {
+          "id": "C",
+          "text": "Ordinan Pelajaran 1952"
+        },
+        {
+          "id": "D",
+          "text": "Penyata Razak"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Laporan Barnes: Cadangan 1951 tentang pembentukan sekolah kebangsaan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q018",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Kenal pasti laporan atau dasar pendidikan.\n\nLaporan 1951 yang meneliti pendidikan masyarakat Cina.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Laporan Barnes"
+        },
+        {
+          "id": "B",
+          "text": "Laporan Fenn-Wu"
+        },
+        {
+          "id": "C",
+          "text": "Ordinan Pelajaran 1952"
+        },
+        {
+          "id": "D",
+          "text": "Penyata Razak"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Laporan Fenn-Wu: Laporan 1951 yang meneliti pendidikan masyarakat Cina.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q019",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Kenal pasti laporan atau dasar pendidikan.\n\nAturan pendidikan yang digubal selepas perbahasan laporan awal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Laporan Barnes"
+        },
+        {
+          "id": "B",
+          "text": "Laporan Fenn-Wu"
+        },
+        {
+          "id": "C",
+          "text": "Ordinan Pelajaran 1952"
+        },
+        {
+          "id": "D",
+          "text": "Penyata Razak"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Ordinan Pelajaran 1952: Aturan pendidikan yang digubal selepas perbahasan laporan awal.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q020",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Kenal pasti laporan atau dasar pendidikan.\n\nCadangan 1956 yang menjadi asas penting sistem pendidikan kebangsaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Laporan Barnes"
+        },
+        {
+          "id": "B",
+          "text": "Laporan Fenn-Wu"
+        },
+        {
+          "id": "C",
+          "text": "Ordinan Pelajaran 1952"
+        },
+        {
+          "id": "D",
+          "text": "Penyata Razak"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Penyata Razak: Cadangan 1956 yang menjadi asas penting sistem pendidikan kebangsaan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q021",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Padankan organisasi politik.\n\nPertubuhan Melayu yang diasaskan pada 1946.",
+      "options": [
+        {
+          "id": "A",
+          "text": "MCA"
+        },
+        {
+          "id": "B",
+          "text": "MIC"
+        },
+        {
+          "id": "C",
+          "text": "Parti Perikatan"
+        },
+        {
+          "id": "D",
+          "text": "UMNO"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "UMNO: Pertubuhan Melayu yang diasaskan pada 1946.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q022",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Padankan organisasi politik.\n\nPersatuan politik masyarakat Cina yang menjadi rakan gabungan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "MCA"
+        },
+        {
+          "id": "B",
+          "text": "MIC"
+        },
+        {
+          "id": "C",
+          "text": "Parti Perikatan"
+        },
+        {
+          "id": "D",
+          "text": "UMNO"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "MCA: Persatuan politik masyarakat Cina yang menjadi rakan gabungan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q023",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Padankan organisasi politik.\n\nParti masyarakat India yang menyertai gabungan kemerdekaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "MCA"
+        },
+        {
+          "id": "B",
+          "text": "MIC"
+        },
+        {
+          "id": "C",
+          "text": "Parti Perikatan"
+        },
+        {
+          "id": "D",
+          "text": "UMNO"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "MIC: Parti masyarakat India yang menyertai gabungan kemerdekaan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q024",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Padankan organisasi politik.\n\nGabungan tiga parti utama menuju kemerdekaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "MCA"
+        },
+        {
+          "id": "B",
+          "text": "MIC"
+        },
+        {
+          "id": "C",
+          "text": "Parti Perikatan"
+        },
+        {
+          "id": "D",
+          "text": "UMNO"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Parti Perikatan: Gabungan tiga parti utama menuju kemerdekaan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q025",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Apakah asas kerjasama politik?\n\nPerbezaan tuntutan ditangani dengan sikap bertolak ansur.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perkongsian tanggungjawab"
+        },
+        {
+          "id": "B",
+          "text": "Matlamat bersama"
+        },
+        {
+          "id": "C",
+          "text": "Toleransi"
+        },
+        {
+          "id": "D",
+          "text": "Rundingan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Toleransi: Perbezaan tuntutan ditangani dengan sikap bertolak ansur.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q026",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Apakah asas kerjasama politik?\n\nPersetujuan dicapai melalui perbincangan pemimpin.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perkongsian tanggungjawab"
+        },
+        {
+          "id": "B",
+          "text": "Matlamat bersama"
+        },
+        {
+          "id": "C",
+          "text": "Toleransi"
+        },
+        {
+          "id": "D",
+          "text": "Rundingan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Rundingan: Persetujuan dicapai melalui perbincangan pemimpin.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q027",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Apakah asas kerjasama politik?\n\nUrusan gabungan dibahagi antara anggota.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perkongsian tanggungjawab"
+        },
+        {
+          "id": "B",
+          "text": "Matlamat bersama"
+        },
+        {
+          "id": "C",
+          "text": "Toleransi"
+        },
+        {
+          "id": "D",
+          "text": "Rundingan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perkongsian tanggungjawab: Urusan gabungan dibahagi antara anggota.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q028",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Apakah asas kerjasama politik?\n\nKemerdekaan menjadi tujuan yang menyatukan perjuangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perkongsian tanggungjawab"
+        },
+        {
+          "id": "B",
+          "text": "Matlamat bersama"
+        },
+        {
+          "id": "C",
+          "text": "Toleransi"
+        },
+        {
+          "id": "D",
+          "text": "Rundingan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Matlamat bersama: Kemerdekaan menjadi tujuan yang menyatukan perjuangan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q029",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Kenal pasti bentuk tuntutan kemerdekaan.\n\nPentadbiran mahu dikendalikan pemimpin tempatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perpaduan masyarakat"
+        },
+        {
+          "id": "B",
+          "text": "Pemerintahan sendiri"
+        },
+        {
+          "id": "C",
+          "text": "Peluang pilihan raya"
+        },
+        {
+          "id": "D",
+          "text": "Keadilan ekonomi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pemerintahan sendiri: Pentadbiran mahu dikendalikan pemimpin tempatan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q030",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Kenal pasti bentuk tuntutan kemerdekaan.\n\nRakyat mahu memilih wakilnya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perpaduan masyarakat"
+        },
+        {
+          "id": "B",
+          "text": "Pemerintahan sendiri"
+        },
+        {
+          "id": "C",
+          "text": "Peluang pilihan raya"
+        },
+        {
+          "id": "D",
+          "text": "Keadilan ekonomi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Peluang pilihan raya: Rakyat mahu memilih wakilnya.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q031",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Kenal pasti bentuk tuntutan kemerdekaan.\n\nJurang taraf hidup mahu dikurangkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perpaduan masyarakat"
+        },
+        {
+          "id": "B",
+          "text": "Pemerintahan sendiri"
+        },
+        {
+          "id": "C",
+          "text": "Peluang pilihan raya"
+        },
+        {
+          "id": "D",
+          "text": "Keadilan ekonomi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Keadilan ekonomi: Jurang taraf hidup mahu dikurangkan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q032",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Kenal pasti bentuk tuntutan kemerdekaan.\n\nHubungan antara kelompok mahu diperkukuh.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perpaduan masyarakat"
+        },
+        {
+          "id": "B",
+          "text": "Pemerintahan sendiri"
+        },
+        {
+          "id": "C",
+          "text": "Peluang pilihan raya"
+        },
+        {
+          "id": "D",
+          "text": "Keadilan ekonomi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perpaduan masyarakat: Hubungan antara kelompok mahu diperkukuh.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q033",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Padankan kemahiran yang dibina.\n\nPemimpin mengurus jabatan serta pegawai.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Perundingan"
+        },
+        {
+          "id": "C",
+          "text": "Perwakilan"
+        },
+        {
+          "id": "D",
+          "text": "Perancangan dasar"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pentadbiran: Pemimpin mengurus jabatan serta pegawai.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q034",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Padankan kemahiran yang dibina.\n\nPihak berlainan kepentingan mencari persetujuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Perundingan"
+        },
+        {
+          "id": "C",
+          "text": "Perwakilan"
+        },
+        {
+          "id": "D",
+          "text": "Perancangan dasar"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perundingan: Pihak berlainan kepentingan mencari persetujuan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q035",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Padankan kemahiran yang dibina.\n\nWakil membawa pandangan masyarakatnya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Perundingan"
+        },
+        {
+          "id": "C",
+          "text": "Perwakilan"
+        },
+        {
+          "id": "D",
+          "text": "Perancangan dasar"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perwakilan: Wakil membawa pandangan masyarakatnya.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q036",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Padankan kemahiran yang dibina.\n\nCadangan digubal untuk menyelesaikan masalah awam.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Perundingan"
+        },
+        {
+          "id": "C",
+          "text": "Perwakilan"
+        },
+        {
+          "id": "D",
+          "text": "Perancangan dasar"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Perancangan dasar: Cadangan digubal untuk menyelesaikan masalah awam.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q037",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Apakah bukti kesediaan berkerajaan sendiri?\n\nAnak negeri mampu mengetuai urusan kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gabungan pelbagai kaum"
+        },
+        {
+          "id": "B",
+          "text": "Pengalaman portfolio"
+        },
+        {
+          "id": "C",
+          "text": "Mandat rakyat"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan tempatan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kepimpinan tempatan: Anak negeri mampu mengetuai urusan kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q038",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Apakah bukti kesediaan berkerajaan sendiri?\n\nParti menunjukkan keupayaan bekerjasama merentas kelompok.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gabungan pelbagai kaum"
+        },
+        {
+          "id": "B",
+          "text": "Pengalaman portfolio"
+        },
+        {
+          "id": "C",
+          "text": "Mandat rakyat"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan tempatan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Gabungan pelbagai kaum: Parti menunjukkan keupayaan bekerjasama merentas kelompok.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q039",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Apakah bukti kesediaan berkerajaan sendiri?\n\nSistem Ahli membekalkan latihan mengurus bidang awam.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gabungan pelbagai kaum"
+        },
+        {
+          "id": "B",
+          "text": "Pengalaman portfolio"
+        },
+        {
+          "id": "C",
+          "text": "Mandat rakyat"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan tempatan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pengalaman portfolio: Sistem Ahli membekalkan latihan mengurus bidang awam.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "t4-b07-q040",
+      "form": 4,
+      "chapter": 7,
+      "prompt": "Apakah bukti kesediaan berkerajaan sendiri?\n\nSokongan melalui pilihan raya mengukuhkan tuntutan politik.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gabungan pelbagai kaum"
+        },
+        {
+          "id": "B",
+          "text": "Pengalaman portfolio"
+        },
+        {
+          "id": "C",
+          "text": "Mandat rakyat"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan tempatan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Mandat rakyat: Sokongan melalui pilihan raya mengukuhkan tuntutan politik.",
+      "tags": [
+        "padanan",
+        "bab-7"
+      ]
+    }
+  ]
+}

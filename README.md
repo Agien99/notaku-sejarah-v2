@@ -11,13 +11,17 @@ answer navigation, scoring, explanations, retry and exit protection.
 
 - Modern Heritage responsive app shell and Utama
 - Nota by form/chapter with direct chapter navigation
-- Validated question repository with a 20-question Tingkatan 1 Bab 1 practice bank
+- Validated question repository with 1,840 practice questions across all 46 chapters
 - Interactive quizzes with shuffled questions and answer choices
 - Automated formatting, analysis, tests, Android APK and Flutter Web builds
 
-Other quiz chapters are marked unavailable until their question banks are added.
+Every Tingkatan 1–5 chapter has 40 questions; each attempt samples 15 without
+replacement and shuffles the answer choices. The bank focuses on foundational
+recall, matching and understanding, not a full examination-style KBAT assessment.
 Attempts currently live in memory; persistent history and Rekod integration are
 planned for the next phase. See [Phase 5 details](docs/phase-5-kuiz.md).
+
+See [question bank coverage and editorial notes](docs/quiz-bank-coverage.md).
 
 ## Phase 1 verification
 

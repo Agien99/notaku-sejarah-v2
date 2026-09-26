@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 4,
+  "chapter": 1,
+  "title": "Warisan Negara Bangsa",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t4_b01.json",
+  "questions": [
+    {
+      "id": "t4-b01-q001",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Kenal pasti ciri negara bangsa.\n\nPemerintah tertinggi kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raja"
+        },
+        {
+          "id": "B",
+          "text": "Rakyat"
+        },
+        {
+          "id": "C",
+          "text": "Wilayah pengaruh"
+        },
+        {
+          "id": "D",
+          "text": "Undang-undang"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Raja: Pemerintah tertinggi kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q002",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Kenal pasti ciri negara bangsa.\n\nPenduduk yang memberikan kesetiaan kepada pemerintah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raja"
+        },
+        {
+          "id": "B",
+          "text": "Rakyat"
+        },
+        {
+          "id": "C",
+          "text": "Wilayah pengaruh"
+        },
+        {
+          "id": "D",
+          "text": "Undang-undang"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Rakyat: Penduduk yang memberikan kesetiaan kepada pemerintah.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q003",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Kenal pasti ciri negara bangsa.\n\nKawasan yang menerima kekuasaan kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raja"
+        },
+        {
+          "id": "B",
+          "text": "Rakyat"
+        },
+        {
+          "id": "C",
+          "text": "Wilayah pengaruh"
+        },
+        {
+          "id": "D",
+          "text": "Undang-undang"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Wilayah pengaruh: Kawasan yang menerima kekuasaan kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q004",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Kenal pasti ciri negara bangsa.\n\nPeraturan untuk mengatur kehidupan masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raja"
+        },
+        {
+          "id": "B",
+          "text": "Rakyat"
+        },
+        {
+          "id": "C",
+          "text": "Wilayah pengaruh"
+        },
+        {
+          "id": "D",
+          "text": "Undang-undang"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Undang-undang: Peraturan untuk mengatur kehidupan masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q005",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Padankan konsep politik Melayu.\n\nKewibawaan istimewa yang dikaitkan dengan raja.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Derhaka"
+        },
+        {
+          "id": "B",
+          "text": "Naungan"
+        },
+        {
+          "id": "C",
+          "text": "Kedaulatan"
+        },
+        {
+          "id": "D",
+          "text": "Daulat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Daulat: Kewibawaan istimewa yang dikaitkan dengan raja.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q006",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Padankan konsep politik Melayu.\n\nTindakan mengingkari kesetiaan kepada pemerintah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Derhaka"
+        },
+        {
+          "id": "B",
+          "text": "Naungan"
+        },
+        {
+          "id": "C",
+          "text": "Kedaulatan"
+        },
+        {
+          "id": "D",
+          "text": "Daulat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Derhaka: Tindakan mengingkari kesetiaan kepada pemerintah.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q007",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Padankan konsep politik Melayu.\n\nHubungan perlindungan sebuah kerajaan terhadap kawasan lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Derhaka"
+        },
+        {
+          "id": "B",
+          "text": "Naungan"
+        },
+        {
+          "id": "C",
+          "text": "Kedaulatan"
+        },
+        {
+          "id": "D",
+          "text": "Daulat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Naungan: Hubungan perlindungan sebuah kerajaan terhadap kawasan lain.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q008",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Padankan konsep politik Melayu.\n\nKuasa tertinggi kerajaan menentukan urusannya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Derhaka"
+        },
+        {
+          "id": "B",
+          "text": "Naungan"
+        },
+        {
+          "id": "C",
+          "text": "Kedaulatan"
+        },
+        {
+          "id": "D",
+          "text": "Daulat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kedaulatan: Kuasa tertinggi kerajaan menentukan urusannya.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q009",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Kenal pasti jawatan Melaka.\n\nKetua pentadbir dan penasihat utama sultan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Temenggung"
+        },
+        {
+          "id": "B",
+          "text": "Laksamana"
+        },
+        {
+          "id": "C",
+          "text": "Bendahara"
+        },
+        {
+          "id": "D",
+          "text": "Penghulu Bendahari"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Bendahara: Ketua pentadbir dan penasihat utama sultan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q010",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Kenal pasti jawatan Melaka.\n\nPengurus hasil serta kewangan kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Temenggung"
+        },
+        {
+          "id": "B",
+          "text": "Laksamana"
+        },
+        {
+          "id": "C",
+          "text": "Bendahara"
+        },
+        {
+          "id": "D",
+          "text": "Penghulu Bendahari"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Penghulu Bendahari: Pengurus hasil serta kewangan kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q011",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Kenal pasti jawatan Melaka.\n\nPenjaga keamanan dalam negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Temenggung"
+        },
+        {
+          "id": "B",
+          "text": "Laksamana"
+        },
+        {
+          "id": "C",
+          "text": "Bendahara"
+        },
+        {
+          "id": "D",
+          "text": "Penghulu Bendahari"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Temenggung: Penjaga keamanan dalam negeri.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q012",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Kenal pasti jawatan Melaka.\n\nPemimpin angkatan laut.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Temenggung"
+        },
+        {
+          "id": "B",
+          "text": "Laksamana"
+        },
+        {
+          "id": "C",
+          "text": "Bendahara"
+        },
+        {
+          "id": "D",
+          "text": "Penghulu Bendahari"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Laksamana: Pemimpin angkatan laut.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q013",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Padankan dokumen atau institusi.\n\nAturan pemerintahan dan kehidupan masyarakat Melaka.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Istana"
+        },
+        {
+          "id": "B",
+          "text": "Hukum Kanun Melaka"
+        },
+        {
+          "id": "C",
+          "text": "Undang-Undang Laut Melaka"
+        },
+        {
+          "id": "D",
+          "text": "Sistem Pembesar Empat Lipatan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Hukum Kanun Melaka: Aturan pemerintahan dan kehidupan masyarakat Melaka.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q014",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Padankan dokumen atau institusi.\n\nAturan tugas serta kesalahan dalam pelayaran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Istana"
+        },
+        {
+          "id": "B",
+          "text": "Hukum Kanun Melaka"
+        },
+        {
+          "id": "C",
+          "text": "Undang-Undang Laut Melaka"
+        },
+        {
+          "id": "D",
+          "text": "Sistem Pembesar Empat Lipatan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Undang-Undang Laut Melaka: Aturan tugas serta kesalahan dalam pelayaran.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q015",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Padankan dokumen atau institusi.\n\nSusunan pembesar mengikut peringkat tanggungjawab.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Istana"
+        },
+        {
+          "id": "B",
+          "text": "Hukum Kanun Melaka"
+        },
+        {
+          "id": "C",
+          "text": "Undang-Undang Laut Melaka"
+        },
+        {
+          "id": "D",
+          "text": "Sistem Pembesar Empat Lipatan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Sistem Pembesar Empat Lipatan: Susunan pembesar mengikut peringkat tanggungjawab.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q016",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Padankan dokumen atau institusi.\n\nPusat kediaman pemerintah dan urusan kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Istana"
+        },
+        {
+          "id": "B",
+          "text": "Hukum Kanun Melaka"
+        },
+        {
+          "id": "C",
+          "text": "Undang-Undang Laut Melaka"
+        },
+        {
+          "id": "D",
+          "text": "Sistem Pembesar Empat Lipatan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Istana: Pusat kediaman pemerintah dan urusan kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q017",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Kenal pasti tanggungjawab rakyat.\n\nMengiktiraf kuasa pemerintah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesetiaan"
+        },
+        {
+          "id": "B",
+          "text": "Kerahan tenaga"
+        },
+        {
+          "id": "C",
+          "text": "Pembayaran hasil"
+        },
+        {
+          "id": "D",
+          "text": "Pertahanan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kesetiaan: Mengiktiraf kuasa pemerintah.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q018",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Kenal pasti tanggungjawab rakyat.\n\nMenyumbang tenaga untuk projek kerajaan dalam sistem tradisional.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesetiaan"
+        },
+        {
+          "id": "B",
+          "text": "Kerahan tenaga"
+        },
+        {
+          "id": "C",
+          "text": "Pembayaran hasil"
+        },
+        {
+          "id": "D",
+          "text": "Pertahanan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kerahan tenaga: Menyumbang tenaga untuk projek kerajaan dalam sistem tradisional.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q019",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Kenal pasti tanggungjawab rakyat.\n\nMenyerahkan sebahagian hasil kepada pemerintah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesetiaan"
+        },
+        {
+          "id": "B",
+          "text": "Kerahan tenaga"
+        },
+        {
+          "id": "C",
+          "text": "Pembayaran hasil"
+        },
+        {
+          "id": "D",
+          "text": "Pertahanan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pembayaran hasil: Menyerahkan sebahagian hasil kepada pemerintah.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q020",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Kenal pasti tanggungjawab rakyat.\n\nMembantu melindungi kerajaan daripada ancaman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesetiaan"
+        },
+        {
+          "id": "B",
+          "text": "Kerahan tenaga"
+        },
+        {
+          "id": "C",
+          "text": "Pembayaran hasil"
+        },
+        {
+          "id": "D",
+          "text": "Pertahanan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pertahanan: Membantu melindungi kerajaan daripada ancaman.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q021",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Apakah tanggungjawab pemerintah?\n\nMengawal ancaman terhadap keselamatan penduduk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menegakkan keadilan"
+        },
+        {
+          "id": "B",
+          "text": "Menjaga kebajikan"
+        },
+        {
+          "id": "C",
+          "text": "Mengurus hubungan luar"
+        },
+        {
+          "id": "D",
+          "text": "Menjamin keamanan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Menjamin keamanan: Mengawal ancaman terhadap keselamatan penduduk.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q022",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Apakah tanggungjawab pemerintah?\n\nMengadili kes berdasarkan peraturan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menegakkan keadilan"
+        },
+        {
+          "id": "B",
+          "text": "Menjaga kebajikan"
+        },
+        {
+          "id": "C",
+          "text": "Mengurus hubungan luar"
+        },
+        {
+          "id": "D",
+          "text": "Menjamin keamanan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Menegakkan keadilan: Mengadili kes berdasarkan peraturan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q023",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Apakah tanggungjawab pemerintah?\n\nMengambil berat keperluan rakyat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menegakkan keadilan"
+        },
+        {
+          "id": "B",
+          "text": "Menjaga kebajikan"
+        },
+        {
+          "id": "C",
+          "text": "Mengurus hubungan luar"
+        },
+        {
+          "id": "D",
+          "text": "Menjamin keamanan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Menjaga kebajikan: Mengambil berat keperluan rakyat.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q024",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Apakah tanggungjawab pemerintah?\n\nMenjalin hubungan dengan kerajaan lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menegakkan keadilan"
+        },
+        {
+          "id": "B",
+          "text": "Menjaga kebajikan"
+        },
+        {
+          "id": "C",
+          "text": "Mengurus hubungan luar"
+        },
+        {
+          "id": "D",
+          "text": "Menjamin keamanan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Mengurus hubungan luar: Menjalin hubungan dengan kerajaan lain.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q025",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Padankan simbol negara bangsa.\n\nObjek diraja menandakan kedudukan pemerintah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adat istiadat"
+        },
+        {
+          "id": "B",
+          "text": "Lambang kerajaan"
+        },
+        {
+          "id": "C",
+          "text": "Alat kebesaran"
+        },
+        {
+          "id": "D",
+          "text": "Bahasa"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Alat kebesaran: Objek diraja menandakan kedudukan pemerintah.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q026",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Padankan simbol negara bangsa.\n\nPertuturan bersama menyokong perhubungan masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adat istiadat"
+        },
+        {
+          "id": "B",
+          "text": "Lambang kerajaan"
+        },
+        {
+          "id": "C",
+          "text": "Alat kebesaran"
+        },
+        {
+          "id": "D",
+          "text": "Bahasa"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Bahasa: Pertuturan bersama menyokong perhubungan masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q027",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Padankan simbol negara bangsa.\n\nUpacara rasmi menunjukkan tradisi pemerintahan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adat istiadat"
+        },
+        {
+          "id": "B",
+          "text": "Lambang kerajaan"
+        },
+        {
+          "id": "C",
+          "text": "Alat kebesaran"
+        },
+        {
+          "id": "D",
+          "text": "Bahasa"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Adat istiadat: Upacara rasmi menunjukkan tradisi pemerintahan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q028",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Padankan simbol negara bangsa.\n\nTanda pengenalan mencerminkan identiti kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adat istiadat"
+        },
+        {
+          "id": "B",
+          "text": "Lambang kerajaan"
+        },
+        {
+          "id": "C",
+          "text": "Alat kebesaran"
+        },
+        {
+          "id": "D",
+          "text": "Bahasa"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Lambang kerajaan: Tanda pengenalan mencerminkan identiti kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q029",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Kenal pasti bentuk hubungan kuasa.\n\nWilayah dikuasai melalui tindakan ketenteraan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengiktirafan"
+        },
+        {
+          "id": "B",
+          "text": "Penaklukan"
+        },
+        {
+          "id": "C",
+          "text": "Perkahwinan diraja"
+        },
+        {
+          "id": "D",
+          "text": "Diplomasi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Penaklukan: Wilayah dikuasai melalui tindakan ketenteraan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q030",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Kenal pasti bentuk hubungan kuasa.\n\nIkatan keluarga mengukuhkan pertalian kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengiktirafan"
+        },
+        {
+          "id": "B",
+          "text": "Penaklukan"
+        },
+        {
+          "id": "C",
+          "text": "Perkahwinan diraja"
+        },
+        {
+          "id": "D",
+          "text": "Diplomasi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perkahwinan diraja: Ikatan keluarga mengukuhkan pertalian kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q031",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Kenal pasti bentuk hubungan kuasa.\n\nUtusan merundingkan hubungan bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengiktirafan"
+        },
+        {
+          "id": "B",
+          "text": "Penaklukan"
+        },
+        {
+          "id": "C",
+          "text": "Perkahwinan diraja"
+        },
+        {
+          "id": "D",
+          "text": "Diplomasi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Diplomasi: Utusan merundingkan hubungan bersama.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q032",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Kenal pasti bentuk hubungan kuasa.\n\nKerajaan lain menerima kedudukan sesebuah pemerintah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengiktirafan"
+        },
+        {
+          "id": "B",
+          "text": "Penaklukan"
+        },
+        {
+          "id": "C",
+          "text": "Perkahwinan diraja"
+        },
+        {
+          "id": "D",
+          "text": "Diplomasi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pengiktirafan: Kerajaan lain menerima kedudukan sesebuah pemerintah.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q033",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Apakah fungsi undang-undang?\n\nLarangan jenayah membantu kehidupan aman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ketenteraman"
+        },
+        {
+          "id": "B",
+          "text": "Panduan tugas"
+        },
+        {
+          "id": "C",
+          "text": "Penyelesaian pertikaian"
+        },
+        {
+          "id": "D",
+          "text": "Keyakinan pedagang"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Ketenteraman: Larangan jenayah membantu kehidupan aman.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q034",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Apakah fungsi undang-undang?\n\nTanggungjawab nakhoda dan anak kapal diperjelas.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ketenteraman"
+        },
+        {
+          "id": "B",
+          "text": "Panduan tugas"
+        },
+        {
+          "id": "C",
+          "text": "Penyelesaian pertikaian"
+        },
+        {
+          "id": "D",
+          "text": "Keyakinan pedagang"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Panduan tugas: Tanggungjawab nakhoda dan anak kapal diperjelas.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q035",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Apakah fungsi undang-undang?\n\nPerselisihan mempunyai aturan pengadilan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ketenteraman"
+        },
+        {
+          "id": "B",
+          "text": "Panduan tugas"
+        },
+        {
+          "id": "C",
+          "text": "Penyelesaian pertikaian"
+        },
+        {
+          "id": "D",
+          "text": "Keyakinan pedagang"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Penyelesaian pertikaian: Perselisihan mempunyai aturan pengadilan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q036",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Apakah fungsi undang-undang?\n\nPeraturan niaga yang jelas menggalakkan urusan pelabuhan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ketenteraman"
+        },
+        {
+          "id": "B",
+          "text": "Panduan tugas"
+        },
+        {
+          "id": "C",
+          "text": "Penyelesaian pertikaian"
+        },
+        {
+          "id": "D",
+          "text": "Keyakinan pedagang"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Keyakinan pedagang: Peraturan niaga yang jelas menggalakkan urusan pelabuhan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q037",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Padankan bukti dengan ciri kerajaan.\n\nMenunjukkan susunan pentadbiran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peta pengaruh"
+        },
+        {
+          "id": "B",
+          "text": "Rekod hasil"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian luar"
+        },
+        {
+          "id": "D",
+          "text": "Catatan pembesar"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Catatan pembesar: Menunjukkan susunan pentadbiran.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q038",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Padankan bukti dengan ciri kerajaan.\n\nMenunjukkan lingkungan kekuasaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peta pengaruh"
+        },
+        {
+          "id": "B",
+          "text": "Rekod hasil"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian luar"
+        },
+        {
+          "id": "D",
+          "text": "Catatan pembesar"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Peta pengaruh: Menunjukkan lingkungan kekuasaan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q039",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Padankan bukti dengan ciri kerajaan.\n\nMenunjukkan hubungan ekonomi pemerintah dengan penduduk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peta pengaruh"
+        },
+        {
+          "id": "B",
+          "text": "Rekod hasil"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian luar"
+        },
+        {
+          "id": "D",
+          "text": "Catatan pembesar"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Rekod hasil: Menunjukkan hubungan ekonomi pemerintah dengan penduduk.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t4-b01-q040",
+      "form": 4,
+      "chapter": 1,
+      "prompt": "Padankan bukti dengan ciri kerajaan.\n\nMenunjukkan keupayaan menjalin diplomasi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peta pengaruh"
+        },
+        {
+          "id": "B",
+          "text": "Rekod hasil"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian luar"
+        },
+        {
+          "id": "D",
+          "text": "Catatan pembesar"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perjanjian luar: Menunjukkan keupayaan menjalin diplomasi.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    }
+  ]
+}

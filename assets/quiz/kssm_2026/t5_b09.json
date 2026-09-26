@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 5,
+  "chapter": 9,
+  "title": "Dasar Luar Malaysia",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t5_b09.json",
+  "questions": [
+    {
+      "id": "t5-b09-q001",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Kenal pasti organisasi antarabangsa.\n\nPertubuhan dunia bagi keamanan dan kerjasama antarabangsa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "PBB"
+        },
+        {
+          "id": "B",
+          "text": "Komanwel"
+        },
+        {
+          "id": "C",
+          "text": "ASEAN"
+        },
+        {
+          "id": "D",
+          "text": "OIC"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "PBB: Pertubuhan dunia bagi keamanan dan kerjasama antarabangsa.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q002",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Kenal pasti organisasi antarabangsa.\n\nJaringan negara yang kebanyakannya mempunyai sejarah hubungan dengan Britain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "PBB"
+        },
+        {
+          "id": "B",
+          "text": "Komanwel"
+        },
+        {
+          "id": "C",
+          "text": "ASEAN"
+        },
+        {
+          "id": "D",
+          "text": "OIC"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Komanwel: Jaringan negara yang kebanyakannya mempunyai sejarah hubungan dengan Britain.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q003",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Kenal pasti organisasi antarabangsa.\n\nPertubuhan kerjasama serantau Asia Tenggara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "PBB"
+        },
+        {
+          "id": "B",
+          "text": "Komanwel"
+        },
+        {
+          "id": "C",
+          "text": "ASEAN"
+        },
+        {
+          "id": "D",
+          "text": "OIC"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "ASEAN: Pertubuhan kerjasama serantau Asia Tenggara.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q004",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Kenal pasti organisasi antarabangsa.\n\nPertubuhan kerjasama negara-negara Islam.",
+      "options": [
+        {
+          "id": "A",
+          "text": "PBB"
+        },
+        {
+          "id": "B",
+          "text": "Komanwel"
+        },
+        {
+          "id": "C",
+          "text": "ASEAN"
+        },
+        {
+          "id": "D",
+          "text": "OIC"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "OIC: Pertubuhan kerjasama negara-negara Islam.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q005",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Padankan organisasi atau konsep.\n\nGerakan negara yang tidak terikat secara formal pada blok kuasa besar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ZOPFAN"
+        },
+        {
+          "id": "B",
+          "text": "Diplomasi dua hala"
+        },
+        {
+          "id": "C",
+          "text": "Diplomasi pelbagai hala"
+        },
+        {
+          "id": "D",
+          "text": "NAM"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "NAM: Gerakan negara yang tidak terikat secara formal pada blok kuasa besar.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q006",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Padankan organisasi atau konsep.\n\nKonsep zon aman, bebas dan berkecuali di Asia Tenggara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ZOPFAN"
+        },
+        {
+          "id": "B",
+          "text": "Diplomasi dua hala"
+        },
+        {
+          "id": "C",
+          "text": "Diplomasi pelbagai hala"
+        },
+        {
+          "id": "D",
+          "text": "NAM"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "ZOPFAN: Konsep zon aman, bebas dan berkecuali di Asia Tenggara.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q007",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Padankan organisasi atau konsep.\n\nHubungan yang melibatkan dua negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ZOPFAN"
+        },
+        {
+          "id": "B",
+          "text": "Diplomasi dua hala"
+        },
+        {
+          "id": "C",
+          "text": "Diplomasi pelbagai hala"
+        },
+        {
+          "id": "D",
+          "text": "NAM"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Diplomasi dua hala: Hubungan yang melibatkan dua negara.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q008",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Padankan organisasi atau konsep.\n\nKerjasama yang melibatkan banyak negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ZOPFAN"
+        },
+        {
+          "id": "B",
+          "text": "Diplomasi dua hala"
+        },
+        {
+          "id": "C",
+          "text": "Diplomasi pelbagai hala"
+        },
+        {
+          "id": "D",
+          "text": "NAM"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Diplomasi pelbagai hala: Kerjasama yang melibatkan banyak negara.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q009",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Apakah faktor dasar luar?\n\nAncaman terhadap negara mempengaruhi pilihan hubungan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sejarah"
+        },
+        {
+          "id": "B",
+          "text": "Geografi"
+        },
+        {
+          "id": "C",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "D",
+          "text": "Ekonomi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Keselamatan: Ancaman terhadap negara mempengaruhi pilihan hubungan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q010",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Apakah faktor dasar luar?\n\nPerdagangan dan pelaburan menjadi pertimbangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sejarah"
+        },
+        {
+          "id": "B",
+          "text": "Geografi"
+        },
+        {
+          "id": "C",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "D",
+          "text": "Ekonomi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Ekonomi: Perdagangan dan pelaburan menjadi pertimbangan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q011",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Apakah faktor dasar luar?\n\nPengalaman penjajahan membentuk hubungan serta pendirian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sejarah"
+        },
+        {
+          "id": "B",
+          "text": "Geografi"
+        },
+        {
+          "id": "C",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "D",
+          "text": "Ekonomi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Sejarah: Pengalaman penjajahan membentuk hubungan serta pendirian.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q012",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Apakah faktor dasar luar?\n\nKedudukan serantau mempengaruhi keutamaan negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sejarah"
+        },
+        {
+          "id": "B",
+          "text": "Geografi"
+        },
+        {
+          "id": "C",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "D",
+          "text": "Ekonomi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Geografi: Kedudukan serantau mempengaruhi keutamaan negara.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q013",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Padankan peristiwa dengan tahun.\n\nPTM menyertai PBB selepas merdeka.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1974"
+        },
+        {
+          "id": "B",
+          "text": "1957"
+        },
+        {
+          "id": "C",
+          "text": "1967"
+        },
+        {
+          "id": "D",
+          "text": "1971"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "1957: PTM menyertai PBB selepas merdeka.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q014",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Padankan peristiwa dengan tahun.\n\nASEAN ditubuhkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1974"
+        },
+        {
+          "id": "B",
+          "text": "1957"
+        },
+        {
+          "id": "C",
+          "text": "1967"
+        },
+        {
+          "id": "D",
+          "text": "1971"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "1967: ASEAN ditubuhkan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q015",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Padankan peristiwa dengan tahun.\n\nDeklarasi ZOPFAN diumumkan di Kuala Lumpur.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1974"
+        },
+        {
+          "id": "B",
+          "text": "1957"
+        },
+        {
+          "id": "C",
+          "text": "1967"
+        },
+        {
+          "id": "D",
+          "text": "1971"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "1971: Deklarasi ZOPFAN diumumkan di Kuala Lumpur.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q016",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Padankan peristiwa dengan tahun.\n\nMalaysia menjalin hubungan diplomatik dengan Republik Rakyat China.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1974"
+        },
+        {
+          "id": "B",
+          "text": "1957"
+        },
+        {
+          "id": "C",
+          "text": "1967"
+        },
+        {
+          "id": "D",
+          "text": "1971"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "1974: Malaysia menjalin hubungan diplomatik dengan Republik Rakyat China.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q017",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Kenal pasti anggota pengasas ASEAN selain Malaysia.\n\nNegara kepulauan yang berpusat di Jakarta ketika ASEAN diasaskan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Indonesia"
+        },
+        {
+          "id": "B",
+          "text": "Thailand"
+        },
+        {
+          "id": "C",
+          "text": "Filipina"
+        },
+        {
+          "id": "D",
+          "text": "Singapura"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Indonesia: Negara kepulauan yang berpusat di Jakarta ketika ASEAN diasaskan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q018",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Kenal pasti anggota pengasas ASEAN selain Malaysia.\n\nNegara tempat Deklarasi Bangkok ditandatangani.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Indonesia"
+        },
+        {
+          "id": "B",
+          "text": "Thailand"
+        },
+        {
+          "id": "C",
+          "text": "Filipina"
+        },
+        {
+          "id": "D",
+          "text": "Singapura"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Thailand: Negara tempat Deklarasi Bangkok ditandatangani.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q019",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Kenal pasti anggota pengasas ASEAN selain Malaysia.\n\nNegara kepulauan yang berpusat di Manila.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Indonesia"
+        },
+        {
+          "id": "B",
+          "text": "Thailand"
+        },
+        {
+          "id": "C",
+          "text": "Filipina"
+        },
+        {
+          "id": "D",
+          "text": "Singapura"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Filipina: Negara kepulauan yang berpusat di Manila.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q020",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Kenal pasti anggota pengasas ASEAN selain Malaysia.\n\nNegara kota yang menyertai ASEAN selepas berpisah daripada Malaysia.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Indonesia"
+        },
+        {
+          "id": "B",
+          "text": "Thailand"
+        },
+        {
+          "id": "C",
+          "text": "Filipina"
+        },
+        {
+          "id": "D",
+          "text": "Singapura"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Singapura: Negara kota yang menyertai ASEAN selepas berpisah daripada Malaysia.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q021",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Apakah prinsip dasar luar?\n\nHak negara lain menentukan urusannya diiktiraf.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tidak campur tangan"
+        },
+        {
+          "id": "B",
+          "text": "Penyelesaian aman"
+        },
+        {
+          "id": "C",
+          "text": "Kerjasama saling menguntungkan"
+        },
+        {
+          "id": "D",
+          "text": "Menghormati kedaulatan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Menghormati kedaulatan: Hak negara lain menentukan urusannya diiktiraf.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q022",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Apakah prinsip dasar luar?\n\nPemerintahan dalaman negara lain tidak dipaksakan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tidak campur tangan"
+        },
+        {
+          "id": "B",
+          "text": "Penyelesaian aman"
+        },
+        {
+          "id": "C",
+          "text": "Kerjasama saling menguntungkan"
+        },
+        {
+          "id": "D",
+          "text": "Menghormati kedaulatan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Tidak campur tangan: Pemerintahan dalaman negara lain tidak dipaksakan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q023",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Apakah prinsip dasar luar?\n\nPertikaian dibawa ke rundingan atau saluran undang-undang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tidak campur tangan"
+        },
+        {
+          "id": "B",
+          "text": "Penyelesaian aman"
+        },
+        {
+          "id": "C",
+          "text": "Kerjasama saling menguntungkan"
+        },
+        {
+          "id": "D",
+          "text": "Menghormati kedaulatan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Penyelesaian aman: Pertikaian dibawa ke rundingan atau saluran undang-undang.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q024",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Apakah prinsip dasar luar?\n\nHubungan ekonomi mengambil kira manfaat kedua-dua pihak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tidak campur tangan"
+        },
+        {
+          "id": "B",
+          "text": "Penyelesaian aman"
+        },
+        {
+          "id": "C",
+          "text": "Kerjasama saling menguntungkan"
+        },
+        {
+          "id": "D",
+          "text": "Menghormati kedaulatan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kerjasama saling menguntungkan: Hubungan ekonomi mengambil kira manfaat kedua-dua pihak.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q025",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Padankan sumbangan melalui PBB.\n\nAnggota dihantar membantu kestabilan kawasan konflik.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bantuan kemanusiaan"
+        },
+        {
+          "id": "B",
+          "text": "Sokongan dekolonisasi"
+        },
+        {
+          "id": "C",
+          "text": "Misi pengaman"
+        },
+        {
+          "id": "D",
+          "text": "Perbahasan antarabangsa"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Misi pengaman: Anggota dihantar membantu kestabilan kawasan konflik.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q026",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Padankan sumbangan melalui PBB.\n\nWakil negara menyampaikan pendirian dalam forum dunia.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bantuan kemanusiaan"
+        },
+        {
+          "id": "B",
+          "text": "Sokongan dekolonisasi"
+        },
+        {
+          "id": "C",
+          "text": "Misi pengaman"
+        },
+        {
+          "id": "D",
+          "text": "Perbahasan antarabangsa"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Perbahasan antarabangsa: Wakil negara menyampaikan pendirian dalam forum dunia.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q027",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Padankan sumbangan melalui PBB.\n\nKeperluan mangsa krisis disalurkan melalui kerjasama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bantuan kemanusiaan"
+        },
+        {
+          "id": "B",
+          "text": "Sokongan dekolonisasi"
+        },
+        {
+          "id": "C",
+          "text": "Misi pengaman"
+        },
+        {
+          "id": "D",
+          "text": "Perbahasan antarabangsa"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Bantuan kemanusiaan: Keperluan mangsa krisis disalurkan melalui kerjasama.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q028",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Padankan sumbangan melalui PBB.\n\nHak wilayah dijajah menuju kemerdekaan dipertahankan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bantuan kemanusiaan"
+        },
+        {
+          "id": "B",
+          "text": "Sokongan dekolonisasi"
+        },
+        {
+          "id": "C",
+          "text": "Misi pengaman"
+        },
+        {
+          "id": "D",
+          "text": "Perbahasan antarabangsa"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Sokongan dekolonisasi: Hak wilayah dijajah menuju kemerdekaan dipertahankan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q029",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Kenal pasti manfaat kerjasama serantau.\n\nHubungan dagang memperluas pembeli barangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebudayaan"
+        },
+        {
+          "id": "B",
+          "text": "Pasaran"
+        },
+        {
+          "id": "C",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "D",
+          "text": "Pendidikan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pasaran: Hubungan dagang memperluas pembeli barangan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q030",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Kenal pasti manfaat kerjasama serantau.\n\nNegara jiran menyelaras usaha menghadapi ancaman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebudayaan"
+        },
+        {
+          "id": "B",
+          "text": "Pasaran"
+        },
+        {
+          "id": "C",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "D",
+          "text": "Pendidikan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Keselamatan: Negara jiran menyelaras usaha menghadapi ancaman.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q031",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Kenal pasti manfaat kerjasama serantau.\n\nPertukaran pelajar dan ilmu meningkatkan pembelajaran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebudayaan"
+        },
+        {
+          "id": "B",
+          "text": "Pasaran"
+        },
+        {
+          "id": "C",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "D",
+          "text": "Pendidikan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pendidikan: Pertukaran pelajar dan ilmu meningkatkan pembelajaran.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q032",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Kenal pasti manfaat kerjasama serantau.\n\nProgram seni membina persefahaman masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebudayaan"
+        },
+        {
+          "id": "B",
+          "text": "Pasaran"
+        },
+        {
+          "id": "C",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "D",
+          "text": "Pendidikan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kebudayaan: Program seni membina persefahaman masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q033",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Apakah perubahan pendekatan Malaysia?\n\nDasar awal merdeka dipengaruhi keselamatan dan hubungan British.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pro-Barat awal"
+        },
+        {
+          "id": "B",
+          "text": "Pendirian berkecuali"
+        },
+        {
+          "id": "C",
+          "text": "Hubungan lebih luas"
+        },
+        {
+          "id": "D",
+          "text": "Kerjasama Selatan-Selatan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pro-Barat awal: Dasar awal merdeka dipengaruhi keselamatan dan hubungan British.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q034",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Apakah perubahan pendekatan Malaysia?\n\nNegara tidak mahu terikat dengan persaingan blok besar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pro-Barat awal"
+        },
+        {
+          "id": "B",
+          "text": "Pendirian berkecuali"
+        },
+        {
+          "id": "C",
+          "text": "Hubungan lebih luas"
+        },
+        {
+          "id": "D",
+          "text": "Kerjasama Selatan-Selatan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pendirian berkecuali: Negara tidak mahu terikat dengan persaingan blok besar.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q035",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Apakah perubahan pendekatan Malaysia?\n\nHubungan dibina dengan negara berbeza sistem politik.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pro-Barat awal"
+        },
+        {
+          "id": "B",
+          "text": "Pendirian berkecuali"
+        },
+        {
+          "id": "C",
+          "text": "Hubungan lebih luas"
+        },
+        {
+          "id": "D",
+          "text": "Kerjasama Selatan-Selatan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Hubungan lebih luas: Hubungan dibina dengan negara berbeza sistem politik.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q036",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Apakah perubahan pendekatan Malaysia?\n\nNegara membangun berkongsi pengalaman dan kepentingan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pro-Barat awal"
+        },
+        {
+          "id": "B",
+          "text": "Pendirian berkecuali"
+        },
+        {
+          "id": "C",
+          "text": "Hubungan lebih luas"
+        },
+        {
+          "id": "D",
+          "text": "Kerjasama Selatan-Selatan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kerjasama Selatan-Selatan: Negara membangun berkongsi pengalaman dan kepentingan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q037",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Padankan instrumen diplomasi.\n\nPejabat perwakilan negara di negara lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perjanjian"
+        },
+        {
+          "id": "B",
+          "text": "Sidang kemuncak"
+        },
+        {
+          "id": "C",
+          "text": "Utusan rasmi"
+        },
+        {
+          "id": "D",
+          "text": "Kedutaan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kedutaan: Pejabat perwakilan negara di negara lain.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q038",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Padankan instrumen diplomasi.\n\nDokumen persetujuan hubungan antara pihak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perjanjian"
+        },
+        {
+          "id": "B",
+          "text": "Sidang kemuncak"
+        },
+        {
+          "id": "C",
+          "text": "Utusan rasmi"
+        },
+        {
+          "id": "D",
+          "text": "Kedutaan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perjanjian: Dokumen persetujuan hubungan antara pihak.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q039",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Padankan instrumen diplomasi.\n\nPertemuan peringkat pemimpin tertinggi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perjanjian"
+        },
+        {
+          "id": "B",
+          "text": "Sidang kemuncak"
+        },
+        {
+          "id": "C",
+          "text": "Utusan rasmi"
+        },
+        {
+          "id": "D",
+          "text": "Kedutaan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Sidang kemuncak: Pertemuan peringkat pemimpin tertinggi.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t5-b09-q040",
+      "form": 5,
+      "chapter": 9,
+      "prompt": "Padankan instrumen diplomasi.\n\nWakil dihantar menyampaikan pendirian kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perjanjian"
+        },
+        {
+          "id": "B",
+          "text": "Sidang kemuncak"
+        },
+        {
+          "id": "C",
+          "text": "Utusan rasmi"
+        },
+        {
+          "id": "D",
+          "text": "Kedutaan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Utusan rasmi: Wakil dihantar menyampaikan pendirian kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    }
+  ]
+}

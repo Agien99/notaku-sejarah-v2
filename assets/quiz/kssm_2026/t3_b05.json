@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 3,
+  "chapter": 5,
+  "title": "Pentadbiran Barat di Sarawak dan Sabah",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t3_b05.json",
+  "questions": [
+    {
+      "id": "t3-b05-q001",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Kenal pasti tokoh atau organisasi.\n\nPengasas pemerintahan keluarga Brooke di Sarawak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "James Brooke"
+        },
+        {
+          "id": "B",
+          "text": "Charles Brooke"
+        },
+        {
+          "id": "C",
+          "text": "SBUB"
+        },
+        {
+          "id": "D",
+          "text": "Kesultanan Brunei"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "James Brooke: Pengasas pemerintahan keluarga Brooke di Sarawak.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q002",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Kenal pasti tokoh atau organisasi.\n\nPengganti James Brooke yang meluaskan wilayah Sarawak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "James Brooke"
+        },
+        {
+          "id": "B",
+          "text": "Charles Brooke"
+        },
+        {
+          "id": "C",
+          "text": "SBUB"
+        },
+        {
+          "id": "D",
+          "text": "Kesultanan Brunei"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Charles Brooke: Pengganti James Brooke yang meluaskan wilayah Sarawak.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q003",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Kenal pasti tokoh atau organisasi.\n\nSyarikat berpiagam yang mentadbir Borneo Utara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "James Brooke"
+        },
+        {
+          "id": "B",
+          "text": "Charles Brooke"
+        },
+        {
+          "id": "C",
+          "text": "SBUB"
+        },
+        {
+          "id": "D",
+          "text": "Kesultanan Brunei"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "SBUB: Syarikat berpiagam yang mentadbir Borneo Utara.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q004",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Kenal pasti tokoh atau organisasi.\n\nKesultanan yang mempunyai pengaruh di sebahagian Sarawak dan Sabah sebelumnya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "James Brooke"
+        },
+        {
+          "id": "B",
+          "text": "Charles Brooke"
+        },
+        {
+          "id": "C",
+          "text": "SBUB"
+        },
+        {
+          "id": "D",
+          "text": "Kesultanan Brunei"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kesultanan Brunei: Kesultanan yang mempunyai pengaruh di sebahagian Sarawak dan Sabah sebelumnya.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q005",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Padankan wilayah dengan pentadbirnya.\n\nWilayah yang diperintah dinasti Brooke.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sabah"
+        },
+        {
+          "id": "B",
+          "text": "Labuan"
+        },
+        {
+          "id": "C",
+          "text": "Brunei"
+        },
+        {
+          "id": "D",
+          "text": "Sarawak"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Sarawak: Wilayah yang diperintah dinasti Brooke.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q006",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Padankan wilayah dengan pentadbirnya.\n\nWilayah utara Borneo yang ditadbir SBUB.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sabah"
+        },
+        {
+          "id": "B",
+          "text": "Labuan"
+        },
+        {
+          "id": "C",
+          "text": "Brunei"
+        },
+        {
+          "id": "D",
+          "text": "Sarawak"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Sabah: Wilayah utara Borneo yang ditadbir SBUB.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q007",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Padankan wilayah dengan pentadbirnya.\n\nPulau yang diserahkan kepada British pada 1846.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sabah"
+        },
+        {
+          "id": "B",
+          "text": "Labuan"
+        },
+        {
+          "id": "C",
+          "text": "Brunei"
+        },
+        {
+          "id": "D",
+          "text": "Sarawak"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Labuan: Pulau yang diserahkan kepada British pada 1846.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q008",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Padankan wilayah dengan pentadbirnya.\n\nKesultanan Borneo yang terus wujud selepas peluasan kuasa asing.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sabah"
+        },
+        {
+          "id": "B",
+          "text": "Labuan"
+        },
+        {
+          "id": "C",
+          "text": "Brunei"
+        },
+        {
+          "id": "D",
+          "text": "Sarawak"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Brunei: Kesultanan Borneo yang terus wujud selepas peluasan kuasa asing.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q009",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Kenal pasti strategi peluasan.\n\nPersetujuan bertulis digunakan untuk memperoleh kuasa wilayah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tekanan ketenteraan"
+        },
+        {
+          "id": "B",
+          "text": "Manipulasi pertikaian"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian"
+        },
+        {
+          "id": "D",
+          "text": "Pembelian hak"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perjanjian: Persetujuan bertulis digunakan untuk memperoleh kuasa wilayah.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q010",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Kenal pasti strategi peluasan.\n\nBayaran dibuat untuk mendapatkan kepentingan tertentu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tekanan ketenteraan"
+        },
+        {
+          "id": "B",
+          "text": "Manipulasi pertikaian"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian"
+        },
+        {
+          "id": "D",
+          "text": "Pembelian hak"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pembelian hak: Bayaran dibuat untuk mendapatkan kepentingan tertentu.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q011",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Kenal pasti strategi peluasan.\n\nAncaman senjata digunakan untuk memaksa penerimaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tekanan ketenteraan"
+        },
+        {
+          "id": "B",
+          "text": "Manipulasi pertikaian"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian"
+        },
+        {
+          "id": "D",
+          "text": "Pembelian hak"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Tekanan ketenteraan: Ancaman senjata digunakan untuk memaksa penerimaan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q012",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Kenal pasti strategi peluasan.\n\nKonflik setempat dimanfaatkan oleh pihak luar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tekanan ketenteraan"
+        },
+        {
+          "id": "B",
+          "text": "Manipulasi pertikaian"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian"
+        },
+        {
+          "id": "D",
+          "text": "Pembelian hak"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Manipulasi pertikaian: Konflik setempat dimanfaatkan oleh pihak luar.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q013",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Apakah perubahan pentadbiran?\n\nKawasan besar disusun kepada bahagian atau daerah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Undang-undang baharu"
+        },
+        {
+          "id": "B",
+          "text": "Pembahagian wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Pelantikan pegawai"
+        },
+        {
+          "id": "D",
+          "text": "Cukai baharu"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pembahagian wilayah: Kawasan besar disusun kepada bahagian atau daerah.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q014",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Apakah perubahan pentadbiran?\n\nPetugas asing ditempatkan mengurus urusan kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Undang-undang baharu"
+        },
+        {
+          "id": "B",
+          "text": "Pembahagian wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Pelantikan pegawai"
+        },
+        {
+          "id": "D",
+          "text": "Cukai baharu"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pelantikan pegawai: Petugas asing ditempatkan mengurus urusan kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q015",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Apakah perubahan pentadbiran?\n\nPenduduk perlu membayar hasil mengikut ketetapan penjajah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Undang-undang baharu"
+        },
+        {
+          "id": "B",
+          "text": "Pembahagian wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Pelantikan pegawai"
+        },
+        {
+          "id": "D",
+          "text": "Cukai baharu"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Cukai baharu: Penduduk perlu membayar hasil mengikut ketetapan penjajah.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q016",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Apakah perubahan pentadbiran?\n\nPeraturan baharu menggantikan sebahagian aturan tempatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Undang-undang baharu"
+        },
+        {
+          "id": "B",
+          "text": "Pembahagian wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Pelantikan pegawai"
+        },
+        {
+          "id": "D",
+          "text": "Cukai baharu"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Undang-undang baharu: Peraturan baharu menggantikan sebahagian aturan tempatan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q017",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Padankan peringkat kuasa.\n\nKeputusan utama pentadbiran seluruh wilayah diselaraskan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pusat"
+        },
+        {
+          "id": "B",
+          "text": "Bahagian"
+        },
+        {
+          "id": "C",
+          "text": "Daerah"
+        },
+        {
+          "id": "D",
+          "text": "Kampung"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pusat: Keputusan utama pentadbiran seluruh wilayah diselaraskan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q018",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Padankan peringkat kuasa.\n\nUnit besar Sarawak menghubungkan pusat dengan kawasan lebih kecil.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pusat"
+        },
+        {
+          "id": "B",
+          "text": "Bahagian"
+        },
+        {
+          "id": "C",
+          "text": "Daerah"
+        },
+        {
+          "id": "D",
+          "text": "Kampung"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Bahagian: Unit besar Sarawak menghubungkan pusat dengan kawasan lebih kecil.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q019",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Padankan peringkat kuasa.\n\nUnit setempat mengurus beberapa petempatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pusat"
+        },
+        {
+          "id": "B",
+          "text": "Bahagian"
+        },
+        {
+          "id": "C",
+          "text": "Daerah"
+        },
+        {
+          "id": "D",
+          "text": "Kampung"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Daerah: Unit setempat mengurus beberapa petempatan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q020",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Padankan peringkat kuasa.\n\nKetua komuniti mengendalikan urusan penduduk terdekat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pusat"
+        },
+        {
+          "id": "B",
+          "text": "Bahagian"
+        },
+        {
+          "id": "C",
+          "text": "Daerah"
+        },
+        {
+          "id": "D",
+          "text": "Kampung"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kampung: Ketua komuniti mengendalikan urusan penduduk terdekat.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q021",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Kenal pasti kepentingan ekonomi Barat.\n\nKayu dan sumber pedalaman boleh dieksport.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tanah"
+        },
+        {
+          "id": "B",
+          "text": "Lombong"
+        },
+        {
+          "id": "C",
+          "text": "Pelabuhan"
+        },
+        {
+          "id": "D",
+          "text": "Hasil hutan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Hasil hutan: Kayu dan sumber pedalaman boleh dieksport.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q022",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Kenal pasti kepentingan ekonomi Barat.\n\nKawasan luas boleh digunakan untuk tanaman komersial.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tanah"
+        },
+        {
+          "id": "B",
+          "text": "Lombong"
+        },
+        {
+          "id": "C",
+          "text": "Pelabuhan"
+        },
+        {
+          "id": "D",
+          "text": "Hasil hutan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Tanah: Kawasan luas boleh digunakan untuk tanaman komersial.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q023",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Kenal pasti kepentingan ekonomi Barat.\n\nSumber galian menjanjikan pendapatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tanah"
+        },
+        {
+          "id": "B",
+          "text": "Lombong"
+        },
+        {
+          "id": "C",
+          "text": "Pelabuhan"
+        },
+        {
+          "id": "D",
+          "text": "Hasil hutan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Lombong: Sumber galian menjanjikan pendapatan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q024",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Kenal pasti kepentingan ekonomi Barat.\n\nLokasi pesisir menyokong perdagangan dan perkapalan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tanah"
+        },
+        {
+          "id": "B",
+          "text": "Lombong"
+        },
+        {
+          "id": "C",
+          "text": "Pelabuhan"
+        },
+        {
+          "id": "D",
+          "text": "Hasil hutan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pelabuhan: Lokasi pesisir menyokong perdagangan dan perkapalan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q025",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Apakah kesan kepada pemimpin tempatan?\n\nKeputusan utama dipindahkan kepada pentadbir asing.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peranan diubah"
+        },
+        {
+          "id": "B",
+          "text": "Tindak balas muncul"
+        },
+        {
+          "id": "C",
+          "text": "Kuasa berkurang"
+        },
+        {
+          "id": "D",
+          "text": "Hasil terjejas"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kuasa berkurang: Keputusan utama dipindahkan kepada pentadbir asing.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q026",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Apakah kesan kepada pemimpin tempatan?\n\nHak kutipan tradisional dikawal oleh kerajaan baharu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peranan diubah"
+        },
+        {
+          "id": "B",
+          "text": "Tindak balas muncul"
+        },
+        {
+          "id": "C",
+          "text": "Kuasa berkurang"
+        },
+        {
+          "id": "D",
+          "text": "Hasil terjejas"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Hasil terjejas: Hak kutipan tradisional dikawal oleh kerajaan baharu.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q027",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Apakah kesan kepada pemimpin tempatan?\n\nKetua tempatan dijadikan penghubung pentadbiran penjajah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peranan diubah"
+        },
+        {
+          "id": "B",
+          "text": "Tindak balas muncul"
+        },
+        {
+          "id": "C",
+          "text": "Kuasa berkurang"
+        },
+        {
+          "id": "D",
+          "text": "Hasil terjejas"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Peranan diubah: Ketua tempatan dijadikan penghubung pentadbiran penjajah.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q028",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Apakah kesan kepada pemimpin tempatan?\n\nSebahagian pemimpin menolak campur tangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peranan diubah"
+        },
+        {
+          "id": "B",
+          "text": "Tindak balas muncul"
+        },
+        {
+          "id": "C",
+          "text": "Kuasa berkurang"
+        },
+        {
+          "id": "D",
+          "text": "Hasil terjejas"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Tindak balas muncul: Sebahagian pemimpin menolak campur tangan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q029",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Padankan bentuk bukti.\n\nDokumen memberi kuasa kepada sebuah syarikat mentadbir.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Surat pemerintah"
+        },
+        {
+          "id": "B",
+          "text": "Piagam"
+        },
+        {
+          "id": "C",
+          "text": "Peta peluasan"
+        },
+        {
+          "id": "D",
+          "text": "Rekod cukai"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Piagam: Dokumen memberi kuasa kepada sebuah syarikat mentadbir.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q030",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Padankan bentuk bukti.\n\nMenunjukkan perubahan kawasan kawalan Brooke.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Surat pemerintah"
+        },
+        {
+          "id": "B",
+          "text": "Piagam"
+        },
+        {
+          "id": "C",
+          "text": "Peta peluasan"
+        },
+        {
+          "id": "D",
+          "text": "Rekod cukai"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Peta peluasan: Menunjukkan perubahan kawasan kawalan Brooke.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q031",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Padankan bentuk bukti.\n\nMencatat hasil yang dikutip daripada kegiatan ekonomi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Surat pemerintah"
+        },
+        {
+          "id": "B",
+          "text": "Piagam"
+        },
+        {
+          "id": "C",
+          "text": "Peta peluasan"
+        },
+        {
+          "id": "D",
+          "text": "Rekod cukai"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Rekod cukai: Mencatat hasil yang dikutip daripada kegiatan ekonomi.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q032",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Padankan bentuk bukti.\n\nMenerangkan hubungan atau bantahan dalam kalangan pemimpin.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Surat pemerintah"
+        },
+        {
+          "id": "B",
+          "text": "Piagam"
+        },
+        {
+          "id": "C",
+          "text": "Peta peluasan"
+        },
+        {
+          "id": "D",
+          "text": "Rekod cukai"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Surat pemerintah: Menerangkan hubungan atau bantahan dalam kalangan pemimpin.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q033",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Kenal pasti perbezaan penting.\n\nKuasa Brooke diwariskan dalam keluarga.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dinasti keluarga"
+        },
+        {
+          "id": "B",
+          "text": "Syarikat berpiagam"
+        },
+        {
+          "id": "C",
+          "text": "Pentadbiran kesultanan"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan kesukuan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Dinasti keluarga: Kuasa Brooke diwariskan dalam keluarga.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q034",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Kenal pasti perbezaan penting.\n\nSBUB mentadbir berasaskan hak korporat yang diberikan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dinasti keluarga"
+        },
+        {
+          "id": "B",
+          "text": "Syarikat berpiagam"
+        },
+        {
+          "id": "C",
+          "text": "Pentadbiran kesultanan"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan kesukuan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Syarikat berpiagam: SBUB mentadbir berasaskan hak korporat yang diberikan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q035",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Kenal pasti perbezaan penting.\n\nRaja tradisional mengetuai kerajaan sebelum peluasan asing.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dinasti keluarga"
+        },
+        {
+          "id": "B",
+          "text": "Syarikat berpiagam"
+        },
+        {
+          "id": "C",
+          "text": "Pentadbiran kesultanan"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan kesukuan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pentadbiran kesultanan: Raja tradisional mengetuai kerajaan sebelum peluasan asing.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q036",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Kenal pasti perbezaan penting.\n\nKomuniti dipimpin pemimpin kelompok setempat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dinasti keluarga"
+        },
+        {
+          "id": "B",
+          "text": "Syarikat berpiagam"
+        },
+        {
+          "id": "C",
+          "text": "Pentadbiran kesultanan"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan kesukuan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kepimpinan kesukuan: Komuniti dipimpin pemimpin kelompok setempat.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q037",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Apakah prinsip menilai penjajahan?\n\nDakwaan pentadbir disemak bersama bukti masyarakat tempatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Memahami kesan setempat"
+        },
+        {
+          "id": "B",
+          "text": "Membezakan wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Menghargai kedaulatan"
+        },
+        {
+          "id": "D",
+          "text": "Menilai sumber"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Menilai sumber: Dakwaan pentadbir disemak bersama bukti masyarakat tempatan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q038",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Apakah prinsip menilai penjajahan?\n\nPerubahan dilihat dari sudut kehidupan penduduk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Memahami kesan setempat"
+        },
+        {
+          "id": "B",
+          "text": "Membezakan wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Menghargai kedaulatan"
+        },
+        {
+          "id": "D",
+          "text": "Menilai sumber"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Memahami kesan setempat: Perubahan dilihat dari sudut kehidupan penduduk.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q039",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Apakah prinsip menilai penjajahan?\n\nPengalaman Sarawak tidak disamakan sepenuhnya dengan Sabah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Memahami kesan setempat"
+        },
+        {
+          "id": "B",
+          "text": "Membezakan wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Menghargai kedaulatan"
+        },
+        {
+          "id": "D",
+          "text": "Menilai sumber"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Membezakan wilayah: Pengalaman Sarawak tidak disamakan sepenuhnya dengan Sabah.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t3-b05-q040",
+      "form": 3,
+      "chapter": 5,
+      "prompt": "Apakah prinsip menilai penjajahan?\n\nHak masyarakat menentukan pemerintahan diiktiraf.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Memahami kesan setempat"
+        },
+        {
+          "id": "B",
+          "text": "Membezakan wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Menghargai kedaulatan"
+        },
+        {
+          "id": "D",
+          "text": "Menilai sumber"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Menghargai kedaulatan: Hak masyarakat menentukan pemerintahan diiktiraf.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    }
+  ]
+}

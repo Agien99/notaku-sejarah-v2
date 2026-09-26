@@ -1,0 +1,510 @@
+#1
+@Kenal pasti kerajaan Alam Melayu.|Funan|Angkor|Srivijaya|Majapahit
+Kerajaan awal di hilir Sungai Mekong.
+Kerajaan yang terkenal dengan Angkor Wat.
+Kerajaan maritim berpusat di Sumatera.
+Kerajaan besar berpusat di Jawa Timur.
+@Padankan kerajaan dengan kawasan.|Champa|Kedah Tua|Gangga Nagara|Angkor
+Kerajaan di pesisir Vietnam tengah.
+Kerajaan berkaitan Lembah Bujang.
+Kerajaan awal yang dikaitkan dengan Beruas, Perak.
+Kerajaan yang memanfaatkan kawasan Tonle Sap.
+@Kenal pasti aspek konsep Alam Melayu.|Geografi|Bahasa|Budaya|Hubungan sejarah
+Lingkungan kepulauan dan tanah besar serantau.
+Persamaan pertuturan dalam rumpun Melayu-Polinesia.
+Persamaan adat serta amalan masyarakat serantau.
+Jalinan kerajaan melalui perdagangan dan diplomasi.
+@Padankan lokasi pusat kerajaan.|Palembang|Trowulan|Lembah Bujang|Tonle Sap
+Pusat yang dikaitkan dengan Srivijaya.
+Kawasan pusat Majapahit di Jawa Timur.
+Kompleks tinggalan Kedah Tua.
+Tasik besar yang menyokong pertanian Angkor.
+@Apakah asas kemasyhuran kerajaan?|Pertanian|Perdagangan|Kekuatan tentera|Hubungan diplomatik
+Bekalan beras menyokong penduduk dan hasil kerajaan.
+Pelabuhan mengumpulkan barangan pedagang pelbagai wilayah.
+Angkatan mempertahankan wilayah serta pengaruh.
+Utusan menjalinkan hubungan dengan kerajaan luar.
+@Kenal pasti rakan hubungan luar.|China|India|Parsi|Arab
+Kerajaan Asia Timur yang menerima utusan Alam Melayu.
+Wilayah Asia Selatan yang membawa pengaruh Sanskrit.
+Wilayah Iran yang terlibat dalam jaringan perdagangan timur-barat.
+Wilayah Asia Barat yang turut menyebarkan Islam melalui jaringan pedagang.
+@Padankan bukti dengan maklumat.|Prasasti|Candi|Seramik asing|Catatan pengembara
+Tulisan pada batu membantu mengenal pemerintah dan peristiwa.
+Binaan agama membuktikan amalan kepercayaan.
+Barangan import menunjukkan hubungan perdagangan.
+Rekod pelawat menerangkan keadaan kerajaan yang disinggahi.
+@Apakah kelebihan kedudukan pelabuhan?|Laluan strategik|Perlindungan semula jadi|Sumber air|Hubungan pedalaman
+Berada pada jalan pelayaran utama.
+Teluk mengurangkan pendedahan kapal kepada ombak.
+Sungai membekalkan keperluan kapal dan penduduk.
+Laluan sungai membawa hasil hutan ke pesisir.
+@Kenal pasti bentuk hubungan kerajaan.|Perdagangan|Keagamaan|Diplomatik|Kebudayaan
+Pedagang membawa hasil tempatan untuk ditukar.
+Pendeta dan sami berkongsi ajaran.
+Utusan membawa surat pemerintah.
+Seni dan bahasa saling mempengaruhi masyarakat.
+@Padankan pengajaran dengan situasi.|Keterbukaan|Kebijaksanaan|Kerjasama|Pemeliharaan warisan
+Masyarakat menerima pengaruh luar secara terpilih.
+Pemerintah memanfaatkan kedudukan wilayahnya.
+Kerajaan menjalin hubungan yang menguntungkan bersama.
+Tapak kerajaan lama dilindungi daripada kerosakan.
+#2
+@Kenal pasti peranan pentadbiran.|Raja|Pembesar|Pegawai pelabuhan|Rakyat
+Memegang kedudukan tertinggi kerajaan.
+Membantu mengurus wilayah dan penduduk.
+Mengendalikan urusan kapal serta pedagang.
+Menjalankan kegiatan pengeluaran dan khidmat masyarakat.
+@Padankan sistem ekonomi.|Pertanian|Perdagangan|Perikanan|Pertukangan
+Mengusahakan tanaman makanan.
+Menjual beli barangan antara wilayah.
+Menangkap sumber hidupan air.
+Menghasilkan barangan menggunakan kemahiran khusus.
+@Kenal pasti hasil hutan.|Damar|Rotan|Gaharu|Kapur barus
+Getah resin pokok yang diperdagangkan.
+Bahan lentur untuk membuat anyaman dan perabot.
+Kayu beraroma yang bernilai dalam perdagangan.
+Bahan harum daripada pokok tertentu, terkenal sebagai hasil serantau.
+@Padankan kemudahan pertanian.|Baray|Terusan|Empangan|Sawah
+Takungan air besar dalam kerajaan Angkor.
+Saluran membawa air ke tanaman.
+Binaan menahan dan mengawal aliran air.
+Kawasan tanaman padi berair.
+@Apakah faktor pertanian yang ditunjukkan?|Tanah subur|Bekalan air|Tenaga kerja|Penyimpanan hasil
+Mendapan sungai menyokong pertumbuhan tanaman.
+Pengairan mengurangkan pergantungan pada hujan semata-mata.
+Penduduk bekerjasama mengusahakan ladang.
+Jelapang melindungi bekalan selepas tuaian.
+@Kenal pasti sumber perdagangan.|Hasil pertanian|Hasil laut|Hasil lombong|Barangan buatan
+Beras dan rempah dibawa ke pasar.
+Ikan dan kulit penyu menjadi barangan tukaran sejarah.
+Emas dan bijih timah diperoleh daripada bumi.
+Tembikar serta perhiasan dihasilkan oleh tukang.
+@Padankan urusan pelabuhan.|Cukai|Timbangan|Gudang|Bekalan kapal
+Bayaran hasil dikenakan terhadap perdagangan.
+Alat menentukan berat barangan.
+Tempat menyimpan muatan pedagang.
+Air dan makanan disediakan sebelum pelayaran.
+@Apakah fungsi pemerintahan?|Menjamin keselamatan|Mengurus hasil|Menyelaras pengairan|Mengatur perdagangan
+Rondaan mengurangkan ancaman lanun.
+Kutipan disusun untuk membiayai kerajaan.
+Pembinaan saluran air melibatkan banyak kampung.
+Peraturan pelabuhan memudahkan urusan pedagang.
+@Padankan masalah ekonomi dengan kesan langsung.|Tanaman rosak|Perdagangan terganggu|Bekalan berkurang|Kos perjalanan meningkat
+Banjir besar memusnahkan sawah sebelum dituai.
+Serangan lanun menyebabkan kapal menjauhi pelabuhan.
+Musim hasil buruk mengurangkan makanan di pasar.
+Laluan lebih jauh memerlukan lebih banyak masa dan perbelanjaan.
+@Kenal pasti hubungan ekonomi.|Pedalaman dengan pesisir|Petani dengan tukang|Kerajaan dengan pedagang|Pelabuhan dengan pelabuhan
+Hasil hutan dibawa melalui sungai ke tempat berlabuh.
+Beras ditukar dengan peralatan.
+Perlindungan disediakan sementara cukai membiayai pentadbiran.
+Kapal mengedarkan barangan antara pusat perdagangan.
+#3
+@Kenal pasti bidang sosiobudaya.|Bahasa|Tulisan|Persuratan|Seni bina
+Sistem pertuturan masyarakat.
+Simbol untuk merekod pertuturan dan maklumat.
+Penghasilan karya bertulis.
+Reka bentuk serta pembinaan bangunan.
+@Padankan bahasa sejarah.|Sanskrit|Melayu Kuno|Jawa Kuno|Khmer
+Bahasa India yang mempengaruhi istilah kerajaan awal.
+Bahasa pada banyak prasasti Srivijaya.
+Bahasa yang berkembang dalam persuratan kerajaan Jawa.
+Bahasa masyarakat utama kerajaan Angkor.
+@Kenal pasti sistem tulisan.|Pallava|Kawi|Jawi|Rumi
+Tulisan berasaskan India Selatan pada prasasti awal serantau.
+Tulisan yang berkembang dalam lingkungan Jawa kuno.
+Tulisan Melayu yang berasaskan huruf Arab.
+Tulisan Melayu yang berasaskan abjad Latin.
+@Padankan bentuk karya.|Prasasti|Hikayat|Puisi|Salasilah
+Catatan pada permukaan batu atau bahan tahan lama.
+Karya naratif tentang tokoh dan peristiwa.
+Karya berangkap yang menekankan bahasa berirama.
+Catatan hubungan keturunan sesuatu keluarga.
+@Kenal pasti golongan sosial.|Raja|Pembesar|Pendeta|Rakyat biasa
+Golongan pemerintah tertinggi.
+Golongan yang membantu pentadbiran raja.
+Golongan berpengetahuan agama dalam kerajaan Hindu.
+Penduduk yang menjalankan kegiatan seperti bertani dan berniaga.
+@Padankan fungsi bahasa.|Perhubungan|Pentadbiran|Perdagangan|Penyampaian ajaran
+Pertuturan membolehkan jiran memahami satu sama lain.
+Arahan kerajaan disampaikan kepada pegawai.
+Bahasa perantara memudahkan tawar-menawar pedagang asing.
+Teks agama menerangkan pegangan kepada penganut.
+@Kenal pasti bukti kemahiran binaan.|Susunan batu|Ukiran dinding|Sistem air|Reka bentuk menara
+Bahan disusun kukuh untuk menampung bangunan.
+Permukaan dihias dengan gambaran dan corak.
+Saluran mengurus bekalan serta aliran keluar.
+Struktur tinggi dirancang dengan bentuk tersendiri.
+@Apakah proses budaya yang berlaku?|Penyerapan|Penyesuaian|Pewarisan|Penyebaran
+Istilah asing diterima dalam bahasa tempatan.
+Pengaruh luar diubah mengikut keperluan masyarakat.
+Kemahiran disampaikan daripada generasi tua kepada muda.
+Karya dibawa ke kawasan baharu melalui hubungan masyarakat.
+@Padankan sumber dengan persoalan kajian.|Catatan istana|Batu bersurat|Tinggalan bangunan|Cerita lisan
+Membantu mengkaji urusan lingkungan pemerintah.
+Memberikan bukti bentuk aksara sesuatu zaman.
+Menunjukkan teknik dan bahan pembinaan.
+Menyimpan ingatan masyarakat melalui penceritaan.
+@Kenal pasti langkah menjaga warisan.|Dokumentasi|Pemuliharaan|Pengajaran|Penyelidikan
+Karya lama direkod dan dikatalogkan.
+Bangunan bersejarah dirawat oleh pakar.
+Bahasa serta seni tradisi diperkenalkan kepada pelajar.
+Makna tulisan lama dikaji dengan bukti.
+#4
+@Kenal pasti kepercayaan atau agama.|Animisme|Dinamisme|Hindu|Buddha
+Kepercayaan bahawa unsur alam mempunyai roh.
+Kepercayaan terhadap kekuatan luar biasa pada objek tertentu.
+Agama yang berkaitan pemujaan dewa seperti Shiva dan Vishnu.
+Agama yang berasaskan ajaran Siddhartha Gautama.
+@Padankan saluran penyebaran agama.|Pedagang|Pendeta|Pemerintah|Perkahwinan
+Hubungan jual beli membawa penganut bertemu masyarakat tempatan.
+Golongan agama menyampaikan ajaran secara khusus.
+Penerimaan oleh istana mempengaruhi perkembangan dalam kerajaan.
+Ikatan keluarga antara kelompok membantu pertukaran pegangan.
+@Kenal pasti warisan keagamaan.|Candi|Masjid|Prasasti agama|Arca keagamaan
+Binaan ibadat Hindu atau Buddha dalam kerajaan awal.
+Tempat ibadat berjemaah masyarakat Islam.
+Catatan batu yang memuatkan ajaran atau doa.
+Patung yang dikaitkan dengan pemujaan atau simbol kepercayaan.
+@Padankan ciri warisan kerajaan.|Institusi beraja|Adat istiadat|Undang-undang|Bahasa perantara
+Kepimpinan diwarisi dalam lingkungan dinasti.
+Upacara tertentu mengatur acara istana.
+Peraturan menyusun kehidupan masyarakat.
+Pertuturan bersama menghubungkan pedagang berbeza asal.
+@Kenal pasti nilai hidup bersama.|Toleransi|Hormat|Kerjasama|Kesederhanaan
+Memberi ruang kepada masyarakat berlainan pegangan.
+Tidak menghina tempat ibadat orang lain.
+Komuniti berganding tenaga menjaga kawasan warisan.
+Mengamalkan kehidupan tanpa berlebih-lebihan.
+@Padankan unsur pengaruh luar.|Istilah Sanskrit|Tulisan berasaskan Arab|Seni bina Hindu-Buddha|Tradisi pengajian Islam
+Perkataan berkaitan pemerintahan dipinjam daripada bahasa India.
+Huruf disesuaikan untuk membentuk tulisan Jawi.
+Candi menunjukkan hubungan budaya dengan Asia Selatan.
+Pembelajaran agama berkembang bersama ulama tempatan.
+@Apakah bukti perubahan budaya?|Pertukaran gelaran|Perkembangan aksara|Pembinaan tempat ibadat|Penghasilan karya
+Pemerintah menggunakan panggilan yang mencerminkan pegangan baharu.
+Sistem tulisan disesuaikan dengan bahasa setempat.
+Komuniti mendirikan bangunan untuk amalan agamanya.
+Penulis menghasilkan teks yang mengandungi nilai kepercayaan.
+@Padankan keunikan warisan ekonomi.|Pelabuhan entrepot|Pengairan|Kemahiran maritim|Hasil hutan
+Pusat menerima dan mengedarkan semula barangan.
+Sistem air menyokong pertanian kerajaan.
+Pengetahuan kapal dan pelayaran diwariskan.
+Sumber pedalaman dibawa ke pasaran luar.
+@Kenal pasti pendekatan kajian agama.|Mengkaji bukti|Menghormati konteks|Membezakan sumber|Mengelakkan stereotaip
+Ahli sejarah meneliti prasasti dan binaan.
+Amalan lama difahami berdasarkan keadaan zamannya.
+Legenda dibezakan daripada catatan sezaman.
+Satu amalan tidak dianggap mewakili semua masyarakat.
+@Apakah kepentingan warisan?|Identiti|Pengetahuan|Perpaduan|Kelangsungan budaya
+Masyarakat mengenali ciri yang membentuk dirinya.
+Tinggalan membantu generasi baharu memahami masa lalu.
+Penghargaan terhadap kepelbagaian mengeratkan hubungan.
+Amalan baik diteruskan tanpa memutuskan hubungan generasi.
+#5
+@Kenal pasti tokoh atau kuasa.|Parameswara|Sultan Mansur Shah|Tun Perak|Portugis
+Tokoh pengasas Melaka.
+Sultan yang dikaitkan dengan zaman kegemilangan Melaka.
+Bendahara terkenal yang mengukuhkan pentadbiran Melaka.
+Kuasa Eropah yang menawan Melaka pada 1511.
+@Padankan jawatan Melaka.|Bendahara|Penghulu Bendahari|Temenggung|Laksamana
+Penasihat utama sultan dan ketua pentadbir.
+Mengurus kewangan serta hasil kerajaan.
+Menjaga keselamatan dan ketenteraman dalam negeri.
+Mengetuai angkatan laut dan keselamatan perairan.
+@Kenal pasti urusan perdagangan.|Syahbandar|Nakhoda|Pedagang|Kiwi
+Pegawai yang mengurus pedagang di pelabuhan.
+Ketua yang memimpin sesebuah kapal.
+Individu yang menjalankan jual beli barangan.
+Pedagang yang menumpang kapal untuk berniaga.
+@Padankan undang-undang atau konsep.|Hukum Kanun Melaka|Undang-Undang Laut Melaka|Daulat|Derhaka
+Himpunan peraturan berkaitan pemerintahan dan kehidupan darat.
+Aturan pelayaran serta tanggungjawab di kapal.
+Kedudukan dan kewibawaan istimewa raja.
+Perbuatan melanggar kesetiaan terhadap raja.
+@Apakah faktor geografi Melaka?|Selat Melaka|Muara sungai|Pelabuhan terlindung|Pertemuan angin monsun
+Laluan utama perdagangan antara timur dengan barat.
+Pintu hubungan antara pesisir dan pedalaman.
+Kawasan berlabuh yang mengurangkan ancaman ombak.
+Keadaan pelayaran bermusim mendorong kapal menunggu dan berdagang.
+@Kenal pasti kemudahan pedagang.|Gudang|Timbang sukat|Mata wang|Bekalan air
+Tempat menyimpan muatan sebelum dijual.
+Piawaian yang membantu menentukan kuantiti barangan.
+Alat pertukaran yang memudahkan pembayaran.
+Keperluan kapal untuk meneruskan pelayaran.
+@Padankan hubungan luar.|Hubungan dengan China|Hubungan dengan Pasai|Perluasan wilayah|Perkahwinan diraja
+Memberikan pengiktirafan dan manfaat diplomatik kepada Melaka.
+Menghubungkan Melaka dengan sebuah pusat Islam di Sumatera.
+Menambahkan kawasan naungan kerajaan.
+Mengukuhkan pertalian politik melalui ikatan keluarga pemerintah.
+@Apakah peranan Melaka sebagai pusat Islam?|Pengajian|Persuratan|Dakwah|Pentadbiran berunsur Islam
+Ulama membimbing pelajar memahami ajaran.
+Karya agama ditulis dan disalin.
+Ajaran disebarkan melalui hubungan masyarakat dan perdagangan.
+Prinsip Islam mempengaruhi aturan kerajaan.
+@Padankan ancaman dengan kesannya.|Perebutan kuasa|Rasuah|Serangan luar|Perpecahan dalaman
+Persaingan jawatan melemahkan tumpuan pentadbiran.
+Penyelewengan mengurangkan kepercayaan terhadap pegawai.
+Tentera asing mengancam pusat pemerintahan.
+Ketiadaan muafakat menyukarkan pertahanan bersama.
+@Kenal pasti pengajaran daripada Melaka.|Kepimpinan cekap|Kesetiaan|Keadilan perdagangan|Kesiapsiagaan
+Pegawai berkebolehan membantu kerajaan berkembang.
+Rakyat menyokong usaha mempertahankan negara.
+Peraturan yang saksama menarik kepercayaan pedagang.
+Pertahanan perlu disediakan sebelum ancaman berlaku.
+#6
+@Kenal pasti tokoh atau kelompok.|Sultan Alauddin Riayat Shah II|Tun Sri Lanang|Raja Ali Haji|Orang Laut
+Pengasas Kesultanan Johor Riau pada 1528.
+Tokoh yang dikaitkan dengan penyusunan Sulalatus Salatin.
+Pengarang yang terkenal dengan Gurindam Dua Belas.
+Kelompok maritim yang membantu keselamatan dan pelayaran kerajaan.
+@Padankan pusat atau kawasan.|Johor|Riau|Lingga|Melaka
+Wilayah daratan utama kesinambungan kesultanan selepas kejatuhan Melaka.
+Kepulauan yang berkembang sebagai pusat perdagangan Johor Riau.
+Kepulauan yang menjadi sebahagian lingkungan kerajaan Johor Riau.
+Pusat lama yang ditawan Portugis pada 1511.
+@Kenal pasti pihak dalam persaingan serantau.|Johor|Aceh|Portugis|Belanda
+Kesultanan pewaris Melaka dalam persaingan tiga segi.
+Kerajaan Sumatera yang bersaing menguasai perdagangan selat.
+Kuasa Eropah yang menduduki Melaka sejak 1511.
+Kuasa yang bekerjasama dengan Johor menewaskan Portugis pada 1641.
+@Apakah tujuan perpindahan pusat kerajaan?|Keselamatan|Pertahanan|Akses perdagangan|Kelangsungan pemerintahan
+Mengelakkan kawasan yang terdedah kepada serangan segera.
+Memilih lokasi yang lebih mudah dikawal tentera.
+Mendekatkan pusat dengan laluan kapal dan pedagang.
+Memastikan institusi kerajaan terus berfungsi selepas pusat lama terganggu.
+@Padankan peranan pelabuhan.|Pusat pengumpulan|Pusat pengedaran|Tempat persinggahan|Pasaran antarabangsa
+Hasil pedalaman dihimpunkan sebelum dijual.
+Barangan dibawa semula ke pelabuhan lain.
+Kapal mendapatkan bekalan sebelum meneruskan perjalanan.
+Pedagang pelbagai wilayah berurus niaga bersama.
+@Kenal pasti khidmat kepada pedagang.|Keselamatan|Gudang|Pembaikan kapal|Bekalan makanan
+Rondaan melindungi pelayaran daripada gangguan.
+Muatan disimpan sementara menunggu pembeli.
+Kerosakan perahu dan kapal dibaiki.
+Keperluan anak kapal dibekalkan di pelabuhan.
+@Padankan istilah perdagangan.|Nakhoda|Syahbandar|Cukai|Naungan
+Pemimpin pelayaran sesebuah kapal.
+Pegawai pengurusan urusan pelabuhan.
+Bayaran hasil kerajaan daripada kegiatan ekonomi.
+Perlindungan pemerintah atau pembesar terhadap pedagang.
+@Kenal pasti bentuk karya.|Sulalatus Salatin|Gurindam Dua Belas|Tuhfat al-Nafis|Hikayat
+Karya yang turut dikenali sebagai Sejarah Melayu.
+Karya nasihat berangkap oleh Raja Ali Haji.
+Karya penting tentang sejarah Melayu dan Bugis.
+Bentuk karya naratif tradisional tentang tokoh atau peristiwa.
+@Apakah faktor perkembangan persuratan?|Penaungan istana|Kemahiran penulis|Penggunaan bahasa Melayu|Penyalinan naskhah
+Pemerintah memberi sokongan kepada kegiatan pengarang.
+Golongan terpelajar menghasilkan karya bermutu.
+Bahasa serantau memudahkan karya difahami ramai.
+Kandungan disebarkan melalui salinan tulisan tangan.
+@Padankan pengajaran sejarah Johor Riau.|Kecekalan|Diplomasi|Kerjasama maritim|Pemeliharaan ilmu
+Kerajaan diteruskan walaupun menghadapi serangan berulang.
+Hubungan kuasa luar digunakan untuk menangani persaingan.
+Pemerintah dan masyarakat laut saling menyokong keselamatan.
+Karya lama disimpan sebagai sumber generasi baharu.
+#7
+@Padankan kesultanan dengan pengasasnya dalam bab ini.|Pahang|Perak|Terengganu|Selangor
+Diasaskan oleh Sultan Muhammad Shah, putera Sultan Mansur Shah Melaka.
+Diasaskan oleh Sultan Muzaffar Shah I, putera Sultan Mahmud Shah Melaka.
+Diasaskan oleh Sultan Zainal Abidin I.
+Diasaskan oleh Raja Lumu yang bergelar Sultan Salehuddin Shah.
+@Padankan pusat warisan dengan negeri.|Pahang|Perak|Terengganu|Selangor
+Pekan merupakan bandar diraja negeri ini.
+Kuala Kangsar merupakan bandar diraja negeri ini.
+Istana Maziah terletak di ibu negeri ini.
+Bukit Malawati berkait dengan sejarah kesultanan negeri ini.
+@Padankan hubungan warisan.|Warisan Melaka|Pengaruh Johor|Keturunan Bugis|Hubungan kekeluargaan
+Pahang dan Perak meneruskan unsur pemerintahan kesultanan terdahulu.
+Pembentukan Terengganu berkait dengan lingkungan politik kesultanan selatan.
+Asal keluarga Raja Lumu membantu memahami pembentukan Selangor.
+Salasilah menghubungkan pemerintah antara negeri.
+@Kenal pasti unsur pemerintahan.|Sultan|Pembesar|Rakyat|Istana
+Ketua tertinggi kesultanan.
+Membantu pentadbiran kawasan dan urusan kerajaan.
+Penduduk yang menyokong kegiatan negeri.
+Pusat kediaman dan urusan pemerintah.
+@Padankan warisan perundangan.|Hukum Kanun Pahang|Adat|Undang-undang Islam|Peraturan perdagangan
+Himpunan hukum yang dikaitkan khusus dengan Kesultanan Pahang.
+Amalan masyarakat yang diwarisi dan menjadi aturan hidup.
+Hukum berasaskan ajaran agama yang mempengaruhi pentadbiran.
+Aturan kegiatan jual beli dan urusan pedagang.
+@Apakah peranan agama Islam?|Identiti kesultanan|Pendidikan|Perundangan|Hubungan masyarakat
+Gelaran dan amalan pemerintah mencerminkan pegangan agama.
+Pengajian agama membantu perkembangan ilmu.
+Prinsip agama mempengaruhi peraturan tertentu.
+Institusi ibadat menghimpunkan penduduk setempat.
+@Kenal pasti kegiatan ekonomi negeri.|Perlombongan|Pertanian|Perikanan|Perdagangan
+Pengeluaran bijih timah dan sumber bumi.
+Pengusahaan tanah untuk tanaman makanan.
+Penduduk pesisir memperoleh hasil laut.
+Pelabuhan dan pasar menghubungkan pengeluar dengan pembeli.
+@Padankan fungsi sungai dalam kesultanan.|Laluan pengangkutan|Sumber air|Lokasi petempatan|Hubungan pedalaman
+Perahu membawa penumpang dan muatan.
+Penduduk menggunakan air untuk kehidupan harian.
+Kampung dan pusat kerajaan berkembang di tebingnya.
+Hasil hutan disalurkan menuju pesisir.
+@Kenal pasti bukti kesinambungan warisan.|Salasilah|Alat kebesaran|Naskhah undang-undang|Karya persuratan
+Menunjukkan hubungan keturunan raja.
+Melambangkan kedudukan institusi beraja.
+Membolehkan aturan pentadbiran lama dikaji.
+Menyimpan bahasa dan pemikiran masyarakat.
+@Apakah prinsip mengkaji kesultanan?|Membandingkan bukti|Memahami kronologi|Menghormati kepelbagaian|Menjaga sumber
+Tarikh dan tokoh disemak menggunakan beberapa rujukan.
+Pengasasan dibezakan daripada perkembangan kemudian.
+Keunikan adat negeri tidak dianggap kelemahan.
+Dokumen istana dipelihara untuk penyelidikan.
+#8
+@Padankan kerajaan dengan cirinya.|Kedah|Kelantan|Negeri Sembilan|Perlis
+Kerajaan utara yang mempunyai sejarah pelabuhan Kedah Tua.
+Kerajaan di timur laut Semenanjung.
+Kerajaan yang terkenal dengan pengaruh Minangkabau.
+Kerajaan utara yang asalnya berada dalam lingkungan Kedah.
+@Kenal pasti tokoh pengasasan atau penyatuan.|Sultan Mudzaffar Shah|Long Yunus|Raja Melewar|Syed Hussin Jamalullail
+Nama sultan awal Kedah dalam tradisi kesultanannya.
+Tokoh penyatuan Kelantan pada abad ke-18.
+Tokoh awal pemerintah Negeri Sembilan yang datang dari Minangkabau.
+Raja pertama Perlis daripada keluarga Jamalullail.
+@Padankan gelaran pemerintah.|Sultan|Yang di-Pertuan Besar|Raja|Undang
+Gelaran pemerintah Kedah dan Kelantan.
+Gelaran pemerintah tertinggi Negeri Sembilan.
+Gelaran pemerintah Perlis.
+Pembesar luak yang berperanan memilih pemerintah Negeri Sembilan.
+@Kenal pasti asas hubungan kerajaan.|Kekeluargaan|Perdagangan|Diplomasi|Budaya
+Pertalian keturunan menghubungkan keluarga pemerintah.
+Pertukaran hasil menghubungkan penduduk berlainan negeri.
+Utusan membincangkan kepentingan kerajaan.
+Adat dan kesenian menunjukkan hubungan masyarakat.
+@Padankan wilayah dengan petunjuk geografi.|Kedah|Kelantan|Negeri Sembilan|Perlis
+Negeri yang mengandungi Lembah Bujang.
+Negeri dengan sungai utama yang bermuara berhampiran Kota Bharu.
+Negeri yang mengandungi Seri Menanti.
+Negeri paling utara di pesisir barat Semenanjung antara pilihan ini.
+@Apakah faktor kekuatan kerajaan?|Kepimpinan|Hasil ekonomi|Sokongan rakyat|Hubungan luar
+Pemerintah menyelaraskan pentadbiran dengan berkesan.
+Pertanian dan perdagangan membekalkan pendapatan.
+Penduduk bekerjasama mempertahankan wilayah.
+Rundingan mengurangkan ancaman kuasa lain.
+@Kenal pasti kegiatan penduduk.|Penanaman padi|Perikanan|Perdagangan|Pertukangan
+Pengusahaan sawah di dataran sesuai.
+Penangkapan ikan oleh masyarakat pesisir.
+Urus niaga hasil di pasar atau pelabuhan.
+Penghasilan alat dan barangan menggunakan kemahiran tangan.
+@Padankan jenis sumber sejarah negeri.|Salasilah|Hikayat|Perjanjian|Tinggalan kota
+Rekod hubungan keturunan pemerintah.
+Naratif tradisional yang perlu dinilai bersama bukti lain.
+Dokumen persetujuan antara kerajaan.
+Bukti fizikal pusat pertahanan lama.
+@Apakah unsur adat yang ditunjukkan?|Muafakat|Pewarisan|Istiadat|Kepimpinan setempat
+Keputusan dibincangkan sebelum dipersetujui bersama.
+Amalan disampaikan daripada satu generasi kepada generasi lain.
+Upacara formal dilaksanakan mengikut aturan.
+Pemimpin komuniti mengurus urusan penduduk.
+@Padankan cabaran kerajaan.|Ancaman luar|Perebutan takhta|Gangguan ekonomi|Perpecahan rakyat
+Kuasa asing menekan kedaulatan negeri.
+Persaingan pengganti menjejaskan kestabilan istana.
+Perdagangan terhenti akibat konflik.
+Pertelingkahan kelompok melemahkan pertahanan bersama.
+#9
+@Kenal pasti warisan negeri.|Institusi beraja|Adat Perpatih|Persuratan|Kesenian
+Sistem pemerintahan negeri berteraskan raja.
+Adat yang kuat pengaruhnya di Negeri Sembilan.
+Warisan karya bertulis masyarakat.
+Warisan persembahan serta hasil kreativiti.
+@Padankan pemimpin Adat Perpatih.|Buapak|Lembaga|Undang|Yang di-Pertuan Besar
+Pemimpin kelompok perut.
+Pemimpin sesuatu suku.
+Pemimpin luak yang memilih pemerintah negeri.
+Pemerintah tertinggi Negeri Sembilan.
+@Kenal pasti prinsip Adat Perpatih.|Matrilineal|Muafakat|Suku|Perut
+Susur keturunan melalui sebelah ibu.
+Keputusan dicapai melalui perbincangan bersama.
+Kelompok keturunan lebih besar dalam susunan adat.
+Kelompok keluarga dalam sesuatu suku.
+@Padankan empat luak berundang.|Sungai Ujong|Jelebu|Johol|Rembau
+Luak yang meliputi lingkungan sejarah Seremban.
+Luak berundang di bahagian utara pedalaman Negeri Sembilan.
+Luak berundang yang namanya juga sebuah pekan di Kuala Pilah.
+Luak berundang di bahagian selatan Negeri Sembilan berhampiran Alor Gajah.
+@Apakah fungsi adat?|Mengatur perkahwinan|Mengurus pusaka|Menyelesaikan pertikaian|Memilih pemimpin
+Aturan hubungan keluarga menentukan ikatan yang dibenarkan.
+Harta tertentu diwariskan mengikut ketetapan adat.
+Perselisihan dibincang melalui pemimpin komuniti.
+Wakil kelompok dipersetujui melalui proses adat.
+@Kenal pasti bentuk kesenian.|Seni ukir|Seni tenun|Seni persembahan|Seni bina
+Corak dihasilkan pada kayu.
+Benang disilangkan menjadi kain.
+Tarian dan muzik dipersembahkan kepada penonton.
+Bentuk bangunan mencerminkan keperluan serta budaya setempat.
+@Padankan karya warisan.|Hikayat Merong Mahawangsa|Al-Tarikh Salasilah Negeri Kedah|Syair|Pantun
+Hikayat tradisional berkaitan asal usul Kedah.
+Karya sejarah negeri Kedah yang meneliti salasilah pemerintah.
+Puisi Melayu berangkap dengan rima lazimnya sama pada hujung baris.
+Puisi tradisional yang mempunyai pembayang dan maksud.
+@Kenal pasti unsur istiadat.|Pertabalan|Alat kebesaran|Bahasa istana|Adat menghadap
+Upacara pengangkatan pemerintah.
+Objek yang melambangkan kuasa dan kedudukan raja.
+Penggunaan kosa kata khusus dalam lingkungan diraja.
+Aturan ketika berhadapan dengan pemerintah.
+@Apakah amalan menghargai warisan?|Mempelajari asal usul|Mendokumentasi|Melatih pelapis|Memulihara binaan
+Pelajar memahami makna sesuatu adat sebelum menilainya.
+Pengetahuan pengamal direkodkan untuk rujukan.
+Generasi muda dibimbing menguasai seni tradisi.
+Bangunan lama dibaiki tanpa menghilangkan ciri asal.
+@Padankan nilai dengan situasi.|Hormat|Tanggungjawab|Kerjasama|Keadilan
+Perbezaan adat diterima tanpa ejekan.
+Pemegang amanah menjaga harta komuniti.
+Penduduk menyediakan upacara bersama-sama.
+Pertikaian diputuskan dengan mendengar pihak terlibat.
+#10
+@Kenal pasti wilayah atau kawasan.|Sarawak|Sabah|Borneo|Alam Melayu
+Wilayah yang meliputi lembangan Batang Rajang.
+Wilayah yang meliputi Gunung Kinabalu.
+Pulau besar yang turut dikenali sebagai Kalimantan.
+Lingkungan serantau yang menghubungkan Sarawak dan Sabah melalui budaya serta sejarah.
+@Padankan kelompok masyarakat dengan kaitan utamanya.|Iban|Melanau|Bajau|Kadazandusun
+Masyarakat Sarawak yang terkenal dengan tradisi rumah panjang.
+Masyarakat Sarawak yang kuat kaitannya dengan kegiatan sagu.
+Masyarakat Sabah yang sebahagiannya mempunyai tradisi maritim.
+Masyarakat Sabah yang dikaitkan dengan penanaman padi dan Kaamatan.
+@Kenal pasti bentuk pentadbiran tempatan.|Kesukuan|Kesultanan|Ketua kampung|Ketua rumah panjang
+Pemimpin mengurus masyarakat berdasarkan kelompok setempat.
+Wilayah tertentu berada di bawah pengaruh Brunei atau Sulu.
+Pemimpin yang mengendalikan urusan penduduk sebuah kampung.
+Pemimpin yang menyelaraskan komuniti kediaman panjang.
+@Padankan kegiatan dengan persekitaran.|Pertanian|Perikanan|Mengumpul hasil hutan|Perdagangan sungai
+Tanah diusahakan untuk menghasilkan makanan.
+Sumber laut dan sungai ditangkap.
+Rotan serta damar diperoleh dari pedalaman.
+Barangan dibawa antara hulu dengan muara menggunakan perahu.
+@Kenal pasti bentuk kediaman atau pengangkutan.|Rumah panjang|Rumah bertiang|Perahu|Laluan sungai
+Sebuah binaan menempatkan beberapa keluarga dengan ruang bersama.
+Lantai ditinggikan daripada permukaan tanah atau air.
+Kenderaan air untuk membawa penduduk dan hasil.
+Jaringan semula jadi menghubungkan petempatan pedalaman.
+@Padankan hasil ekonomi.|Sagu|Padi|Rotan|Sarang burung
+Kanji diperoleh daripada bahagian batang palma tertentu.
+Tanaman yang menghasilkan beras.
+Bahan hutan lentur untuk anyaman.
+Hasil gua bernilai dalam perdagangan sejarah.
+@Kenal pasti warisan budaya.|Gawai|Kaamatan|Ngajat|Sumazau
+Perayaan menuai yang dikaitkan dengan masyarakat Dayak Sarawak.
+Perayaan menuai yang terkenal di Sabah.
+Tarian yang dikaitkan dengan tradisi Iban.
+Tarian yang terkenal dalam masyarakat Kadazandusun.
+@Apakah kepentingan sungai?|Mobiliti|Sumber makanan|Hubungan niaga|Identiti petempatan
+Penduduk bergerak menggunakan jalan air.
+Ikan menjadi sebahagian bekalan penduduk.
+Hasil pedalaman sampai kepada pembeli pesisir.
+Nama dan kehidupan kampung berkait rapat dengan lembangan setempat.
+@Padankan bentuk hubungan masyarakat.|Gotong-royong|Pertukaran barangan|Perkahwinan|Perkongsian pengetahuan
+Komuniti membina atau membaiki kemudahan bersama.
+Hasil ladang ditukar dengan hasil laut.
+Ikatan keluarga menghubungkan kelompok berlainan.
+Kemahiran membuat perahu diajar kepada generasi muda.
+@Kenal pasti amalan menghormati kepelbagaian.|Mempelajari adat|Mengelakkan stereotaip|Memelihara bahasa|Menjaga alam
+Pelawat memahami aturan komuniti sebelum menyertai acara.
+Satu cara hidup tidak dianggap mewakili semua penduduk negeri.
+Pertuturan tempatan terus diajar kepada anak-anak.
+Hutan dan sungai dipelihara sebagai asas kehidupan masyarakat.

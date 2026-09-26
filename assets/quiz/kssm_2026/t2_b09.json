@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 2,
+  "chapter": 9,
+  "title": "Warisan Kerajaan Kedah, Kelantan, Negeri Sembilan dan Perlis",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t2_b09.json",
+  "questions": [
+    {
+      "id": "t2-b09-q001",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Kenal pasti warisan negeri.\n\nSistem pemerintahan negeri berteraskan raja.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Institusi beraja"
+        },
+        {
+          "id": "B",
+          "text": "Adat Perpatih"
+        },
+        {
+          "id": "C",
+          "text": "Persuratan"
+        },
+        {
+          "id": "D",
+          "text": "Kesenian"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Institusi beraja: Sistem pemerintahan negeri berteraskan raja.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q002",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Kenal pasti warisan negeri.\n\nAdat yang kuat pengaruhnya di Negeri Sembilan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Institusi beraja"
+        },
+        {
+          "id": "B",
+          "text": "Adat Perpatih"
+        },
+        {
+          "id": "C",
+          "text": "Persuratan"
+        },
+        {
+          "id": "D",
+          "text": "Kesenian"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Adat Perpatih: Adat yang kuat pengaruhnya di Negeri Sembilan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q003",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Kenal pasti warisan negeri.\n\nWarisan karya bertulis masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Institusi beraja"
+        },
+        {
+          "id": "B",
+          "text": "Adat Perpatih"
+        },
+        {
+          "id": "C",
+          "text": "Persuratan"
+        },
+        {
+          "id": "D",
+          "text": "Kesenian"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Persuratan: Warisan karya bertulis masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q004",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Kenal pasti warisan negeri.\n\nWarisan persembahan serta hasil kreativiti.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Institusi beraja"
+        },
+        {
+          "id": "B",
+          "text": "Adat Perpatih"
+        },
+        {
+          "id": "C",
+          "text": "Persuratan"
+        },
+        {
+          "id": "D",
+          "text": "Kesenian"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kesenian: Warisan persembahan serta hasil kreativiti.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q005",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Padankan pemimpin Adat Perpatih.\n\nPemimpin kelompok perut.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lembaga"
+        },
+        {
+          "id": "B",
+          "text": "Undang"
+        },
+        {
+          "id": "C",
+          "text": "Yang di-Pertuan Besar"
+        },
+        {
+          "id": "D",
+          "text": "Buapak"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Buapak: Pemimpin kelompok perut.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q006",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Padankan pemimpin Adat Perpatih.\n\nPemimpin sesuatu suku.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lembaga"
+        },
+        {
+          "id": "B",
+          "text": "Undang"
+        },
+        {
+          "id": "C",
+          "text": "Yang di-Pertuan Besar"
+        },
+        {
+          "id": "D",
+          "text": "Buapak"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Lembaga: Pemimpin sesuatu suku.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q007",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Padankan pemimpin Adat Perpatih.\n\nPemimpin luak yang memilih pemerintah negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lembaga"
+        },
+        {
+          "id": "B",
+          "text": "Undang"
+        },
+        {
+          "id": "C",
+          "text": "Yang di-Pertuan Besar"
+        },
+        {
+          "id": "D",
+          "text": "Buapak"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Undang: Pemimpin luak yang memilih pemerintah negeri.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q008",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Padankan pemimpin Adat Perpatih.\n\nPemerintah tertinggi Negeri Sembilan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lembaga"
+        },
+        {
+          "id": "B",
+          "text": "Undang"
+        },
+        {
+          "id": "C",
+          "text": "Yang di-Pertuan Besar"
+        },
+        {
+          "id": "D",
+          "text": "Buapak"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Yang di-Pertuan Besar: Pemerintah tertinggi Negeri Sembilan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q009",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Kenal pasti prinsip Adat Perpatih.\n\nSusur keturunan melalui sebelah ibu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Suku"
+        },
+        {
+          "id": "B",
+          "text": "Perut"
+        },
+        {
+          "id": "C",
+          "text": "Matrilineal"
+        },
+        {
+          "id": "D",
+          "text": "Muafakat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Matrilineal: Susur keturunan melalui sebelah ibu.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q010",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Kenal pasti prinsip Adat Perpatih.\n\nKeputusan dicapai melalui perbincangan bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Suku"
+        },
+        {
+          "id": "B",
+          "text": "Perut"
+        },
+        {
+          "id": "C",
+          "text": "Matrilineal"
+        },
+        {
+          "id": "D",
+          "text": "Muafakat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Muafakat: Keputusan dicapai melalui perbincangan bersama.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q011",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Kenal pasti prinsip Adat Perpatih.\n\nKelompok keturunan lebih besar dalam susunan adat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Suku"
+        },
+        {
+          "id": "B",
+          "text": "Perut"
+        },
+        {
+          "id": "C",
+          "text": "Matrilineal"
+        },
+        {
+          "id": "D",
+          "text": "Muafakat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Suku: Kelompok keturunan lebih besar dalam susunan adat.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q012",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Kenal pasti prinsip Adat Perpatih.\n\nKelompok keluarga dalam sesuatu suku.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Suku"
+        },
+        {
+          "id": "B",
+          "text": "Perut"
+        },
+        {
+          "id": "C",
+          "text": "Matrilineal"
+        },
+        {
+          "id": "D",
+          "text": "Muafakat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perut: Kelompok keluarga dalam sesuatu suku.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q013",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Padankan empat luak berundang.\n\nLuak yang meliputi lingkungan sejarah Seremban.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rembau"
+        },
+        {
+          "id": "B",
+          "text": "Sungai Ujong"
+        },
+        {
+          "id": "C",
+          "text": "Jelebu"
+        },
+        {
+          "id": "D",
+          "text": "Johol"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Sungai Ujong: Luak yang meliputi lingkungan sejarah Seremban.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q014",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Padankan empat luak berundang.\n\nLuak berundang di bahagian utara pedalaman Negeri Sembilan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rembau"
+        },
+        {
+          "id": "B",
+          "text": "Sungai Ujong"
+        },
+        {
+          "id": "C",
+          "text": "Jelebu"
+        },
+        {
+          "id": "D",
+          "text": "Johol"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Jelebu: Luak berundang di bahagian utara pedalaman Negeri Sembilan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q015",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Padankan empat luak berundang.\n\nLuak berundang yang namanya juga sebuah pekan di Kuala Pilah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rembau"
+        },
+        {
+          "id": "B",
+          "text": "Sungai Ujong"
+        },
+        {
+          "id": "C",
+          "text": "Jelebu"
+        },
+        {
+          "id": "D",
+          "text": "Johol"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Johol: Luak berundang yang namanya juga sebuah pekan di Kuala Pilah.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q016",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Padankan empat luak berundang.\n\nLuak berundang di bahagian selatan Negeri Sembilan berhampiran Alor Gajah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rembau"
+        },
+        {
+          "id": "B",
+          "text": "Sungai Ujong"
+        },
+        {
+          "id": "C",
+          "text": "Jelebu"
+        },
+        {
+          "id": "D",
+          "text": "Johol"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Rembau: Luak berundang di bahagian selatan Negeri Sembilan berhampiran Alor Gajah.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q017",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Apakah fungsi adat?\n\nAturan hubungan keluarga menentukan ikatan yang dibenarkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengatur perkahwinan"
+        },
+        {
+          "id": "B",
+          "text": "Mengurus pusaka"
+        },
+        {
+          "id": "C",
+          "text": "Menyelesaikan pertikaian"
+        },
+        {
+          "id": "D",
+          "text": "Memilih pemimpin"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Mengatur perkahwinan: Aturan hubungan keluarga menentukan ikatan yang dibenarkan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q018",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Apakah fungsi adat?\n\nHarta tertentu diwariskan mengikut ketetapan adat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengatur perkahwinan"
+        },
+        {
+          "id": "B",
+          "text": "Mengurus pusaka"
+        },
+        {
+          "id": "C",
+          "text": "Menyelesaikan pertikaian"
+        },
+        {
+          "id": "D",
+          "text": "Memilih pemimpin"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Mengurus pusaka: Harta tertentu diwariskan mengikut ketetapan adat.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q019",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Apakah fungsi adat?\n\nPerselisihan dibincang melalui pemimpin komuniti.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengatur perkahwinan"
+        },
+        {
+          "id": "B",
+          "text": "Mengurus pusaka"
+        },
+        {
+          "id": "C",
+          "text": "Menyelesaikan pertikaian"
+        },
+        {
+          "id": "D",
+          "text": "Memilih pemimpin"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Menyelesaikan pertikaian: Perselisihan dibincang melalui pemimpin komuniti.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q020",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Apakah fungsi adat?\n\nWakil kelompok dipersetujui melalui proses adat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengatur perkahwinan"
+        },
+        {
+          "id": "B",
+          "text": "Mengurus pusaka"
+        },
+        {
+          "id": "C",
+          "text": "Menyelesaikan pertikaian"
+        },
+        {
+          "id": "D",
+          "text": "Memilih pemimpin"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Memilih pemimpin: Wakil kelompok dipersetujui melalui proses adat.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q021",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Kenal pasti bentuk kesenian.\n\nCorak dihasilkan pada kayu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Seni tenun"
+        },
+        {
+          "id": "B",
+          "text": "Seni persembahan"
+        },
+        {
+          "id": "C",
+          "text": "Seni bina"
+        },
+        {
+          "id": "D",
+          "text": "Seni ukir"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Seni ukir: Corak dihasilkan pada kayu.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q022",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Kenal pasti bentuk kesenian.\n\nBenang disilangkan menjadi kain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Seni tenun"
+        },
+        {
+          "id": "B",
+          "text": "Seni persembahan"
+        },
+        {
+          "id": "C",
+          "text": "Seni bina"
+        },
+        {
+          "id": "D",
+          "text": "Seni ukir"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Seni tenun: Benang disilangkan menjadi kain.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q023",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Kenal pasti bentuk kesenian.\n\nTarian dan muzik dipersembahkan kepada penonton.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Seni tenun"
+        },
+        {
+          "id": "B",
+          "text": "Seni persembahan"
+        },
+        {
+          "id": "C",
+          "text": "Seni bina"
+        },
+        {
+          "id": "D",
+          "text": "Seni ukir"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Seni persembahan: Tarian dan muzik dipersembahkan kepada penonton.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q024",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Kenal pasti bentuk kesenian.\n\nBentuk bangunan mencerminkan keperluan serta budaya setempat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Seni tenun"
+        },
+        {
+          "id": "B",
+          "text": "Seni persembahan"
+        },
+        {
+          "id": "C",
+          "text": "Seni bina"
+        },
+        {
+          "id": "D",
+          "text": "Seni ukir"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Seni bina: Bentuk bangunan mencerminkan keperluan serta budaya setempat.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q025",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Padankan karya warisan.\n\nHikayat tradisional berkaitan asal usul Kedah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Syair"
+        },
+        {
+          "id": "B",
+          "text": "Pantun"
+        },
+        {
+          "id": "C",
+          "text": "Hikayat Merong Mahawangsa"
+        },
+        {
+          "id": "D",
+          "text": "Al-Tarikh Salasilah Negeri Kedah"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Hikayat Merong Mahawangsa: Hikayat tradisional berkaitan asal usul Kedah.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q026",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Padankan karya warisan.\n\nKarya sejarah negeri Kedah yang meneliti salasilah pemerintah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Syair"
+        },
+        {
+          "id": "B",
+          "text": "Pantun"
+        },
+        {
+          "id": "C",
+          "text": "Hikayat Merong Mahawangsa"
+        },
+        {
+          "id": "D",
+          "text": "Al-Tarikh Salasilah Negeri Kedah"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Al-Tarikh Salasilah Negeri Kedah: Karya sejarah negeri Kedah yang meneliti salasilah pemerintah.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q027",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Padankan karya warisan.\n\nPuisi Melayu berangkap dengan rima lazimnya sama pada hujung baris.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Syair"
+        },
+        {
+          "id": "B",
+          "text": "Pantun"
+        },
+        {
+          "id": "C",
+          "text": "Hikayat Merong Mahawangsa"
+        },
+        {
+          "id": "D",
+          "text": "Al-Tarikh Salasilah Negeri Kedah"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Syair: Puisi Melayu berangkap dengan rima lazimnya sama pada hujung baris.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q028",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Padankan karya warisan.\n\nPuisi tradisional yang mempunyai pembayang dan maksud.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Syair"
+        },
+        {
+          "id": "B",
+          "text": "Pantun"
+        },
+        {
+          "id": "C",
+          "text": "Hikayat Merong Mahawangsa"
+        },
+        {
+          "id": "D",
+          "text": "Al-Tarikh Salasilah Negeri Kedah"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pantun: Puisi tradisional yang mempunyai pembayang dan maksud.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q029",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Kenal pasti unsur istiadat.\n\nUpacara pengangkatan pemerintah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adat menghadap"
+        },
+        {
+          "id": "B",
+          "text": "Pertabalan"
+        },
+        {
+          "id": "C",
+          "text": "Alat kebesaran"
+        },
+        {
+          "id": "D",
+          "text": "Bahasa istana"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pertabalan: Upacara pengangkatan pemerintah.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q030",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Kenal pasti unsur istiadat.\n\nObjek yang melambangkan kuasa dan kedudukan raja.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adat menghadap"
+        },
+        {
+          "id": "B",
+          "text": "Pertabalan"
+        },
+        {
+          "id": "C",
+          "text": "Alat kebesaran"
+        },
+        {
+          "id": "D",
+          "text": "Bahasa istana"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Alat kebesaran: Objek yang melambangkan kuasa dan kedudukan raja.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q031",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Kenal pasti unsur istiadat.\n\nPenggunaan kosa kata khusus dalam lingkungan diraja.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adat menghadap"
+        },
+        {
+          "id": "B",
+          "text": "Pertabalan"
+        },
+        {
+          "id": "C",
+          "text": "Alat kebesaran"
+        },
+        {
+          "id": "D",
+          "text": "Bahasa istana"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Bahasa istana: Penggunaan kosa kata khusus dalam lingkungan diraja.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q032",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Kenal pasti unsur istiadat.\n\nAturan ketika berhadapan dengan pemerintah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adat menghadap"
+        },
+        {
+          "id": "B",
+          "text": "Pertabalan"
+        },
+        {
+          "id": "C",
+          "text": "Alat kebesaran"
+        },
+        {
+          "id": "D",
+          "text": "Bahasa istana"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Adat menghadap: Aturan ketika berhadapan dengan pemerintah.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q033",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Apakah amalan menghargai warisan?\n\nPelajar memahami makna sesuatu adat sebelum menilainya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mempelajari asal usul"
+        },
+        {
+          "id": "B",
+          "text": "Mendokumentasi"
+        },
+        {
+          "id": "C",
+          "text": "Melatih pelapis"
+        },
+        {
+          "id": "D",
+          "text": "Memulihara binaan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Mempelajari asal usul: Pelajar memahami makna sesuatu adat sebelum menilainya.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q034",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Apakah amalan menghargai warisan?\n\nPengetahuan pengamal direkodkan untuk rujukan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mempelajari asal usul"
+        },
+        {
+          "id": "B",
+          "text": "Mendokumentasi"
+        },
+        {
+          "id": "C",
+          "text": "Melatih pelapis"
+        },
+        {
+          "id": "D",
+          "text": "Memulihara binaan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Mendokumentasi: Pengetahuan pengamal direkodkan untuk rujukan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q035",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Apakah amalan menghargai warisan?\n\nGenerasi muda dibimbing menguasai seni tradisi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mempelajari asal usul"
+        },
+        {
+          "id": "B",
+          "text": "Mendokumentasi"
+        },
+        {
+          "id": "C",
+          "text": "Melatih pelapis"
+        },
+        {
+          "id": "D",
+          "text": "Memulihara binaan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Melatih pelapis: Generasi muda dibimbing menguasai seni tradisi.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q036",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Apakah amalan menghargai warisan?\n\nBangunan lama dibaiki tanpa menghilangkan ciri asal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mempelajari asal usul"
+        },
+        {
+          "id": "B",
+          "text": "Mendokumentasi"
+        },
+        {
+          "id": "C",
+          "text": "Melatih pelapis"
+        },
+        {
+          "id": "D",
+          "text": "Memulihara binaan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Memulihara binaan: Bangunan lama dibaiki tanpa menghilangkan ciri asal.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q037",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Padankan nilai dengan situasi.\n\nPerbezaan adat diterima tanpa ejekan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tanggungjawab"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "C",
+          "text": "Keadilan"
+        },
+        {
+          "id": "D",
+          "text": "Hormat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Hormat: Perbezaan adat diterima tanpa ejekan.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q038",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Padankan nilai dengan situasi.\n\nPemegang amanah menjaga harta komuniti.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tanggungjawab"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "C",
+          "text": "Keadilan"
+        },
+        {
+          "id": "D",
+          "text": "Hormat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Tanggungjawab: Pemegang amanah menjaga harta komuniti.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q039",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Padankan nilai dengan situasi.\n\nPenduduk menyediakan upacara bersama-sama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tanggungjawab"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "C",
+          "text": "Keadilan"
+        },
+        {
+          "id": "D",
+          "text": "Hormat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kerjasama: Penduduk menyediakan upacara bersama-sama.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "t2-b09-q040",
+      "form": 2,
+      "chapter": 9,
+      "prompt": "Padankan nilai dengan situasi.\n\nPertikaian diputuskan dengan mendengar pihak terlibat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tanggungjawab"
+        },
+        {
+          "id": "B",
+          "text": "Kerjasama"
+        },
+        {
+          "id": "C",
+          "text": "Keadilan"
+        },
+        {
+          "id": "D",
+          "text": "Hormat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Keadilan: Pertikaian diputuskan dengan mendengar pihak terlibat.",
+      "tags": [
+        "padanan",
+        "bab-9"
+      ]
+    }
+  ]
+}

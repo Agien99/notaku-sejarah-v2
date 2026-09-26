@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 4,
+  "chapter": 3,
+  "title": "Konflik Dunia dan Pendudukan Jepun di Negara Kita",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t4_b03.json",
+  "questions": [
+    {
+      "id": "t4-b03-q001",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Padankan konflik dengan tarikh.\n\nBermula pada 1914.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perang Dunia Pertama"
+        },
+        {
+          "id": "B",
+          "text": "Perang Dunia Kedua di Eropah"
+        },
+        {
+          "id": "C",
+          "text": "Perang Pasifik"
+        },
+        {
+          "id": "D",
+          "text": "Penyerahan Jepun"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perang Dunia Pertama: Bermula pada 1914.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q002",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Padankan konflik dengan tarikh.\n\nBermula pada 1939.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perang Dunia Pertama"
+        },
+        {
+          "id": "B",
+          "text": "Perang Dunia Kedua di Eropah"
+        },
+        {
+          "id": "C",
+          "text": "Perang Pasifik"
+        },
+        {
+          "id": "D",
+          "text": "Penyerahan Jepun"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perang Dunia Kedua di Eropah: Bermula pada 1939.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q003",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Padankan konflik dengan tarikh.\n\nBermula selepas serangan Jepun pada Disember 1941.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perang Dunia Pertama"
+        },
+        {
+          "id": "B",
+          "text": "Perang Dunia Kedua di Eropah"
+        },
+        {
+          "id": "C",
+          "text": "Perang Pasifik"
+        },
+        {
+          "id": "D",
+          "text": "Penyerahan Jepun"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perang Pasifik: Bermula selepas serangan Jepun pada Disember 1941.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q004",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Padankan konflik dengan tarikh.\n\nBerlaku pada 1945 selepas kekalahan Jepun.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perang Dunia Pertama"
+        },
+        {
+          "id": "B",
+          "text": "Perang Dunia Kedua di Eropah"
+        },
+        {
+          "id": "C",
+          "text": "Perang Pasifik"
+        },
+        {
+          "id": "D",
+          "text": "Penyerahan Jepun"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Penyerahan Jepun: Berlaku pada 1945 selepas kekalahan Jepun.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q005",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Kenal pasti fahaman atau sistem.\n\nFahaman autoritarian yang berkembang di Itali pimpinan Mussolini.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nazisme"
+        },
+        {
+          "id": "B",
+          "text": "Militarisme"
+        },
+        {
+          "id": "C",
+          "text": "Demokrasi"
+        },
+        {
+          "id": "D",
+          "text": "Fasisme"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Fasisme: Fahaman autoritarian yang berkembang di Itali pimpinan Mussolini.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q006",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Kenal pasti fahaman atau sistem.\n\nFahaman Parti Nazi pimpinan Hitler di Jerman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nazisme"
+        },
+        {
+          "id": "B",
+          "text": "Militarisme"
+        },
+        {
+          "id": "C",
+          "text": "Demokrasi"
+        },
+        {
+          "id": "D",
+          "text": "Fasisme"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Nazisme: Fahaman Parti Nazi pimpinan Hitler di Jerman.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q007",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Kenal pasti fahaman atau sistem.\n\nPenekanan kuasa tentera dalam urusan negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nazisme"
+        },
+        {
+          "id": "B",
+          "text": "Militarisme"
+        },
+        {
+          "id": "C",
+          "text": "Demokrasi"
+        },
+        {
+          "id": "D",
+          "text": "Fasisme"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Militarisme: Penekanan kuasa tentera dalam urusan negara.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q008",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Kenal pasti fahaman atau sistem.\n\nSistem yang mengiktiraf penyertaan rakyat dalam pemerintahan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nazisme"
+        },
+        {
+          "id": "B",
+          "text": "Militarisme"
+        },
+        {
+          "id": "C",
+          "text": "Demokrasi"
+        },
+        {
+          "id": "D",
+          "text": "Fasisme"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Demokrasi: Sistem yang mengiktiraf penyertaan rakyat dalam pemerintahan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q009",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Padankan faktor konflik dunia.\n\nKuasa besar bersaing mendapatkan jajahan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nasionalisme melampau"
+        },
+        {
+          "id": "B",
+          "text": "Kegagalan diplomasi"
+        },
+        {
+          "id": "C",
+          "text": "Persaingan imperialisme"
+        },
+        {
+          "id": "D",
+          "text": "Pakatan ketenteraan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Persaingan imperialisme: Kuasa besar bersaing mendapatkan jajahan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q010",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Padankan faktor konflik dunia.\n\nPerjanjian pertahanan meluaskan penglibatan negara dalam konflik.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nasionalisme melampau"
+        },
+        {
+          "id": "B",
+          "text": "Kegagalan diplomasi"
+        },
+        {
+          "id": "C",
+          "text": "Persaingan imperialisme"
+        },
+        {
+          "id": "D",
+          "text": "Pakatan ketenteraan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pakatan ketenteraan: Perjanjian pertahanan meluaskan penglibatan negara dalam konflik.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q011",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Padankan faktor konflik dunia.\n\nKeagungan bangsa sendiri digunakan membenarkan peluasan kuasa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nasionalisme melampau"
+        },
+        {
+          "id": "B",
+          "text": "Kegagalan diplomasi"
+        },
+        {
+          "id": "C",
+          "text": "Persaingan imperialisme"
+        },
+        {
+          "id": "D",
+          "text": "Pakatan ketenteraan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Nasionalisme melampau: Keagungan bangsa sendiri digunakan membenarkan peluasan kuasa.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q012",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Padankan faktor konflik dunia.\n\nPertikaian tidak diselesaikan melalui rundingan berkesan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nasionalisme melampau"
+        },
+        {
+          "id": "B",
+          "text": "Kegagalan diplomasi"
+        },
+        {
+          "id": "C",
+          "text": "Persaingan imperialisme"
+        },
+        {
+          "id": "D",
+          "text": "Pakatan ketenteraan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kegagalan diplomasi: Pertikaian tidak diselesaikan melalui rundingan berkesan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q013",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Kenal pasti lokasi Perang Pasifik.\n\nPangkalan Amerika yang diserang Jepun pada Disember 1941.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hiroshima"
+        },
+        {
+          "id": "B",
+          "text": "Pearl Harbor"
+        },
+        {
+          "id": "C",
+          "text": "Kota Bharu"
+        },
+        {
+          "id": "D",
+          "text": "Singapura"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pearl Harbor: Pangkalan Amerika yang diserang Jepun pada Disember 1941.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q014",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Kenal pasti lokasi Perang Pasifik.\n\nLokasi pendaratan awal tentera Jepun di Tanah Melayu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hiroshima"
+        },
+        {
+          "id": "B",
+          "text": "Pearl Harbor"
+        },
+        {
+          "id": "C",
+          "text": "Kota Bharu"
+        },
+        {
+          "id": "D",
+          "text": "Singapura"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kota Bharu: Lokasi pendaratan awal tentera Jepun di Tanah Melayu.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q015",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Kenal pasti lokasi Perang Pasifik.\n\nPusat pertahanan British yang jatuh pada Februari 1942.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hiroshima"
+        },
+        {
+          "id": "B",
+          "text": "Pearl Harbor"
+        },
+        {
+          "id": "C",
+          "text": "Kota Bharu"
+        },
+        {
+          "id": "D",
+          "text": "Singapura"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Singapura: Pusat pertahanan British yang jatuh pada Februari 1942.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q016",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Kenal pasti lokasi Perang Pasifik.\n\nBandar Jepun yang dibom atom sebelum Nagasaki.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hiroshima"
+        },
+        {
+          "id": "B",
+          "text": "Pearl Harbor"
+        },
+        {
+          "id": "C",
+          "text": "Kota Bharu"
+        },
+        {
+          "id": "D",
+          "text": "Singapura"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Hiroshima: Bandar Jepun yang dibom atom sebelum Nagasaki.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q017",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Padankan dasar Jepun.\n\nSlogan membebaskan Asia digunakan menarik sokongan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Propaganda"
+        },
+        {
+          "id": "B",
+          "text": "Pentadbiran tentera"
+        },
+        {
+          "id": "C",
+          "text": "Kawalan ekonomi"
+        },
+        {
+          "id": "D",
+          "text": "Penjepunan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Propaganda: Slogan membebaskan Asia digunakan menarik sokongan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q018",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Padankan dasar Jepun.\n\nKuasa pemerintahan diletakkan di bawah pihak bersenjata.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Propaganda"
+        },
+        {
+          "id": "B",
+          "text": "Pentadbiran tentera"
+        },
+        {
+          "id": "C",
+          "text": "Kawalan ekonomi"
+        },
+        {
+          "id": "D",
+          "text": "Penjepunan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pentadbiran tentera: Kuasa pemerintahan diletakkan di bawah pihak bersenjata.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q019",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Padankan dasar Jepun.\n\nPengeluaran dan bekalan ditentukan untuk keperluan perang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Propaganda"
+        },
+        {
+          "id": "B",
+          "text": "Pentadbiran tentera"
+        },
+        {
+          "id": "C",
+          "text": "Kawalan ekonomi"
+        },
+        {
+          "id": "D",
+          "text": "Penjepunan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kawalan ekonomi: Pengeluaran dan bekalan ditentukan untuk keperluan perang.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q020",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Padankan dasar Jepun.\n\nBahasa dan budaya Jepun diterapkan melalui pendidikan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Propaganda"
+        },
+        {
+          "id": "B",
+          "text": "Pentadbiran tentera"
+        },
+        {
+          "id": "C",
+          "text": "Kawalan ekonomi"
+        },
+        {
+          "id": "D",
+          "text": "Penjepunan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Penjepunan: Bahasa dan budaya Jepun diterapkan melalui pendidikan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q021",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Kenal pasti kesan ekonomi pendudukan.\n\nNilai wang merosot ketika harga meningkat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kekurangan makanan"
+        },
+        {
+          "id": "B",
+          "text": "Ekonomi sara diri"
+        },
+        {
+          "id": "C",
+          "text": "Gangguan perdagangan"
+        },
+        {
+          "id": "D",
+          "text": "Inflasi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Inflasi: Nilai wang merosot ketika harga meningkat.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q022",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Kenal pasti kesan ekonomi pendudukan.\n\nBekalan asas sukar diperoleh penduduk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kekurangan makanan"
+        },
+        {
+          "id": "B",
+          "text": "Ekonomi sara diri"
+        },
+        {
+          "id": "C",
+          "text": "Gangguan perdagangan"
+        },
+        {
+          "id": "D",
+          "text": "Inflasi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kekurangan makanan: Bekalan asas sukar diperoleh penduduk.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q023",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Kenal pasti kesan ekonomi pendudukan.\n\nKeluarga menanam makanan untuk kegunaan sendiri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kekurangan makanan"
+        },
+        {
+          "id": "B",
+          "text": "Ekonomi sara diri"
+        },
+        {
+          "id": "C",
+          "text": "Gangguan perdagangan"
+        },
+        {
+          "id": "D",
+          "text": "Inflasi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Ekonomi sara diri: Keluarga menanam makanan untuk kegunaan sendiri.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q024",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Kenal pasti kesan ekonomi pendudukan.\n\nJaringan import dan eksport terjejas akibat perang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kekurangan makanan"
+        },
+        {
+          "id": "B",
+          "text": "Ekonomi sara diri"
+        },
+        {
+          "id": "C",
+          "text": "Gangguan perdagangan"
+        },
+        {
+          "id": "D",
+          "text": "Inflasi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Gangguan perdagangan: Jaringan import dan eksport terjejas akibat perang.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q025",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Padankan penentangan terhadap Jepun.\n\nPasukan yang mempertahankan kedudukan seperti Bukit Chandu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "MPAJA"
+        },
+        {
+          "id": "B",
+          "text": "Gerila Kinabalu"
+        },
+        {
+          "id": "C",
+          "text": "Rejimen Askar Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Force 136"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Rejimen Askar Melayu: Pasukan yang mempertahankan kedudukan seperti Bukit Chandu.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q026",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Padankan penentangan terhadap Jepun.\n\nUnit khas yang bekerjasama dengan gerila tempatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "MPAJA"
+        },
+        {
+          "id": "B",
+          "text": "Gerila Kinabalu"
+        },
+        {
+          "id": "C",
+          "text": "Rejimen Askar Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Force 136"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Force 136: Unit khas yang bekerjasama dengan gerila tempatan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q027",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Padankan penentangan terhadap Jepun.\n\nPasukan anti-Jepun yang mempunyai hubungan dengan PKM.",
+      "options": [
+        {
+          "id": "A",
+          "text": "MPAJA"
+        },
+        {
+          "id": "B",
+          "text": "Gerila Kinabalu"
+        },
+        {
+          "id": "C",
+          "text": "Rejimen Askar Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Force 136"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "MPAJA: Pasukan anti-Jepun yang mempunyai hubungan dengan PKM.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q028",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Padankan penentangan terhadap Jepun.\n\nGerakan Sabah yang dikaitkan dengan Albert Kwok.",
+      "options": [
+        {
+          "id": "A",
+          "text": "MPAJA"
+        },
+        {
+          "id": "B",
+          "text": "Gerila Kinabalu"
+        },
+        {
+          "id": "C",
+          "text": "Rejimen Askar Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Force 136"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Gerila Kinabalu: Gerakan Sabah yang dikaitkan dengan Albert Kwok.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q029",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Kenal pasti tokoh.\n\nPegawai Askar Melayu yang gugur mempertahankan Bukit Chandu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gurchan Singh"
+        },
+        {
+          "id": "B",
+          "text": "Adnan Saidi"
+        },
+        {
+          "id": "C",
+          "text": "Lim Bo Seng"
+        },
+        {
+          "id": "D",
+          "text": "Albert Kwok"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Adnan Saidi: Pegawai Askar Melayu yang gugur mempertahankan Bukit Chandu.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q030",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Kenal pasti tokoh.\n\nTokoh Force 136 yang menentang Jepun.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gurchan Singh"
+        },
+        {
+          "id": "B",
+          "text": "Adnan Saidi"
+        },
+        {
+          "id": "C",
+          "text": "Lim Bo Seng"
+        },
+        {
+          "id": "D",
+          "text": "Albert Kwok"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Lim Bo Seng: Tokoh Force 136 yang menentang Jepun.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q031",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Kenal pasti tokoh.\n\nPemimpin gerakan anti-Jepun di Sabah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gurchan Singh"
+        },
+        {
+          "id": "B",
+          "text": "Adnan Saidi"
+        },
+        {
+          "id": "C",
+          "text": "Lim Bo Seng"
+        },
+        {
+          "id": "D",
+          "text": "Albert Kwok"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Albert Kwok: Pemimpin gerakan anti-Jepun di Sabah.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q032",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Kenal pasti tokoh.\n\nTokoh penyebaran risalah anti-Jepun yang dikenali sebagai Singa Malaya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gurchan Singh"
+        },
+        {
+          "id": "B",
+          "text": "Adnan Saidi"
+        },
+        {
+          "id": "C",
+          "text": "Lim Bo Seng"
+        },
+        {
+          "id": "D",
+          "text": "Albert Kwok"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Gurchan Singh: Tokoh penyebaran risalah anti-Jepun yang dikenali sebagai Singa Malaya.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q033",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Apakah kesan politik pendudukan?\n\nKekalahan kuasa kolonial meruntuhkan anggapan ia tidak boleh dikalahkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wibawa British terjejas"
+        },
+        {
+          "id": "B",
+          "text": "Kesedaran tempatan meningkat"
+        },
+        {
+          "id": "C",
+          "text": "Ketegangan masyarakat"
+        },
+        {
+          "id": "D",
+          "text": "Pengalaman organisasi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Wibawa British terjejas: Kekalahan kuasa kolonial meruntuhkan anggapan ia tidak boleh dikalahkan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q034",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Apakah kesan politik pendudukan?\n\nPenduduk semakin memikirkan kemampuan memerintah sendiri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wibawa British terjejas"
+        },
+        {
+          "id": "B",
+          "text": "Kesedaran tempatan meningkat"
+        },
+        {
+          "id": "C",
+          "text": "Ketegangan masyarakat"
+        },
+        {
+          "id": "D",
+          "text": "Pengalaman organisasi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kesedaran tempatan meningkat: Penduduk semakin memikirkan kemampuan memerintah sendiri.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q035",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Apakah kesan politik pendudukan?\n\nLayanan tidak sama menjejaskan hubungan kelompok.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wibawa British terjejas"
+        },
+        {
+          "id": "B",
+          "text": "Kesedaran tempatan meningkat"
+        },
+        {
+          "id": "C",
+          "text": "Ketegangan masyarakat"
+        },
+        {
+          "id": "D",
+          "text": "Pengalaman organisasi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Ketegangan masyarakat: Layanan tidak sama menjejaskan hubungan kelompok.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q036",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Apakah kesan politik pendudukan?\n\nGerakan bawah tanah melatih anggota menyusun tindakan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wibawa British terjejas"
+        },
+        {
+          "id": "B",
+          "text": "Kesedaran tempatan meningkat"
+        },
+        {
+          "id": "C",
+          "text": "Ketegangan masyarakat"
+        },
+        {
+          "id": "D",
+          "text": "Pengalaman organisasi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pengalaman organisasi: Gerakan bawah tanah melatih anggota menyusun tindakan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q037",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Padankan pengajaran peperangan.\n\nKonflik perlu dicegah melalui penyelesaian aman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "B",
+          "text": "Kemanusiaan"
+        },
+        {
+          "id": "C",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "D",
+          "text": "Keamanan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Keamanan: Konflik perlu dicegah melalui penyelesaian aman.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q038",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Padankan pengajaran peperangan.\n\nPertahanan negara tidak boleh diabaikan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "B",
+          "text": "Kemanusiaan"
+        },
+        {
+          "id": "C",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "D",
+          "text": "Keamanan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Keselamatan: Pertahanan negara tidak boleh diabaikan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q039",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Padankan pengajaran peperangan.\n\nNyawa orang awam mesti dilindungi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "B",
+          "text": "Kemanusiaan"
+        },
+        {
+          "id": "C",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "D",
+          "text": "Keamanan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kemanusiaan: Nyawa orang awam mesti dilindungi.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t4-b03-q040",
+      "form": 4,
+      "chapter": 3,
+      "prompt": "Padankan pengajaran peperangan.\n\nKerjasama rakyat penting ketika menghadapi ancaman luar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "B",
+          "text": "Kemanusiaan"
+        },
+        {
+          "id": "C",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "D",
+          "text": "Keamanan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perpaduan: Kerjasama rakyat penting ketika menghadapi ancaman luar.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 2,
+  "chapter": 10,
+  "title": "Sarawak dan Sabah",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t2_b10.json",
+  "questions": [
+    {
+      "id": "t2-b10-q001",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Kenal pasti wilayah atau kawasan.\n\nWilayah yang meliputi lembangan Batang Rajang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sarawak"
+        },
+        {
+          "id": "B",
+          "text": "Sabah"
+        },
+        {
+          "id": "C",
+          "text": "Borneo"
+        },
+        {
+          "id": "D",
+          "text": "Alam Melayu"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Sarawak: Wilayah yang meliputi lembangan Batang Rajang.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q002",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Kenal pasti wilayah atau kawasan.\n\nWilayah yang meliputi Gunung Kinabalu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sarawak"
+        },
+        {
+          "id": "B",
+          "text": "Sabah"
+        },
+        {
+          "id": "C",
+          "text": "Borneo"
+        },
+        {
+          "id": "D",
+          "text": "Alam Melayu"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Sabah: Wilayah yang meliputi Gunung Kinabalu.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q003",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Kenal pasti wilayah atau kawasan.\n\nPulau besar yang turut dikenali sebagai Kalimantan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sarawak"
+        },
+        {
+          "id": "B",
+          "text": "Sabah"
+        },
+        {
+          "id": "C",
+          "text": "Borneo"
+        },
+        {
+          "id": "D",
+          "text": "Alam Melayu"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Borneo: Pulau besar yang turut dikenali sebagai Kalimantan.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q004",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Kenal pasti wilayah atau kawasan.\n\nLingkungan serantau yang menghubungkan Sarawak dan Sabah melalui budaya serta sejarah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sarawak"
+        },
+        {
+          "id": "B",
+          "text": "Sabah"
+        },
+        {
+          "id": "C",
+          "text": "Borneo"
+        },
+        {
+          "id": "D",
+          "text": "Alam Melayu"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Alam Melayu: Lingkungan serantau yang menghubungkan Sarawak dan Sabah melalui budaya serta sejarah.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q005",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Padankan kelompok masyarakat dengan kaitan utamanya.\n\nMasyarakat Sarawak yang terkenal dengan tradisi rumah panjang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Melanau"
+        },
+        {
+          "id": "B",
+          "text": "Bajau"
+        },
+        {
+          "id": "C",
+          "text": "Kadazandusun"
+        },
+        {
+          "id": "D",
+          "text": "Iban"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Iban: Masyarakat Sarawak yang terkenal dengan tradisi rumah panjang.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q006",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Padankan kelompok masyarakat dengan kaitan utamanya.\n\nMasyarakat Sarawak yang kuat kaitannya dengan kegiatan sagu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Melanau"
+        },
+        {
+          "id": "B",
+          "text": "Bajau"
+        },
+        {
+          "id": "C",
+          "text": "Kadazandusun"
+        },
+        {
+          "id": "D",
+          "text": "Iban"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Melanau: Masyarakat Sarawak yang kuat kaitannya dengan kegiatan sagu.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q007",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Padankan kelompok masyarakat dengan kaitan utamanya.\n\nMasyarakat Sabah yang sebahagiannya mempunyai tradisi maritim.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Melanau"
+        },
+        {
+          "id": "B",
+          "text": "Bajau"
+        },
+        {
+          "id": "C",
+          "text": "Kadazandusun"
+        },
+        {
+          "id": "D",
+          "text": "Iban"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Bajau: Masyarakat Sabah yang sebahagiannya mempunyai tradisi maritim.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q008",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Padankan kelompok masyarakat dengan kaitan utamanya.\n\nMasyarakat Sabah yang dikaitkan dengan penanaman padi dan Kaamatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Melanau"
+        },
+        {
+          "id": "B",
+          "text": "Bajau"
+        },
+        {
+          "id": "C",
+          "text": "Kadazandusun"
+        },
+        {
+          "id": "D",
+          "text": "Iban"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kadazandusun: Masyarakat Sabah yang dikaitkan dengan penanaman padi dan Kaamatan.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q009",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Kenal pasti bentuk pentadbiran tempatan.\n\nPemimpin mengurus masyarakat berdasarkan kelompok setempat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ketua kampung"
+        },
+        {
+          "id": "B",
+          "text": "Ketua rumah panjang"
+        },
+        {
+          "id": "C",
+          "text": "Kesukuan"
+        },
+        {
+          "id": "D",
+          "text": "Kesultanan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kesukuan: Pemimpin mengurus masyarakat berdasarkan kelompok setempat.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q010",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Kenal pasti bentuk pentadbiran tempatan.\n\nWilayah tertentu berada di bawah pengaruh Brunei atau Sulu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ketua kampung"
+        },
+        {
+          "id": "B",
+          "text": "Ketua rumah panjang"
+        },
+        {
+          "id": "C",
+          "text": "Kesukuan"
+        },
+        {
+          "id": "D",
+          "text": "Kesultanan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kesultanan: Wilayah tertentu berada di bawah pengaruh Brunei atau Sulu.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q011",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Kenal pasti bentuk pentadbiran tempatan.\n\nPemimpin yang mengendalikan urusan penduduk sebuah kampung.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ketua kampung"
+        },
+        {
+          "id": "B",
+          "text": "Ketua rumah panjang"
+        },
+        {
+          "id": "C",
+          "text": "Kesukuan"
+        },
+        {
+          "id": "D",
+          "text": "Kesultanan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Ketua kampung: Pemimpin yang mengendalikan urusan penduduk sebuah kampung.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q012",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Kenal pasti bentuk pentadbiran tempatan.\n\nPemimpin yang menyelaraskan komuniti kediaman panjang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ketua kampung"
+        },
+        {
+          "id": "B",
+          "text": "Ketua rumah panjang"
+        },
+        {
+          "id": "C",
+          "text": "Kesukuan"
+        },
+        {
+          "id": "D",
+          "text": "Kesultanan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Ketua rumah panjang: Pemimpin yang menyelaraskan komuniti kediaman panjang.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q013",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Padankan kegiatan dengan persekitaran.\n\nTanah diusahakan untuk menghasilkan makanan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perdagangan sungai"
+        },
+        {
+          "id": "B",
+          "text": "Pertanian"
+        },
+        {
+          "id": "C",
+          "text": "Perikanan"
+        },
+        {
+          "id": "D",
+          "text": "Mengumpul hasil hutan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pertanian: Tanah diusahakan untuk menghasilkan makanan.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q014",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Padankan kegiatan dengan persekitaran.\n\nSumber laut dan sungai ditangkap.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perdagangan sungai"
+        },
+        {
+          "id": "B",
+          "text": "Pertanian"
+        },
+        {
+          "id": "C",
+          "text": "Perikanan"
+        },
+        {
+          "id": "D",
+          "text": "Mengumpul hasil hutan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perikanan: Sumber laut dan sungai ditangkap.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q015",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Padankan kegiatan dengan persekitaran.\n\nRotan serta damar diperoleh dari pedalaman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perdagangan sungai"
+        },
+        {
+          "id": "B",
+          "text": "Pertanian"
+        },
+        {
+          "id": "C",
+          "text": "Perikanan"
+        },
+        {
+          "id": "D",
+          "text": "Mengumpul hasil hutan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Mengumpul hasil hutan: Rotan serta damar diperoleh dari pedalaman.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q016",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Padankan kegiatan dengan persekitaran.\n\nBarangan dibawa antara hulu dengan muara menggunakan perahu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perdagangan sungai"
+        },
+        {
+          "id": "B",
+          "text": "Pertanian"
+        },
+        {
+          "id": "C",
+          "text": "Perikanan"
+        },
+        {
+          "id": "D",
+          "text": "Mengumpul hasil hutan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perdagangan sungai: Barangan dibawa antara hulu dengan muara menggunakan perahu.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q017",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Kenal pasti bentuk kediaman atau pengangkutan.\n\nSebuah binaan menempatkan beberapa keluarga dengan ruang bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rumah panjang"
+        },
+        {
+          "id": "B",
+          "text": "Rumah bertiang"
+        },
+        {
+          "id": "C",
+          "text": "Perahu"
+        },
+        {
+          "id": "D",
+          "text": "Laluan sungai"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Rumah panjang: Sebuah binaan menempatkan beberapa keluarga dengan ruang bersama.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q018",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Kenal pasti bentuk kediaman atau pengangkutan.\n\nLantai ditinggikan daripada permukaan tanah atau air.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rumah panjang"
+        },
+        {
+          "id": "B",
+          "text": "Rumah bertiang"
+        },
+        {
+          "id": "C",
+          "text": "Perahu"
+        },
+        {
+          "id": "D",
+          "text": "Laluan sungai"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Rumah bertiang: Lantai ditinggikan daripada permukaan tanah atau air.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q019",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Kenal pasti bentuk kediaman atau pengangkutan.\n\nKenderaan air untuk membawa penduduk dan hasil.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rumah panjang"
+        },
+        {
+          "id": "B",
+          "text": "Rumah bertiang"
+        },
+        {
+          "id": "C",
+          "text": "Perahu"
+        },
+        {
+          "id": "D",
+          "text": "Laluan sungai"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perahu: Kenderaan air untuk membawa penduduk dan hasil.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q020",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Kenal pasti bentuk kediaman atau pengangkutan.\n\nJaringan semula jadi menghubungkan petempatan pedalaman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rumah panjang"
+        },
+        {
+          "id": "B",
+          "text": "Rumah bertiang"
+        },
+        {
+          "id": "C",
+          "text": "Perahu"
+        },
+        {
+          "id": "D",
+          "text": "Laluan sungai"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Laluan sungai: Jaringan semula jadi menghubungkan petempatan pedalaman.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q021",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Padankan hasil ekonomi.\n\nKanji diperoleh daripada bahagian batang palma tertentu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Padi"
+        },
+        {
+          "id": "B",
+          "text": "Rotan"
+        },
+        {
+          "id": "C",
+          "text": "Sarang burung"
+        },
+        {
+          "id": "D",
+          "text": "Sagu"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Sagu: Kanji diperoleh daripada bahagian batang palma tertentu.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q022",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Padankan hasil ekonomi.\n\nTanaman yang menghasilkan beras.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Padi"
+        },
+        {
+          "id": "B",
+          "text": "Rotan"
+        },
+        {
+          "id": "C",
+          "text": "Sarang burung"
+        },
+        {
+          "id": "D",
+          "text": "Sagu"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Padi: Tanaman yang menghasilkan beras.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q023",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Padankan hasil ekonomi.\n\nBahan hutan lentur untuk anyaman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Padi"
+        },
+        {
+          "id": "B",
+          "text": "Rotan"
+        },
+        {
+          "id": "C",
+          "text": "Sarang burung"
+        },
+        {
+          "id": "D",
+          "text": "Sagu"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Rotan: Bahan hutan lentur untuk anyaman.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q024",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Padankan hasil ekonomi.\n\nHasil gua bernilai dalam perdagangan sejarah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Padi"
+        },
+        {
+          "id": "B",
+          "text": "Rotan"
+        },
+        {
+          "id": "C",
+          "text": "Sarang burung"
+        },
+        {
+          "id": "D",
+          "text": "Sagu"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Sarang burung: Hasil gua bernilai dalam perdagangan sejarah.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q025",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Kenal pasti warisan budaya.\n\nPerayaan menuai yang dikaitkan dengan masyarakat Dayak Sarawak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ngajat"
+        },
+        {
+          "id": "B",
+          "text": "Sumazau"
+        },
+        {
+          "id": "C",
+          "text": "Gawai"
+        },
+        {
+          "id": "D",
+          "text": "Kaamatan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Gawai: Perayaan menuai yang dikaitkan dengan masyarakat Dayak Sarawak.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q026",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Kenal pasti warisan budaya.\n\nPerayaan menuai yang terkenal di Sabah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ngajat"
+        },
+        {
+          "id": "B",
+          "text": "Sumazau"
+        },
+        {
+          "id": "C",
+          "text": "Gawai"
+        },
+        {
+          "id": "D",
+          "text": "Kaamatan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kaamatan: Perayaan menuai yang terkenal di Sabah.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q027",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Kenal pasti warisan budaya.\n\nTarian yang dikaitkan dengan tradisi Iban.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ngajat"
+        },
+        {
+          "id": "B",
+          "text": "Sumazau"
+        },
+        {
+          "id": "C",
+          "text": "Gawai"
+        },
+        {
+          "id": "D",
+          "text": "Kaamatan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Ngajat: Tarian yang dikaitkan dengan tradisi Iban.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q028",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Kenal pasti warisan budaya.\n\nTarian yang terkenal dalam masyarakat Kadazandusun.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ngajat"
+        },
+        {
+          "id": "B",
+          "text": "Sumazau"
+        },
+        {
+          "id": "C",
+          "text": "Gawai"
+        },
+        {
+          "id": "D",
+          "text": "Kaamatan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Sumazau: Tarian yang terkenal dalam masyarakat Kadazandusun.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q029",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Apakah kepentingan sungai?\n\nPenduduk bergerak menggunakan jalan air.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Identiti petempatan"
+        },
+        {
+          "id": "B",
+          "text": "Mobiliti"
+        },
+        {
+          "id": "C",
+          "text": "Sumber makanan"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan niaga"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Mobiliti: Penduduk bergerak menggunakan jalan air.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q030",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Apakah kepentingan sungai?\n\nIkan menjadi sebahagian bekalan penduduk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Identiti petempatan"
+        },
+        {
+          "id": "B",
+          "text": "Mobiliti"
+        },
+        {
+          "id": "C",
+          "text": "Sumber makanan"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan niaga"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Sumber makanan: Ikan menjadi sebahagian bekalan penduduk.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q031",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Apakah kepentingan sungai?\n\nHasil pedalaman sampai kepada pembeli pesisir.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Identiti petempatan"
+        },
+        {
+          "id": "B",
+          "text": "Mobiliti"
+        },
+        {
+          "id": "C",
+          "text": "Sumber makanan"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan niaga"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Hubungan niaga: Hasil pedalaman sampai kepada pembeli pesisir.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q032",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Apakah kepentingan sungai?\n\nNama dan kehidupan kampung berkait rapat dengan lembangan setempat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Identiti petempatan"
+        },
+        {
+          "id": "B",
+          "text": "Mobiliti"
+        },
+        {
+          "id": "C",
+          "text": "Sumber makanan"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan niaga"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Identiti petempatan: Nama dan kehidupan kampung berkait rapat dengan lembangan setempat.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q033",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Padankan bentuk hubungan masyarakat.\n\nKomuniti membina atau membaiki kemudahan bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gotong-royong"
+        },
+        {
+          "id": "B",
+          "text": "Pertukaran barangan"
+        },
+        {
+          "id": "C",
+          "text": "Perkahwinan"
+        },
+        {
+          "id": "D",
+          "text": "Perkongsian pengetahuan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Gotong-royong: Komuniti membina atau membaiki kemudahan bersama.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q034",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Padankan bentuk hubungan masyarakat.\n\nHasil ladang ditukar dengan hasil laut.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gotong-royong"
+        },
+        {
+          "id": "B",
+          "text": "Pertukaran barangan"
+        },
+        {
+          "id": "C",
+          "text": "Perkahwinan"
+        },
+        {
+          "id": "D",
+          "text": "Perkongsian pengetahuan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pertukaran barangan: Hasil ladang ditukar dengan hasil laut.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q035",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Padankan bentuk hubungan masyarakat.\n\nIkatan keluarga menghubungkan kelompok berlainan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gotong-royong"
+        },
+        {
+          "id": "B",
+          "text": "Pertukaran barangan"
+        },
+        {
+          "id": "C",
+          "text": "Perkahwinan"
+        },
+        {
+          "id": "D",
+          "text": "Perkongsian pengetahuan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perkahwinan: Ikatan keluarga menghubungkan kelompok berlainan.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q036",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Padankan bentuk hubungan masyarakat.\n\nKemahiran membuat perahu diajar kepada generasi muda.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gotong-royong"
+        },
+        {
+          "id": "B",
+          "text": "Pertukaran barangan"
+        },
+        {
+          "id": "C",
+          "text": "Perkahwinan"
+        },
+        {
+          "id": "D",
+          "text": "Perkongsian pengetahuan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Perkongsian pengetahuan: Kemahiran membuat perahu diajar kepada generasi muda.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q037",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Kenal pasti amalan menghormati kepelbagaian.\n\nPelawat memahami aturan komuniti sebelum menyertai acara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengelakkan stereotaip"
+        },
+        {
+          "id": "B",
+          "text": "Memelihara bahasa"
+        },
+        {
+          "id": "C",
+          "text": "Menjaga alam"
+        },
+        {
+          "id": "D",
+          "text": "Mempelajari adat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Mempelajari adat: Pelawat memahami aturan komuniti sebelum menyertai acara.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q038",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Kenal pasti amalan menghormati kepelbagaian.\n\nSatu cara hidup tidak dianggap mewakili semua penduduk negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengelakkan stereotaip"
+        },
+        {
+          "id": "B",
+          "text": "Memelihara bahasa"
+        },
+        {
+          "id": "C",
+          "text": "Menjaga alam"
+        },
+        {
+          "id": "D",
+          "text": "Mempelajari adat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Mengelakkan stereotaip: Satu cara hidup tidak dianggap mewakili semua penduduk negeri.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q039",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Kenal pasti amalan menghormati kepelbagaian.\n\nPertuturan tempatan terus diajar kepada anak-anak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengelakkan stereotaip"
+        },
+        {
+          "id": "B",
+          "text": "Memelihara bahasa"
+        },
+        {
+          "id": "C",
+          "text": "Menjaga alam"
+        },
+        {
+          "id": "D",
+          "text": "Mempelajari adat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Memelihara bahasa: Pertuturan tempatan terus diajar kepada anak-anak.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t2-b10-q040",
+      "form": 2,
+      "chapter": 10,
+      "prompt": "Kenal pasti amalan menghormati kepelbagaian.\n\nHutan dan sungai dipelihara sebagai asas kehidupan masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengelakkan stereotaip"
+        },
+        {
+          "id": "B",
+          "text": "Memelihara bahasa"
+        },
+        {
+          "id": "C",
+          "text": "Menjaga alam"
+        },
+        {
+          "id": "D",
+          "text": "Mempelajari adat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Menjaga alam: Hutan dan sungai dipelihara sebagai asas kehidupan masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    }
+  ]
+}

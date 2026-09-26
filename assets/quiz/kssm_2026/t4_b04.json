@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 4,
+  "chapter": 4,
+  "title": "Era Peralihan Kuasa British di Negara Kita",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t4_b04.json",
+  "questions": [
+    {
+      "id": "t4-b04-q001",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Kenal pasti pentadbiran atau gerakan.\n\nPentadbiran tentera British selepas kekalahan Jepun.",
+      "options": [
+        {
+          "id": "A",
+          "text": "BMA"
+        },
+        {
+          "id": "B",
+          "text": "Malayan Union"
+        },
+        {
+          "id": "C",
+          "text": "UMNO"
+        },
+        {
+          "id": "D",
+          "text": "Gerakan antipenyerahan Sarawak"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "BMA: Pentadbiran tentera British selepas kekalahan Jepun.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q002",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Kenal pasti pentadbiran atau gerakan.\n\nRancangan pentadbiran British yang dilaksanakan pada 1 April 1946.",
+      "options": [
+        {
+          "id": "A",
+          "text": "BMA"
+        },
+        {
+          "id": "B",
+          "text": "Malayan Union"
+        },
+        {
+          "id": "C",
+          "text": "UMNO"
+        },
+        {
+          "id": "D",
+          "text": "Gerakan antipenyerahan Sarawak"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Malayan Union: Rancangan pentadbiran British yang dilaksanakan pada 1 April 1946.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q003",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Kenal pasti pentadbiran atau gerakan.\n\nPertubuhan Melayu yang diasaskan pada 11 Mei 1946.",
+      "options": [
+        {
+          "id": "A",
+          "text": "BMA"
+        },
+        {
+          "id": "B",
+          "text": "Malayan Union"
+        },
+        {
+          "id": "C",
+          "text": "UMNO"
+        },
+        {
+          "id": "D",
+          "text": "Gerakan antipenyerahan Sarawak"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "UMNO: Pertubuhan Melayu yang diasaskan pada 11 Mei 1946.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q004",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Kenal pasti pentadbiran atau gerakan.\n\nGerakan membantah penyerahan Sarawak kepada British.",
+      "options": [
+        {
+          "id": "A",
+          "text": "BMA"
+        },
+        {
+          "id": "B",
+          "text": "Malayan Union"
+        },
+        {
+          "id": "C",
+          "text": "UMNO"
+        },
+        {
+          "id": "D",
+          "text": "Gerakan antipenyerahan Sarawak"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Gerakan antipenyerahan Sarawak: Gerakan membantah penyerahan Sarawak kepada British.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q005",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Padankan tokoh.\n\nWakil yang mendapatkan tandatangan raja-raja bagi Malayan Union.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Edward Gent"
+        },
+        {
+          "id": "B",
+          "text": "Dato' Onn Jaafar"
+        },
+        {
+          "id": "C",
+          "text": "Charles Vyner Brooke"
+        },
+        {
+          "id": "D",
+          "text": "Harold MacMichael"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Harold MacMichael: Wakil yang mendapatkan tandatangan raja-raja bagi Malayan Union.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q006",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Padankan tokoh.\n\nGabenor pertama Malayan Union.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Edward Gent"
+        },
+        {
+          "id": "B",
+          "text": "Dato' Onn Jaafar"
+        },
+        {
+          "id": "C",
+          "text": "Charles Vyner Brooke"
+        },
+        {
+          "id": "D",
+          "text": "Harold MacMichael"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Edward Gent: Gabenor pertama Malayan Union.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q007",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Padankan tokoh.\n\nPemimpin utama penentangan Malayan Union dan pengasas UMNO.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Edward Gent"
+        },
+        {
+          "id": "B",
+          "text": "Dato' Onn Jaafar"
+        },
+        {
+          "id": "C",
+          "text": "Charles Vyner Brooke"
+        },
+        {
+          "id": "D",
+          "text": "Harold MacMichael"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Dato' Onn Jaafar: Pemimpin utama penentangan Malayan Union dan pengasas UMNO.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q008",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Padankan tokoh.\n\nPemerintah Brooke yang menyerahkan Sarawak kepada British.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Edward Gent"
+        },
+        {
+          "id": "B",
+          "text": "Dato' Onn Jaafar"
+        },
+        {
+          "id": "C",
+          "text": "Charles Vyner Brooke"
+        },
+        {
+          "id": "D",
+          "text": "Harold MacMichael"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Charles Vyner Brooke: Pemerintah Brooke yang menyerahkan Sarawak kepada British.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q009",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Apakah tugas BMA?\n\nKekacauan selepas perang cuba dikawal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengembalikan pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Mengurus bekalan"
+        },
+        {
+          "id": "C",
+          "text": "Memulihkan keselamatan"
+        },
+        {
+          "id": "D",
+          "text": "Memulihkan ekonomi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Memulihkan keselamatan: Kekacauan selepas perang cuba dikawal.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q010",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Apakah tugas BMA?\n\nKegiatan pengeluaran dan perdagangan cuba dipulihkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengembalikan pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Mengurus bekalan"
+        },
+        {
+          "id": "C",
+          "text": "Memulihkan keselamatan"
+        },
+        {
+          "id": "D",
+          "text": "Memulihkan ekonomi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Memulihkan ekonomi: Kegiatan pengeluaran dan perdagangan cuba dipulihkan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q011",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Apakah tugas BMA?\n\nPejabat kerajaan British dibuka semula.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengembalikan pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Mengurus bekalan"
+        },
+        {
+          "id": "C",
+          "text": "Memulihkan keselamatan"
+        },
+        {
+          "id": "D",
+          "text": "Memulihkan ekonomi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Mengembalikan pentadbiran: Pejabat kerajaan British dibuka semula.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q012",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Apakah tugas BMA?\n\nMasalah makanan dan keperluan asas ditangani.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengembalikan pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Mengurus bekalan"
+        },
+        {
+          "id": "C",
+          "text": "Memulihkan keselamatan"
+        },
+        {
+          "id": "D",
+          "text": "Memulihkan ekonomi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Mengurus bekalan: Masalah makanan dan keperluan asas ditangani.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q013",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Kenal pasti ciri Malayan Union.\n\nNegeri Melayu dan dua petempatan Selat disatukan di bawah pusat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kewarganegaraan longgar"
+        },
+        {
+          "id": "B",
+          "text": "Kesatuan pentadbiran"
+        },
+        {
+          "id": "C",
+          "text": "Gabenor British"
+        },
+        {
+          "id": "D",
+          "text": "Kuasa raja terhad"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kesatuan pentadbiran: Negeri Melayu dan dua petempatan Selat disatukan di bawah pusat.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q014",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Kenal pasti ciri Malayan Union.\n\nKetua pentadbiran dilantik oleh kuasa penjajah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kewarganegaraan longgar"
+        },
+        {
+          "id": "B",
+          "text": "Kesatuan pentadbiran"
+        },
+        {
+          "id": "C",
+          "text": "Gabenor British"
+        },
+        {
+          "id": "D",
+          "text": "Kuasa raja terhad"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Gabenor British: Ketua pentadbiran dilantik oleh kuasa penjajah.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q015",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Kenal pasti ciri Malayan Union.\n\nPeranan sultan lebih tertumpu pada agama dan adat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kewarganegaraan longgar"
+        },
+        {
+          "id": "B",
+          "text": "Kesatuan pentadbiran"
+        },
+        {
+          "id": "C",
+          "text": "Gabenor British"
+        },
+        {
+          "id": "D",
+          "text": "Kuasa raja terhad"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kuasa raja terhad: Peranan sultan lebih tertumpu pada agama dan adat.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q016",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Kenal pasti ciri Malayan Union.\n\nPrinsip jus soli diperluas dalam rancangan tersebut.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kewarganegaraan longgar"
+        },
+        {
+          "id": "B",
+          "text": "Kesatuan pentadbiran"
+        },
+        {
+          "id": "C",
+          "text": "Gabenor British"
+        },
+        {
+          "id": "D",
+          "text": "Kuasa raja terhad"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kewarganegaraan longgar: Prinsip jus soli diperluas dalam rancangan tersebut.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q017",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Padankan sebab penentangan.\n\nTandatangan raja diperoleh melalui tekanan dan tergesa-gesa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cara mendapatkan persetujuan"
+        },
+        {
+          "id": "B",
+          "text": "Ancaman kedaulatan"
+        },
+        {
+          "id": "C",
+          "text": "Isu kewarganegaraan"
+        },
+        {
+          "id": "D",
+          "text": "Ketidakpuasan terhadap penjajahan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Cara mendapatkan persetujuan: Tandatangan raja diperoleh melalui tekanan dan tergesa-gesa.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q018",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Padankan sebab penentangan.\n\nKuasa pemerintahan raja-raja dikurangkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cara mendapatkan persetujuan"
+        },
+        {
+          "id": "B",
+          "text": "Ancaman kedaulatan"
+        },
+        {
+          "id": "C",
+          "text": "Isu kewarganegaraan"
+        },
+        {
+          "id": "D",
+          "text": "Ketidakpuasan terhadap penjajahan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Ancaman kedaulatan: Kuasa pemerintahan raja-raja dikurangkan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q019",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Padankan sebab penentangan.\n\nSyarat baharu menimbulkan kebimbangan tentang kedudukan penduduk asal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cara mendapatkan persetujuan"
+        },
+        {
+          "id": "B",
+          "text": "Ancaman kedaulatan"
+        },
+        {
+          "id": "C",
+          "text": "Isu kewarganegaraan"
+        },
+        {
+          "id": "D",
+          "text": "Ketidakpuasan terhadap penjajahan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Isu kewarganegaraan: Syarat baharu menimbulkan kebimbangan tentang kedudukan penduduk asal.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q020",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Padankan sebab penentangan.\n\nRancangan dilihat mengukuhkan kawalan British selepas perang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cara mendapatkan persetujuan"
+        },
+        {
+          "id": "B",
+          "text": "Ancaman kedaulatan"
+        },
+        {
+          "id": "C",
+          "text": "Isu kewarganegaraan"
+        },
+        {
+          "id": "D",
+          "text": "Ketidakpuasan terhadap penjajahan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Ketidakpuasan terhadap penjajahan: Rancangan dilihat mengukuhkan kawalan British selepas perang.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q021",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Kenal pasti bentuk bantahan Melayu.\n\nRencana menyeru pembaca menolak Malayan Union.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kongres"
+        },
+        {
+          "id": "B",
+          "text": "Demonstrasi"
+        },
+        {
+          "id": "C",
+          "text": "Pemulauan istiadat"
+        },
+        {
+          "id": "D",
+          "text": "Akhbar"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Akhbar: Rencana menyeru pembaca menolak Malayan Union.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q022",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Kenal pasti bentuk bantahan Melayu.\n\nWakil persatuan berkumpul menyelaraskan pendirian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kongres"
+        },
+        {
+          "id": "B",
+          "text": "Demonstrasi"
+        },
+        {
+          "id": "C",
+          "text": "Pemulauan istiadat"
+        },
+        {
+          "id": "D",
+          "text": "Akhbar"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kongres: Wakil persatuan berkumpul menyelaraskan pendirian.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q023",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Kenal pasti bentuk bantahan Melayu.\n\nOrang ramai berhimpun menyatakan penentangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kongres"
+        },
+        {
+          "id": "B",
+          "text": "Demonstrasi"
+        },
+        {
+          "id": "C",
+          "text": "Pemulauan istiadat"
+        },
+        {
+          "id": "D",
+          "text": "Akhbar"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Demonstrasi: Orang ramai berhimpun menyatakan penentangan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q024",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Kenal pasti bentuk bantahan Melayu.\n\nRaja-raja tidak menghadiri upacara pelantikan gabenor.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kongres"
+        },
+        {
+          "id": "B",
+          "text": "Demonstrasi"
+        },
+        {
+          "id": "C",
+          "text": "Pemulauan istiadat"
+        },
+        {
+          "id": "D",
+          "text": "Akhbar"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pemulauan istiadat: Raja-raja tidak menghadiri upacara pelantikan gabenor.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q025",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Padankan wilayah selepas perang.\n\nWilayah yang mengalami pelaksanaan Malayan Union.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sarawak"
+        },
+        {
+          "id": "B",
+          "text": "Sabah"
+        },
+        {
+          "id": "C",
+          "text": "Tanah Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Singapura"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Tanah Melayu: Wilayah yang mengalami pelaksanaan Malayan Union.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q026",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Padankan wilayah selepas perang.\n\nPetempatan yang ditadbir berasingan daripada Malayan Union.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sarawak"
+        },
+        {
+          "id": "B",
+          "text": "Sabah"
+        },
+        {
+          "id": "C",
+          "text": "Tanah Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Singapura"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Singapura: Petempatan yang ditadbir berasingan daripada Malayan Union.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q027",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Padankan wilayah selepas perang.\n\nWilayah yang diserahkan oleh Brooke kepada British pada 1946.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sarawak"
+        },
+        {
+          "id": "B",
+          "text": "Sabah"
+        },
+        {
+          "id": "C",
+          "text": "Tanah Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Singapura"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Sarawak: Wilayah yang diserahkan oleh Brooke kepada British pada 1946.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q028",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Padankan wilayah selepas perang.\n\nWilayah yang beralih daripada SBUB kepada pentadbiran Mahkota pada 1946.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sarawak"
+        },
+        {
+          "id": "B",
+          "text": "Sabah"
+        },
+        {
+          "id": "C",
+          "text": "Tanah Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Singapura"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Sabah: Wilayah yang beralih daripada SBUB kepada pentadbiran Mahkota pada 1946.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q029",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Kenal pasti unsur gerakan Sarawak.\n\nPertubuhan yang terlibat menentang penyerahan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pekeliling No. 9"
+        },
+        {
+          "id": "B",
+          "text": "Persatuan Melayu Sarawak"
+        },
+        {
+          "id": "C",
+          "text": "Rosli Dhoby"
+        },
+        {
+          "id": "D",
+          "text": "Anthony Brooke"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Persatuan Melayu Sarawak: Pertubuhan yang terlibat menentang penyerahan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q030",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Kenal pasti unsur gerakan Sarawak.\n\nPemuda yang dikaitkan dengan pembunuhan Duncan Stewart.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pekeliling No. 9"
+        },
+        {
+          "id": "B",
+          "text": "Persatuan Melayu Sarawak"
+        },
+        {
+          "id": "C",
+          "text": "Rosli Dhoby"
+        },
+        {
+          "id": "D",
+          "text": "Anthony Brooke"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Rosli Dhoby: Pemuda yang dikaitkan dengan pembunuhan Duncan Stewart.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q031",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Kenal pasti unsur gerakan Sarawak.\n\nAnggota keluarga Brooke yang menentang penyerahan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pekeliling No. 9"
+        },
+        {
+          "id": "B",
+          "text": "Persatuan Melayu Sarawak"
+        },
+        {
+          "id": "C",
+          "text": "Rosli Dhoby"
+        },
+        {
+          "id": "D",
+          "text": "Anthony Brooke"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Anthony Brooke: Anggota keluarga Brooke yang menentang penyerahan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q032",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Kenal pasti unsur gerakan Sarawak.\n\nArahan yang menyekat penglibatan kakitangan kerajaan dalam gerakan antipenyerahan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pekeliling No. 9"
+        },
+        {
+          "id": "B",
+          "text": "Persatuan Melayu Sarawak"
+        },
+        {
+          "id": "C",
+          "text": "Rosli Dhoby"
+        },
+        {
+          "id": "D",
+          "text": "Anthony Brooke"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pekeliling No. 9: Arahan yang menyekat penglibatan kakitangan kerajaan dalam gerakan antipenyerahan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q033",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Apakah punca bantahan penyerahan Sarawak?\n\nPenduduk mahu suara mereka diambil kira.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hak rakyat"
+        },
+        {
+          "id": "B",
+          "text": "Janji pemerintahan sendiri"
+        },
+        {
+          "id": "C",
+          "text": "Kedudukan negeri"
+        },
+        {
+          "id": "D",
+          "text": "Cara keputusan dibuat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Hak rakyat: Penduduk mahu suara mereka diambil kira.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q034",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Apakah punca bantahan penyerahan Sarawak?\n\nHarapan terhadap perkembangan perlembagaan 1941 dianggap terjejas.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hak rakyat"
+        },
+        {
+          "id": "B",
+          "text": "Janji pemerintahan sendiri"
+        },
+        {
+          "id": "C",
+          "text": "Kedudukan negeri"
+        },
+        {
+          "id": "D",
+          "text": "Cara keputusan dibuat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Janji pemerintahan sendiri: Harapan terhadap perkembangan perlembagaan 1941 dianggap terjejas.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q035",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Apakah punca bantahan penyerahan Sarawak?\n\nSarawak berubah menjadi tanah jajahan Mahkota.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hak rakyat"
+        },
+        {
+          "id": "B",
+          "text": "Janji pemerintahan sendiri"
+        },
+        {
+          "id": "C",
+          "text": "Kedudukan negeri"
+        },
+        {
+          "id": "D",
+          "text": "Cara keputusan dibuat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kedudukan negeri: Sarawak berubah menjadi tanah jajahan Mahkota.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q036",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Apakah punca bantahan penyerahan Sarawak?\n\nPersetujuan penyerahan dipertikaikan oleh penentang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hak rakyat"
+        },
+        {
+          "id": "B",
+          "text": "Janji pemerintahan sendiri"
+        },
+        {
+          "id": "C",
+          "text": "Kedudukan negeri"
+        },
+        {
+          "id": "D",
+          "text": "Cara keputusan dibuat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Cara keputusan dibuat: Persetujuan penyerahan dipertikaikan oleh penentang.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q037",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Padankan kesan era peralihan.\n\nPersatuan menyelaraskan perjuangan menolak Malayan Union.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perubahan rancangan British"
+        },
+        {
+          "id": "B",
+          "text": "Kesedaran Sarawak"
+        },
+        {
+          "id": "C",
+          "text": "Pengalaman politik"
+        },
+        {
+          "id": "D",
+          "text": "Penyatuan gerakan Melayu"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Penyatuan gerakan Melayu: Persatuan menyelaraskan perjuangan menolak Malayan Union.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q038",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Padankan kesan era peralihan.\n\nRundingan baharu membawa kepada persekutuan 1948.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perubahan rancangan British"
+        },
+        {
+          "id": "B",
+          "text": "Kesedaran Sarawak"
+        },
+        {
+          "id": "C",
+          "text": "Pengalaman politik"
+        },
+        {
+          "id": "D",
+          "text": "Penyatuan gerakan Melayu"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perubahan rancangan British: Rundingan baharu membawa kepada persekutuan 1948.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q039",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Padankan kesan era peralihan.\n\nPenyerahan membangkitkan perdebatan tentang hak wilayah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perubahan rancangan British"
+        },
+        {
+          "id": "B",
+          "text": "Kesedaran Sarawak"
+        },
+        {
+          "id": "C",
+          "text": "Pengalaman politik"
+        },
+        {
+          "id": "D",
+          "text": "Penyatuan gerakan Melayu"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kesedaran Sarawak: Penyerahan membangkitkan perdebatan tentang hak wilayah.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t4-b04-q040",
+      "form": 4,
+      "chapter": 4,
+      "prompt": "Padankan kesan era peralihan.\n\nGerakan bantahan melatih pemimpin berorganisasi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perubahan rancangan British"
+        },
+        {
+          "id": "B",
+          "text": "Kesedaran Sarawak"
+        },
+        {
+          "id": "C",
+          "text": "Pengalaman politik"
+        },
+        {
+          "id": "D",
+          "text": "Penyatuan gerakan Melayu"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pengalaman politik: Gerakan bantahan melatih pemimpin berorganisasi.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    }
+  ]
+}

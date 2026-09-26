@@ -50,31 +50,28 @@ void main() {
     await tester.pumpAndSettle();
   }
 
-  testWidgets(
-    'selects form and exposes unavailable chapters without starting them',
-    (tester) async {
-      await tester.pumpWidget(
-        MaterialApp(
-          theme: AppTheme.light,
-          home: const Scaffold(
-            body: SingleChildScrollView(child: QuizScreen()),
-          ),
-        ),
-      );
-      await tester.tap(find.text('Tingkatan 1'));
-      await tester.pumpAndSettle();
-      expect(find.text('Pilih bab'), findsOneWidget);
-      expect(find.text('Mulakan kuiz'), findsOneWidget);
-      expect(find.text('Belum tersedia'), findsWidgets);
-      final unavailable = tester.widget<ListTile>(
-        find.ancestor(
-          of: find.text('Belum tersedia').first,
-          matching: find.byType(ListTile),
-        ),
-      );
-      expect(unavailable.onTap, isNull);
-    },
-  );
+  testWidgets('selects form and exposes all published chapters', (
+    tester,
+  ) async {
+    await tester.pumpWidget(
+      MaterialApp(
+        theme: AppTheme.light,
+        home: const Scaffold(body: SingleChildScrollView(child: QuizScreen())),
+      ),
+    );
+    await tester.tap(find.text('Tingkatan 1'));
+    await tester.pumpAndSettle();
+    expect(find.text('Pilih bab'), findsOneWidget);
+    expect(find.text('Mulakan kuiz'), findsWidgets);
+    expect(find.text('Belum tersedia'), findsNothing);
+    final available = tester.widget<ListTile>(
+      find.ancestor(
+        of: find.text('Mulakan kuiz').first,
+        matching: find.byType(ListTile),
+      ),
+    );
+    expect(available.onTap, isNotNull);
+  });
 
   testWidgets(
     'completes 15 questions, reviews answers and starts a fresh retry',

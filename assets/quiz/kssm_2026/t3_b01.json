@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 3,
+  "chapter": 1,
+  "title": "Kedatangan Kuasa Barat",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t3_b01.json",
+  "questions": [
+    {
+      "id": "t3-b01-q001",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Kenal pasti kuasa Barat.\n\nMenawan Melaka pada 1511.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Portugis"
+        },
+        {
+          "id": "B",
+          "text": "Belanda"
+        },
+        {
+          "id": "C",
+          "text": "British"
+        },
+        {
+          "id": "D",
+          "text": "Sepanyol"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Portugis: Menawan Melaka pada 1511.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q002",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Kenal pasti kuasa Barat.\n\nMenguasai Melaka selepas Portugis pada 1641.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Portugis"
+        },
+        {
+          "id": "B",
+          "text": "Belanda"
+        },
+        {
+          "id": "C",
+          "text": "British"
+        },
+        {
+          "id": "D",
+          "text": "Sepanyol"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Belanda: Menguasai Melaka selepas Portugis pada 1641.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q003",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Kenal pasti kuasa Barat.\n\nMenguasai Pulau Pinang mulai 1786.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Portugis"
+        },
+        {
+          "id": "B",
+          "text": "Belanda"
+        },
+        {
+          "id": "C",
+          "text": "British"
+        },
+        {
+          "id": "D",
+          "text": "Sepanyol"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "British: Menguasai Pulau Pinang mulai 1786.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q004",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Kenal pasti kuasa Barat.\n\nKuasa yang menjajah Filipina.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Portugis"
+        },
+        {
+          "id": "B",
+          "text": "Belanda"
+        },
+        {
+          "id": "C",
+          "text": "British"
+        },
+        {
+          "id": "D",
+          "text": "Sepanyol"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Sepanyol: Kuasa yang menjajah Filipina.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q005",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Padankan faktor kedatangan.\n\nBarangan bernilai yang dicari pedagang Eropah awal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Revolusi Perindustrian"
+        },
+        {
+          "id": "B",
+          "text": "Terusan Suez"
+        },
+        {
+          "id": "C",
+          "text": "Kapal wap"
+        },
+        {
+          "id": "D",
+          "text": "Rempah-ratus"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Rempah-ratus: Barangan bernilai yang dicari pedagang Eropah awal.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q006",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Padankan faktor kedatangan.\n\nPerubahan pengeluaran kilang meningkatkan keperluan bahan mentah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Revolusi Perindustrian"
+        },
+        {
+          "id": "B",
+          "text": "Terusan Suez"
+        },
+        {
+          "id": "C",
+          "text": "Kapal wap"
+        },
+        {
+          "id": "D",
+          "text": "Rempah-ratus"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Revolusi Perindustrian: Perubahan pengeluaran kilang meningkatkan keperluan bahan mentah.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q007",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Padankan faktor kedatangan.\n\nPembukaannya memendekkan perjalanan Eropah ke Asia.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Revolusi Perindustrian"
+        },
+        {
+          "id": "B",
+          "text": "Terusan Suez"
+        },
+        {
+          "id": "C",
+          "text": "Kapal wap"
+        },
+        {
+          "id": "D",
+          "text": "Rempah-ratus"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Terusan Suez: Pembukaannya memendekkan perjalanan Eropah ke Asia.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q008",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Padankan faktor kedatangan.\n\nTeknologi pengangkutan yang mengurangkan pergantungan pada angin.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Revolusi Perindustrian"
+        },
+        {
+          "id": "B",
+          "text": "Terusan Suez"
+        },
+        {
+          "id": "C",
+          "text": "Kapal wap"
+        },
+        {
+          "id": "D",
+          "text": "Rempah-ratus"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kapal wap: Teknologi pengangkutan yang mengurangkan pergantungan pada angin.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q009",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Kenal pasti kepentingan ekonomi.\n\nSumber diperlukan untuk pengeluaran kilang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pelabuhan"
+        },
+        {
+          "id": "B",
+          "text": "Pelaburan"
+        },
+        {
+          "id": "C",
+          "text": "Bahan mentah"
+        },
+        {
+          "id": "D",
+          "text": "Pasaran"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Bahan mentah: Sumber diperlukan untuk pengeluaran kilang.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q010",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Kenal pasti kepentingan ekonomi.\n\nKawasan menjual hasil pengeluaran industri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pelabuhan"
+        },
+        {
+          "id": "B",
+          "text": "Pelaburan"
+        },
+        {
+          "id": "C",
+          "text": "Bahan mentah"
+        },
+        {
+          "id": "D",
+          "text": "Pasaran"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pasaran: Kawasan menjual hasil pengeluaran industri.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q011",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Kenal pasti kepentingan ekonomi.\n\nPusat persinggahan dan pemindahan muatan kapal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pelabuhan"
+        },
+        {
+          "id": "B",
+          "text": "Pelaburan"
+        },
+        {
+          "id": "C",
+          "text": "Bahan mentah"
+        },
+        {
+          "id": "D",
+          "text": "Pasaran"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pelabuhan: Pusat persinggahan dan pemindahan muatan kapal.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q012",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Kenal pasti kepentingan ekonomi.\n\nModal digunakan bagi memperoleh keuntungan ekonomi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pelabuhan"
+        },
+        {
+          "id": "B",
+          "text": "Pelaburan"
+        },
+        {
+          "id": "C",
+          "text": "Bahan mentah"
+        },
+        {
+          "id": "D",
+          "text": "Pasaran"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pelaburan: Modal digunakan bagi memperoleh keuntungan ekonomi.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q013",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Padankan strategi penguasaan.\n\nPersetujuan diperoleh melalui maklumat mengelirukan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Serangan tentera"
+        },
+        {
+          "id": "B",
+          "text": "Tipu helah"
+        },
+        {
+          "id": "C",
+          "text": "Ugutan"
+        },
+        {
+          "id": "D",
+          "text": "Pakatan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Tipu helah: Persetujuan diperoleh melalui maklumat mengelirukan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q014",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Padankan strategi penguasaan.\n\nAncaman digunakan untuk memaksa penerimaan tuntutan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Serangan tentera"
+        },
+        {
+          "id": "B",
+          "text": "Tipu helah"
+        },
+        {
+          "id": "C",
+          "text": "Ugutan"
+        },
+        {
+          "id": "D",
+          "text": "Pakatan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Ugutan: Ancaman digunakan untuk memaksa penerimaan tuntutan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q015",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Padankan strategi penguasaan.\n\nKerjasama dengan pihak tertentu menguatkan kedudukan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Serangan tentera"
+        },
+        {
+          "id": "B",
+          "text": "Tipu helah"
+        },
+        {
+          "id": "C",
+          "text": "Ugutan"
+        },
+        {
+          "id": "D",
+          "text": "Pakatan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pakatan: Kerjasama dengan pihak tertentu menguatkan kedudukan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q016",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Padankan strategi penguasaan.\n\nKekuatan senjata digunakan untuk menawan kawasan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Serangan tentera"
+        },
+        {
+          "id": "B",
+          "text": "Tipu helah"
+        },
+        {
+          "id": "C",
+          "text": "Ugutan"
+        },
+        {
+          "id": "D",
+          "text": "Pakatan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Serangan tentera: Kekuatan senjata digunakan untuk menawan kawasan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q017",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Kenal pasti ciri kemakmuran tempatan.\n\nEmas dan bijih timah menarik perhatian asing.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hasil bumi"
+        },
+        {
+          "id": "B",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Pertanian"
+        },
+        {
+          "id": "D",
+          "text": "Kemahiran pertukangan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Hasil bumi: Emas dan bijih timah menarik perhatian asing.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q018",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Kenal pasti ciri kemakmuran tempatan.\n\nPelabuhan menghubungkan pedagang antarabangsa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hasil bumi"
+        },
+        {
+          "id": "B",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Pertanian"
+        },
+        {
+          "id": "D",
+          "text": "Kemahiran pertukangan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perdagangan: Pelabuhan menghubungkan pedagang antarabangsa.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q019",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Kenal pasti ciri kemakmuran tempatan.\n\nTanah menghasilkan makanan dan tanaman dagangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hasil bumi"
+        },
+        {
+          "id": "B",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Pertanian"
+        },
+        {
+          "id": "D",
+          "text": "Kemahiran pertukangan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pertanian: Tanah menghasilkan makanan dan tanaman dagangan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q020",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Kenal pasti ciri kemakmuran tempatan.\n\nPenduduk mahir membuat kapal serta barangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hasil bumi"
+        },
+        {
+          "id": "B",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Pertanian"
+        },
+        {
+          "id": "D",
+          "text": "Kemahiran pertukangan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kemahiran pertukangan: Penduduk mahir membuat kapal serta barangan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q021",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Padankan unsur kestabilan kerajaan.\n\nRaja dan pembesar mempunyai bidang tanggungjawab.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perundangan"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan luar"
+        },
+        {
+          "id": "C",
+          "text": "Adat"
+        },
+        {
+          "id": "D",
+          "text": "Pemerintahan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pemerintahan: Raja dan pembesar mempunyai bidang tanggungjawab.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q022",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Padankan unsur kestabilan kerajaan.\n\nPeraturan mengawal kegiatan masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perundangan"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan luar"
+        },
+        {
+          "id": "C",
+          "text": "Adat"
+        },
+        {
+          "id": "D",
+          "text": "Pemerintahan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perundangan: Peraturan mengawal kegiatan masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q023",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Padankan unsur kestabilan kerajaan.\n\nDiplomasi menghubungkan kerajaan tempatan dengan kuasa lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perundangan"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan luar"
+        },
+        {
+          "id": "C",
+          "text": "Adat"
+        },
+        {
+          "id": "D",
+          "text": "Pemerintahan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Hubungan luar: Diplomasi menghubungkan kerajaan tempatan dengan kuasa lain.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q024",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Padankan unsur kestabilan kerajaan.\n\nAmalan diwarisi membantu mengatur kehidupan bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perundangan"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan luar"
+        },
+        {
+          "id": "C",
+          "text": "Adat"
+        },
+        {
+          "id": "D",
+          "text": "Pemerintahan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Adat: Amalan diwarisi membantu mengatur kehidupan bersama.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q025",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Apakah teknologi yang memudahkan penjajahan?\n\nMaklumat dapat dihantar lebih cepat antara pusat kuasa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Senjata api"
+        },
+        {
+          "id": "B",
+          "text": "Peta pelayaran"
+        },
+        {
+          "id": "C",
+          "text": "Telegraf"
+        },
+        {
+          "id": "D",
+          "text": "Kapal berperisai"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Telegraf: Maklumat dapat dihantar lebih cepat antara pusat kuasa.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q026",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Apakah teknologi yang memudahkan penjajahan?\n\nStruktur kapal yang kukuh menyokong kekuatan tentera laut.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Senjata api"
+        },
+        {
+          "id": "B",
+          "text": "Peta pelayaran"
+        },
+        {
+          "id": "C",
+          "text": "Telegraf"
+        },
+        {
+          "id": "D",
+          "text": "Kapal berperisai"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kapal berperisai: Struktur kapal yang kukuh menyokong kekuatan tentera laut.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q027",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Apakah teknologi yang memudahkan penjajahan?\n\nKeupayaan persenjataan memberi kelebihan dalam pertempuran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Senjata api"
+        },
+        {
+          "id": "B",
+          "text": "Peta pelayaran"
+        },
+        {
+          "id": "C",
+          "text": "Telegraf"
+        },
+        {
+          "id": "D",
+          "text": "Kapal berperisai"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Senjata api: Keupayaan persenjataan memberi kelebihan dalam pertempuran.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q028",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Apakah teknologi yang memudahkan penjajahan?\n\nMaklumat laluan membantu kapal menuju pelabuhan sasaran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Senjata api"
+        },
+        {
+          "id": "B",
+          "text": "Peta pelayaran"
+        },
+        {
+          "id": "C",
+          "text": "Telegraf"
+        },
+        {
+          "id": "D",
+          "text": "Kapal berperisai"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Peta pelayaran: Maklumat laluan membantu kapal menuju pelabuhan sasaran.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q029",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Kenal pasti alasan atau dorongan peluasan.\n\nKeinginan memperoleh hasil dan keuntungan perdagangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Persaingan kuasa"
+        },
+        {
+          "id": "B",
+          "text": "Kekayaan"
+        },
+        {
+          "id": "C",
+          "text": "Keagamaan"
+        },
+        {
+          "id": "D",
+          "text": "Kemegahan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kekayaan: Keinginan memperoleh hasil dan keuntungan perdagangan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q030",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Kenal pasti alasan atau dorongan peluasan.\n\nHasrat menyebarkan pegangan agama kuasa penjajah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Persaingan kuasa"
+        },
+        {
+          "id": "B",
+          "text": "Kekayaan"
+        },
+        {
+          "id": "C",
+          "text": "Keagamaan"
+        },
+        {
+          "id": "D",
+          "text": "Kemegahan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Keagamaan: Hasrat menyebarkan pegangan agama kuasa penjajah.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q031",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Kenal pasti alasan atau dorongan peluasan.\n\nPenguasaan wilayah dianggap meningkatkan prestij negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Persaingan kuasa"
+        },
+        {
+          "id": "B",
+          "text": "Kekayaan"
+        },
+        {
+          "id": "C",
+          "text": "Keagamaan"
+        },
+        {
+          "id": "D",
+          "text": "Kemegahan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kemegahan: Penguasaan wilayah dianggap meningkatkan prestij negara.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q032",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Kenal pasti alasan atau dorongan peluasan.\n\nKuasa Eropah berlumba mengelakkan pesaing menguasai kawasan strategik.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Persaingan kuasa"
+        },
+        {
+          "id": "B",
+          "text": "Kekayaan"
+        },
+        {
+          "id": "C",
+          "text": "Keagamaan"
+        },
+        {
+          "id": "D",
+          "text": "Kemegahan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Persaingan kuasa: Kuasa Eropah berlumba mengelakkan pesaing menguasai kawasan strategik.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q033",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Padankan kesan strategi asing.\n\nPemerintah tempatan kehilangan kebebasan membuat keputusan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedaulatan terhakis"
+        },
+        {
+          "id": "B",
+          "text": "Sumber dikuasai"
+        },
+        {
+          "id": "C",
+          "text": "Pentadbiran berubah"
+        },
+        {
+          "id": "D",
+          "text": "Konflik tercetus"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kedaulatan terhakis: Pemerintah tempatan kehilangan kebebasan membuat keputusan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q034",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Padankan kesan strategi asing.\n\nHasil lombong dan perdagangan dikendalikan pihak luar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedaulatan terhakis"
+        },
+        {
+          "id": "B",
+          "text": "Sumber dikuasai"
+        },
+        {
+          "id": "C",
+          "text": "Pentadbiran berubah"
+        },
+        {
+          "id": "D",
+          "text": "Konflik tercetus"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Sumber dikuasai: Hasil lombong dan perdagangan dikendalikan pihak luar.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q035",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Padankan kesan strategi asing.\n\nPegawai asing campur tangan dalam urusan negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedaulatan terhakis"
+        },
+        {
+          "id": "B",
+          "text": "Sumber dikuasai"
+        },
+        {
+          "id": "C",
+          "text": "Pentadbiran berubah"
+        },
+        {
+          "id": "D",
+          "text": "Konflik tercetus"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pentadbiran berubah: Pegawai asing campur tangan dalam urusan negeri.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q036",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Padankan kesan strategi asing.\n\nTuntutan kuasa luar menghadapi penentangan penduduk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedaulatan terhakis"
+        },
+        {
+          "id": "B",
+          "text": "Sumber dikuasai"
+        },
+        {
+          "id": "C",
+          "text": "Pentadbiran berubah"
+        },
+        {
+          "id": "D",
+          "text": "Konflik tercetus"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Konflik tercetus: Tuntutan kuasa luar menghadapi penentangan penduduk.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q037",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Apakah pengajaran yang sesuai?\n\nSyarat perjanjian diteliti sebelum dipersetujui.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bersatu"
+        },
+        {
+          "id": "B",
+          "text": "Menguasai ilmu"
+        },
+        {
+          "id": "C",
+          "text": "Memperkukuh diplomasi"
+        },
+        {
+          "id": "D",
+          "text": "Berwaspada"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Berwaspada: Syarat perjanjian diteliti sebelum dipersetujui.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q038",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Apakah pengajaran yang sesuai?\n\nPerpecahan dalaman dielakkan ketika menghadapi tekanan luar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bersatu"
+        },
+        {
+          "id": "B",
+          "text": "Menguasai ilmu"
+        },
+        {
+          "id": "C",
+          "text": "Memperkukuh diplomasi"
+        },
+        {
+          "id": "D",
+          "text": "Berwaspada"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Bersatu: Perpecahan dalaman dielakkan ketika menghadapi tekanan luar.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q039",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Apakah pengajaran yang sesuai?\n\nTeknologi dipelajari untuk mengurangkan jurang keupayaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bersatu"
+        },
+        {
+          "id": "B",
+          "text": "Menguasai ilmu"
+        },
+        {
+          "id": "C",
+          "text": "Memperkukuh diplomasi"
+        },
+        {
+          "id": "D",
+          "text": "Berwaspada"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Menguasai ilmu: Teknologi dipelajari untuk mengurangkan jurang keupayaan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "t3-b01-q040",
+      "form": 3,
+      "chapter": 1,
+      "prompt": "Apakah pengajaran yang sesuai?\n\nHubungan antarabangsa dibina tanpa menggadaikan kedaulatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bersatu"
+        },
+        {
+          "id": "B",
+          "text": "Menguasai ilmu"
+        },
+        {
+          "id": "C",
+          "text": "Memperkukuh diplomasi"
+        },
+        {
+          "id": "D",
+          "text": "Berwaspada"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Memperkukuh diplomasi: Hubungan antarabangsa dibina tanpa menggadaikan kedaulatan.",
+      "tags": [
+        "padanan",
+        "bab-1"
+      ]
+    }
+  ]
+}

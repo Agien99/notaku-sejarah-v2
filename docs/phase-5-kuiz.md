@@ -21,11 +21,11 @@ Heritage theme is shared with Nota and Utama.
 
 ## Content
 
-Tingkatan 1 Bab 1 contains 20 practice questions, based on the bundled
-`assets/notes/kssm_2026/t1_b01.json`: historical evidence, chronology, location,
-primary/secondary sources, research methods, interpretation and heritage.
-These are original practice questions, not official examination questions.
-Other chapter banks remain pending content expansion and editorial review.
+All 46 Tingkatan 1–5 chapters now contain 40 original practice questions each
+(1,840 total). Each attempt still samples 15 questions without replacement.
+These are foundational matching/understanding items, not official examination
+questions or a complete KBAT assessment. See `quiz-bank-coverage.md` for scope,
+source references, authoring workflow and editorial limitations.
 
 ## Architecture and scope
 

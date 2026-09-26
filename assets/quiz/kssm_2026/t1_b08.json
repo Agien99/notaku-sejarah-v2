@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 1,
+  "chapter": 8,
+  "title": "Tamadun Islam dan Sumbangannya",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t1_b08.json",
+  "questions": [
+    {
+      "id": "t1-b08-q001",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Kenal pasti istilah masyarakat Arab.\n\nKelompok masyarakat berasaskan hubungan keturunan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kabilah"
+        },
+        {
+          "id": "B",
+          "text": "Syeikh"
+        },
+        {
+          "id": "C",
+          "text": "Jahiliah"
+        },
+        {
+          "id": "D",
+          "text": "Makkah"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kabilah: Kelompok masyarakat berasaskan hubungan keturunan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q002",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Kenal pasti istilah masyarakat Arab.\n\nKetua yang memimpin sebuah kabilah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kabilah"
+        },
+        {
+          "id": "B",
+          "text": "Syeikh"
+        },
+        {
+          "id": "C",
+          "text": "Jahiliah"
+        },
+        {
+          "id": "D",
+          "text": "Makkah"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Syeikh: Ketua yang memimpin sebuah kabilah.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q003",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Kenal pasti istilah masyarakat Arab.\n\nIstilah keadaan masyarakat sebelum Islam dalam konteks bab ini.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kabilah"
+        },
+        {
+          "id": "B",
+          "text": "Syeikh"
+        },
+        {
+          "id": "C",
+          "text": "Jahiliah"
+        },
+        {
+          "id": "D",
+          "text": "Makkah"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Jahiliah: Istilah keadaan masyarakat sebelum Islam dalam konteks bab ini.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q004",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Kenal pasti istilah masyarakat Arab.\n\nKota perdagangan dan keagamaan tempat Islam mula didakwahkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kabilah"
+        },
+        {
+          "id": "B",
+          "text": "Syeikh"
+        },
+        {
+          "id": "C",
+          "text": "Jahiliah"
+        },
+        {
+          "id": "D",
+          "text": "Makkah"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Makkah: Kota perdagangan dan keagamaan tempat Islam mula didakwahkan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q005",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Padankan peristiwa dengan maksudnya.\n\nUsaha menyampaikan ajaran Islam.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hijrah"
+        },
+        {
+          "id": "B",
+          "text": "Musyawarah"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian"
+        },
+        {
+          "id": "D",
+          "text": "Dakwah"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Dakwah: Usaha menyampaikan ajaran Islam.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q006",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Padankan peristiwa dengan maksudnya.\n\nPerpindahan Nabi Muhammad SAW dan pengikut dari Makkah ke Madinah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hijrah"
+        },
+        {
+          "id": "B",
+          "text": "Musyawarah"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian"
+        },
+        {
+          "id": "D",
+          "text": "Dakwah"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Hijrah: Perpindahan Nabi Muhammad SAW dan pengikut dari Makkah ke Madinah.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q007",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Padankan peristiwa dengan maksudnya.\n\nPerbincangan untuk mendapatkan pandangan sebelum keputusan dibuat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hijrah"
+        },
+        {
+          "id": "B",
+          "text": "Musyawarah"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian"
+        },
+        {
+          "id": "D",
+          "text": "Dakwah"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Musyawarah: Perbincangan untuk mendapatkan pandangan sebelum keputusan dibuat.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q008",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Padankan peristiwa dengan maksudnya.\n\nPersetujuan yang mengatur hubungan serta tanggungjawab pihak terlibat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hijrah"
+        },
+        {
+          "id": "B",
+          "text": "Musyawarah"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian"
+        },
+        {
+          "id": "D",
+          "text": "Dakwah"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perjanjian: Persetujuan yang mengatur hubungan serta tanggungjawab pihak terlibat.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q009",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Kenal pasti peranan kepimpinan Nabi Muhammad SAW.\n\nMenyampaikan ajaran dan membimbing amalan Islam.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemimpin negara"
+        },
+        {
+          "id": "B",
+          "text": "Pemimpin ketenteraan"
+        },
+        {
+          "id": "C",
+          "text": "Pemimpin agama"
+        },
+        {
+          "id": "D",
+          "text": "Pemimpin masyarakat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pemimpin agama: Menyampaikan ajaran dan membimbing amalan Islam.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q010",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Kenal pasti peranan kepimpinan Nabi Muhammad SAW.\n\nMembina hubungan antara kelompok penduduk Madinah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemimpin negara"
+        },
+        {
+          "id": "B",
+          "text": "Pemimpin ketenteraan"
+        },
+        {
+          "id": "C",
+          "text": "Pemimpin agama"
+        },
+        {
+          "id": "D",
+          "text": "Pemimpin masyarakat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pemimpin masyarakat: Membina hubungan antara kelompok penduduk Madinah.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q011",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Kenal pasti peranan kepimpinan Nabi Muhammad SAW.\n\nMengurus aturan pemerintahan masyarakat Madinah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemimpin negara"
+        },
+        {
+          "id": "B",
+          "text": "Pemimpin ketenteraan"
+        },
+        {
+          "id": "C",
+          "text": "Pemimpin agama"
+        },
+        {
+          "id": "D",
+          "text": "Pemimpin masyarakat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pemimpin negara: Mengurus aturan pemerintahan masyarakat Madinah.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q012",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Kenal pasti peranan kepimpinan Nabi Muhammad SAW.\n\nMerancang pertahanan dan keselamatan masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemimpin negara"
+        },
+        {
+          "id": "B",
+          "text": "Pemimpin ketenteraan"
+        },
+        {
+          "id": "C",
+          "text": "Pemimpin agama"
+        },
+        {
+          "id": "D",
+          "text": "Pemimpin masyarakat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pemimpin ketenteraan: Merancang pertahanan dan keselamatan masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q013",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Padankan khalifah Khulafa al-Rasyidin mengikut urutan.\n\nKhalifah pertama selepas kewafatan Nabi Muhammad SAW.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ali"
+        },
+        {
+          "id": "B",
+          "text": "Abu Bakar"
+        },
+        {
+          "id": "C",
+          "text": "Umar"
+        },
+        {
+          "id": "D",
+          "text": "Uthman"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Abu Bakar: Khalifah pertama selepas kewafatan Nabi Muhammad SAW.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q014",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Padankan khalifah Khulafa al-Rasyidin mengikut urutan.\n\nKhalifah kedua dalam urutan Khulafa al-Rasyidin.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ali"
+        },
+        {
+          "id": "B",
+          "text": "Abu Bakar"
+        },
+        {
+          "id": "C",
+          "text": "Umar"
+        },
+        {
+          "id": "D",
+          "text": "Uthman"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Umar: Khalifah kedua dalam urutan Khulafa al-Rasyidin.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q015",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Padankan khalifah Khulafa al-Rasyidin mengikut urutan.\n\nKhalifah ketiga dalam urutan Khulafa al-Rasyidin.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ali"
+        },
+        {
+          "id": "B",
+          "text": "Abu Bakar"
+        },
+        {
+          "id": "C",
+          "text": "Umar"
+        },
+        {
+          "id": "D",
+          "text": "Uthman"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Uthman: Khalifah ketiga dalam urutan Khulafa al-Rasyidin.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q016",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Padankan khalifah Khulafa al-Rasyidin mengikut urutan.\n\nKhalifah keempat dalam urutan Khulafa al-Rasyidin.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ali"
+        },
+        {
+          "id": "B",
+          "text": "Abu Bakar"
+        },
+        {
+          "id": "C",
+          "text": "Umar"
+        },
+        {
+          "id": "D",
+          "text": "Uthman"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Ali: Khalifah keempat dalam urutan Khulafa al-Rasyidin.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q017",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Kenal pasti pusat tamadun Islam.\n\nPusat pembentukan masyarakat Islam selepas hijrah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Madinah"
+        },
+        {
+          "id": "B",
+          "text": "Damsyik"
+        },
+        {
+          "id": "C",
+          "text": "Baghdad"
+        },
+        {
+          "id": "D",
+          "text": "Cordoba"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Madinah: Pusat pembentukan masyarakat Islam selepas hijrah.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q018",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Kenal pasti pusat tamadun Islam.\n\nPusat pemerintahan kerajaan Umaiyah di Syria.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Madinah"
+        },
+        {
+          "id": "B",
+          "text": "Damsyik"
+        },
+        {
+          "id": "C",
+          "text": "Baghdad"
+        },
+        {
+          "id": "D",
+          "text": "Cordoba"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Damsyik: Pusat pemerintahan kerajaan Umaiyah di Syria.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q019",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Kenal pasti pusat tamadun Islam.\n\nPusat pemerintahan Abbasiyah dan kegiatan ilmu yang terkenal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Madinah"
+        },
+        {
+          "id": "B",
+          "text": "Damsyik"
+        },
+        {
+          "id": "C",
+          "text": "Baghdad"
+        },
+        {
+          "id": "D",
+          "text": "Cordoba"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Baghdad: Pusat pemerintahan Abbasiyah dan kegiatan ilmu yang terkenal.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q020",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Kenal pasti pusat tamadun Islam.\n\nPusat perkembangan tamadun Islam di Andalusia.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Madinah"
+        },
+        {
+          "id": "B",
+          "text": "Damsyik"
+        },
+        {
+          "id": "C",
+          "text": "Baghdad"
+        },
+        {
+          "id": "D",
+          "text": "Cordoba"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Cordoba: Pusat perkembangan tamadun Islam di Andalusia.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q021",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Padankan bidang ilmu.\n\nKajian nombor, pengiraan dan hubungan kuantiti.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perubatan"
+        },
+        {
+          "id": "B",
+          "text": "Astronomi"
+        },
+        {
+          "id": "C",
+          "text": "Geografi"
+        },
+        {
+          "id": "D",
+          "text": "Matematik"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Matematik: Kajian nombor, pengiraan dan hubungan kuantiti.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q022",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Padankan bidang ilmu.\n\nKajian penyakit dan rawatan manusia.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perubatan"
+        },
+        {
+          "id": "B",
+          "text": "Astronomi"
+        },
+        {
+          "id": "C",
+          "text": "Geografi"
+        },
+        {
+          "id": "D",
+          "text": "Matematik"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perubatan: Kajian penyakit dan rawatan manusia.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q023",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Padankan bidang ilmu.\n\nKajian bintang serta pergerakan jasad langit.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perubatan"
+        },
+        {
+          "id": "B",
+          "text": "Astronomi"
+        },
+        {
+          "id": "C",
+          "text": "Geografi"
+        },
+        {
+          "id": "D",
+          "text": "Matematik"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Astronomi: Kajian bintang serta pergerakan jasad langit.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q024",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Padankan bidang ilmu.\n\nKajian tempat, kawasan dan ciri permukaan bumi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perubatan"
+        },
+        {
+          "id": "B",
+          "text": "Astronomi"
+        },
+        {
+          "id": "C",
+          "text": "Geografi"
+        },
+        {
+          "id": "D",
+          "text": "Matematik"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Geografi: Kajian tempat, kawasan dan ciri permukaan bumi.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q025",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Kenal pasti kegiatan pusat ilmu.\n\nKarya dipindahkan daripada satu bahasa kepada bahasa lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengajaran"
+        },
+        {
+          "id": "B",
+          "text": "Pengumpulan manuskrip"
+        },
+        {
+          "id": "C",
+          "text": "Penterjemahan"
+        },
+        {
+          "id": "D",
+          "text": "Penyelidikan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Penterjemahan: Karya dipindahkan daripada satu bahasa kepada bahasa lain.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q026",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Kenal pasti kegiatan pusat ilmu.\n\nPersoalan dikaji menggunakan pemerhatian dan hujah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengajaran"
+        },
+        {
+          "id": "B",
+          "text": "Pengumpulan manuskrip"
+        },
+        {
+          "id": "C",
+          "text": "Penterjemahan"
+        },
+        {
+          "id": "D",
+          "text": "Penyelidikan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Penyelidikan: Persoalan dikaji menggunakan pemerhatian dan hujah.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q027",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Kenal pasti kegiatan pusat ilmu.\n\nPengetahuan disampaikan oleh guru kepada pelajar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengajaran"
+        },
+        {
+          "id": "B",
+          "text": "Pengumpulan manuskrip"
+        },
+        {
+          "id": "C",
+          "text": "Penterjemahan"
+        },
+        {
+          "id": "D",
+          "text": "Penyelidikan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pengajaran: Pengetahuan disampaikan oleh guru kepada pelajar.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q028",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Kenal pasti kegiatan pusat ilmu.\n\nNaskhah dihimpunkan untuk rujukan ilmuwan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengajaran"
+        },
+        {
+          "id": "B",
+          "text": "Pengumpulan manuskrip"
+        },
+        {
+          "id": "C",
+          "text": "Penterjemahan"
+        },
+        {
+          "id": "D",
+          "text": "Penyelidikan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pengumpulan manuskrip: Naskhah dihimpunkan untuk rujukan ilmuwan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q029",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Padankan institusi dengan fungsi.\n\nTempat ibadat berjemaah dan kegiatan masyarakat Islam.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pasar"
+        },
+        {
+          "id": "B",
+          "text": "Masjid"
+        },
+        {
+          "id": "C",
+          "text": "Madrasah"
+        },
+        {
+          "id": "D",
+          "text": "Hospital"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Masjid: Tempat ibadat berjemaah dan kegiatan masyarakat Islam.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q030",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Padankan institusi dengan fungsi.\n\nInstitusi pembelajaran agama serta ilmu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pasar"
+        },
+        {
+          "id": "B",
+          "text": "Masjid"
+        },
+        {
+          "id": "C",
+          "text": "Madrasah"
+        },
+        {
+          "id": "D",
+          "text": "Hospital"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Madrasah: Institusi pembelajaran agama serta ilmu.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q031",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Padankan institusi dengan fungsi.\n\nTempat rawatan pesakit.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pasar"
+        },
+        {
+          "id": "B",
+          "text": "Masjid"
+        },
+        {
+          "id": "C",
+          "text": "Madrasah"
+        },
+        {
+          "id": "D",
+          "text": "Hospital"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Hospital: Tempat rawatan pesakit.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q032",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Padankan institusi dengan fungsi.\n\nPusat jual beli barangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pasar"
+        },
+        {
+          "id": "B",
+          "text": "Masjid"
+        },
+        {
+          "id": "C",
+          "text": "Madrasah"
+        },
+        {
+          "id": "D",
+          "text": "Hospital"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pasar: Pusat jual beli barangan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q033",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Kenal pasti nilai pentadbiran Islam.\n\nMenunaikan tanggungjawab tanpa mengkhianati kepercayaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Amanah"
+        },
+        {
+          "id": "B",
+          "text": "Adil"
+        },
+        {
+          "id": "C",
+          "text": "Ihsan"
+        },
+        {
+          "id": "D",
+          "text": "Toleransi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Amanah: Menunaikan tanggungjawab tanpa mengkhianati kepercayaan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q034",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Kenal pasti nilai pentadbiran Islam.\n\nMemberikan hak dan pertimbangan secara saksama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Amanah"
+        },
+        {
+          "id": "B",
+          "text": "Adil"
+        },
+        {
+          "id": "C",
+          "text": "Ihsan"
+        },
+        {
+          "id": "D",
+          "text": "Toleransi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Adil: Memberikan hak dan pertimbangan secara saksama.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q035",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Kenal pasti nilai pentadbiran Islam.\n\nMelakukan kebaikan dengan kesungguhan dan belas kasihan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Amanah"
+        },
+        {
+          "id": "B",
+          "text": "Adil"
+        },
+        {
+          "id": "C",
+          "text": "Ihsan"
+        },
+        {
+          "id": "D",
+          "text": "Toleransi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Ihsan: Melakukan kebaikan dengan kesungguhan dan belas kasihan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q036",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Kenal pasti nilai pentadbiran Islam.\n\nMenghormati perbezaan dalam kehidupan masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Amanah"
+        },
+        {
+          "id": "B",
+          "text": "Adil"
+        },
+        {
+          "id": "C",
+          "text": "Ihsan"
+        },
+        {
+          "id": "D",
+          "text": "Toleransi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Toleransi: Menghormati perbezaan dalam kehidupan masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q037",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Padankan unsur seni bina dengan kegunaannya.\n\nBahagian masjid yang menandakan arah kiblat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menara"
+        },
+        {
+          "id": "B",
+          "text": "Ruang solat"
+        },
+        {
+          "id": "C",
+          "text": "Hiasan kaligrafi"
+        },
+        {
+          "id": "D",
+          "text": "Mihrab"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Mihrab: Bahagian masjid yang menandakan arah kiblat.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q038",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Padankan unsur seni bina dengan kegunaannya.\n\nStruktur tinggi yang menjadi ciri banyak masjid.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menara"
+        },
+        {
+          "id": "B",
+          "text": "Ruang solat"
+        },
+        {
+          "id": "C",
+          "text": "Hiasan kaligrafi"
+        },
+        {
+          "id": "D",
+          "text": "Mihrab"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Menara: Struktur tinggi yang menjadi ciri banyak masjid.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q039",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Padankan unsur seni bina dengan kegunaannya.\n\nKawasan untuk jemaah menunaikan ibadat bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menara"
+        },
+        {
+          "id": "B",
+          "text": "Ruang solat"
+        },
+        {
+          "id": "C",
+          "text": "Hiasan kaligrafi"
+        },
+        {
+          "id": "D",
+          "text": "Mihrab"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Ruang solat: Kawasan untuk jemaah menunaikan ibadat bersama.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t1-b08-q040",
+      "form": 1,
+      "chapter": 8,
+      "prompt": "Padankan unsur seni bina dengan kegunaannya.\n\nSeni tulisan indah sebagai unsur hiasan bangunan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menara"
+        },
+        {
+          "id": "B",
+          "text": "Ruang solat"
+        },
+        {
+          "id": "C",
+          "text": "Hiasan kaligrafi"
+        },
+        {
+          "id": "D",
+          "text": "Mihrab"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Hiasan kaligrafi: Seni tulisan indah sebagai unsur hiasan bangunan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    }
+  ]
+}

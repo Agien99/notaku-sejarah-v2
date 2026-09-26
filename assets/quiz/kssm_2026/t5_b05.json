@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 5,
+  "chapter": 5,
+  "title": "Pembentukan Malaysia",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t5_b05.json",
+  "questions": [
+    {
+      "id": "t5-b05-q001",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Kenal pasti tokoh atau badan.\n\nPemimpin yang mengemukakan gagasan Malaysia secara terbuka pada 1961.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tunku Abdul Rahman"
+        },
+        {
+          "id": "B",
+          "text": "Suruhanjaya Cobbold"
+        },
+        {
+          "id": "C",
+          "text": "Jawatankuasa Antara Kerajaan"
+        },
+        {
+          "id": "D",
+          "text": "PBB"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Tunku Abdul Rahman: Pemimpin yang mengemukakan gagasan Malaysia secara terbuka pada 1961.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q002",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Kenal pasti tokoh atau badan.\n\nBadan yang meninjau pandangan penduduk Sabah dan Sarawak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tunku Abdul Rahman"
+        },
+        {
+          "id": "B",
+          "text": "Suruhanjaya Cobbold"
+        },
+        {
+          "id": "C",
+          "text": "Jawatankuasa Antara Kerajaan"
+        },
+        {
+          "id": "D",
+          "text": "PBB"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Suruhanjaya Cobbold: Badan yang meninjau pandangan penduduk Sabah dan Sarawak.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q003",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Kenal pasti tokoh atau badan.\n\nBadan yang membincangkan perlindungan perlembagaan negeri Borneo.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tunku Abdul Rahman"
+        },
+        {
+          "id": "B",
+          "text": "Suruhanjaya Cobbold"
+        },
+        {
+          "id": "C",
+          "text": "Jawatankuasa Antara Kerajaan"
+        },
+        {
+          "id": "D",
+          "text": "PBB"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Jawatankuasa Antara Kerajaan: Badan yang membincangkan perlindungan perlembagaan negeri Borneo.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q004",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Kenal pasti tokoh atau badan.\n\nPertubuhan dunia yang menilai sokongan rakyat menjelang pembentukan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tunku Abdul Rahman"
+        },
+        {
+          "id": "B",
+          "text": "Suruhanjaya Cobbold"
+        },
+        {
+          "id": "C",
+          "text": "Jawatankuasa Antara Kerajaan"
+        },
+        {
+          "id": "D",
+          "text": "PBB"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "PBB: Pertubuhan dunia yang menilai sokongan rakyat menjelang pembentukan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q005",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Padankan tarikh.\n\nUcapan Tunku di Singapura memperjelas cadangan penggabungan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "9 Julai 1963"
+        },
+        {
+          "id": "B",
+          "text": "16 September 1963"
+        },
+        {
+          "id": "C",
+          "text": "9 Ogos 1965"
+        },
+        {
+          "id": "D",
+          "text": "27 Mei 1961"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "27 Mei 1961: Ucapan Tunku di Singapura memperjelas cadangan penggabungan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q006",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Padankan tarikh.\n\nPerjanjian Malaysia ditandatangani di London.",
+      "options": [
+        {
+          "id": "A",
+          "text": "9 Julai 1963"
+        },
+        {
+          "id": "B",
+          "text": "16 September 1963"
+        },
+        {
+          "id": "C",
+          "text": "9 Ogos 1965"
+        },
+        {
+          "id": "D",
+          "text": "27 Mei 1961"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "9 Julai 1963: Perjanjian Malaysia ditandatangani di London.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q007",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Padankan tarikh.\n\nMalaysia diisytiharkan secara rasmi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "9 Julai 1963"
+        },
+        {
+          "id": "B",
+          "text": "16 September 1963"
+        },
+        {
+          "id": "C",
+          "text": "9 Ogos 1965"
+        },
+        {
+          "id": "D",
+          "text": "27 Mei 1961"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "16 September 1963: Malaysia diisytiharkan secara rasmi.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q008",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Padankan tarikh.\n\nSingapura keluar daripada Malaysia selepas penubuhan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "9 Julai 1963"
+        },
+        {
+          "id": "B",
+          "text": "16 September 1963"
+        },
+        {
+          "id": "C",
+          "text": "9 Ogos 1965"
+        },
+        {
+          "id": "D",
+          "text": "27 Mei 1961"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "9 Ogos 1965: Singapura keluar daripada Malaysia selepas penubuhan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q009",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Kenal pasti wilayah dalam gagasan.\n\nWilayah yang juga dikenali sebagai Borneo Utara ketika rundingan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Singapura"
+        },
+        {
+          "id": "B",
+          "text": "Brunei"
+        },
+        {
+          "id": "C",
+          "text": "Sabah"
+        },
+        {
+          "id": "D",
+          "text": "Sarawak"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Sabah: Wilayah yang juga dikenali sebagai Borneo Utara ketika rundingan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q010",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Kenal pasti wilayah dalam gagasan.\n\nWilayah Borneo yang dahulu diperintah keluarga Brooke.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Singapura"
+        },
+        {
+          "id": "B",
+          "text": "Brunei"
+        },
+        {
+          "id": "C",
+          "text": "Sabah"
+        },
+        {
+          "id": "D",
+          "text": "Sarawak"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Sarawak: Wilayah Borneo yang dahulu diperintah keluarga Brooke.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q011",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Kenal pasti wilayah dalam gagasan.\n\nPulau di selatan Semenanjung yang menyertai Malaysia pada 1963.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Singapura"
+        },
+        {
+          "id": "B",
+          "text": "Brunei"
+        },
+        {
+          "id": "C",
+          "text": "Sabah"
+        },
+        {
+          "id": "D",
+          "text": "Sarawak"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Singapura: Pulau di selatan Semenanjung yang menyertai Malaysia pada 1963.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q012",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Kenal pasti wilayah dalam gagasan.\n\nKesultanan yang dipertimbangkan tetapi tidak menyertai Malaysia.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Singapura"
+        },
+        {
+          "id": "B",
+          "text": "Brunei"
+        },
+        {
+          "id": "C",
+          "text": "Sabah"
+        },
+        {
+          "id": "D",
+          "text": "Sarawak"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Brunei: Kesultanan yang dipertimbangkan tetapi tidak menyertai Malaysia.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q013",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Apakah rasional gagasan Malaysia?\n\nAncaman komunis menjadi pertimbangan pembentukan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerjasama politik"
+        },
+        {
+          "id": "B",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "C",
+          "text": "Dekolonisasi"
+        },
+        {
+          "id": "D",
+          "text": "Pembangunan ekonomi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Keselamatan: Ancaman komunis menjadi pertimbangan pembentukan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q014",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Apakah rasional gagasan Malaysia?\n\nWilayah British mendapat laluan ke arah pemerintahan merdeka.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerjasama politik"
+        },
+        {
+          "id": "B",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "C",
+          "text": "Dekolonisasi"
+        },
+        {
+          "id": "D",
+          "text": "Pembangunan ekonomi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Dekolonisasi: Wilayah British mendapat laluan ke arah pemerintahan merdeka.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q015",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Apakah rasional gagasan Malaysia?\n\nSumber dan pasaran yang lebih besar menyokong kemajuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerjasama politik"
+        },
+        {
+          "id": "B",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "C",
+          "text": "Dekolonisasi"
+        },
+        {
+          "id": "D",
+          "text": "Pembangunan ekonomi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pembangunan ekonomi: Sumber dan pasaran yang lebih besar menyokong kemajuan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q016",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Apakah rasional gagasan Malaysia?\n\nWilayah membentuk kerangka pemerintahan bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerjasama politik"
+        },
+        {
+          "id": "B",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "C",
+          "text": "Dekolonisasi"
+        },
+        {
+          "id": "D",
+          "text": "Pembangunan ekonomi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kerjasama politik: Wilayah membentuk kerangka pemerintahan bersama.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q017",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Padankan reaksi serantau.\n\nMelancarkan Konfrontasi terhadap pembentukan Malaysia.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Indonesia"
+        },
+        {
+          "id": "B",
+          "text": "Filipina"
+        },
+        {
+          "id": "C",
+          "text": "British"
+        },
+        {
+          "id": "D",
+          "text": "Brunei"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Indonesia: Melancarkan Konfrontasi terhadap pembentukan Malaysia.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q018",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Padankan reaksi serantau.\n\nMembangkitkan tuntutan berkaitan Sabah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Indonesia"
+        },
+        {
+          "id": "B",
+          "text": "Filipina"
+        },
+        {
+          "id": "C",
+          "text": "British"
+        },
+        {
+          "id": "D",
+          "text": "Brunei"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Filipina: Membangkitkan tuntutan berkaitan Sabah.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q019",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Padankan reaksi serantau.\n\nKuasa kolonial yang terlibat dalam proses pemindahan pemerintahan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Indonesia"
+        },
+        {
+          "id": "B",
+          "text": "Filipina"
+        },
+        {
+          "id": "C",
+          "text": "British"
+        },
+        {
+          "id": "D",
+          "text": "Brunei"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "British: Kuasa kolonial yang terlibat dalam proses pemindahan pemerintahan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q020",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Padankan reaksi serantau.\n\nMemilih untuk tidak menyertai persekutuan baharu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Indonesia"
+        },
+        {
+          "id": "B",
+          "text": "Filipina"
+        },
+        {
+          "id": "C",
+          "text": "British"
+        },
+        {
+          "id": "D",
+          "text": "Brunei"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Brunei: Memilih untuk tidak menyertai persekutuan baharu.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q021",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Kenal pasti saluran rundingan.\n\nMenerangkan gagasan dan membina persefahaman antara wilayah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Suruhanjaya Cobbold"
+        },
+        {
+          "id": "B",
+          "text": "Referendum Singapura"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian Malaysia"
+        },
+        {
+          "id": "D",
+          "text": "Jawatankuasa Setia Kawan Malaysia"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Jawatankuasa Setia Kawan Malaysia: Menerangkan gagasan dan membina persefahaman antara wilayah.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q022",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Kenal pasti saluran rundingan.\n\nMengumpulkan pandangan masyarakat Borneo Utara dan Sarawak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Suruhanjaya Cobbold"
+        },
+        {
+          "id": "B",
+          "text": "Referendum Singapura"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian Malaysia"
+        },
+        {
+          "id": "D",
+          "text": "Jawatankuasa Setia Kawan Malaysia"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Suruhanjaya Cobbold: Mengumpulkan pandangan masyarakat Borneo Utara dan Sarawak.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q023",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Kenal pasti saluran rundingan.\n\nProses undian 1962 berkenaan bentuk penggabungan di Singapura.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Suruhanjaya Cobbold"
+        },
+        {
+          "id": "B",
+          "text": "Referendum Singapura"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian Malaysia"
+        },
+        {
+          "id": "D",
+          "text": "Jawatankuasa Setia Kawan Malaysia"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Referendum Singapura: Proses undian 1962 berkenaan bentuk penggabungan di Singapura.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q024",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Kenal pasti saluran rundingan.\n\nDokumen yang mengikat persetujuan pembentukan pada 1963.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Suruhanjaya Cobbold"
+        },
+        {
+          "id": "B",
+          "text": "Referendum Singapura"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian Malaysia"
+        },
+        {
+          "id": "D",
+          "text": "Jawatankuasa Setia Kawan Malaysia"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perjanjian Malaysia: Dokumen yang mengikat persetujuan pembentukan pada 1963.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q025",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Apakah kebimbangan masyarakat Borneo?\n\nRuang mengurus kepentingan wilayah mahu dipelihara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bahasa"
+        },
+        {
+          "id": "B",
+          "text": "Imigresen"
+        },
+        {
+          "id": "C",
+          "text": "Hak negeri"
+        },
+        {
+          "id": "D",
+          "text": "Agama"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Hak negeri: Ruang mengurus kepentingan wilayah mahu dipelihara.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q026",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Apakah kebimbangan masyarakat Borneo?\n\nKedudukan pegangan masyarakat perlu dipertimbangkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bahasa"
+        },
+        {
+          "id": "B",
+          "text": "Imigresen"
+        },
+        {
+          "id": "C",
+          "text": "Hak negeri"
+        },
+        {
+          "id": "D",
+          "text": "Agama"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Agama: Kedudukan pegangan masyarakat perlu dipertimbangkan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q027",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Apakah kebimbangan masyarakat Borneo?\n\nPenggunaan bahasa tempatan dan bahasa pentadbiran dibincangkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bahasa"
+        },
+        {
+          "id": "B",
+          "text": "Imigresen"
+        },
+        {
+          "id": "C",
+          "text": "Hak negeri"
+        },
+        {
+          "id": "D",
+          "text": "Agama"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Bahasa: Penggunaan bahasa tempatan dan bahasa pentadbiran dibincangkan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q028",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Apakah kebimbangan masyarakat Borneo?\n\nKawalan kemasukan penduduk menjadi perkara perlindungan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bahasa"
+        },
+        {
+          "id": "B",
+          "text": "Imigresen"
+        },
+        {
+          "id": "C",
+          "text": "Hak negeri"
+        },
+        {
+          "id": "D",
+          "text": "Agama"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Imigresen: Kawalan kemasukan penduduk menjadi perkara perlindungan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q029",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Padankan tokoh dengan peranan.\n\nTokoh Sabah yang mengetuai Jawatankuasa Setia Kawan Malaysia.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lee Kuan Yew"
+        },
+        {
+          "id": "B",
+          "text": "Donald Stephens"
+        },
+        {
+          "id": "C",
+          "text": "Tun Mustapha"
+        },
+        {
+          "id": "D",
+          "text": "Stephen Kalong Ningkan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Donald Stephens: Tokoh Sabah yang mengetuai Jawatankuasa Setia Kawan Malaysia.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q030",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Padankan tokoh dengan peranan.\n\nTokoh USNO dalam perkembangan politik Sabah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lee Kuan Yew"
+        },
+        {
+          "id": "B",
+          "text": "Donald Stephens"
+        },
+        {
+          "id": "C",
+          "text": "Tun Mustapha"
+        },
+        {
+          "id": "D",
+          "text": "Stephen Kalong Ningkan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Tun Mustapha: Tokoh USNO dalam perkembangan politik Sabah.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q031",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Padankan tokoh dengan peranan.\n\nTokoh SNAP yang menjadi Ketua Menteri pertama Sarawak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lee Kuan Yew"
+        },
+        {
+          "id": "B",
+          "text": "Donald Stephens"
+        },
+        {
+          "id": "C",
+          "text": "Tun Mustapha"
+        },
+        {
+          "id": "D",
+          "text": "Stephen Kalong Ningkan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Stephen Kalong Ningkan: Tokoh SNAP yang menjadi Ketua Menteri pertama Sarawak.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q032",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Padankan tokoh dengan peranan.\n\nPerdana Menteri Singapura semasa rundingan penggabungan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lee Kuan Yew"
+        },
+        {
+          "id": "B",
+          "text": "Donald Stephens"
+        },
+        {
+          "id": "C",
+          "text": "Tun Mustapha"
+        },
+        {
+          "id": "D",
+          "text": "Stephen Kalong Ningkan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Lee Kuan Yew: Perdana Menteri Singapura semasa rundingan penggabungan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q033",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Kenal pasti kaedah menangani tentangan.\n\nPerbincangan dengan negara jiran mengurus bantahan serantau.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "B",
+          "text": "Penilaian rakyat"
+        },
+        {
+          "id": "C",
+          "text": "Jaminan perlembagaan"
+        },
+        {
+          "id": "D",
+          "text": "Pertahanan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Diplomasi: Perbincangan dengan negara jiran mengurus bantahan serantau.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q034",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Kenal pasti kaedah menangani tentangan.\n\nPandangan penduduk ditinjau sebelum pengisytiharan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "B",
+          "text": "Penilaian rakyat"
+        },
+        {
+          "id": "C",
+          "text": "Jaminan perlembagaan"
+        },
+        {
+          "id": "D",
+          "text": "Pertahanan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Penilaian rakyat: Pandangan penduduk ditinjau sebelum pengisytiharan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q035",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Kenal pasti kaedah menangani tentangan.\n\nHak tertentu dimasukkan dalam aturan pembentukan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "B",
+          "text": "Penilaian rakyat"
+        },
+        {
+          "id": "C",
+          "text": "Jaminan perlembagaan"
+        },
+        {
+          "id": "D",
+          "text": "Pertahanan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Jaminan perlembagaan: Hak tertentu dimasukkan dalam aturan pembentukan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q036",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Kenal pasti kaedah menangani tentangan.\n\nPencerobohan semasa Konfrontasi ditangani pasukan keselamatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "B",
+          "text": "Penilaian rakyat"
+        },
+        {
+          "id": "C",
+          "text": "Jaminan perlembagaan"
+        },
+        {
+          "id": "D",
+          "text": "Pertahanan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pertahanan: Pencerobohan semasa Konfrontasi ditangani pasukan keselamatan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q037",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Apakah pengajaran pembentukan Malaysia?\n\nPersetujuan dibina antara wilayah berlainan sejarah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penghormatan hak"
+        },
+        {
+          "id": "B",
+          "text": "Kesabaran rundingan"
+        },
+        {
+          "id": "C",
+          "text": "Perpaduan nasional"
+        },
+        {
+          "id": "D",
+          "text": "Muafakat wilayah"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Muafakat wilayah: Persetujuan dibina antara wilayah berlainan sejarah.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q038",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Apakah pengajaran pembentukan Malaysia?\n\nKeunikan negeri tidak diketepikan dalam persekutuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penghormatan hak"
+        },
+        {
+          "id": "B",
+          "text": "Kesabaran rundingan"
+        },
+        {
+          "id": "C",
+          "text": "Perpaduan nasional"
+        },
+        {
+          "id": "D",
+          "text": "Muafakat wilayah"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Penghormatan hak: Keunikan negeri tidak diketepikan dalam persekutuan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q039",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Apakah pengajaran pembentukan Malaysia?\n\nPerbezaan pandangan diurus melalui proses berperingkat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penghormatan hak"
+        },
+        {
+          "id": "B",
+          "text": "Kesabaran rundingan"
+        },
+        {
+          "id": "C",
+          "text": "Perpaduan nasional"
+        },
+        {
+          "id": "D",
+          "text": "Muafakat wilayah"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kesabaran rundingan: Perbezaan pandangan diurus melalui proses berperingkat.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t5-b05-q040",
+      "form": 5,
+      "chapter": 5,
+      "prompt": "Apakah pengajaran pembentukan Malaysia?\n\nPenduduk membina kesetiaan kepada negara bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penghormatan hak"
+        },
+        {
+          "id": "B",
+          "text": "Kesabaran rundingan"
+        },
+        {
+          "id": "C",
+          "text": "Perpaduan nasional"
+        },
+        {
+          "id": "D",
+          "text": "Muafakat wilayah"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perpaduan nasional: Penduduk membina kesetiaan kepada negara bersama.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    }
+  ]
+}

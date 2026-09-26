@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 1,
+  "chapter": 6,
+  "title": "Peningkatan Tamadun Yunani dan Rom",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t1_b06.json",
+  "questions": [
+    {
+      "id": "t1-b06-q001",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Kenal pasti istilah pemerintahan.\n\nNegara kota dalam tamadun Yunani.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Polis"
+        },
+        {
+          "id": "B",
+          "text": "Demokrasi"
+        },
+        {
+          "id": "C",
+          "text": "Monarki"
+        },
+        {
+          "id": "D",
+          "text": "Oligarki"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Polis: Negara kota dalam tamadun Yunani.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q002",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Kenal pasti istilah pemerintahan.\n\nPemerintahan yang melibatkan penyertaan rakyat yang layak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Polis"
+        },
+        {
+          "id": "B",
+          "text": "Demokrasi"
+        },
+        {
+          "id": "C",
+          "text": "Monarki"
+        },
+        {
+          "id": "D",
+          "text": "Oligarki"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Demokrasi: Pemerintahan yang melibatkan penyertaan rakyat yang layak.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q003",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Kenal pasti istilah pemerintahan.\n\nPemerintahan oleh seorang raja.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Polis"
+        },
+        {
+          "id": "B",
+          "text": "Demokrasi"
+        },
+        {
+          "id": "C",
+          "text": "Monarki"
+        },
+        {
+          "id": "D",
+          "text": "Oligarki"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Monarki: Pemerintahan oleh seorang raja.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q004",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Kenal pasti istilah pemerintahan.\n\nPemerintahan oleh kumpulan kecil yang berkuasa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Polis"
+        },
+        {
+          "id": "B",
+          "text": "Demokrasi"
+        },
+        {
+          "id": "C",
+          "text": "Monarki"
+        },
+        {
+          "id": "D",
+          "text": "Oligarki"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Oligarki: Pemerintahan oleh kumpulan kecil yang berkuasa.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q005",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Padankan pusat atau wilayah.\n\nPolis Yunani yang terkenal dengan perkembangan demokrasi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sparta"
+        },
+        {
+          "id": "B",
+          "text": "Rom"
+        },
+        {
+          "id": "C",
+          "text": "Mediterranean"
+        },
+        {
+          "id": "D",
+          "text": "Athens"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Athens: Polis Yunani yang terkenal dengan perkembangan demokrasi.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q006",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Padankan pusat atau wilayah.\n\nPolis Yunani yang menekankan latihan ketenteraan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sparta"
+        },
+        {
+          "id": "B",
+          "text": "Rom"
+        },
+        {
+          "id": "C",
+          "text": "Mediterranean"
+        },
+        {
+          "id": "D",
+          "text": "Athens"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Sparta: Polis Yunani yang menekankan latihan ketenteraan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q007",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Padankan pusat atau wilayah.\n\nBandar yang menjadi pusat tamadun Rom.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sparta"
+        },
+        {
+          "id": "B",
+          "text": "Rom"
+        },
+        {
+          "id": "C",
+          "text": "Mediterranean"
+        },
+        {
+          "id": "D",
+          "text": "Athens"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Rom: Bandar yang menjadi pusat tamadun Rom.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q008",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Padankan pusat atau wilayah.\n\nLaut yang dikelilingi sebahagian besar wilayah kekuasaan Rom.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sparta"
+        },
+        {
+          "id": "B",
+          "text": "Rom"
+        },
+        {
+          "id": "C",
+          "text": "Mediterranean"
+        },
+        {
+          "id": "D",
+          "text": "Athens"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Mediterranean: Laut yang dikelilingi sebahagian besar wilayah kekuasaan Rom.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q009",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Kenal pasti institusi Athens.\n\nWarganegara lelaki yang layak membincangkan keputusan politik.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Majistret"
+        },
+        {
+          "id": "B",
+          "text": "Juri"
+        },
+        {
+          "id": "C",
+          "text": "Dewan Perhimpunan"
+        },
+        {
+          "id": "D",
+          "text": "Majlis"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Dewan Perhimpunan: Warganegara lelaki yang layak membincangkan keputusan politik.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q010",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Kenal pasti institusi Athens.\n\nBadan yang membantu menyediakan urusan untuk perhimpunan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Majistret"
+        },
+        {
+          "id": "B",
+          "text": "Juri"
+        },
+        {
+          "id": "C",
+          "text": "Dewan Perhimpunan"
+        },
+        {
+          "id": "D",
+          "text": "Majlis"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Majlis: Badan yang membantu menyediakan urusan untuk perhimpunan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q011",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Kenal pasti institusi Athens.\n\nPegawai yang melaksanakan tugas pentadbiran awam.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Majistret"
+        },
+        {
+          "id": "B",
+          "text": "Juri"
+        },
+        {
+          "id": "C",
+          "text": "Dewan Perhimpunan"
+        },
+        {
+          "id": "D",
+          "text": "Majlis"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Majistret: Pegawai yang melaksanakan tugas pentadbiran awam.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q012",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Kenal pasti institusi Athens.\n\nAnggota yang menilai kes dan menentukan keputusan kehakiman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Majistret"
+        },
+        {
+          "id": "B",
+          "text": "Juri"
+        },
+        {
+          "id": "C",
+          "text": "Dewan Perhimpunan"
+        },
+        {
+          "id": "D",
+          "text": "Majlis"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Juri: Anggota yang menilai kes dan menentukan keputusan kehakiman.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q013",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Padankan binaan Rom dengan fungsinya.\n\nArena besar untuk acara tontonan awam.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jalan raya"
+        },
+        {
+          "id": "B",
+          "text": "Colosseum"
+        },
+        {
+          "id": "C",
+          "text": "Pantheon"
+        },
+        {
+          "id": "D",
+          "text": "Akuaduk"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Colosseum: Arena besar untuk acara tontonan awam.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q014",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Padankan binaan Rom dengan fungsinya.\n\nBangunan berkubah yang asalnya berkaitan pemujaan dewa Rom.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jalan raya"
+        },
+        {
+          "id": "B",
+          "text": "Colosseum"
+        },
+        {
+          "id": "C",
+          "text": "Pantheon"
+        },
+        {
+          "id": "D",
+          "text": "Akuaduk"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pantheon: Bangunan berkubah yang asalnya berkaitan pemujaan dewa Rom.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q015",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Padankan binaan Rom dengan fungsinya.\n\nStruktur membawa bekalan air ke bandar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jalan raya"
+        },
+        {
+          "id": "B",
+          "text": "Colosseum"
+        },
+        {
+          "id": "C",
+          "text": "Pantheon"
+        },
+        {
+          "id": "D",
+          "text": "Akuaduk"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Akuaduk: Struktur membawa bekalan air ke bandar.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q016",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Padankan binaan Rom dengan fungsinya.\n\nLaluan darat yang menghubungkan wilayah empayar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jalan raya"
+        },
+        {
+          "id": "B",
+          "text": "Colosseum"
+        },
+        {
+          "id": "C",
+          "text": "Pantheon"
+        },
+        {
+          "id": "D",
+          "text": "Akuaduk"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Jalan raya: Laluan darat yang menghubungkan wilayah empayar.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q017",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Kenal pasti unsur seni bina.\n\nStruktur melengkung di atas bukaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gerbang"
+        },
+        {
+          "id": "B",
+          "text": "Kubah"
+        },
+        {
+          "id": "C",
+          "text": "Tiang"
+        },
+        {
+          "id": "D",
+          "text": "Konkrit"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Gerbang: Struktur melengkung di atas bukaan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q018",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Kenal pasti unsur seni bina.\n\nBumbung berbentuk separa sfera.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gerbang"
+        },
+        {
+          "id": "B",
+          "text": "Kubah"
+        },
+        {
+          "id": "C",
+          "text": "Tiang"
+        },
+        {
+          "id": "D",
+          "text": "Konkrit"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kubah: Bumbung berbentuk separa sfera.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q019",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Kenal pasti unsur seni bina.\n\nPenyokong tegak bagi bahagian bangunan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gerbang"
+        },
+        {
+          "id": "B",
+          "text": "Kubah"
+        },
+        {
+          "id": "C",
+          "text": "Tiang"
+        },
+        {
+          "id": "D",
+          "text": "Konkrit"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Tiang: Penyokong tegak bagi bahagian bangunan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q020",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Kenal pasti unsur seni bina.\n\nCampuran bahan binaan yang membantu pembentukan struktur kukuh.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gerbang"
+        },
+        {
+          "id": "B",
+          "text": "Kubah"
+        },
+        {
+          "id": "C",
+          "text": "Tiang"
+        },
+        {
+          "id": "D",
+          "text": "Konkrit"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Konkrit: Campuran bahan binaan yang membantu pembentukan struktur kukuh.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q021",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Apakah cabaran empayar luas?\n\nArahan pusat perlu sampai ke wilayah berjauhan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertahanan"
+        },
+        {
+          "id": "B",
+          "text": "Bekalan air"
+        },
+        {
+          "id": "C",
+          "text": "Penyelarasan pentadbiran"
+        },
+        {
+          "id": "D",
+          "text": "Komunikasi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Komunikasi: Arahan pusat perlu sampai ke wilayah berjauhan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q022",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Apakah cabaran empayar luas?\n\nSempadan perlu dilindungi daripada serangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertahanan"
+        },
+        {
+          "id": "B",
+          "text": "Bekalan air"
+        },
+        {
+          "id": "C",
+          "text": "Penyelarasan pentadbiran"
+        },
+        {
+          "id": "D",
+          "text": "Komunikasi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pertahanan: Sempadan perlu dilindungi daripada serangan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q023",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Apakah cabaran empayar luas?\n\nBandar padat memerlukan sumber bersih untuk penduduk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertahanan"
+        },
+        {
+          "id": "B",
+          "text": "Bekalan air"
+        },
+        {
+          "id": "C",
+          "text": "Penyelarasan pentadbiran"
+        },
+        {
+          "id": "D",
+          "text": "Komunikasi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Bekalan air: Bandar padat memerlukan sumber bersih untuk penduduk.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q024",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Apakah cabaran empayar luas?\n\nPegawai daerah perlu melaksanakan dasar kerajaan secara teratur.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pertahanan"
+        },
+        {
+          "id": "B",
+          "text": "Bekalan air"
+        },
+        {
+          "id": "C",
+          "text": "Penyelarasan pentadbiran"
+        },
+        {
+          "id": "D",
+          "text": "Komunikasi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Penyelarasan pentadbiran: Pegawai daerah perlu melaksanakan dasar kerajaan secara teratur.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q025",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Padankan bentuk penyertaan politik.\n\nWarganegara membuat keputusan sendiri dalam perhimpunan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penyertaan terhad"
+        },
+        {
+          "id": "B",
+          "text": "Perbahasan awam"
+        },
+        {
+          "id": "C",
+          "text": "Demokrasi langsung"
+        },
+        {
+          "id": "D",
+          "text": "Demokrasi perwakilan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Demokrasi langsung: Warganegara membuat keputusan sendiri dalam perhimpunan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q026",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Padankan bentuk penyertaan politik.\n\nPengundi memilih wakil untuk membuat keputusan politik.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penyertaan terhad"
+        },
+        {
+          "id": "B",
+          "text": "Perbahasan awam"
+        },
+        {
+          "id": "C",
+          "text": "Demokrasi langsung"
+        },
+        {
+          "id": "D",
+          "text": "Demokrasi perwakilan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Demokrasi perwakilan: Pengundi memilih wakil untuk membuat keputusan politik.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q027",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Padankan bentuk penyertaan politik.\n\nHanya kumpulan tertentu dibenarkan menyertai politik Athens purba.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penyertaan terhad"
+        },
+        {
+          "id": "B",
+          "text": "Perbahasan awam"
+        },
+        {
+          "id": "C",
+          "text": "Demokrasi langsung"
+        },
+        {
+          "id": "D",
+          "text": "Demokrasi perwakilan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Penyertaan terhad: Hanya kumpulan tertentu dibenarkan menyertai politik Athens purba.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q028",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Padankan bentuk penyertaan politik.\n\nCadangan dinilai melalui pertukaran pandangan di hadapan peserta.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penyertaan terhad"
+        },
+        {
+          "id": "B",
+          "text": "Perbahasan awam"
+        },
+        {
+          "id": "C",
+          "text": "Demokrasi langsung"
+        },
+        {
+          "id": "D",
+          "text": "Demokrasi perwakilan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perbahasan awam: Cadangan dinilai melalui pertukaran pandangan di hadapan peserta.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q029",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Kenal pasti hubungan geografi dan kegiatan.\n\nBentuk muka bumi Yunani membantu perkembangan polis berasingan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pelabuhan menggalakkan perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Gunung memisahkan komuniti"
+        },
+        {
+          "id": "C",
+          "text": "Laut memudahkan pelayaran"
+        },
+        {
+          "id": "D",
+          "text": "Dataran menyokong pertanian"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Gunung memisahkan komuniti: Bentuk muka bumi Yunani membantu perkembangan polis berasingan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q030",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Kenal pasti hubungan geografi dan kegiatan.\n\nHubungan antara kawasan pesisir dilakukan menggunakan kapal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pelabuhan menggalakkan perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Gunung memisahkan komuniti"
+        },
+        {
+          "id": "C",
+          "text": "Laut memudahkan pelayaran"
+        },
+        {
+          "id": "D",
+          "text": "Dataran menyokong pertanian"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Laut memudahkan pelayaran: Hubungan antara kawasan pesisir dilakukan menggunakan kapal.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q031",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Kenal pasti hubungan geografi dan kegiatan.\n\nTanah yang lebih rata memudahkan penanaman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pelabuhan menggalakkan perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Gunung memisahkan komuniti"
+        },
+        {
+          "id": "C",
+          "text": "Laut memudahkan pelayaran"
+        },
+        {
+          "id": "D",
+          "text": "Dataran menyokong pertanian"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Dataran menyokong pertanian: Tanah yang lebih rata memudahkan penanaman.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q032",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Kenal pasti hubungan geografi dan kegiatan.\n\nTempat kapal berlabuh menjadi pusat pertukaran barangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pelabuhan menggalakkan perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Gunung memisahkan komuniti"
+        },
+        {
+          "id": "C",
+          "text": "Laut memudahkan pelayaran"
+        },
+        {
+          "id": "D",
+          "text": "Dataran menyokong pertanian"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pelabuhan menggalakkan perdagangan: Tempat kapal berlabuh menjadi pusat pertukaran barangan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q033",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Apakah prinsip pentadbiran yang ditunjukkan?\n\nInstitusi berlainan mengurus perbincangan, pelaksanaan dan pengadilan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembahagian tugas"
+        },
+        {
+          "id": "B",
+          "text": "Peraturan bersama"
+        },
+        {
+          "id": "C",
+          "text": "Perancangan infrastruktur"
+        },
+        {
+          "id": "D",
+          "text": "Tanggungjawab awam"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pembahagian tugas: Institusi berlainan mengurus perbincangan, pelaksanaan dan pengadilan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q034",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Apakah prinsip pentadbiran yang ditunjukkan?\n\nAturan yang diketahui mengurangkan keputusan sewenang-wenangnya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembahagian tugas"
+        },
+        {
+          "id": "B",
+          "text": "Peraturan bersama"
+        },
+        {
+          "id": "C",
+          "text": "Perancangan infrastruktur"
+        },
+        {
+          "id": "D",
+          "text": "Tanggungjawab awam"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Peraturan bersama: Aturan yang diketahui mengurangkan keputusan sewenang-wenangnya.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q035",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Apakah prinsip pentadbiran yang ditunjukkan?\n\nPembinaan jalan mengambil kira hubungan antara wilayah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembahagian tugas"
+        },
+        {
+          "id": "B",
+          "text": "Peraturan bersama"
+        },
+        {
+          "id": "C",
+          "text": "Perancangan infrastruktur"
+        },
+        {
+          "id": "D",
+          "text": "Tanggungjawab awam"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perancangan infrastruktur: Pembinaan jalan mengambil kira hubungan antara wilayah.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q036",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Apakah prinsip pentadbiran yang ditunjukkan?\n\nPegawai perlu mengurus kemudahan untuk kepentingan penduduk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pembahagian tugas"
+        },
+        {
+          "id": "B",
+          "text": "Peraturan bersama"
+        },
+        {
+          "id": "C",
+          "text": "Perancangan infrastruktur"
+        },
+        {
+          "id": "D",
+          "text": "Tanggungjawab awam"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Tanggungjawab awam: Pegawai perlu mengurus kemudahan untuk kepentingan penduduk.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q037",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Padankan bukti dengan bidang kajian.\n\nCatatan perhimpunan membantu mengkaji cara keputusan dibuat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kejuruteraan"
+        },
+        {
+          "id": "B",
+          "text": "Ekonomi"
+        },
+        {
+          "id": "C",
+          "text": "Kehidupan sosial"
+        },
+        {
+          "id": "D",
+          "text": "Politik"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Politik: Catatan perhimpunan membantu mengkaji cara keputusan dibuat.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q038",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Padankan bukti dengan bidang kajian.\n\nReka bentuk saliran menunjukkan kemahiran mengurus air.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kejuruteraan"
+        },
+        {
+          "id": "B",
+          "text": "Ekonomi"
+        },
+        {
+          "id": "C",
+          "text": "Kehidupan sosial"
+        },
+        {
+          "id": "D",
+          "text": "Politik"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kejuruteraan: Reka bentuk saliran menunjukkan kemahiran mengurus air.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q039",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Padankan bukti dengan bidang kajian.\n\nRangkaian pasar menunjukkan pergerakan barangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kejuruteraan"
+        },
+        {
+          "id": "B",
+          "text": "Ekonomi"
+        },
+        {
+          "id": "C",
+          "text": "Kehidupan sosial"
+        },
+        {
+          "id": "D",
+          "text": "Politik"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Ekonomi: Rangkaian pasar menunjukkan pergerakan barangan.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "t1-b06-q040",
+      "form": 1,
+      "chapter": 6,
+      "prompt": "Padankan bukti dengan bidang kajian.\n\nTempat hiburan menunjukkan kegiatan bersama penduduk bandar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kejuruteraan"
+        },
+        {
+          "id": "B",
+          "text": "Ekonomi"
+        },
+        {
+          "id": "C",
+          "text": "Kehidupan sosial"
+        },
+        {
+          "id": "D",
+          "text": "Politik"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kehidupan sosial: Tempat hiburan menunjukkan kegiatan bersama penduduk bandar.",
+      "tags": [
+        "padanan",
+        "bab-6"
+      ]
+    }
+  ]
+}

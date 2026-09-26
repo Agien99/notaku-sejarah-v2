@@ -47,6 +47,9 @@ jobs:
       - name: Get dependencies
         run: flutter pub get
 
+      - name: Verify generated question banks
+        run: python3 scripts/build_quiz_banks.py --check
+
       - name: Verify formatting
         run: |
           dart format --output=none --set-exit-if-changed lib test || {

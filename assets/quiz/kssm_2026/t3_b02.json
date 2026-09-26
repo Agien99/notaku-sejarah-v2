@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 3,
+  "chapter": 2,
+  "title": "Pentadbiran Negeri-negeri Selat",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t3_b02.json",
+  "questions": [
+    {
+      "id": "t3-b02-q001",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Padankan tempat dengan peristiwa.\n\nFrancis Light menduduki kawasan ini pada 1786.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pulau Pinang"
+        },
+        {
+          "id": "B",
+          "text": "Singapura"
+        },
+        {
+          "id": "C",
+          "text": "Melaka"
+        },
+        {
+          "id": "D",
+          "text": "Seberang Perai"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pulau Pinang: Francis Light menduduki kawasan ini pada 1786.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q002",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Padankan tempat dengan peristiwa.\n\nRaffles membuka petempatan British di sini pada 1819.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pulau Pinang"
+        },
+        {
+          "id": "B",
+          "text": "Singapura"
+        },
+        {
+          "id": "C",
+          "text": "Melaka"
+        },
+        {
+          "id": "D",
+          "text": "Seberang Perai"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Singapura: Raffles membuka petempatan British di sini pada 1819.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q003",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Padankan tempat dengan peristiwa.\n\nWilayah yang dipindahkan Belanda kepada British melalui perjanjian 1824.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pulau Pinang"
+        },
+        {
+          "id": "B",
+          "text": "Singapura"
+        },
+        {
+          "id": "C",
+          "text": "Melaka"
+        },
+        {
+          "id": "D",
+          "text": "Seberang Perai"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Melaka: Wilayah yang dipindahkan Belanda kepada British melalui perjanjian 1824.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q004",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Padankan tempat dengan peristiwa.\n\nTanah di seberang Pulau Pinang yang diperoleh British pada 1800.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pulau Pinang"
+        },
+        {
+          "id": "B",
+          "text": "Singapura"
+        },
+        {
+          "id": "C",
+          "text": "Melaka"
+        },
+        {
+          "id": "D",
+          "text": "Seberang Perai"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Seberang Perai: Tanah di seberang Pulau Pinang yang diperoleh British pada 1800.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q005",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Kenal pasti tokoh.\n\nWakil SHTI yang dikaitkan dengan penguasaan Pulau Pinang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Stamford Raffles"
+        },
+        {
+          "id": "B",
+          "text": "Sultan Hussein"
+        },
+        {
+          "id": "C",
+          "text": "Temenggung Abdul Rahman"
+        },
+        {
+          "id": "D",
+          "text": "Francis Light"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Francis Light: Wakil SHTI yang dikaitkan dengan penguasaan Pulau Pinang.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q006",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Kenal pasti tokoh.\n\nPegawai British yang mencari pusat perdagangan di Singapura.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Stamford Raffles"
+        },
+        {
+          "id": "B",
+          "text": "Sultan Hussein"
+        },
+        {
+          "id": "C",
+          "text": "Temenggung Abdul Rahman"
+        },
+        {
+          "id": "D",
+          "text": "Francis Light"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Stamford Raffles: Pegawai British yang mencari pusat perdagangan di Singapura.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q007",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Kenal pasti tokoh.\n\nSultan yang menandatangani perjanjian Singapura 1819 bersama British.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Stamford Raffles"
+        },
+        {
+          "id": "B",
+          "text": "Sultan Hussein"
+        },
+        {
+          "id": "C",
+          "text": "Temenggung Abdul Rahman"
+        },
+        {
+          "id": "D",
+          "text": "Francis Light"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Sultan Hussein: Sultan yang menandatangani perjanjian Singapura 1819 bersama British.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q008",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Kenal pasti tokoh.\n\nPembesar Singapura yang turut terlibat dalam perjanjian 1819.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Stamford Raffles"
+        },
+        {
+          "id": "B",
+          "text": "Sultan Hussein"
+        },
+        {
+          "id": "C",
+          "text": "Temenggung Abdul Rahman"
+        },
+        {
+          "id": "D",
+          "text": "Francis Light"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Temenggung Abdul Rahman: Pembesar Singapura yang turut terlibat dalam perjanjian 1819.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q009",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Padankan tahun penting.\n\nBritish menduduki Pulau Pinang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1824"
+        },
+        {
+          "id": "B",
+          "text": "1826"
+        },
+        {
+          "id": "C",
+          "text": "1786"
+        },
+        {
+          "id": "D",
+          "text": "1819"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "1786: British menduduki Pulau Pinang.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q010",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Padankan tahun penting.\n\nPetempatan British diasaskan di Singapura.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1824"
+        },
+        {
+          "id": "B",
+          "text": "1826"
+        },
+        {
+          "id": "C",
+          "text": "1786"
+        },
+        {
+          "id": "D",
+          "text": "1819"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "1819: Petempatan British diasaskan di Singapura.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q011",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Padankan tahun penting.\n\nPerjanjian London memisahkan lingkungan pengaruh British dan Belanda.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1824"
+        },
+        {
+          "id": "B",
+          "text": "1826"
+        },
+        {
+          "id": "C",
+          "text": "1786"
+        },
+        {
+          "id": "D",
+          "text": "1819"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "1824: Perjanjian London memisahkan lingkungan pengaruh British dan Belanda.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q012",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Padankan tahun penting.\n\nNegeri-negeri Selat dibentuk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1824"
+        },
+        {
+          "id": "B",
+          "text": "1826"
+        },
+        {
+          "id": "C",
+          "text": "1786"
+        },
+        {
+          "id": "D",
+          "text": "1819"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "1826: Negeri-negeri Selat dibentuk.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q013",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Kenal pasti perubahan pentadbiran.\n\nPulau Pinang, Melaka dan Singapura dikelompokkan bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tanah Jajahan Mahkota"
+        },
+        {
+          "id": "B",
+          "text": "Penyatuan petempatan"
+        },
+        {
+          "id": "C",
+          "text": "Pemindahan pusat ke Singapura"
+        },
+        {
+          "id": "D",
+          "text": "Pentadbiran dari India"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Penyatuan petempatan: Pulau Pinang, Melaka dan Singapura dikelompokkan bersama.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q014",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Kenal pasti perubahan pentadbiran.\n\nPusat pentadbiran NNS beralih dari Pulau Pinang pada 1832.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tanah Jajahan Mahkota"
+        },
+        {
+          "id": "B",
+          "text": "Penyatuan petempatan"
+        },
+        {
+          "id": "C",
+          "text": "Pemindahan pusat ke Singapura"
+        },
+        {
+          "id": "D",
+          "text": "Pentadbiran dari India"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pemindahan pusat ke Singapura: Pusat pentadbiran NNS beralih dari Pulau Pinang pada 1832.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q015",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Kenal pasti perubahan pentadbiran.\n\nUrusan NNS pada peringkat awal dikaitkan dengan pentadbiran British di benua kecil.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tanah Jajahan Mahkota"
+        },
+        {
+          "id": "B",
+          "text": "Penyatuan petempatan"
+        },
+        {
+          "id": "C",
+          "text": "Pemindahan pusat ke Singapura"
+        },
+        {
+          "id": "D",
+          "text": "Pentadbiran dari India"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pentadbiran dari India: Urusan NNS pada peringkat awal dikaitkan dengan pentadbiran British di benua kecil.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q016",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Kenal pasti perubahan pentadbiran.\n\nMulai 1867, NNS ditadbir terus oleh Pejabat Tanah Jajahan di London.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tanah Jajahan Mahkota"
+        },
+        {
+          "id": "B",
+          "text": "Penyatuan petempatan"
+        },
+        {
+          "id": "C",
+          "text": "Pemindahan pusat ke Singapura"
+        },
+        {
+          "id": "D",
+          "text": "Pentadbiran dari India"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Tanah Jajahan Mahkota: Mulai 1867, NNS ditadbir terus oleh Pejabat Tanah Jajahan di London.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q017",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Apakah kepentingan Singapura?\n\nDasar menggalakkan kapal berdagang tanpa sekatan cukai pelabuhan tertentu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pelabuhan bebas"
+        },
+        {
+          "id": "B",
+          "text": "Lokasi strategik"
+        },
+        {
+          "id": "C",
+          "text": "Persinggahan kapal"
+        },
+        {
+          "id": "D",
+          "text": "Pusat perdagangan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pelabuhan bebas: Dasar menggalakkan kapal berdagang tanpa sekatan cukai pelabuhan tertentu.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q018",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Apakah kepentingan Singapura?\n\nBerada berhampiran laluan utama antara India dengan China.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pelabuhan bebas"
+        },
+        {
+          "id": "B",
+          "text": "Lokasi strategik"
+        },
+        {
+          "id": "C",
+          "text": "Persinggahan kapal"
+        },
+        {
+          "id": "D",
+          "text": "Pusat perdagangan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Lokasi strategik: Berada berhampiran laluan utama antara India dengan China.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q019",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Apakah kepentingan Singapura?\n\nKapal mendapatkan bekalan sebelum meneruskan perjalanan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pelabuhan bebas"
+        },
+        {
+          "id": "B",
+          "text": "Lokasi strategik"
+        },
+        {
+          "id": "C",
+          "text": "Persinggahan kapal"
+        },
+        {
+          "id": "D",
+          "text": "Pusat perdagangan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Persinggahan kapal: Kapal mendapatkan bekalan sebelum meneruskan perjalanan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q020",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Apakah kepentingan Singapura?\n\nBarangan pelbagai wilayah dihimpun dan diedarkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pelabuhan bebas"
+        },
+        {
+          "id": "B",
+          "text": "Lokasi strategik"
+        },
+        {
+          "id": "C",
+          "text": "Persinggahan kapal"
+        },
+        {
+          "id": "D",
+          "text": "Pusat perdagangan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pusat perdagangan: Barangan pelbagai wilayah dihimpun dan diedarkan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q021",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Padankan kesan Perjanjian London 1824.\n\nMelaka masuk ke lingkungan kuasa utara selat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Belanda di kepulauan Indonesia"
+        },
+        {
+          "id": "B",
+          "text": "Pemisahan Johor Riau"
+        },
+        {
+          "id": "C",
+          "text": "Pertukaran petempatan"
+        },
+        {
+          "id": "D",
+          "text": "British di Semenanjung"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "British di Semenanjung: Melaka masuk ke lingkungan kuasa utara selat.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q022",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Padankan kesan Perjanjian London 1824.\n\nBangkahulu masuk ke lingkungan kuasa selatan selat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Belanda di kepulauan Indonesia"
+        },
+        {
+          "id": "B",
+          "text": "Pemisahan Johor Riau"
+        },
+        {
+          "id": "C",
+          "text": "Pertukaran petempatan"
+        },
+        {
+          "id": "D",
+          "text": "British di Semenanjung"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Belanda di kepulauan Indonesia: Bangkahulu masuk ke lingkungan kuasa selatan selat.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q023",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Padankan kesan Perjanjian London 1824.\n\nKesatuan politik lama terjejas oleh pembahagian pengaruh asing.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Belanda di kepulauan Indonesia"
+        },
+        {
+          "id": "B",
+          "text": "Pemisahan Johor Riau"
+        },
+        {
+          "id": "C",
+          "text": "Pertukaran petempatan"
+        },
+        {
+          "id": "D",
+          "text": "British di Semenanjung"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pemisahan Johor Riau: Kesatuan politik lama terjejas oleh pembahagian pengaruh asing.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q024",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Padankan kesan Perjanjian London 1824.\n\nKawasan jajahan dipindahkan antara dua kuasa Eropah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Belanda di kepulauan Indonesia"
+        },
+        {
+          "id": "B",
+          "text": "Pemisahan Johor Riau"
+        },
+        {
+          "id": "C",
+          "text": "Pertukaran petempatan"
+        },
+        {
+          "id": "D",
+          "text": "British di Semenanjung"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pertukaran petempatan: Kawasan jajahan dipindahkan antara dua kuasa Eropah.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q025",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Kenal pasti pihak berkepentingan.\n\nSyarikat British yang mengembangkan perdagangan serta kuasa di Asia.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemerintah tempatan"
+        },
+        {
+          "id": "B",
+          "text": "Pejabat Tanah Jajahan"
+        },
+        {
+          "id": "C",
+          "text": "SHTI"
+        },
+        {
+          "id": "D",
+          "text": "Pedagang"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "SHTI: Syarikat British yang mengembangkan perdagangan serta kuasa di Asia.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q026",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Kenal pasti pihak berkepentingan.\n\nGolongan yang mendesak pentadbiran lebih sesuai dengan urusan pelabuhan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemerintah tempatan"
+        },
+        {
+          "id": "B",
+          "text": "Pejabat Tanah Jajahan"
+        },
+        {
+          "id": "C",
+          "text": "SHTI"
+        },
+        {
+          "id": "D",
+          "text": "Pedagang"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pedagang: Golongan yang mendesak pentadbiran lebih sesuai dengan urusan pelabuhan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q027",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Kenal pasti pihak berkepentingan.\n\nPihak yang kehilangan kawalan wilayah akibat perluasan British.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemerintah tempatan"
+        },
+        {
+          "id": "B",
+          "text": "Pejabat Tanah Jajahan"
+        },
+        {
+          "id": "C",
+          "text": "SHTI"
+        },
+        {
+          "id": "D",
+          "text": "Pedagang"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pemerintah tempatan: Pihak yang kehilangan kawalan wilayah akibat perluasan British.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q028",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Kenal pasti pihak berkepentingan.\n\nJabatan di London yang mengambil alih NNS pada 1867.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemerintah tempatan"
+        },
+        {
+          "id": "B",
+          "text": "Pejabat Tanah Jajahan"
+        },
+        {
+          "id": "C",
+          "text": "SHTI"
+        },
+        {
+          "id": "D",
+          "text": "Pedagang"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pejabat Tanah Jajahan: Jabatan di London yang mengambil alih NNS pada 1867.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q029",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Padankan masalah NNS dengan bidangnya.\n\nKegiatan lanun mengganggu pelayaran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebajikan penduduk"
+        },
+        {
+          "id": "B",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "C",
+          "text": "Pentadbiran"
+        },
+        {
+          "id": "D",
+          "text": "Ekonomi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Keselamatan: Kegiatan lanun mengganggu pelayaran.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q030",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Padankan masalah NNS dengan bidangnya.\n\nKeputusan dari pusat jauh kurang mengambil kira keadaan setempat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebajikan penduduk"
+        },
+        {
+          "id": "B",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "C",
+          "text": "Pentadbiran"
+        },
+        {
+          "id": "D",
+          "text": "Ekonomi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pentadbiran: Keputusan dari pusat jauh kurang mengambil kira keadaan setempat.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q031",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Padankan masalah NNS dengan bidangnya.\n\nDasar yang menjejaskan pelabuhan mendapat bantahan peniaga.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebajikan penduduk"
+        },
+        {
+          "id": "B",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "C",
+          "text": "Pentadbiran"
+        },
+        {
+          "id": "D",
+          "text": "Ekonomi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Ekonomi: Dasar yang menjejaskan pelabuhan mendapat bantahan peniaga.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q032",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Padankan masalah NNS dengan bidangnya.\n\nKesesakan dan kesihatan bandar memerlukan perhatian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebajikan penduduk"
+        },
+        {
+          "id": "B",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "C",
+          "text": "Pentadbiran"
+        },
+        {
+          "id": "D",
+          "text": "Ekonomi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kebajikan penduduk: Kesesakan dan kesihatan bandar memerlukan perhatian.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q033",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Apakah jenis bukti yang diperlukan?\n\nMenentukan syarat penyerahan wilayah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perjanjian"
+        },
+        {
+          "id": "B",
+          "text": "Peta"
+        },
+        {
+          "id": "C",
+          "text": "Rekod perdagangan"
+        },
+        {
+          "id": "D",
+          "text": "Surat aduan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perjanjian: Menentukan syarat penyerahan wilayah.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q034",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Apakah jenis bukti yang diperlukan?\n\nMengenal perubahan sempadan pengaruh.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perjanjian"
+        },
+        {
+          "id": "B",
+          "text": "Peta"
+        },
+        {
+          "id": "C",
+          "text": "Rekod perdagangan"
+        },
+        {
+          "id": "D",
+          "text": "Surat aduan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Peta: Mengenal perubahan sempadan pengaruh.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q035",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Apakah jenis bukti yang diperlukan?\n\nMembandingkan jumlah kapal dan muatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perjanjian"
+        },
+        {
+          "id": "B",
+          "text": "Peta"
+        },
+        {
+          "id": "C",
+          "text": "Rekod perdagangan"
+        },
+        {
+          "id": "D",
+          "text": "Surat aduan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Rekod perdagangan: Membandingkan jumlah kapal dan muatan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q036",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Apakah jenis bukti yang diperlukan?\n\nMeneliti tuntutan pedagang terhadap pentadbiran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perjanjian"
+        },
+        {
+          "id": "B",
+          "text": "Peta"
+        },
+        {
+          "id": "C",
+          "text": "Rekod perdagangan"
+        },
+        {
+          "id": "D",
+          "text": "Surat aduan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Surat aduan: Meneliti tuntutan pedagang terhadap pentadbiran.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q037",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Kenal pasti pengajaran sejarah NNS.\n\nPelabuhan strategik menjadi sasaran kuasa luar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesan perjanjian"
+        },
+        {
+          "id": "B",
+          "text": "Peranan kepentingan ekonomi"
+        },
+        {
+          "id": "C",
+          "text": "Hak menentukan pemerintahan"
+        },
+        {
+          "id": "D",
+          "text": "Kepentingan lokasi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kepentingan lokasi: Pelabuhan strategik menjadi sasaran kuasa luar.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q038",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Kenal pasti pengajaran sejarah NNS.\n\nPersetujuan dua kuasa boleh mengubah wilayah kerajaan tempatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesan perjanjian"
+        },
+        {
+          "id": "B",
+          "text": "Peranan kepentingan ekonomi"
+        },
+        {
+          "id": "C",
+          "text": "Hak menentukan pemerintahan"
+        },
+        {
+          "id": "D",
+          "text": "Kepentingan lokasi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kesan perjanjian: Persetujuan dua kuasa boleh mengubah wilayah kerajaan tempatan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q039",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Kenal pasti pengajaran sejarah NNS.\n\nKeuntungan perdagangan mempengaruhi keputusan penjajah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesan perjanjian"
+        },
+        {
+          "id": "B",
+          "text": "Peranan kepentingan ekonomi"
+        },
+        {
+          "id": "C",
+          "text": "Hak menentukan pemerintahan"
+        },
+        {
+          "id": "D",
+          "text": "Kepentingan lokasi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Peranan kepentingan ekonomi: Keuntungan perdagangan mempengaruhi keputusan penjajah.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t3-b02-q040",
+      "form": 3,
+      "chapter": 2,
+      "prompt": "Kenal pasti pengajaran sejarah NNS.\n\nKehilangan kedaulatan mengehadkan pilihan penduduk tempatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesan perjanjian"
+        },
+        {
+          "id": "B",
+          "text": "Peranan kepentingan ekonomi"
+        },
+        {
+          "id": "C",
+          "text": "Hak menentukan pemerintahan"
+        },
+        {
+          "id": "D",
+          "text": "Kepentingan lokasi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Hak menentukan pemerintahan: Kehilangan kedaulatan mengehadkan pilihan penduduk tempatan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 2,
+  "chapter": 2,
+  "title": "Sistem Pemerintahan dan Kegiatan Ekonomi Masyarakat Kerajaan Alam Melayu",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t2_b02.json",
+  "questions": [
+    {
+      "id": "t2-b02-q001",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Kenal pasti peranan pentadbiran.\n\nMemegang kedudukan tertinggi kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raja"
+        },
+        {
+          "id": "B",
+          "text": "Pembesar"
+        },
+        {
+          "id": "C",
+          "text": "Pegawai pelabuhan"
+        },
+        {
+          "id": "D",
+          "text": "Rakyat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Raja: Memegang kedudukan tertinggi kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q002",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Kenal pasti peranan pentadbiran.\n\nMembantu mengurus wilayah dan penduduk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raja"
+        },
+        {
+          "id": "B",
+          "text": "Pembesar"
+        },
+        {
+          "id": "C",
+          "text": "Pegawai pelabuhan"
+        },
+        {
+          "id": "D",
+          "text": "Rakyat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pembesar: Membantu mengurus wilayah dan penduduk.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q003",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Kenal pasti peranan pentadbiran.\n\nMengendalikan urusan kapal serta pedagang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raja"
+        },
+        {
+          "id": "B",
+          "text": "Pembesar"
+        },
+        {
+          "id": "C",
+          "text": "Pegawai pelabuhan"
+        },
+        {
+          "id": "D",
+          "text": "Rakyat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pegawai pelabuhan: Mengendalikan urusan kapal serta pedagang.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q004",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Kenal pasti peranan pentadbiran.\n\nMenjalankan kegiatan pengeluaran dan khidmat masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raja"
+        },
+        {
+          "id": "B",
+          "text": "Pembesar"
+        },
+        {
+          "id": "C",
+          "text": "Pegawai pelabuhan"
+        },
+        {
+          "id": "D",
+          "text": "Rakyat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Rakyat: Menjalankan kegiatan pengeluaran dan khidmat masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q005",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Padankan sistem ekonomi.\n\nMengusahakan tanaman makanan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Perikanan"
+        },
+        {
+          "id": "C",
+          "text": "Pertukangan"
+        },
+        {
+          "id": "D",
+          "text": "Pertanian"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pertanian: Mengusahakan tanaman makanan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q006",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Padankan sistem ekonomi.\n\nMenjual beli barangan antara wilayah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Perikanan"
+        },
+        {
+          "id": "C",
+          "text": "Pertukangan"
+        },
+        {
+          "id": "D",
+          "text": "Pertanian"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perdagangan: Menjual beli barangan antara wilayah.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q007",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Padankan sistem ekonomi.\n\nMenangkap sumber hidupan air.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Perikanan"
+        },
+        {
+          "id": "C",
+          "text": "Pertukangan"
+        },
+        {
+          "id": "D",
+          "text": "Pertanian"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perikanan: Menangkap sumber hidupan air.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q008",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Padankan sistem ekonomi.\n\nMenghasilkan barangan menggunakan kemahiran khusus.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Perikanan"
+        },
+        {
+          "id": "C",
+          "text": "Pertukangan"
+        },
+        {
+          "id": "D",
+          "text": "Pertanian"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pertukangan: Menghasilkan barangan menggunakan kemahiran khusus.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q009",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Kenal pasti hasil hutan.\n\nGetah resin pokok yang diperdagangkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gaharu"
+        },
+        {
+          "id": "B",
+          "text": "Kapur barus"
+        },
+        {
+          "id": "C",
+          "text": "Damar"
+        },
+        {
+          "id": "D",
+          "text": "Rotan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Damar: Getah resin pokok yang diperdagangkan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q010",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Kenal pasti hasil hutan.\n\nBahan lentur untuk membuat anyaman dan perabot.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gaharu"
+        },
+        {
+          "id": "B",
+          "text": "Kapur barus"
+        },
+        {
+          "id": "C",
+          "text": "Damar"
+        },
+        {
+          "id": "D",
+          "text": "Rotan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Rotan: Bahan lentur untuk membuat anyaman dan perabot.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q011",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Kenal pasti hasil hutan.\n\nKayu beraroma yang bernilai dalam perdagangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gaharu"
+        },
+        {
+          "id": "B",
+          "text": "Kapur barus"
+        },
+        {
+          "id": "C",
+          "text": "Damar"
+        },
+        {
+          "id": "D",
+          "text": "Rotan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Gaharu: Kayu beraroma yang bernilai dalam perdagangan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q012",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Kenal pasti hasil hutan.\n\nBahan harum daripada pokok tertentu, terkenal sebagai hasil serantau.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gaharu"
+        },
+        {
+          "id": "B",
+          "text": "Kapur barus"
+        },
+        {
+          "id": "C",
+          "text": "Damar"
+        },
+        {
+          "id": "D",
+          "text": "Rotan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kapur barus: Bahan harum daripada pokok tertentu, terkenal sebagai hasil serantau.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q013",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Padankan kemudahan pertanian.\n\nTakungan air besar dalam kerajaan Angkor.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sawah"
+        },
+        {
+          "id": "B",
+          "text": "Baray"
+        },
+        {
+          "id": "C",
+          "text": "Terusan"
+        },
+        {
+          "id": "D",
+          "text": "Empangan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Baray: Takungan air besar dalam kerajaan Angkor.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q014",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Padankan kemudahan pertanian.\n\nSaluran membawa air ke tanaman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sawah"
+        },
+        {
+          "id": "B",
+          "text": "Baray"
+        },
+        {
+          "id": "C",
+          "text": "Terusan"
+        },
+        {
+          "id": "D",
+          "text": "Empangan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Terusan: Saluran membawa air ke tanaman.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q015",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Padankan kemudahan pertanian.\n\nBinaan menahan dan mengawal aliran air.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sawah"
+        },
+        {
+          "id": "B",
+          "text": "Baray"
+        },
+        {
+          "id": "C",
+          "text": "Terusan"
+        },
+        {
+          "id": "D",
+          "text": "Empangan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Empangan: Binaan menahan dan mengawal aliran air.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q016",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Padankan kemudahan pertanian.\n\nKawasan tanaman padi berair.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sawah"
+        },
+        {
+          "id": "B",
+          "text": "Baray"
+        },
+        {
+          "id": "C",
+          "text": "Terusan"
+        },
+        {
+          "id": "D",
+          "text": "Empangan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Sawah: Kawasan tanaman padi berair.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q017",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Apakah faktor pertanian yang ditunjukkan?\n\nMendapan sungai menyokong pertumbuhan tanaman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tanah subur"
+        },
+        {
+          "id": "B",
+          "text": "Bekalan air"
+        },
+        {
+          "id": "C",
+          "text": "Tenaga kerja"
+        },
+        {
+          "id": "D",
+          "text": "Penyimpanan hasil"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Tanah subur: Mendapan sungai menyokong pertumbuhan tanaman.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q018",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Apakah faktor pertanian yang ditunjukkan?\n\nPengairan mengurangkan pergantungan pada hujan semata-mata.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tanah subur"
+        },
+        {
+          "id": "B",
+          "text": "Bekalan air"
+        },
+        {
+          "id": "C",
+          "text": "Tenaga kerja"
+        },
+        {
+          "id": "D",
+          "text": "Penyimpanan hasil"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Bekalan air: Pengairan mengurangkan pergantungan pada hujan semata-mata.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q019",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Apakah faktor pertanian yang ditunjukkan?\n\nPenduduk bekerjasama mengusahakan ladang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tanah subur"
+        },
+        {
+          "id": "B",
+          "text": "Bekalan air"
+        },
+        {
+          "id": "C",
+          "text": "Tenaga kerja"
+        },
+        {
+          "id": "D",
+          "text": "Penyimpanan hasil"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Tenaga kerja: Penduduk bekerjasama mengusahakan ladang.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q020",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Apakah faktor pertanian yang ditunjukkan?\n\nJelapang melindungi bekalan selepas tuaian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tanah subur"
+        },
+        {
+          "id": "B",
+          "text": "Bekalan air"
+        },
+        {
+          "id": "C",
+          "text": "Tenaga kerja"
+        },
+        {
+          "id": "D",
+          "text": "Penyimpanan hasil"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Penyimpanan hasil: Jelapang melindungi bekalan selepas tuaian.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q021",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Kenal pasti sumber perdagangan.\n\nBeras dan rempah dibawa ke pasar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hasil laut"
+        },
+        {
+          "id": "B",
+          "text": "Hasil lombong"
+        },
+        {
+          "id": "C",
+          "text": "Barangan buatan"
+        },
+        {
+          "id": "D",
+          "text": "Hasil pertanian"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Hasil pertanian: Beras dan rempah dibawa ke pasar.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q022",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Kenal pasti sumber perdagangan.\n\nIkan dan kulit penyu menjadi barangan tukaran sejarah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hasil laut"
+        },
+        {
+          "id": "B",
+          "text": "Hasil lombong"
+        },
+        {
+          "id": "C",
+          "text": "Barangan buatan"
+        },
+        {
+          "id": "D",
+          "text": "Hasil pertanian"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Hasil laut: Ikan dan kulit penyu menjadi barangan tukaran sejarah.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q023",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Kenal pasti sumber perdagangan.\n\nEmas dan bijih timah diperoleh daripada bumi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hasil laut"
+        },
+        {
+          "id": "B",
+          "text": "Hasil lombong"
+        },
+        {
+          "id": "C",
+          "text": "Barangan buatan"
+        },
+        {
+          "id": "D",
+          "text": "Hasil pertanian"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Hasil lombong: Emas dan bijih timah diperoleh daripada bumi.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q024",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Kenal pasti sumber perdagangan.\n\nTembikar serta perhiasan dihasilkan oleh tukang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hasil laut"
+        },
+        {
+          "id": "B",
+          "text": "Hasil lombong"
+        },
+        {
+          "id": "C",
+          "text": "Barangan buatan"
+        },
+        {
+          "id": "D",
+          "text": "Hasil pertanian"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Barangan buatan: Tembikar serta perhiasan dihasilkan oleh tukang.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q025",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Padankan urusan pelabuhan.\n\nBayaran hasil dikenakan terhadap perdagangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gudang"
+        },
+        {
+          "id": "B",
+          "text": "Bekalan kapal"
+        },
+        {
+          "id": "C",
+          "text": "Cukai"
+        },
+        {
+          "id": "D",
+          "text": "Timbangan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Cukai: Bayaran hasil dikenakan terhadap perdagangan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q026",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Padankan urusan pelabuhan.\n\nAlat menentukan berat barangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gudang"
+        },
+        {
+          "id": "B",
+          "text": "Bekalan kapal"
+        },
+        {
+          "id": "C",
+          "text": "Cukai"
+        },
+        {
+          "id": "D",
+          "text": "Timbangan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Timbangan: Alat menentukan berat barangan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q027",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Padankan urusan pelabuhan.\n\nTempat menyimpan muatan pedagang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gudang"
+        },
+        {
+          "id": "B",
+          "text": "Bekalan kapal"
+        },
+        {
+          "id": "C",
+          "text": "Cukai"
+        },
+        {
+          "id": "D",
+          "text": "Timbangan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Gudang: Tempat menyimpan muatan pedagang.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q028",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Padankan urusan pelabuhan.\n\nAir dan makanan disediakan sebelum pelayaran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gudang"
+        },
+        {
+          "id": "B",
+          "text": "Bekalan kapal"
+        },
+        {
+          "id": "C",
+          "text": "Cukai"
+        },
+        {
+          "id": "D",
+          "text": "Timbangan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Bekalan kapal: Air dan makanan disediakan sebelum pelayaran.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q029",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Apakah fungsi pemerintahan?\n\nRondaan mengurangkan ancaman lanun.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengatur perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Menjamin keselamatan"
+        },
+        {
+          "id": "C",
+          "text": "Mengurus hasil"
+        },
+        {
+          "id": "D",
+          "text": "Menyelaras pengairan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Menjamin keselamatan: Rondaan mengurangkan ancaman lanun.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q030",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Apakah fungsi pemerintahan?\n\nKutipan disusun untuk membiayai kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengatur perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Menjamin keselamatan"
+        },
+        {
+          "id": "C",
+          "text": "Mengurus hasil"
+        },
+        {
+          "id": "D",
+          "text": "Menyelaras pengairan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Mengurus hasil: Kutipan disusun untuk membiayai kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q031",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Apakah fungsi pemerintahan?\n\nPembinaan saluran air melibatkan banyak kampung.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengatur perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Menjamin keselamatan"
+        },
+        {
+          "id": "C",
+          "text": "Mengurus hasil"
+        },
+        {
+          "id": "D",
+          "text": "Menyelaras pengairan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Menyelaras pengairan: Pembinaan saluran air melibatkan banyak kampung.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q032",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Apakah fungsi pemerintahan?\n\nPeraturan pelabuhan memudahkan urusan pedagang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengatur perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Menjamin keselamatan"
+        },
+        {
+          "id": "C",
+          "text": "Mengurus hasil"
+        },
+        {
+          "id": "D",
+          "text": "Menyelaras pengairan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Mengatur perdagangan: Peraturan pelabuhan memudahkan urusan pedagang.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q033",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Padankan masalah ekonomi dengan kesan langsung.\n\nBanjir besar memusnahkan sawah sebelum dituai.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tanaman rosak"
+        },
+        {
+          "id": "B",
+          "text": "Perdagangan terganggu"
+        },
+        {
+          "id": "C",
+          "text": "Bekalan berkurang"
+        },
+        {
+          "id": "D",
+          "text": "Kos perjalanan meningkat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Tanaman rosak: Banjir besar memusnahkan sawah sebelum dituai.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q034",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Padankan masalah ekonomi dengan kesan langsung.\n\nSerangan lanun menyebabkan kapal menjauhi pelabuhan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tanaman rosak"
+        },
+        {
+          "id": "B",
+          "text": "Perdagangan terganggu"
+        },
+        {
+          "id": "C",
+          "text": "Bekalan berkurang"
+        },
+        {
+          "id": "D",
+          "text": "Kos perjalanan meningkat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perdagangan terganggu: Serangan lanun menyebabkan kapal menjauhi pelabuhan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q035",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Padankan masalah ekonomi dengan kesan langsung.\n\nMusim hasil buruk mengurangkan makanan di pasar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tanaman rosak"
+        },
+        {
+          "id": "B",
+          "text": "Perdagangan terganggu"
+        },
+        {
+          "id": "C",
+          "text": "Bekalan berkurang"
+        },
+        {
+          "id": "D",
+          "text": "Kos perjalanan meningkat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Bekalan berkurang: Musim hasil buruk mengurangkan makanan di pasar.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q036",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Padankan masalah ekonomi dengan kesan langsung.\n\nLaluan lebih jauh memerlukan lebih banyak masa dan perbelanjaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tanaman rosak"
+        },
+        {
+          "id": "B",
+          "text": "Perdagangan terganggu"
+        },
+        {
+          "id": "C",
+          "text": "Bekalan berkurang"
+        },
+        {
+          "id": "D",
+          "text": "Kos perjalanan meningkat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kos perjalanan meningkat: Laluan lebih jauh memerlukan lebih banyak masa dan perbelanjaan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q037",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Kenal pasti hubungan ekonomi.\n\nHasil hutan dibawa melalui sungai ke tempat berlabuh.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Petani dengan tukang"
+        },
+        {
+          "id": "B",
+          "text": "Kerajaan dengan pedagang"
+        },
+        {
+          "id": "C",
+          "text": "Pelabuhan dengan pelabuhan"
+        },
+        {
+          "id": "D",
+          "text": "Pedalaman dengan pesisir"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pedalaman dengan pesisir: Hasil hutan dibawa melalui sungai ke tempat berlabuh.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q038",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Kenal pasti hubungan ekonomi.\n\nBeras ditukar dengan peralatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Petani dengan tukang"
+        },
+        {
+          "id": "B",
+          "text": "Kerajaan dengan pedagang"
+        },
+        {
+          "id": "C",
+          "text": "Pelabuhan dengan pelabuhan"
+        },
+        {
+          "id": "D",
+          "text": "Pedalaman dengan pesisir"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Petani dengan tukang: Beras ditukar dengan peralatan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q039",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Kenal pasti hubungan ekonomi.\n\nPerlindungan disediakan sementara cukai membiayai pentadbiran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Petani dengan tukang"
+        },
+        {
+          "id": "B",
+          "text": "Kerajaan dengan pedagang"
+        },
+        {
+          "id": "C",
+          "text": "Pelabuhan dengan pelabuhan"
+        },
+        {
+          "id": "D",
+          "text": "Pedalaman dengan pesisir"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kerajaan dengan pedagang: Perlindungan disediakan sementara cukai membiayai pentadbiran.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "t2-b02-q040",
+      "form": 2,
+      "chapter": 2,
+      "prompt": "Kenal pasti hubungan ekonomi.\n\nKapal mengedarkan barangan antara pusat perdagangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Petani dengan tukang"
+        },
+        {
+          "id": "B",
+          "text": "Kerajaan dengan pedagang"
+        },
+        {
+          "id": "C",
+          "text": "Pelabuhan dengan pelabuhan"
+        },
+        {
+          "id": "D",
+          "text": "Pedalaman dengan pesisir"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pelabuhan dengan pelabuhan: Kapal mengedarkan barangan antara pusat perdagangan.",
+      "tags": [
+        "padanan",
+        "bab-2"
+      ]
+    }
+  ]
+}

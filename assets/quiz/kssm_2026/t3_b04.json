@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 3,
+  "chapter": 4,
+  "title": "Pentadbiran Negeri-negeri Melayu Tidak Bersekutu",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t3_b04.json",
+  "questions": [
+    {
+      "id": "t3-b04-q001",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Kenal pasti anggota NNMTB.\n\nNegeri utara yang mempunyai pusat pentadbiran di Alor Setar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedah"
+        },
+        {
+          "id": "B",
+          "text": "Kelantan"
+        },
+        {
+          "id": "C",
+          "text": "Terengganu"
+        },
+        {
+          "id": "D",
+          "text": "Perlis"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kedah: Negeri utara yang mempunyai pusat pentadbiran di Alor Setar.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q002",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Kenal pasti anggota NNMTB.\n\nNegeri timur laut yang berpusat di Kota Bharu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedah"
+        },
+        {
+          "id": "B",
+          "text": "Kelantan"
+        },
+        {
+          "id": "C",
+          "text": "Terengganu"
+        },
+        {
+          "id": "D",
+          "text": "Perlis"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kelantan: Negeri timur laut yang berpusat di Kota Bharu.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q003",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Kenal pasti anggota NNMTB.\n\nNegeri pantai timur yang mempunyai Undang-Undang Bagi Diri Kerajaan 1911.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedah"
+        },
+        {
+          "id": "B",
+          "text": "Kelantan"
+        },
+        {
+          "id": "C",
+          "text": "Terengganu"
+        },
+        {
+          "id": "D",
+          "text": "Perlis"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Terengganu: Negeri pantai timur yang mempunyai Undang-Undang Bagi Diri Kerajaan 1911.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q004",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Kenal pasti anggota NNMTB.\n\nNegeri yang pemerintahnya bergelar Raja.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedah"
+        },
+        {
+          "id": "B",
+          "text": "Kelantan"
+        },
+        {
+          "id": "C",
+          "text": "Terengganu"
+        },
+        {
+          "id": "D",
+          "text": "Perlis"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Perlis: Negeri yang pemerintahnya bergelar Raja.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q005",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Padankan negeri atau kelompok.\n\nNegeri selatan yang menerima Penasihat Am British pada 1914.",
+      "options": [
+        {
+          "id": "A",
+          "text": "NNMB"
+        },
+        {
+          "id": "B",
+          "text": "NNMTB"
+        },
+        {
+          "id": "C",
+          "text": "NNS"
+        },
+        {
+          "id": "D",
+          "text": "Johor"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Johor: Negeri selatan yang menerima Penasihat Am British pada 1914.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q006",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Padankan negeri atau kelompok.\n\nEmpat negeri yang dipersekutukan pada 1896.",
+      "options": [
+        {
+          "id": "A",
+          "text": "NNMB"
+        },
+        {
+          "id": "B",
+          "text": "NNMTB"
+        },
+        {
+          "id": "C",
+          "text": "NNS"
+        },
+        {
+          "id": "D",
+          "text": "Johor"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "NNMB: Empat negeri yang dipersekutukan pada 1896.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q007",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Padankan negeri atau kelompok.\n\nLima negeri yang tidak disatukan dalam persekutuan 1896.",
+      "options": [
+        {
+          "id": "A",
+          "text": "NNMB"
+        },
+        {
+          "id": "B",
+          "text": "NNMTB"
+        },
+        {
+          "id": "C",
+          "text": "NNS"
+        },
+        {
+          "id": "D",
+          "text": "Johor"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "NNMTB: Lima negeri yang tidak disatukan dalam persekutuan 1896.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q008",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Padankan negeri atau kelompok.\n\nPulau Pinang, Melaka dan Singapura dalam satu pentadbiran British.",
+      "options": [
+        {
+          "id": "A",
+          "text": "NNMB"
+        },
+        {
+          "id": "B",
+          "text": "NNMTB"
+        },
+        {
+          "id": "C",
+          "text": "NNS"
+        },
+        {
+          "id": "D",
+          "text": "Johor"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "NNS: Pulau Pinang, Melaka dan Singapura dalam satu pentadbiran British.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q009",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Kenal pasti dokumen atau tahun.\n\nSiam menyerahkan hak pengaruh tertentu di negeri utara kepada British.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Undang-Undang Terengganu 1911"
+        },
+        {
+          "id": "B",
+          "text": "Tahun 1914"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian Bangkok 1909"
+        },
+        {
+          "id": "D",
+          "text": "Undang-Undang Tubuh Johor 1895"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perjanjian Bangkok 1909: Siam menyerahkan hak pengaruh tertentu di negeri utara kepada British.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q010",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Kenal pasti dokumen atau tahun.\n\nPerlembagaan bertulis negeri selatan yang menghalang penyerahan negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Undang-Undang Terengganu 1911"
+        },
+        {
+          "id": "B",
+          "text": "Tahun 1914"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian Bangkok 1909"
+        },
+        {
+          "id": "D",
+          "text": "Undang-Undang Tubuh Johor 1895"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Undang-Undang Tubuh Johor 1895: Perlembagaan bertulis negeri selatan yang menghalang penyerahan negeri.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q011",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Kenal pasti dokumen atau tahun.\n\nAturan kerajaan Terengganu yang mempertahankan kedaulatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Undang-Undang Terengganu 1911"
+        },
+        {
+          "id": "B",
+          "text": "Tahun 1914"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian Bangkok 1909"
+        },
+        {
+          "id": "D",
+          "text": "Undang-Undang Tubuh Johor 1895"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Undang-Undang Terengganu 1911: Aturan kerajaan Terengganu yang mempertahankan kedaulatan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q012",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Kenal pasti dokumen atau tahun.\n\nTahun Johor menerima Penasihat Am British.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Undang-Undang Terengganu 1911"
+        },
+        {
+          "id": "B",
+          "text": "Tahun 1914"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian Bangkok 1909"
+        },
+        {
+          "id": "D",
+          "text": "Undang-Undang Tubuh Johor 1895"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Tahun 1914: Tahun Johor menerima Penasihat Am British.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q013",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Apakah ciri pentadbiran NNMTB?\n\nNegeri tidak diletakkan di bawah seorang Residen Jeneral NNMB.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengaruh British meningkat"
+        },
+        {
+          "id": "B",
+          "text": "Pentadbiran berasingan"
+        },
+        {
+          "id": "C",
+          "text": "Penasihat British"
+        },
+        {
+          "id": "D",
+          "text": "Institusi tempatan dikekalkan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pentadbiran berasingan: Negeri tidak diletakkan di bawah seorang Residen Jeneral NNMB.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q014",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Apakah ciri pentadbiran NNMTB?\n\nPegawai asing memberi nasihat dalam urusan pentadbiran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengaruh British meningkat"
+        },
+        {
+          "id": "B",
+          "text": "Pentadbiran berasingan"
+        },
+        {
+          "id": "C",
+          "text": "Penasihat British"
+        },
+        {
+          "id": "D",
+          "text": "Institusi tempatan dikekalkan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Penasihat British: Pegawai asing memberi nasihat dalam urusan pentadbiran.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q015",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Apakah ciri pentadbiran NNMTB?\n\nSultan dan pembesar masih mempunyai jawatan negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengaruh British meningkat"
+        },
+        {
+          "id": "B",
+          "text": "Pentadbiran berasingan"
+        },
+        {
+          "id": "C",
+          "text": "Penasihat British"
+        },
+        {
+          "id": "D",
+          "text": "Institusi tempatan dikekalkan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Institusi tempatan dikekalkan: Sultan dan pembesar masih mempunyai jawatan negeri.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q016",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Apakah ciri pentadbiran NNMTB?\n\nDasar negeri semakin dipengaruhi kuasa penjajah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengaruh British meningkat"
+        },
+        {
+          "id": "B",
+          "text": "Pentadbiran berasingan"
+        },
+        {
+          "id": "C",
+          "text": "Penasihat British"
+        },
+        {
+          "id": "D",
+          "text": "Institusi tempatan dikekalkan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pengaruh British meningkat: Dasar negeri semakin dipengaruhi kuasa penjajah.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q017",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Padankan kaedah mempertahankan negeri.\n\nLarangan menyerahkan negeri dimasukkan dalam aturan kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perlembagaan bertulis"
+        },
+        {
+          "id": "B",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "C",
+          "text": "Pemodenan"
+        },
+        {
+          "id": "D",
+          "text": "Muafakat pemerintah"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perlembagaan bertulis: Larangan menyerahkan negeri dimasukkan dalam aturan kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q018",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Padankan kaedah mempertahankan negeri.\n\nRundingan digunakan menghadapi tekanan asing.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perlembagaan bertulis"
+        },
+        {
+          "id": "B",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "C",
+          "text": "Pemodenan"
+        },
+        {
+          "id": "D",
+          "text": "Muafakat pemerintah"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Diplomasi: Rundingan digunakan menghadapi tekanan asing.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q019",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Padankan kaedah mempertahankan negeri.\n\nJabatan yang lebih cekap dibangunkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perlembagaan bertulis"
+        },
+        {
+          "id": "B",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "C",
+          "text": "Pemodenan"
+        },
+        {
+          "id": "D",
+          "text": "Muafakat pemerintah"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pemodenan: Jabatan yang lebih cekap dibangunkan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q020",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Padankan kaedah mempertahankan negeri.\n\nPemimpin menyelaraskan pendirian demi kepentingan negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perlembagaan bertulis"
+        },
+        {
+          "id": "B",
+          "text": "Diplomasi"
+        },
+        {
+          "id": "C",
+          "text": "Pemodenan"
+        },
+        {
+          "id": "D",
+          "text": "Muafakat pemerintah"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Muafakat pemerintah: Pemimpin menyelaraskan pendirian demi kepentingan negeri.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q021",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Kenal pasti bidang urusan.\n\nHal ehwal masjid dan pentadbiran keagamaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adat Melayu"
+        },
+        {
+          "id": "B",
+          "text": "Kewangan"
+        },
+        {
+          "id": "C",
+          "text": "Kerja raya"
+        },
+        {
+          "id": "D",
+          "text": "Agama Islam"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Agama Islam: Hal ehwal masjid dan pentadbiran keagamaan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q022",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Kenal pasti bidang urusan.\n\nAmalan tradisi serta istiadat negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adat Melayu"
+        },
+        {
+          "id": "B",
+          "text": "Kewangan"
+        },
+        {
+          "id": "C",
+          "text": "Kerja raya"
+        },
+        {
+          "id": "D",
+          "text": "Agama Islam"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Adat Melayu: Amalan tradisi serta istiadat negeri.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q023",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Kenal pasti bidang urusan.\n\nPungutan dan perbelanjaan hasil kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adat Melayu"
+        },
+        {
+          "id": "B",
+          "text": "Kewangan"
+        },
+        {
+          "id": "C",
+          "text": "Kerja raya"
+        },
+        {
+          "id": "D",
+          "text": "Agama Islam"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kewangan: Pungutan dan perbelanjaan hasil kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q024",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Kenal pasti bidang urusan.\n\nPembinaan jalan serta kemudahan awam.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adat Melayu"
+        },
+        {
+          "id": "B",
+          "text": "Kewangan"
+        },
+        {
+          "id": "C",
+          "text": "Kerja raya"
+        },
+        {
+          "id": "D",
+          "text": "Agama Islam"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kerja raya: Pembinaan jalan serta kemudahan awam.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q025",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Apakah kepentingan Perjanjian Bangkok?\n\nHubungan kuasa Siam dengan negeri utara berubah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengabaian pandangan tempatan"
+        },
+        {
+          "id": "B",
+          "text": "Peluasan British"
+        },
+        {
+          "id": "C",
+          "text": "Perubahan pengaruh"
+        },
+        {
+          "id": "D",
+          "text": "Masalah sempadan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perubahan pengaruh: Hubungan kuasa Siam dengan negeri utara berubah.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q026",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Apakah kepentingan Perjanjian Bangkok?\n\nPembahagian wilayah memberi kesan kepada masyarakat serantau.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengabaian pandangan tempatan"
+        },
+        {
+          "id": "B",
+          "text": "Peluasan British"
+        },
+        {
+          "id": "C",
+          "text": "Perubahan pengaruh"
+        },
+        {
+          "id": "D",
+          "text": "Masalah sempadan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Masalah sempadan: Pembahagian wilayah memberi kesan kepada masyarakat serantau.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q027",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Apakah kepentingan Perjanjian Bangkok?\n\nRaja-raja negeri terlibat tidak menentukan semua syarat perjanjian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengabaian pandangan tempatan"
+        },
+        {
+          "id": "B",
+          "text": "Peluasan British"
+        },
+        {
+          "id": "C",
+          "text": "Perubahan pengaruh"
+        },
+        {
+          "id": "D",
+          "text": "Masalah sempadan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pengabaian pandangan tempatan: Raja-raja negeri terlibat tidak menentukan semua syarat perjanjian.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q028",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Apakah kepentingan Perjanjian Bangkok?\n\nKuasa penjajah memperoleh ruang campur tangan lebih besar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengabaian pandangan tempatan"
+        },
+        {
+          "id": "B",
+          "text": "Peluasan British"
+        },
+        {
+          "id": "C",
+          "text": "Perubahan pengaruh"
+        },
+        {
+          "id": "D",
+          "text": "Masalah sempadan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Peluasan British: Kuasa penjajah memperoleh ruang campur tangan lebih besar.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q029",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Padankan peranan pemimpin.\n\nKetua negeri dan lambang kedaulatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pegawai tempatan"
+        },
+        {
+          "id": "B",
+          "text": "Sultan"
+        },
+        {
+          "id": "C",
+          "text": "Pembesar"
+        },
+        {
+          "id": "D",
+          "text": "Penasihat British"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Sultan: Ketua negeri dan lambang kedaulatan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q030",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Padankan peranan pemimpin.\n\nMembantu pemerintah dalam urusan wilayah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pegawai tempatan"
+        },
+        {
+          "id": "B",
+          "text": "Sultan"
+        },
+        {
+          "id": "C",
+          "text": "Pembesar"
+        },
+        {
+          "id": "D",
+          "text": "Penasihat British"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pembesar: Membantu pemerintah dalam urusan wilayah.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q031",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Padankan peranan pemimpin.\n\nWakil yang membawa kepentingan penjajah dalam pentadbiran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pegawai tempatan"
+        },
+        {
+          "id": "B",
+          "text": "Sultan"
+        },
+        {
+          "id": "C",
+          "text": "Pembesar"
+        },
+        {
+          "id": "D",
+          "text": "Penasihat British"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Penasihat British: Wakil yang membawa kepentingan penjajah dalam pentadbiran.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q032",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Padankan peranan pemimpin.\n\nPetugas anak negeri yang menjalankan urusan kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pegawai tempatan"
+        },
+        {
+          "id": "B",
+          "text": "Sultan"
+        },
+        {
+          "id": "C",
+          "text": "Pembesar"
+        },
+        {
+          "id": "D",
+          "text": "Penasihat British"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pegawai tempatan: Petugas anak negeri yang menjalankan urusan kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q033",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Apakah bukti perbezaan pentadbiran?\n\nSebutan Residen dibezakan daripada Penasihat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gelaran pegawai"
+        },
+        {
+          "id": "B",
+          "text": "Dokumen perjanjian"
+        },
+        {
+          "id": "C",
+          "text": "Struktur jabatan"
+        },
+        {
+          "id": "D",
+          "text": "Kuasa membuat keputusan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Gelaran pegawai: Sebutan Residen dibezakan daripada Penasihat.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q034",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Apakah bukti perbezaan pentadbiran?\n\nSyarat penerimaan pengaruh asing diteliti.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gelaran pegawai"
+        },
+        {
+          "id": "B",
+          "text": "Dokumen perjanjian"
+        },
+        {
+          "id": "C",
+          "text": "Struktur jabatan"
+        },
+        {
+          "id": "D",
+          "text": "Kuasa membuat keputusan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Dokumen perjanjian: Syarat penerimaan pengaruh asing diteliti.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q035",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Apakah bukti perbezaan pentadbiran?\n\nSusunan pejabat negeri dibandingkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gelaran pegawai"
+        },
+        {
+          "id": "B",
+          "text": "Dokumen perjanjian"
+        },
+        {
+          "id": "C",
+          "text": "Struktur jabatan"
+        },
+        {
+          "id": "D",
+          "text": "Kuasa membuat keputusan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Struktur jabatan: Susunan pejabat negeri dibandingkan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q036",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Apakah bukti perbezaan pentadbiran?\n\nBidang yang masih dikendalikan pemerintah dinilai.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gelaran pegawai"
+        },
+        {
+          "id": "B",
+          "text": "Dokumen perjanjian"
+        },
+        {
+          "id": "C",
+          "text": "Struktur jabatan"
+        },
+        {
+          "id": "D",
+          "text": "Kuasa membuat keputusan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kuasa membuat keputusan: Bidang yang masih dikendalikan pemerintah dinilai.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q037",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Kenal pasti pengajaran.\n\nNegeri berhak mempertahankan urusan sendiri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebijaksanaan"
+        },
+        {
+          "id": "B",
+          "text": "Kecekapan"
+        },
+        {
+          "id": "C",
+          "text": "Kesedaran sejarah"
+        },
+        {
+          "id": "D",
+          "text": "Kedaulatan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kedaulatan: Negeri berhak mempertahankan urusan sendiri.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q038",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Kenal pasti pengajaran.\n\nTekanan luar ditangani tanpa tindakan terburu-buru.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebijaksanaan"
+        },
+        {
+          "id": "B",
+          "text": "Kecekapan"
+        },
+        {
+          "id": "C",
+          "text": "Kesedaran sejarah"
+        },
+        {
+          "id": "D",
+          "text": "Kedaulatan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kebijaksanaan: Tekanan luar ditangani tanpa tindakan terburu-buru.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q039",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Kenal pasti pengajaran.\n\nPentadbiran yang baik mengurangkan alasan campur tangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebijaksanaan"
+        },
+        {
+          "id": "B",
+          "text": "Kecekapan"
+        },
+        {
+          "id": "C",
+          "text": "Kesedaran sejarah"
+        },
+        {
+          "id": "D",
+          "text": "Kedaulatan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kecekapan: Pentadbiran yang baik mengurangkan alasan campur tangan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "t3-b04-q040",
+      "form": 3,
+      "chapter": 4,
+      "prompt": "Kenal pasti pengajaran.\n\nPerbezaan pengalaman negeri difahami sebelum membuat kesimpulan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebijaksanaan"
+        },
+        {
+          "id": "B",
+          "text": "Kecekapan"
+        },
+        {
+          "id": "C",
+          "text": "Kesedaran sejarah"
+        },
+        {
+          "id": "D",
+          "text": "Kedaulatan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kesedaran sejarah: Perbezaan pengalaman negeri difahami sebelum membuat kesimpulan.",
+      "tags": [
+        "padanan",
+        "bab-4"
+      ]
+    }
+  ]
+}

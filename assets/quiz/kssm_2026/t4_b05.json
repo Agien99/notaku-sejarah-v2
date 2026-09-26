@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 4,
+  "chapter": 5,
+  "title": "Persekutuan Tanah Melayu 1948",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t4_b05.json",
+  "questions": [
+    {
+      "id": "t4-b05-q001",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Kenal pasti unsur penubuhan PTM 1948.\n\nRancangan terdahulu yang digantikan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Malayan Union"
+        },
+        {
+          "id": "B",
+          "text": "Jawatankuasa Kerja"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian Persekutuan"
+        },
+        {
+          "id": "D",
+          "text": "1 Februari 1948"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Malayan Union: Rancangan terdahulu yang digantikan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q002",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Kenal pasti unsur penubuhan PTM 1948.\n\nBadan yang merangka susunan persekutuan baharu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Malayan Union"
+        },
+        {
+          "id": "B",
+          "text": "Jawatankuasa Kerja"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian Persekutuan"
+        },
+        {
+          "id": "D",
+          "text": "1 Februari 1948"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Jawatankuasa Kerja: Badan yang merangka susunan persekutuan baharu.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q003",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Kenal pasti unsur penubuhan PTM 1948.\n\nDokumen asas persetujuan penubuhan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Malayan Union"
+        },
+        {
+          "id": "B",
+          "text": "Jawatankuasa Kerja"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian Persekutuan"
+        },
+        {
+          "id": "D",
+          "text": "1 Februari 1948"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perjanjian Persekutuan: Dokumen asas persetujuan penubuhan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q004",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Kenal pasti unsur penubuhan PTM 1948.\n\nTarikh PTM 1948 mula diwujudkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Malayan Union"
+        },
+        {
+          "id": "B",
+          "text": "Jawatankuasa Kerja"
+        },
+        {
+          "id": "C",
+          "text": "Perjanjian Persekutuan"
+        },
+        {
+          "id": "D",
+          "text": "1 Februari 1948"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "1 Februari 1948: Tarikh PTM 1948 mula diwujudkan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q005",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Padankan pihak dengan peranan.\n\nMempertahankan kedudukan institusi beraja dalam rundingan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "UMNO"
+        },
+        {
+          "id": "B",
+          "text": "British"
+        },
+        {
+          "id": "C",
+          "text": "PUTERA-AMCJA"
+        },
+        {
+          "id": "D",
+          "text": "Raja-raja Melayu"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Raja-raja Melayu: Mempertahankan kedudukan institusi beraja dalam rundingan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q006",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Padankan pihak dengan peranan.\n\nMewakili gerakan Melayu utama menentang Malayan Union.",
+      "options": [
+        {
+          "id": "A",
+          "text": "UMNO"
+        },
+        {
+          "id": "B",
+          "text": "British"
+        },
+        {
+          "id": "C",
+          "text": "PUTERA-AMCJA"
+        },
+        {
+          "id": "D",
+          "text": "Raja-raja Melayu"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "UMNO: Mewakili gerakan Melayu utama menentang Malayan Union.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q007",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Padankan pihak dengan peranan.\n\nKuasa kolonial yang berunding membentuk susunan baharu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "UMNO"
+        },
+        {
+          "id": "B",
+          "text": "British"
+        },
+        {
+          "id": "C",
+          "text": "PUTERA-AMCJA"
+        },
+        {
+          "id": "D",
+          "text": "Raja-raja Melayu"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "British: Kuasa kolonial yang berunding membentuk susunan baharu.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q008",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Padankan pihak dengan peranan.\n\nGabungan yang mengemukakan Perlembagaan Rakyat sebagai alternatif.",
+      "options": [
+        {
+          "id": "A",
+          "text": "UMNO"
+        },
+        {
+          "id": "B",
+          "text": "British"
+        },
+        {
+          "id": "C",
+          "text": "PUTERA-AMCJA"
+        },
+        {
+          "id": "D",
+          "text": "Raja-raja Melayu"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "PUTERA-AMCJA: Gabungan yang mengemukakan Perlembagaan Rakyat sebagai alternatif.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q009",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Kenal pasti ciri persekutuan.\n\nNegeri beraja yang menjadi anggota PTM 1948.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Singapura"
+        },
+        {
+          "id": "B",
+          "text": "Pesuruhjaya Tinggi"
+        },
+        {
+          "id": "C",
+          "text": "Sembilan negeri Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Pulau Pinang dan Melaka"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Sembilan negeri Melayu: Negeri beraja yang menjadi anggota PTM 1948.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q010",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Kenal pasti ciri persekutuan.\n\nDua petempatan Selat yang dimasukkan dalam persekutuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Singapura"
+        },
+        {
+          "id": "B",
+          "text": "Pesuruhjaya Tinggi"
+        },
+        {
+          "id": "C",
+          "text": "Sembilan negeri Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Pulau Pinang dan Melaka"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pulau Pinang dan Melaka: Dua petempatan Selat yang dimasukkan dalam persekutuan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q011",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Kenal pasti ciri persekutuan.\n\nPetempatan Selat yang kekal berasingan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Singapura"
+        },
+        {
+          "id": "B",
+          "text": "Pesuruhjaya Tinggi"
+        },
+        {
+          "id": "C",
+          "text": "Sembilan negeri Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Pulau Pinang dan Melaka"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Singapura: Petempatan Selat yang kekal berasingan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q012",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Kenal pasti ciri persekutuan.\n\nKetua pentadbiran persekutuan mewakili British.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Singapura"
+        },
+        {
+          "id": "B",
+          "text": "Pesuruhjaya Tinggi"
+        },
+        {
+          "id": "C",
+          "text": "Sembilan negeri Melayu"
+        },
+        {
+          "id": "D",
+          "text": "Pulau Pinang dan Melaka"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pesuruhjaya Tinggi: Ketua pentadbiran persekutuan mewakili British.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q013",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Padankan bidang kuasa.\n\nMengendalikan urusan bersama seluruh persekutuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Majlis perundangan"
+        },
+        {
+          "id": "B",
+          "text": "Kerajaan Persekutuan"
+        },
+        {
+          "id": "C",
+          "text": "Kerajaan negeri"
+        },
+        {
+          "id": "D",
+          "text": "Raja-raja Melayu"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kerajaan Persekutuan: Mengendalikan urusan bersama seluruh persekutuan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q014",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Padankan bidang kuasa.\n\nMempunyai bidang urusan tertentu di peringkat negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Majlis perundangan"
+        },
+        {
+          "id": "B",
+          "text": "Kerajaan Persekutuan"
+        },
+        {
+          "id": "C",
+          "text": "Kerajaan negeri"
+        },
+        {
+          "id": "D",
+          "text": "Raja-raja Melayu"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kerajaan negeri: Mempunyai bidang urusan tertentu di peringkat negeri.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q015",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Padankan bidang kuasa.\n\nKedudukan sebagai pemerintah negeri dipulihkan berbanding Malayan Union.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Majlis perundangan"
+        },
+        {
+          "id": "B",
+          "text": "Kerajaan Persekutuan"
+        },
+        {
+          "id": "C",
+          "text": "Kerajaan negeri"
+        },
+        {
+          "id": "D",
+          "text": "Raja-raja Melayu"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Raja-raja Melayu: Kedudukan sebagai pemerintah negeri dipulihkan berbanding Malayan Union.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q016",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Padankan bidang kuasa.\n\nMembincangkan dan menggubal peraturan dalam struktur pentadbiran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Majlis perundangan"
+        },
+        {
+          "id": "B",
+          "text": "Kerajaan Persekutuan"
+        },
+        {
+          "id": "C",
+          "text": "Kerajaan negeri"
+        },
+        {
+          "id": "D",
+          "text": "Raja-raja Melayu"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Majlis perundangan: Membincangkan dan menggubal peraturan dalam struktur pentadbiran.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q017",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Apakah faktor penubuhan?\n\nBantahan meluas menggagalkan penerimaan Malayan Union.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penentangan Melayu"
+        },
+        {
+          "id": "B",
+          "text": "Sokongan raja"
+        },
+        {
+          "id": "C",
+          "text": "Rundingan politik"
+        },
+        {
+          "id": "D",
+          "text": "Keperluan kestabilan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Penentangan Melayu: Bantahan meluas menggagalkan penerimaan Malayan Union.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q018",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Apakah faktor penubuhan?\n\nInstitusi pemerintah menolak kehilangan kuasa negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penentangan Melayu"
+        },
+        {
+          "id": "B",
+          "text": "Sokongan raja"
+        },
+        {
+          "id": "C",
+          "text": "Rundingan politik"
+        },
+        {
+          "id": "D",
+          "text": "Keperluan kestabilan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Sokongan raja: Institusi pemerintah menolak kehilangan kuasa negeri.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q019",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Apakah faktor penubuhan?\n\nPerbincangan menghasilkan persetujuan bentuk baharu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penentangan Melayu"
+        },
+        {
+          "id": "B",
+          "text": "Sokongan raja"
+        },
+        {
+          "id": "C",
+          "text": "Rundingan politik"
+        },
+        {
+          "id": "D",
+          "text": "Keperluan kestabilan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Rundingan politik: Perbincangan menghasilkan persetujuan bentuk baharu.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q020",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Apakah faktor penubuhan?\n\nBritish memerlukan pentadbiran yang mendapat penerimaan lebih luas.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penentangan Melayu"
+        },
+        {
+          "id": "B",
+          "text": "Sokongan raja"
+        },
+        {
+          "id": "C",
+          "text": "Rundingan politik"
+        },
+        {
+          "id": "D",
+          "text": "Keperluan kestabilan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Keperluan kestabilan: British memerlukan pentadbiran yang mendapat penerimaan lebih luas.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q021",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Kenal pasti isu kewarganegaraan.\n\nTaraf diperoleh secara automatik apabila memenuhi kategori ditetapkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Permohonan"
+        },
+        {
+          "id": "B",
+          "text": "Syarat diperketat"
+        },
+        {
+          "id": "C",
+          "text": "Kesetiaan"
+        },
+        {
+          "id": "D",
+          "text": "Kuat kuasa undang-undang"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kuat kuasa undang-undang: Taraf diperoleh secara automatik apabila memenuhi kategori ditetapkan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q022",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Kenal pasti isu kewarganegaraan.\n\nIndividu memohon taraf menurut prosedur dan syarat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Permohonan"
+        },
+        {
+          "id": "B",
+          "text": "Syarat diperketat"
+        },
+        {
+          "id": "C",
+          "text": "Kesetiaan"
+        },
+        {
+          "id": "D",
+          "text": "Kuat kuasa undang-undang"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Permohonan: Individu memohon taraf menurut prosedur dan syarat.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q023",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Kenal pasti isu kewarganegaraan.\n\nPeraturan menjadi lebih ketat berbanding cadangan Malayan Union.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Permohonan"
+        },
+        {
+          "id": "B",
+          "text": "Syarat diperketat"
+        },
+        {
+          "id": "C",
+          "text": "Kesetiaan"
+        },
+        {
+          "id": "D",
+          "text": "Kuat kuasa undang-undang"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Syarat diperketat: Peraturan menjadi lebih ketat berbanding cadangan Malayan Union.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q024",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Kenal pasti isu kewarganegaraan.\n\nHubungan taat setia menjadi pertimbangan penting dalam keanggotaan politik.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Permohonan"
+        },
+        {
+          "id": "B",
+          "text": "Syarat diperketat"
+        },
+        {
+          "id": "C",
+          "text": "Kesetiaan"
+        },
+        {
+          "id": "D",
+          "text": "Kuat kuasa undang-undang"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kesetiaan: Hubungan taat setia menjadi pertimbangan penting dalam keanggotaan politik.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q025",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Padankan konsep perlembagaan.\n\nKuasa dibahagikan antara pusat dengan negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perwakilan"
+        },
+        {
+          "id": "B",
+          "text": "Rundingan"
+        },
+        {
+          "id": "C",
+          "text": "Persekutuan"
+        },
+        {
+          "id": "D",
+          "text": "Kesatuan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Persekutuan: Kuasa dibahagikan antara pusat dengan negeri.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q026",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Padankan konsep perlembagaan.\n\nPentadbiran lebih tertumpu pada satu pusat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perwakilan"
+        },
+        {
+          "id": "B",
+          "text": "Rundingan"
+        },
+        {
+          "id": "C",
+          "text": "Persekutuan"
+        },
+        {
+          "id": "D",
+          "text": "Kesatuan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kesatuan: Pentadbiran lebih tertumpu pada satu pusat.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q027",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Padankan konsep perlembagaan.\n\nPihak tertentu bertindak membawa suara kelompoknya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perwakilan"
+        },
+        {
+          "id": "B",
+          "text": "Rundingan"
+        },
+        {
+          "id": "C",
+          "text": "Persekutuan"
+        },
+        {
+          "id": "D",
+          "text": "Kesatuan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perwakilan: Pihak tertentu bertindak membawa suara kelompoknya.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q028",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Padankan konsep perlembagaan.\n\nPersetujuan dicari melalui perbincangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perwakilan"
+        },
+        {
+          "id": "B",
+          "text": "Rundingan"
+        },
+        {
+          "id": "C",
+          "text": "Persekutuan"
+        },
+        {
+          "id": "D",
+          "text": "Kesatuan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Rundingan: Persetujuan dicari melalui perbincangan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q029",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Kenal pasti kaedah bantahan alternatif.\n\nCadangan dasar pemerintahan oleh PUTERA-AMCJA.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perhimpunan"
+        },
+        {
+          "id": "B",
+          "text": "Perlembagaan Rakyat"
+        },
+        {
+          "id": "C",
+          "text": "Hartal"
+        },
+        {
+          "id": "D",
+          "text": "Memorandum"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perlembagaan Rakyat: Cadangan dasar pemerintahan oleh PUTERA-AMCJA.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q030",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Kenal pasti kaedah bantahan alternatif.\n\nPenutupan kegiatan ekonomi sebagai bantahan politik.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perhimpunan"
+        },
+        {
+          "id": "B",
+          "text": "Perlembagaan Rakyat"
+        },
+        {
+          "id": "C",
+          "text": "Hartal"
+        },
+        {
+          "id": "D",
+          "text": "Memorandum"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Hartal: Penutupan kegiatan ekonomi sebagai bantahan politik.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q031",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Kenal pasti kaedah bantahan alternatif.\n\nPandangan bertulis disampaikan kepada pihak berkuasa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perhimpunan"
+        },
+        {
+          "id": "B",
+          "text": "Perlembagaan Rakyat"
+        },
+        {
+          "id": "C",
+          "text": "Hartal"
+        },
+        {
+          "id": "D",
+          "text": "Memorandum"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Memorandum: Pandangan bertulis disampaikan kepada pihak berkuasa.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q032",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Kenal pasti kaedah bantahan alternatif.\n\nPeserta berkumpul menyatakan pendirian bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perhimpunan"
+        },
+        {
+          "id": "B",
+          "text": "Perlembagaan Rakyat"
+        },
+        {
+          "id": "C",
+          "text": "Hartal"
+        },
+        {
+          "id": "D",
+          "text": "Memorandum"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perhimpunan: Peserta berkumpul menyatakan pendirian bersama.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q033",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Apakah kesan PTM 1948?\n\nKedudukan pemerintah negeri diperkukuh semula.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemulihan institusi raja"
+        },
+        {
+          "id": "B",
+          "text": "Asas pemerintahan sendiri"
+        },
+        {
+          "id": "C",
+          "text": "Kerjasama politik"
+        },
+        {
+          "id": "D",
+          "text": "Penyusunan kewarganegaraan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pemulihan institusi raja: Kedudukan pemerintah negeri diperkukuh semula.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q034",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Apakah kesan PTM 1948?\n\nStruktur menjadi tahap penting menuju kemerdekaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemulihan institusi raja"
+        },
+        {
+          "id": "B",
+          "text": "Asas pemerintahan sendiri"
+        },
+        {
+          "id": "C",
+          "text": "Kerjasama politik"
+        },
+        {
+          "id": "D",
+          "text": "Penyusunan kewarganegaraan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Asas pemerintahan sendiri: Struktur menjadi tahap penting menuju kemerdekaan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q035",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Apakah kesan PTM 1948?\n\nPemimpin mendapat pengalaman mencapai persetujuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemulihan institusi raja"
+        },
+        {
+          "id": "B",
+          "text": "Asas pemerintahan sendiri"
+        },
+        {
+          "id": "C",
+          "text": "Kerjasama politik"
+        },
+        {
+          "id": "D",
+          "text": "Penyusunan kewarganegaraan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kerjasama politik: Pemimpin mendapat pengalaman mencapai persetujuan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q036",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Apakah kesan PTM 1948?\n\nAturan keanggotaan negara diperjelas semula.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemulihan institusi raja"
+        },
+        {
+          "id": "B",
+          "text": "Asas pemerintahan sendiri"
+        },
+        {
+          "id": "C",
+          "text": "Kerjasama politik"
+        },
+        {
+          "id": "D",
+          "text": "Penyusunan kewarganegaraan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Penyusunan kewarganegaraan: Aturan keanggotaan negara diperjelas semula.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q037",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Padankan pendekatan menilai perjanjian.\n\nSusunan 1948 dibandingkan dengan Malayan Union.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengkaji pihak terlibat"
+        },
+        {
+          "id": "B",
+          "text": "Meneliti syarat"
+        },
+        {
+          "id": "C",
+          "text": "Menilai bantahan"
+        },
+        {
+          "id": "D",
+          "text": "Membandingkan struktur"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Membandingkan struktur: Susunan 1948 dibandingkan dengan Malayan Union.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q038",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Padankan pendekatan menilai perjanjian.\n\nWakil dalam rundingan dikenal pasti.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengkaji pihak terlibat"
+        },
+        {
+          "id": "B",
+          "text": "Meneliti syarat"
+        },
+        {
+          "id": "C",
+          "text": "Menilai bantahan"
+        },
+        {
+          "id": "D",
+          "text": "Membandingkan struktur"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Mengkaji pihak terlibat: Wakil dalam rundingan dikenal pasti.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q039",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Padankan pendekatan menilai perjanjian.\n\nPeruntukan kewarganegaraan dibaca dengan teliti.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengkaji pihak terlibat"
+        },
+        {
+          "id": "B",
+          "text": "Meneliti syarat"
+        },
+        {
+          "id": "C",
+          "text": "Menilai bantahan"
+        },
+        {
+          "id": "D",
+          "text": "Membandingkan struktur"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Meneliti syarat: Peruntukan kewarganegaraan dibaca dengan teliti.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t4-b05-q040",
+      "form": 4,
+      "chapter": 5,
+      "prompt": "Padankan pendekatan menilai perjanjian.\n\nPandangan kelompok yang tidak bersetuju turut dikaji.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengkaji pihak terlibat"
+        },
+        {
+          "id": "B",
+          "text": "Meneliti syarat"
+        },
+        {
+          "id": "C",
+          "text": "Menilai bantahan"
+        },
+        {
+          "id": "D",
+          "text": "Membandingkan struktur"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Menilai bantahan: Pandangan kelompok yang tidak bersetuju turut dikaji.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    }
+  ]
+}

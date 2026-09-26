@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 5,
+  "chapter": 8,
+  "title": "Membina Kemakmuran Negara",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t5_b08.json",
+  "questions": [
+    {
+      "id": "t5-b08-q001",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Padankan dasar atau tempoh.\n\nDasar yang mengutamakan pembasmian kemiskinan dan penyusunan masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "DEB"
+        },
+        {
+          "id": "B",
+          "text": "DPN"
+        },
+        {
+          "id": "C",
+          "text": "1971–1990"
+        },
+        {
+          "id": "D",
+          "text": "1991–2000"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "DEB: Dasar yang mengutamakan pembasmian kemiskinan dan penyusunan masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q002",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Padankan dasar atau tempoh.\n\nDasar yang meneruskan pembangunan seimbang selepas DEB.",
+      "options": [
+        {
+          "id": "A",
+          "text": "DEB"
+        },
+        {
+          "id": "B",
+          "text": "DPN"
+        },
+        {
+          "id": "C",
+          "text": "1971–1990"
+        },
+        {
+          "id": "D",
+          "text": "1991–2000"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "DPN: Dasar yang meneruskan pembangunan seimbang selepas DEB.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q003",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Padankan dasar atau tempoh.\n\nTempoh pelaksanaan Dasar Ekonomi Baru.",
+      "options": [
+        {
+          "id": "A",
+          "text": "DEB"
+        },
+        {
+          "id": "B",
+          "text": "DPN"
+        },
+        {
+          "id": "C",
+          "text": "1971–1990"
+        },
+        {
+          "id": "D",
+          "text": "1991–2000"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "1971–1990: Tempoh pelaksanaan Dasar Ekonomi Baru.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q004",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Padankan dasar atau tempoh.\n\nTempoh pelaksanaan Dasar Pembangunan Nasional.",
+      "options": [
+        {
+          "id": "A",
+          "text": "DEB"
+        },
+        {
+          "id": "B",
+          "text": "DPN"
+        },
+        {
+          "id": "C",
+          "text": "1971–1990"
+        },
+        {
+          "id": "D",
+          "text": "1991–2000"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "1991–2000: Tempoh pelaksanaan Dasar Pembangunan Nasional.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q005",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Kenal pasti matlamat pembangunan.\n\nPendapatan rendah ditangani tanpa mengira kaum.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penyusunan semula masyarakat"
+        },
+        {
+          "id": "B",
+          "text": "Pertumbuhan ekonomi"
+        },
+        {
+          "id": "C",
+          "text": "Agihan seimbang"
+        },
+        {
+          "id": "D",
+          "text": "Pembasmian kemiskinan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pembasmian kemiskinan: Pendapatan rendah ditangani tanpa mengira kaum.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q006",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Kenal pasti matlamat pembangunan.\n\nPengenalan kaum melalui kegiatan ekonomi mahu dikurangkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penyusunan semula masyarakat"
+        },
+        {
+          "id": "B",
+          "text": "Pertumbuhan ekonomi"
+        },
+        {
+          "id": "C",
+          "text": "Agihan seimbang"
+        },
+        {
+          "id": "D",
+          "text": "Pembasmian kemiskinan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Penyusunan semula masyarakat: Pengenalan kaum melalui kegiatan ekonomi mahu dikurangkan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q007",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Kenal pasti matlamat pembangunan.\n\nPengeluaran dan kegiatan ekonomi diperluas.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penyusunan semula masyarakat"
+        },
+        {
+          "id": "B",
+          "text": "Pertumbuhan ekonomi"
+        },
+        {
+          "id": "C",
+          "text": "Agihan seimbang"
+        },
+        {
+          "id": "D",
+          "text": "Pembasmian kemiskinan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pertumbuhan ekonomi: Pengeluaran dan kegiatan ekonomi diperluas.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q008",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Kenal pasti matlamat pembangunan.\n\nManfaat kemajuan mahu dinikmati lebih meluas.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penyusunan semula masyarakat"
+        },
+        {
+          "id": "B",
+          "text": "Pertumbuhan ekonomi"
+        },
+        {
+          "id": "C",
+          "text": "Agihan seimbang"
+        },
+        {
+          "id": "D",
+          "text": "Pembasmian kemiskinan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Agihan seimbang: Manfaat kemajuan mahu dinikmati lebih meluas.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q009",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Padankan program atau agensi.\n\nProgram menggalakkan pengeluaran makanan dan penggunaan tanah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "MARA"
+        },
+        {
+          "id": "B",
+          "text": "RISDA"
+        },
+        {
+          "id": "C",
+          "text": "Buku Hijau"
+        },
+        {
+          "id": "D",
+          "text": "FELDA"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Buku Hijau: Program menggalakkan pengeluaran makanan dan penggunaan tanah.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q010",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Padankan program atau agensi.\n\nAgensi pembukaan tanah yang menyediakan peluang kepada peneroka.",
+      "options": [
+        {
+          "id": "A",
+          "text": "MARA"
+        },
+        {
+          "id": "B",
+          "text": "RISDA"
+        },
+        {
+          "id": "C",
+          "text": "Buku Hijau"
+        },
+        {
+          "id": "D",
+          "text": "FELDA"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "FELDA: Agensi pembukaan tanah yang menyediakan peluang kepada peneroka.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q011",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Padankan program atau agensi.\n\nAgensi membangunkan pendidikan dan keusahawanan Bumiputera.",
+      "options": [
+        {
+          "id": "A",
+          "text": "MARA"
+        },
+        {
+          "id": "B",
+          "text": "RISDA"
+        },
+        {
+          "id": "C",
+          "text": "Buku Hijau"
+        },
+        {
+          "id": "D",
+          "text": "FELDA"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "MARA: Agensi membangunkan pendidikan dan keusahawanan Bumiputera.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q012",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Padankan program atau agensi.\n\nAgensi pembangunan pekebun kecil perusahaan getah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "MARA"
+        },
+        {
+          "id": "B",
+          "text": "RISDA"
+        },
+        {
+          "id": "C",
+          "text": "Buku Hijau"
+        },
+        {
+          "id": "D",
+          "text": "FELDA"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "RISDA: Agensi pembangunan pekebun kecil perusahaan getah.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q013",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Kenal pasti strategi luar bandar.\n\nKawasan baharu diusahakan untuk petempatan dan ekonomi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Latihan kemahiran"
+        },
+        {
+          "id": "B",
+          "text": "Pembukaan tanah"
+        },
+        {
+          "id": "C",
+          "text": "Kemudahan asas"
+        },
+        {
+          "id": "D",
+          "text": "Pemodenan pertanian"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pembukaan tanah: Kawasan baharu diusahakan untuk petempatan dan ekonomi.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q014",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Kenal pasti strategi luar bandar.\n\nAir, elektrik dan jalan diperluas.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Latihan kemahiran"
+        },
+        {
+          "id": "B",
+          "text": "Pembukaan tanah"
+        },
+        {
+          "id": "C",
+          "text": "Kemudahan asas"
+        },
+        {
+          "id": "D",
+          "text": "Pemodenan pertanian"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kemudahan asas: Air, elektrik dan jalan diperluas.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q015",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Kenal pasti strategi luar bandar.\n\nTeknik serta alat lebih cekap diperkenalkan kepada petani.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Latihan kemahiran"
+        },
+        {
+          "id": "B",
+          "text": "Pembukaan tanah"
+        },
+        {
+          "id": "C",
+          "text": "Kemudahan asas"
+        },
+        {
+          "id": "D",
+          "text": "Pemodenan pertanian"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pemodenan pertanian: Teknik serta alat lebih cekap diperkenalkan kepada petani.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q016",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Kenal pasti strategi luar bandar.\n\nPenduduk dilengkapi kebolehan untuk pekerjaan baharu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Latihan kemahiran"
+        },
+        {
+          "id": "B",
+          "text": "Pembukaan tanah"
+        },
+        {
+          "id": "C",
+          "text": "Kemudahan asas"
+        },
+        {
+          "id": "D",
+          "text": "Pemodenan pertanian"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Latihan kemahiran: Penduduk dilengkapi kebolehan untuk pekerjaan baharu.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q017",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Apakah peranan pendidikan dalam ekonomi?\n\nLatihan menyediakan pekerja berkebolehan khusus.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tenaga mahir"
+        },
+        {
+          "id": "B",
+          "text": "Mobiliti sosial"
+        },
+        {
+          "id": "C",
+          "text": "Produktiviti"
+        },
+        {
+          "id": "D",
+          "text": "Keusahawanan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Tenaga mahir: Latihan menyediakan pekerja berkebolehan khusus.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q018",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Apakah peranan pendidikan dalam ekonomi?\n\nIlmu membuka peluang meningkatkan kedudukan hidup.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tenaga mahir"
+        },
+        {
+          "id": "B",
+          "text": "Mobiliti sosial"
+        },
+        {
+          "id": "C",
+          "text": "Produktiviti"
+        },
+        {
+          "id": "D",
+          "text": "Keusahawanan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Mobiliti sosial: Ilmu membuka peluang meningkatkan kedudukan hidup.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q019",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Apakah peranan pendidikan dalam ekonomi?\n\nKemahiran membantu menghasilkan lebih banyak keluaran bermutu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tenaga mahir"
+        },
+        {
+          "id": "B",
+          "text": "Mobiliti sosial"
+        },
+        {
+          "id": "C",
+          "text": "Produktiviti"
+        },
+        {
+          "id": "D",
+          "text": "Keusahawanan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Produktiviti: Kemahiran membantu menghasilkan lebih banyak keluaran bermutu.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q020",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Apakah peranan pendidikan dalam ekonomi?\n\nPengetahuan perniagaan membantu penduduk membuka perusahaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tenaga mahir"
+        },
+        {
+          "id": "B",
+          "text": "Mobiliti sosial"
+        },
+        {
+          "id": "C",
+          "text": "Produktiviti"
+        },
+        {
+          "id": "D",
+          "text": "Keusahawanan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Keusahawanan: Pengetahuan perniagaan membantu penduduk membuka perusahaan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q021",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Padankan sektor ekonomi.\n\nPengeluaran sumber seperti pertanian dan perlombongan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sekunder"
+        },
+        {
+          "id": "B",
+          "text": "Tertier"
+        },
+        {
+          "id": "C",
+          "text": "Penyelidikan dan pembangunan"
+        },
+        {
+          "id": "D",
+          "text": "Primer"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Primer: Pengeluaran sumber seperti pertanian dan perlombongan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q022",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Padankan sektor ekonomi.\n\nPemprosesan bahan melalui perkilangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sekunder"
+        },
+        {
+          "id": "B",
+          "text": "Tertier"
+        },
+        {
+          "id": "C",
+          "text": "Penyelidikan dan pembangunan"
+        },
+        {
+          "id": "D",
+          "text": "Primer"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Sekunder: Pemprosesan bahan melalui perkilangan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q023",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Padankan sektor ekonomi.\n\nPerkhidmatan seperti pengangkutan dan perdagangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sekunder"
+        },
+        {
+          "id": "B",
+          "text": "Tertier"
+        },
+        {
+          "id": "C",
+          "text": "Penyelidikan dan pembangunan"
+        },
+        {
+          "id": "D",
+          "text": "Primer"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Tertier: Perkhidmatan seperti pengangkutan dan perdagangan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q024",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Padankan sektor ekonomi.\n\nKegiatan menghasilkan pengetahuan serta teknologi baharu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sekunder"
+        },
+        {
+          "id": "B",
+          "text": "Tertier"
+        },
+        {
+          "id": "C",
+          "text": "Penyelidikan dan pembangunan"
+        },
+        {
+          "id": "D",
+          "text": "Primer"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Penyelidikan dan pembangunan: Kegiatan menghasilkan pengetahuan serta teknologi baharu.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q025",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Kenal pasti aspek DPN.\n\nPertumbuhan disertai perhatian terhadap pengagihan manfaat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sains dan teknologi"
+        },
+        {
+          "id": "B",
+          "text": "Peranan swasta"
+        },
+        {
+          "id": "C",
+          "text": "Pembangunan seimbang"
+        },
+        {
+          "id": "D",
+          "text": "Sumber manusia"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pembangunan seimbang: Pertumbuhan disertai perhatian terhadap pengagihan manfaat.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q026",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Kenal pasti aspek DPN.\n\nPendidikan dan kemahiran penduduk dipertingkat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sains dan teknologi"
+        },
+        {
+          "id": "B",
+          "text": "Peranan swasta"
+        },
+        {
+          "id": "C",
+          "text": "Pembangunan seimbang"
+        },
+        {
+          "id": "D",
+          "text": "Sumber manusia"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Sumber manusia: Pendidikan dan kemahiran penduduk dipertingkat.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q027",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Kenal pasti aspek DPN.\n\nInovasi digunakan memperkukuh keupayaan ekonomi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sains dan teknologi"
+        },
+        {
+          "id": "B",
+          "text": "Peranan swasta"
+        },
+        {
+          "id": "C",
+          "text": "Pembangunan seimbang"
+        },
+        {
+          "id": "D",
+          "text": "Sumber manusia"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Sains dan teknologi: Inovasi digunakan memperkukuh keupayaan ekonomi.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q028",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Kenal pasti aspek DPN.\n\nPerusahaan bukan kerajaan menyumbang pelaburan dan pekerjaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sains dan teknologi"
+        },
+        {
+          "id": "B",
+          "text": "Peranan swasta"
+        },
+        {
+          "id": "C",
+          "text": "Pembangunan seimbang"
+        },
+        {
+          "id": "D",
+          "text": "Sumber manusia"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Peranan swasta: Perusahaan bukan kerajaan menyumbang pelaburan dan pekerjaan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q029",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Apakah kesan pembangunan yang ditunjukkan?\n\nLebih ramai isi rumah dapat memenuhi keperluan asas.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peluang pendidikan bertambah"
+        },
+        {
+          "id": "B",
+          "text": "Kemiskinan menurun"
+        },
+        {
+          "id": "C",
+          "text": "Kelas menengah berkembang"
+        },
+        {
+          "id": "D",
+          "text": "Perindustrian meningkat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kemiskinan menurun: Lebih ramai isi rumah dapat memenuhi keperluan asas.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q030",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Apakah kesan pembangunan yang ditunjukkan?\n\nGolongan profesional dan berpendapatan sederhana bertambah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peluang pendidikan bertambah"
+        },
+        {
+          "id": "B",
+          "text": "Kemiskinan menurun"
+        },
+        {
+          "id": "C",
+          "text": "Kelas menengah berkembang"
+        },
+        {
+          "id": "D",
+          "text": "Perindustrian meningkat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kelas menengah berkembang: Golongan profesional dan berpendapatan sederhana bertambah.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q031",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Apakah kesan pembangunan yang ditunjukkan?\n\nKilang menjadi sumber pekerjaan yang lebih besar.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peluang pendidikan bertambah"
+        },
+        {
+          "id": "B",
+          "text": "Kemiskinan menurun"
+        },
+        {
+          "id": "C",
+          "text": "Kelas menengah berkembang"
+        },
+        {
+          "id": "D",
+          "text": "Perindustrian meningkat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Perindustrian meningkat: Kilang menjadi sumber pekerjaan yang lebih besar.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q032",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Apakah kesan pembangunan yang ditunjukkan?\n\nLebih ramai pelajar mengikuti pengajian lanjutan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peluang pendidikan bertambah"
+        },
+        {
+          "id": "B",
+          "text": "Kemiskinan menurun"
+        },
+        {
+          "id": "C",
+          "text": "Kelas menengah berkembang"
+        },
+        {
+          "id": "D",
+          "text": "Perindustrian meningkat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Peluang pendidikan bertambah: Lebih ramai pelajar mengikuti pengajian lanjutan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q033",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Padankan cabaran penilaian dasar.\n\nPerbezaan kemampuan antara kelompok masih wujud.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jurang pendapatan"
+        },
+        {
+          "id": "B",
+          "text": "Ketidakseimbangan wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Kebergantungan bantuan"
+        },
+        {
+          "id": "D",
+          "text": "Kelestarian"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Jurang pendapatan: Perbezaan kemampuan antara kelompok masih wujud.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q034",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Padankan cabaran penilaian dasar.\n\nSesetengah kawasan tertinggal dari segi kemudahan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jurang pendapatan"
+        },
+        {
+          "id": "B",
+          "text": "Ketidakseimbangan wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Kebergantungan bantuan"
+        },
+        {
+          "id": "D",
+          "text": "Kelestarian"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Ketidakseimbangan wilayah: Sesetengah kawasan tertinggal dari segi kemudahan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q035",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Padankan cabaran penilaian dasar.\n\nProgram perlu membina keupayaan berdikari jangka panjang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jurang pendapatan"
+        },
+        {
+          "id": "B",
+          "text": "Ketidakseimbangan wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Kebergantungan bantuan"
+        },
+        {
+          "id": "D",
+          "text": "Kelestarian"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kebergantungan bantuan: Program perlu membina keupayaan berdikari jangka panjang.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q036",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Padankan cabaran penilaian dasar.\n\nKemajuan tidak sepatutnya merosakkan sumber generasi akan datang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jurang pendapatan"
+        },
+        {
+          "id": "B",
+          "text": "Ketidakseimbangan wilayah"
+        },
+        {
+          "id": "C",
+          "text": "Kebergantungan bantuan"
+        },
+        {
+          "id": "D",
+          "text": "Kelestarian"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kelestarian: Kemajuan tidak sepatutnya merosakkan sumber generasi akan datang.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q037",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Kenal pasti ukuran pencapaian.\n\nData pendapatan digunakan menilai perubahan taraf hidup.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peluang pekerjaan"
+        },
+        {
+          "id": "B",
+          "text": "Akses kemudahan"
+        },
+        {
+          "id": "C",
+          "text": "Penyertaan ekonomi"
+        },
+        {
+          "id": "D",
+          "text": "Pendapatan isi rumah"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pendapatan isi rumah: Data pendapatan digunakan menilai perubahan taraf hidup.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q038",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Kenal pasti ukuran pencapaian.\n\nBilangan penduduk bekerja menunjukkan kesan pasaran buruh.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peluang pekerjaan"
+        },
+        {
+          "id": "B",
+          "text": "Akses kemudahan"
+        },
+        {
+          "id": "C",
+          "text": "Penyertaan ekonomi"
+        },
+        {
+          "id": "D",
+          "text": "Pendapatan isi rumah"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Peluang pekerjaan: Bilangan penduduk bekerja menunjukkan kesan pasaran buruh.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q039",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Kenal pasti ukuran pencapaian.\n\nLiputan air, elektrik dan jalan dinilai.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peluang pekerjaan"
+        },
+        {
+          "id": "B",
+          "text": "Akses kemudahan"
+        },
+        {
+          "id": "C",
+          "text": "Penyertaan ekonomi"
+        },
+        {
+          "id": "D",
+          "text": "Pendapatan isi rumah"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Akses kemudahan: Liputan air, elektrik dan jalan dinilai.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t5-b08-q040",
+      "form": 5,
+      "chapter": 8,
+      "prompt": "Kenal pasti ukuran pencapaian.\n\nPenglibatan kelompok dalam sektor serta pemilikan dikaji.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peluang pekerjaan"
+        },
+        {
+          "id": "B",
+          "text": "Akses kemudahan"
+        },
+        {
+          "id": "C",
+          "text": "Penyertaan ekonomi"
+        },
+        {
+          "id": "D",
+          "text": "Pendapatan isi rumah"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Penyertaan ekonomi: Penglibatan kelompok dalam sektor serta pemilikan dikaji.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 2,
+  "chapter": 8,
+  "title": "Kerajaan Kedah, Kelantan, Negeri Sembilan dan Perlis",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t2_b08.json",
+  "questions": [
+    {
+      "id": "t2-b08-q001",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Padankan kerajaan dengan cirinya.\n\nKerajaan utara yang mempunyai sejarah pelabuhan Kedah Tua.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedah"
+        },
+        {
+          "id": "B",
+          "text": "Kelantan"
+        },
+        {
+          "id": "C",
+          "text": "Negeri Sembilan"
+        },
+        {
+          "id": "D",
+          "text": "Perlis"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kedah: Kerajaan utara yang mempunyai sejarah pelabuhan Kedah Tua.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q002",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Padankan kerajaan dengan cirinya.\n\nKerajaan di timur laut Semenanjung.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedah"
+        },
+        {
+          "id": "B",
+          "text": "Kelantan"
+        },
+        {
+          "id": "C",
+          "text": "Negeri Sembilan"
+        },
+        {
+          "id": "D",
+          "text": "Perlis"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kelantan: Kerajaan di timur laut Semenanjung.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q003",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Padankan kerajaan dengan cirinya.\n\nKerajaan yang terkenal dengan pengaruh Minangkabau.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedah"
+        },
+        {
+          "id": "B",
+          "text": "Kelantan"
+        },
+        {
+          "id": "C",
+          "text": "Negeri Sembilan"
+        },
+        {
+          "id": "D",
+          "text": "Perlis"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Negeri Sembilan: Kerajaan yang terkenal dengan pengaruh Minangkabau.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q004",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Padankan kerajaan dengan cirinya.\n\nKerajaan utara yang asalnya berada dalam lingkungan Kedah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedah"
+        },
+        {
+          "id": "B",
+          "text": "Kelantan"
+        },
+        {
+          "id": "C",
+          "text": "Negeri Sembilan"
+        },
+        {
+          "id": "D",
+          "text": "Perlis"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Perlis: Kerajaan utara yang asalnya berada dalam lingkungan Kedah.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q005",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Kenal pasti tokoh pengasasan atau penyatuan.\n\nNama sultan awal Kedah dalam tradisi kesultanannya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Long Yunus"
+        },
+        {
+          "id": "B",
+          "text": "Raja Melewar"
+        },
+        {
+          "id": "C",
+          "text": "Syed Hussin Jamalullail"
+        },
+        {
+          "id": "D",
+          "text": "Sultan Mudzaffar Shah"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Sultan Mudzaffar Shah: Nama sultan awal Kedah dalam tradisi kesultanannya.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q006",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Kenal pasti tokoh pengasasan atau penyatuan.\n\nTokoh penyatuan Kelantan pada abad ke-18.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Long Yunus"
+        },
+        {
+          "id": "B",
+          "text": "Raja Melewar"
+        },
+        {
+          "id": "C",
+          "text": "Syed Hussin Jamalullail"
+        },
+        {
+          "id": "D",
+          "text": "Sultan Mudzaffar Shah"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Long Yunus: Tokoh penyatuan Kelantan pada abad ke-18.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q007",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Kenal pasti tokoh pengasasan atau penyatuan.\n\nTokoh awal pemerintah Negeri Sembilan yang datang dari Minangkabau.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Long Yunus"
+        },
+        {
+          "id": "B",
+          "text": "Raja Melewar"
+        },
+        {
+          "id": "C",
+          "text": "Syed Hussin Jamalullail"
+        },
+        {
+          "id": "D",
+          "text": "Sultan Mudzaffar Shah"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Raja Melewar: Tokoh awal pemerintah Negeri Sembilan yang datang dari Minangkabau.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q008",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Kenal pasti tokoh pengasasan atau penyatuan.\n\nRaja pertama Perlis daripada keluarga Jamalullail.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Long Yunus"
+        },
+        {
+          "id": "B",
+          "text": "Raja Melewar"
+        },
+        {
+          "id": "C",
+          "text": "Syed Hussin Jamalullail"
+        },
+        {
+          "id": "D",
+          "text": "Sultan Mudzaffar Shah"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Syed Hussin Jamalullail: Raja pertama Perlis daripada keluarga Jamalullail.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q009",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Padankan gelaran pemerintah.\n\nGelaran pemerintah Kedah dan Kelantan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raja"
+        },
+        {
+          "id": "B",
+          "text": "Undang"
+        },
+        {
+          "id": "C",
+          "text": "Sultan"
+        },
+        {
+          "id": "D",
+          "text": "Yang di-Pertuan Besar"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Sultan: Gelaran pemerintah Kedah dan Kelantan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q010",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Padankan gelaran pemerintah.\n\nGelaran pemerintah tertinggi Negeri Sembilan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raja"
+        },
+        {
+          "id": "B",
+          "text": "Undang"
+        },
+        {
+          "id": "C",
+          "text": "Sultan"
+        },
+        {
+          "id": "D",
+          "text": "Yang di-Pertuan Besar"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Yang di-Pertuan Besar: Gelaran pemerintah tertinggi Negeri Sembilan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q011",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Padankan gelaran pemerintah.\n\nGelaran pemerintah Perlis.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raja"
+        },
+        {
+          "id": "B",
+          "text": "Undang"
+        },
+        {
+          "id": "C",
+          "text": "Sultan"
+        },
+        {
+          "id": "D",
+          "text": "Yang di-Pertuan Besar"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Raja: Gelaran pemerintah Perlis.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q012",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Padankan gelaran pemerintah.\n\nPembesar luak yang berperanan memilih pemerintah Negeri Sembilan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raja"
+        },
+        {
+          "id": "B",
+          "text": "Undang"
+        },
+        {
+          "id": "C",
+          "text": "Sultan"
+        },
+        {
+          "id": "D",
+          "text": "Yang di-Pertuan Besar"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Undang: Pembesar luak yang berperanan memilih pemerintah Negeri Sembilan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q013",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Kenal pasti asas hubungan kerajaan.\n\nPertalian keturunan menghubungkan keluarga pemerintah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Budaya"
+        },
+        {
+          "id": "B",
+          "text": "Kekeluargaan"
+        },
+        {
+          "id": "C",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "D",
+          "text": "Diplomasi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kekeluargaan: Pertalian keturunan menghubungkan keluarga pemerintah.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q014",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Kenal pasti asas hubungan kerajaan.\n\nPertukaran hasil menghubungkan penduduk berlainan negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Budaya"
+        },
+        {
+          "id": "B",
+          "text": "Kekeluargaan"
+        },
+        {
+          "id": "C",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "D",
+          "text": "Diplomasi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perdagangan: Pertukaran hasil menghubungkan penduduk berlainan negeri.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q015",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Kenal pasti asas hubungan kerajaan.\n\nUtusan membincangkan kepentingan kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Budaya"
+        },
+        {
+          "id": "B",
+          "text": "Kekeluargaan"
+        },
+        {
+          "id": "C",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "D",
+          "text": "Diplomasi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Diplomasi: Utusan membincangkan kepentingan kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q016",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Kenal pasti asas hubungan kerajaan.\n\nAdat dan kesenian menunjukkan hubungan masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Budaya"
+        },
+        {
+          "id": "B",
+          "text": "Kekeluargaan"
+        },
+        {
+          "id": "C",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "D",
+          "text": "Diplomasi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Budaya: Adat dan kesenian menunjukkan hubungan masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q017",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Padankan wilayah dengan petunjuk geografi.\n\nNegeri yang mengandungi Lembah Bujang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedah"
+        },
+        {
+          "id": "B",
+          "text": "Kelantan"
+        },
+        {
+          "id": "C",
+          "text": "Negeri Sembilan"
+        },
+        {
+          "id": "D",
+          "text": "Perlis"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kedah: Negeri yang mengandungi Lembah Bujang.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q018",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Padankan wilayah dengan petunjuk geografi.\n\nNegeri dengan sungai utama yang bermuara berhampiran Kota Bharu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedah"
+        },
+        {
+          "id": "B",
+          "text": "Kelantan"
+        },
+        {
+          "id": "C",
+          "text": "Negeri Sembilan"
+        },
+        {
+          "id": "D",
+          "text": "Perlis"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kelantan: Negeri dengan sungai utama yang bermuara berhampiran Kota Bharu.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q019",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Padankan wilayah dengan petunjuk geografi.\n\nNegeri yang mengandungi Seri Menanti.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedah"
+        },
+        {
+          "id": "B",
+          "text": "Kelantan"
+        },
+        {
+          "id": "C",
+          "text": "Negeri Sembilan"
+        },
+        {
+          "id": "D",
+          "text": "Perlis"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Negeri Sembilan: Negeri yang mengandungi Seri Menanti.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q020",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Padankan wilayah dengan petunjuk geografi.\n\nNegeri paling utara di pesisir barat Semenanjung antara pilihan ini.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedah"
+        },
+        {
+          "id": "B",
+          "text": "Kelantan"
+        },
+        {
+          "id": "C",
+          "text": "Negeri Sembilan"
+        },
+        {
+          "id": "D",
+          "text": "Perlis"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Perlis: Negeri paling utara di pesisir barat Semenanjung antara pilihan ini.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q021",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Apakah faktor kekuatan kerajaan?\n\nPemerintah menyelaraskan pentadbiran dengan berkesan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hasil ekonomi"
+        },
+        {
+          "id": "B",
+          "text": "Sokongan rakyat"
+        },
+        {
+          "id": "C",
+          "text": "Hubungan luar"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kepimpinan: Pemerintah menyelaraskan pentadbiran dengan berkesan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q022",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Apakah faktor kekuatan kerajaan?\n\nPertanian dan perdagangan membekalkan pendapatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hasil ekonomi"
+        },
+        {
+          "id": "B",
+          "text": "Sokongan rakyat"
+        },
+        {
+          "id": "C",
+          "text": "Hubungan luar"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Hasil ekonomi: Pertanian dan perdagangan membekalkan pendapatan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q023",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Apakah faktor kekuatan kerajaan?\n\nPenduduk bekerjasama mempertahankan wilayah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hasil ekonomi"
+        },
+        {
+          "id": "B",
+          "text": "Sokongan rakyat"
+        },
+        {
+          "id": "C",
+          "text": "Hubungan luar"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Sokongan rakyat: Penduduk bekerjasama mempertahankan wilayah.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q024",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Apakah faktor kekuatan kerajaan?\n\nRundingan mengurangkan ancaman kuasa lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hasil ekonomi"
+        },
+        {
+          "id": "B",
+          "text": "Sokongan rakyat"
+        },
+        {
+          "id": "C",
+          "text": "Hubungan luar"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Hubungan luar: Rundingan mengurangkan ancaman kuasa lain.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q025",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Kenal pasti kegiatan penduduk.\n\nPengusahaan sawah di dataran sesuai.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Pertukangan"
+        },
+        {
+          "id": "C",
+          "text": "Penanaman padi"
+        },
+        {
+          "id": "D",
+          "text": "Perikanan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Penanaman padi: Pengusahaan sawah di dataran sesuai.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q026",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Kenal pasti kegiatan penduduk.\n\nPenangkapan ikan oleh masyarakat pesisir.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Pertukangan"
+        },
+        {
+          "id": "C",
+          "text": "Penanaman padi"
+        },
+        {
+          "id": "D",
+          "text": "Perikanan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Perikanan: Penangkapan ikan oleh masyarakat pesisir.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q027",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Kenal pasti kegiatan penduduk.\n\nUrus niaga hasil di pasar atau pelabuhan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Pertukangan"
+        },
+        {
+          "id": "C",
+          "text": "Penanaman padi"
+        },
+        {
+          "id": "D",
+          "text": "Perikanan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perdagangan: Urus niaga hasil di pasar atau pelabuhan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q028",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Kenal pasti kegiatan penduduk.\n\nPenghasilan alat dan barangan menggunakan kemahiran tangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Pertukangan"
+        },
+        {
+          "id": "C",
+          "text": "Penanaman padi"
+        },
+        {
+          "id": "D",
+          "text": "Perikanan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pertukangan: Penghasilan alat dan barangan menggunakan kemahiran tangan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q029",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Padankan jenis sumber sejarah negeri.\n\nRekod hubungan keturunan pemerintah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tinggalan kota"
+        },
+        {
+          "id": "B",
+          "text": "Salasilah"
+        },
+        {
+          "id": "C",
+          "text": "Hikayat"
+        },
+        {
+          "id": "D",
+          "text": "Perjanjian"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Salasilah: Rekod hubungan keturunan pemerintah.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q030",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Padankan jenis sumber sejarah negeri.\n\nNaratif tradisional yang perlu dinilai bersama bukti lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tinggalan kota"
+        },
+        {
+          "id": "B",
+          "text": "Salasilah"
+        },
+        {
+          "id": "C",
+          "text": "Hikayat"
+        },
+        {
+          "id": "D",
+          "text": "Perjanjian"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Hikayat: Naratif tradisional yang perlu dinilai bersama bukti lain.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q031",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Padankan jenis sumber sejarah negeri.\n\nDokumen persetujuan antara kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tinggalan kota"
+        },
+        {
+          "id": "B",
+          "text": "Salasilah"
+        },
+        {
+          "id": "C",
+          "text": "Hikayat"
+        },
+        {
+          "id": "D",
+          "text": "Perjanjian"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Perjanjian: Dokumen persetujuan antara kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q032",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Padankan jenis sumber sejarah negeri.\n\nBukti fizikal pusat pertahanan lama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tinggalan kota"
+        },
+        {
+          "id": "B",
+          "text": "Salasilah"
+        },
+        {
+          "id": "C",
+          "text": "Hikayat"
+        },
+        {
+          "id": "D",
+          "text": "Perjanjian"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Tinggalan kota: Bukti fizikal pusat pertahanan lama.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q033",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Apakah unsur adat yang ditunjukkan?\n\nKeputusan dibincangkan sebelum dipersetujui bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Muafakat"
+        },
+        {
+          "id": "B",
+          "text": "Pewarisan"
+        },
+        {
+          "id": "C",
+          "text": "Istiadat"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan setempat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Muafakat: Keputusan dibincangkan sebelum dipersetujui bersama.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q034",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Apakah unsur adat yang ditunjukkan?\n\nAmalan disampaikan daripada satu generasi kepada generasi lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Muafakat"
+        },
+        {
+          "id": "B",
+          "text": "Pewarisan"
+        },
+        {
+          "id": "C",
+          "text": "Istiadat"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan setempat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pewarisan: Amalan disampaikan daripada satu generasi kepada generasi lain.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q035",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Apakah unsur adat yang ditunjukkan?\n\nUpacara formal dilaksanakan mengikut aturan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Muafakat"
+        },
+        {
+          "id": "B",
+          "text": "Pewarisan"
+        },
+        {
+          "id": "C",
+          "text": "Istiadat"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan setempat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Istiadat: Upacara formal dilaksanakan mengikut aturan.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q036",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Apakah unsur adat yang ditunjukkan?\n\nPemimpin komuniti mengurus urusan penduduk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Muafakat"
+        },
+        {
+          "id": "B",
+          "text": "Pewarisan"
+        },
+        {
+          "id": "C",
+          "text": "Istiadat"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan setempat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kepimpinan setempat: Pemimpin komuniti mengurus urusan penduduk.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q037",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Padankan cabaran kerajaan.\n\nKuasa asing menekan kedaulatan negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perebutan takhta"
+        },
+        {
+          "id": "B",
+          "text": "Gangguan ekonomi"
+        },
+        {
+          "id": "C",
+          "text": "Perpecahan rakyat"
+        },
+        {
+          "id": "D",
+          "text": "Ancaman luar"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Ancaman luar: Kuasa asing menekan kedaulatan negeri.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q038",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Padankan cabaran kerajaan.\n\nPersaingan pengganti menjejaskan kestabilan istana.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perebutan takhta"
+        },
+        {
+          "id": "B",
+          "text": "Gangguan ekonomi"
+        },
+        {
+          "id": "C",
+          "text": "Perpecahan rakyat"
+        },
+        {
+          "id": "D",
+          "text": "Ancaman luar"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perebutan takhta: Persaingan pengganti menjejaskan kestabilan istana.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q039",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Padankan cabaran kerajaan.\n\nPerdagangan terhenti akibat konflik.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perebutan takhta"
+        },
+        {
+          "id": "B",
+          "text": "Gangguan ekonomi"
+        },
+        {
+          "id": "C",
+          "text": "Perpecahan rakyat"
+        },
+        {
+          "id": "D",
+          "text": "Ancaman luar"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Gangguan ekonomi: Perdagangan terhenti akibat konflik.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "t2-b08-q040",
+      "form": 2,
+      "chapter": 8,
+      "prompt": "Padankan cabaran kerajaan.\n\nPertelingkahan kelompok melemahkan pertahanan bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perebutan takhta"
+        },
+        {
+          "id": "B",
+          "text": "Gangguan ekonomi"
+        },
+        {
+          "id": "C",
+          "text": "Perpecahan rakyat"
+        },
+        {
+          "id": "D",
+          "text": "Ancaman luar"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perpecahan rakyat: Pertelingkahan kelompok melemahkan pertahanan bersama.",
+      "tags": [
+        "padanan",
+        "bab-8"
+      ]
+    }
+  ]
+}

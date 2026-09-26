@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 4,
+  "chapter": 10,
+  "title": "Pemasyhuran Kemerdekaan",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t4_b10.json",
+  "questions": [
+    {
+      "id": "t4-b10-q001",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Padankan tempat dengan peristiwa merdeka.\n\nTempat tarikh kemerdekaan diumumkan selepas rombongan 1956 pulang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Padang Bandar Hilir"
+        },
+        {
+          "id": "B",
+          "text": "Padang Kelab Selangor"
+        },
+        {
+          "id": "C",
+          "text": "Stadium Merdeka"
+        },
+        {
+          "id": "D",
+          "text": "London"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Padang Bandar Hilir: Tempat tarikh kemerdekaan diumumkan selepas rombongan 1956 pulang.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q002",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Padankan tempat dengan peristiwa merdeka.\n\nTempat upacara menurunkan Union Jack menjelang tengah malam.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Padang Bandar Hilir"
+        },
+        {
+          "id": "B",
+          "text": "Padang Kelab Selangor"
+        },
+        {
+          "id": "C",
+          "text": "Stadium Merdeka"
+        },
+        {
+          "id": "D",
+          "text": "London"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Padang Kelab Selangor: Tempat upacara menurunkan Union Jack menjelang tengah malam.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q003",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Padankan tempat dengan peristiwa merdeka.\n\nTempat pemasyhuran kemerdekaan pada pagi 31 Ogos 1957.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Padang Bandar Hilir"
+        },
+        {
+          "id": "B",
+          "text": "Padang Kelab Selangor"
+        },
+        {
+          "id": "C",
+          "text": "Stadium Merdeka"
+        },
+        {
+          "id": "D",
+          "text": "London"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Stadium Merdeka: Tempat pemasyhuran kemerdekaan pada pagi 31 Ogos 1957.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q004",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Padankan tempat dengan peristiwa merdeka.\n\nTempat rundingan kemerdekaan bersama British.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Padang Bandar Hilir"
+        },
+        {
+          "id": "B",
+          "text": "Padang Kelab Selangor"
+        },
+        {
+          "id": "C",
+          "text": "Stadium Merdeka"
+        },
+        {
+          "id": "D",
+          "text": "London"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "London: Tempat rundingan kemerdekaan bersama British.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q005",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Kenal pasti tokoh.\n\nPemimpin yang melaungkan merdeka dalam upacara pemasyhuran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tuanku Abdul Rahman"
+        },
+        {
+          "id": "B",
+          "text": "Duke of Gloucester"
+        },
+        {
+          "id": "C",
+          "text": "Tun Abdul Razak"
+        },
+        {
+          "id": "D",
+          "text": "Tunku Abdul Rahman"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Tunku Abdul Rahman: Pemimpin yang melaungkan merdeka dalam upacara pemasyhuran.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q006",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Kenal pasti tokoh.\n\nYang di-Pertuan Agong pertama Persekutuan Tanah Melayu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tuanku Abdul Rahman"
+        },
+        {
+          "id": "B",
+          "text": "Duke of Gloucester"
+        },
+        {
+          "id": "C",
+          "text": "Tun Abdul Razak"
+        },
+        {
+          "id": "D",
+          "text": "Tunku Abdul Rahman"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Tuanku Abdul Rahman: Yang di-Pertuan Agong pertama Persekutuan Tanah Melayu.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q007",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Kenal pasti tokoh.\n\nWakil Ratu British dalam upacara kemerdekaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tuanku Abdul Rahman"
+        },
+        {
+          "id": "B",
+          "text": "Duke of Gloucester"
+        },
+        {
+          "id": "C",
+          "text": "Tun Abdul Razak"
+        },
+        {
+          "id": "D",
+          "text": "Tunku Abdul Rahman"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Duke of Gloucester: Wakil Ratu British dalam upacara kemerdekaan.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q008",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Kenal pasti tokoh.\n\nPemimpin utama yang membantu usaha kemerdekaan dan pentadbiran awal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tuanku Abdul Rahman"
+        },
+        {
+          "id": "B",
+          "text": "Duke of Gloucester"
+        },
+        {
+          "id": "C",
+          "text": "Tun Abdul Razak"
+        },
+        {
+          "id": "D",
+          "text": "Tunku Abdul Rahman"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Tun Abdul Razak: Pemimpin utama yang membantu usaha kemerdekaan dan pentadbiran awal.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q009",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Padankan lambang negara.\n\nLambang berkibar menggantikan bendera penjajah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jata Negara"
+        },
+        {
+          "id": "B",
+          "text": "Pemasyhuran Kemerdekaan"
+        },
+        {
+          "id": "C",
+          "text": "Bendera Persekutuan"
+        },
+        {
+          "id": "D",
+          "text": "Negaraku"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Bendera Persekutuan: Lambang berkibar menggantikan bendera penjajah.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q010",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Padankan lambang negara.\n\nLagu kebangsaan yang mengiringi identiti negara merdeka.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jata Negara"
+        },
+        {
+          "id": "B",
+          "text": "Pemasyhuran Kemerdekaan"
+        },
+        {
+          "id": "C",
+          "text": "Bendera Persekutuan"
+        },
+        {
+          "id": "D",
+          "text": "Negaraku"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Negaraku: Lagu kebangsaan yang mengiringi identiti negara merdeka.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q011",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Padankan lambang negara.\n\nLambang rasmi kerajaan Persekutuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jata Negara"
+        },
+        {
+          "id": "B",
+          "text": "Pemasyhuran Kemerdekaan"
+        },
+        {
+          "id": "C",
+          "text": "Bendera Persekutuan"
+        },
+        {
+          "id": "D",
+          "text": "Negaraku"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Jata Negara: Lambang rasmi kerajaan Persekutuan.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q012",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Padankan lambang negara.\n\nDokumen yang mengisytiharkan kemerdekaan negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jata Negara"
+        },
+        {
+          "id": "B",
+          "text": "Pemasyhuran Kemerdekaan"
+        },
+        {
+          "id": "C",
+          "text": "Bendera Persekutuan"
+        },
+        {
+          "id": "D",
+          "text": "Negaraku"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pemasyhuran Kemerdekaan: Dokumen yang mengisytiharkan kemerdekaan negara.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q013",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Kenal pasti makna kemerdekaan.\n\nNegara bebas daripada penjajahan asing.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemerintahan sendiri"
+        },
+        {
+          "id": "B",
+          "text": "Kebebasan politik"
+        },
+        {
+          "id": "C",
+          "text": "Kedaulatan"
+        },
+        {
+          "id": "D",
+          "text": "Tanggungjawab rakyat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kebebasan politik: Negara bebas daripada penjajahan asing.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q014",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Kenal pasti makna kemerdekaan.\n\nNegara mempunyai kuasa tertinggi mengurus urusannya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemerintahan sendiri"
+        },
+        {
+          "id": "B",
+          "text": "Kebebasan politik"
+        },
+        {
+          "id": "C",
+          "text": "Kedaulatan"
+        },
+        {
+          "id": "D",
+          "text": "Tanggungjawab rakyat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kedaulatan: Negara mempunyai kuasa tertinggi mengurus urusannya.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q015",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Kenal pasti makna kemerdekaan.\n\nPenduduk perlu menjaga keamanan serta kemajuan negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemerintahan sendiri"
+        },
+        {
+          "id": "B",
+          "text": "Kebebasan politik"
+        },
+        {
+          "id": "C",
+          "text": "Kedaulatan"
+        },
+        {
+          "id": "D",
+          "text": "Tanggungjawab rakyat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Tanggungjawab rakyat: Penduduk perlu menjaga keamanan serta kemajuan negara.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q016",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Kenal pasti makna kemerdekaan.\n\nPemimpin tempatan mengendalikan pentadbiran negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pemerintahan sendiri"
+        },
+        {
+          "id": "B",
+          "text": "Kebebasan politik"
+        },
+        {
+          "id": "C",
+          "text": "Kedaulatan"
+        },
+        {
+          "id": "D",
+          "text": "Tanggungjawab rakyat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pemerintahan sendiri: Pemimpin tempatan mengendalikan pentadbiran negara.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q017",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Apakah persediaan sambutan?\n\nTempat upacara disediakan untuk menampung peserta.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Prasarana"
+        },
+        {
+          "id": "B",
+          "text": "Istiadat"
+        },
+        {
+          "id": "C",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "D",
+          "text": "Lambang kebangsaan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Prasarana: Tempat upacara disediakan untuk menampung peserta.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q018",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Apakah persediaan sambutan?\n\nAturan acara dan peranan tetamu disusun.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Prasarana"
+        },
+        {
+          "id": "B",
+          "text": "Istiadat"
+        },
+        {
+          "id": "C",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "D",
+          "text": "Lambang kebangsaan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Istiadat: Aturan acara dan peranan tetamu disusun.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q019",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Apakah persediaan sambutan?\n\nPergerakan orang ramai serta lokasi dijaga.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Prasarana"
+        },
+        {
+          "id": "B",
+          "text": "Istiadat"
+        },
+        {
+          "id": "C",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "D",
+          "text": "Lambang kebangsaan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Keselamatan: Pergerakan orang ramai serta lokasi dijaga.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q020",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Apakah persediaan sambutan?\n\nBendera dan lagu rasmi dipersiapkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Prasarana"
+        },
+        {
+          "id": "B",
+          "text": "Istiadat"
+        },
+        {
+          "id": "C",
+          "text": "Keselamatan"
+        },
+        {
+          "id": "D",
+          "text": "Lambang kebangsaan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Lambang kebangsaan: Bendera dan lagu rasmi dipersiapkan.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q021",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Padankan kesan politik kemerdekaan.\n\nYang di-Pertuan Agong menjadi lambang pemerintahan Persekutuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerajaan berdaulat"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan diplomatik"
+        },
+        {
+          "id": "C",
+          "text": "Keanggotaan antarabangsa"
+        },
+        {
+          "id": "D",
+          "text": "Ketua negara sendiri"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Ketua negara sendiri: Yang di-Pertuan Agong menjadi lambang pemerintahan Persekutuan.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q022",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Padankan kesan politik kemerdekaan.\n\nKeputusan negara dibuat oleh institusi nasional.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerajaan berdaulat"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan diplomatik"
+        },
+        {
+          "id": "C",
+          "text": "Keanggotaan antarabangsa"
+        },
+        {
+          "id": "D",
+          "text": "Ketua negara sendiri"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kerajaan berdaulat: Keputusan negara dibuat oleh institusi nasional.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q023",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Padankan kesan politik kemerdekaan.\n\nNegara menjalinkan hubungan rasmi dengan negara lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerajaan berdaulat"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan diplomatik"
+        },
+        {
+          "id": "C",
+          "text": "Keanggotaan antarabangsa"
+        },
+        {
+          "id": "D",
+          "text": "Ketua negara sendiri"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Hubungan diplomatik: Negara menjalinkan hubungan rasmi dengan negara lain.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q024",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Padankan kesan politik kemerdekaan.\n\nPTM menyertai organisasi dunia sebagai negara merdeka.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerajaan berdaulat"
+        },
+        {
+          "id": "B",
+          "text": "Hubungan diplomatik"
+        },
+        {
+          "id": "C",
+          "text": "Keanggotaan antarabangsa"
+        },
+        {
+          "id": "D",
+          "text": "Ketua negara sendiri"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Keanggotaan antarabangsa: PTM menyertai organisasi dunia sebagai negara merdeka.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q025",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Kenal pasti bidang pembangunan selepas merdeka.\n\nPeluang persekolahan diperluas.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesihatan"
+        },
+        {
+          "id": "B",
+          "text": "Infrastruktur"
+        },
+        {
+          "id": "C",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "D",
+          "text": "Ekonomi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pendidikan: Peluang persekolahan diperluas.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q026",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Kenal pasti bidang pembangunan selepas merdeka.\n\nUsaha meningkatkan pengeluaran dan taraf hidup digerakkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesihatan"
+        },
+        {
+          "id": "B",
+          "text": "Infrastruktur"
+        },
+        {
+          "id": "C",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "D",
+          "text": "Ekonomi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Ekonomi: Usaha meningkatkan pengeluaran dan taraf hidup digerakkan.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q027",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Kenal pasti bidang pembangunan selepas merdeka.\n\nKemudahan rawatan untuk penduduk ditambah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesihatan"
+        },
+        {
+          "id": "B",
+          "text": "Infrastruktur"
+        },
+        {
+          "id": "C",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "D",
+          "text": "Ekonomi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kesihatan: Kemudahan rawatan untuk penduduk ditambah.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q028",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Kenal pasti bidang pembangunan selepas merdeka.\n\nJalan dan kemudahan asas dibangunkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesihatan"
+        },
+        {
+          "id": "B",
+          "text": "Infrastruktur"
+        },
+        {
+          "id": "C",
+          "text": "Pendidikan"
+        },
+        {
+          "id": "D",
+          "text": "Ekonomi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Infrastruktur: Jalan dan kemudahan asas dibangunkan.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q029",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Apakah cabaran negara baharu?\n\nPenduduk pelbagai latar perlu membina identiti bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kecekapan pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "C",
+          "text": "Kemiskinan"
+        },
+        {
+          "id": "D",
+          "text": "Keselamatan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perpaduan: Penduduk pelbagai latar perlu membina identiti bersama.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q030",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Apakah cabaran negara baharu?\n\nTaraf hidup rendah memerlukan dasar pembangunan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kecekapan pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "C",
+          "text": "Kemiskinan"
+        },
+        {
+          "id": "D",
+          "text": "Keselamatan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kemiskinan: Taraf hidup rendah memerlukan dasar pembangunan.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q031",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Apakah cabaran negara baharu?\n\nAncaman bersenjata masih perlu ditangani.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kecekapan pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "C",
+          "text": "Kemiskinan"
+        },
+        {
+          "id": "D",
+          "text": "Keselamatan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Keselamatan: Ancaman bersenjata masih perlu ditangani.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q032",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Apakah cabaran negara baharu?\n\nPegawai perlu mengurus tanggungjawab negara sendiri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kecekapan pentadbiran"
+        },
+        {
+          "id": "B",
+          "text": "Perpaduan"
+        },
+        {
+          "id": "C",
+          "text": "Kemiskinan"
+        },
+        {
+          "id": "D",
+          "text": "Keselamatan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kecekapan pentadbiran: Pegawai perlu mengurus tanggungjawab negara sendiri.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q033",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Padankan tindakan menghargai merdeka.\n\nRakyat mengenali perjuangan yang membawa kebebasan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Memahami sejarah"
+        },
+        {
+          "id": "B",
+          "text": "Menjaga keamanan"
+        },
+        {
+          "id": "C",
+          "text": "Mematuhi undang-undang"
+        },
+        {
+          "id": "D",
+          "text": "Menyumbang kemajuan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Memahami sejarah: Rakyat mengenali perjuangan yang membawa kebebasan.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q034",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Padankan tindakan menghargai merdeka.\n\nPerselisihan diselesaikan secara aman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Memahami sejarah"
+        },
+        {
+          "id": "B",
+          "text": "Menjaga keamanan"
+        },
+        {
+          "id": "C",
+          "text": "Mematuhi undang-undang"
+        },
+        {
+          "id": "D",
+          "text": "Menyumbang kemajuan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Menjaga keamanan: Perselisihan diselesaikan secara aman.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q035",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Padankan tindakan menghargai merdeka.\n\nAturan bersama dihormati demi ketenteraman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Memahami sejarah"
+        },
+        {
+          "id": "B",
+          "text": "Menjaga keamanan"
+        },
+        {
+          "id": "C",
+          "text": "Mematuhi undang-undang"
+        },
+        {
+          "id": "D",
+          "text": "Menyumbang kemajuan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Mematuhi undang-undang: Aturan bersama dihormati demi ketenteraman.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q036",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Padankan tindakan menghargai merdeka.\n\nIlmu dan kemahiran digunakan membangunkan masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Memahami sejarah"
+        },
+        {
+          "id": "B",
+          "text": "Menjaga keamanan"
+        },
+        {
+          "id": "C",
+          "text": "Mematuhi undang-undang"
+        },
+        {
+          "id": "D",
+          "text": "Menyumbang kemajuan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Menyumbang kemajuan: Ilmu dan kemahiran digunakan membangunkan masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q037",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Kenal pasti urutan peristiwa.\n\nPemimpin mencapai persetujuan dengan British pada 1956.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengumuman tarikh"
+        },
+        {
+          "id": "B",
+          "text": "Upacara tengah malam"
+        },
+        {
+          "id": "C",
+          "text": "Pemasyhuran di stadium"
+        },
+        {
+          "id": "D",
+          "text": "Rundingan kemerdekaan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Rundingan kemerdekaan: Pemimpin mencapai persetujuan dengan British pada 1956.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q038",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Kenal pasti urutan peristiwa.\n\nRakyat di Melaka mendengar sasaran 31 Ogos 1957.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengumuman tarikh"
+        },
+        {
+          "id": "B",
+          "text": "Upacara tengah malam"
+        },
+        {
+          "id": "C",
+          "text": "Pemasyhuran di stadium"
+        },
+        {
+          "id": "D",
+          "text": "Rundingan kemerdekaan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pengumuman tarikh: Rakyat di Melaka mendengar sasaran 31 Ogos 1957.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q039",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Kenal pasti urutan peristiwa.\n\nBendera penjajah diturunkan sebelum pagi kemerdekaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengumuman tarikh"
+        },
+        {
+          "id": "B",
+          "text": "Upacara tengah malam"
+        },
+        {
+          "id": "C",
+          "text": "Pemasyhuran di stadium"
+        },
+        {
+          "id": "D",
+          "text": "Rundingan kemerdekaan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Upacara tengah malam: Bendera penjajah diturunkan sebelum pagi kemerdekaan.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "t4-b10-q040",
+      "form": 4,
+      "chapter": 10,
+      "prompt": "Kenal pasti urutan peristiwa.\n\nPengisytiharan rasmi disampaikan di hadapan rakyat pada pagi bersejarah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengumuman tarikh"
+        },
+        {
+          "id": "B",
+          "text": "Upacara tengah malam"
+        },
+        {
+          "id": "C",
+          "text": "Pemasyhuran di stadium"
+        },
+        {
+          "id": "D",
+          "text": "Rundingan kemerdekaan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pemasyhuran di stadium: Pengisytiharan rasmi disampaikan di hadapan rakyat pada pagi bersejarah.",
+      "tags": [
+        "padanan",
+        "bab-10"
+      ]
+    }
+  ]
+}

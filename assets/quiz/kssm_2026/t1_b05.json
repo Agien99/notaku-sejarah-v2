@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 1,
+  "chapter": 5,
+  "title": "Tamadun Awal Dunia",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t1_b05.json",
+  "questions": [
+    {
+      "id": "t1-b05-q001",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Kenal pasti tamadun berdasarkan sungai.\n\nBerkembang di antara Tigris dan Euphrates.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mesopotamia"
+        },
+        {
+          "id": "B",
+          "text": "Mesir Purba"
+        },
+        {
+          "id": "C",
+          "text": "Indus"
+        },
+        {
+          "id": "D",
+          "text": "Huang He"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Mesopotamia: Berkembang di antara Tigris dan Euphrates.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q002",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Kenal pasti tamadun berdasarkan sungai.\n\nBerkembang di sepanjang Sungai Nil.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mesopotamia"
+        },
+        {
+          "id": "B",
+          "text": "Mesir Purba"
+        },
+        {
+          "id": "C",
+          "text": "Indus"
+        },
+        {
+          "id": "D",
+          "text": "Huang He"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Mesir Purba: Berkembang di sepanjang Sungai Nil.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q003",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Kenal pasti tamadun berdasarkan sungai.\n\nBerkembang di lembah sungai yang namanya sama dengan tamadun ini.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mesopotamia"
+        },
+        {
+          "id": "B",
+          "text": "Mesir Purba"
+        },
+        {
+          "id": "C",
+          "text": "Indus"
+        },
+        {
+          "id": "D",
+          "text": "Huang He"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Indus: Berkembang di lembah sungai yang namanya sama dengan tamadun ini.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q004",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Kenal pasti tamadun berdasarkan sungai.\n\nBerkembang di lembah Sungai Kuning di China.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mesopotamia"
+        },
+        {
+          "id": "B",
+          "text": "Mesir Purba"
+        },
+        {
+          "id": "C",
+          "text": "Indus"
+        },
+        {
+          "id": "D",
+          "text": "Huang He"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Huang He: Berkembang di lembah Sungai Kuning di China.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q005",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Padankan sistem tulisan atau bukti tulisan.\n\nTulisan berbentuk baji yang digunakan di Mesopotamia.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hieroglif"
+        },
+        {
+          "id": "B",
+          "text": "Tulisan pada cap mohor Indus"
+        },
+        {
+          "id": "C",
+          "text": "Tulisan tulang orakel"
+        },
+        {
+          "id": "D",
+          "text": "Cuneiform"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Cuneiform: Tulisan berbentuk baji yang digunakan di Mesopotamia.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q006",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Padankan sistem tulisan atau bukti tulisan.\n\nTulisan bergambar yang dikaitkan dengan Mesir Purba.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hieroglif"
+        },
+        {
+          "id": "B",
+          "text": "Tulisan pada cap mohor Indus"
+        },
+        {
+          "id": "C",
+          "text": "Tulisan tulang orakel"
+        },
+        {
+          "id": "D",
+          "text": "Cuneiform"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Hieroglif: Tulisan bergambar yang dikaitkan dengan Mesir Purba.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q007",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Padankan sistem tulisan atau bukti tulisan.\n\nSimbol pada artifak Harappa yang belum ditafsir sepenuhnya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hieroglif"
+        },
+        {
+          "id": "B",
+          "text": "Tulisan pada cap mohor Indus"
+        },
+        {
+          "id": "C",
+          "text": "Tulisan tulang orakel"
+        },
+        {
+          "id": "D",
+          "text": "Cuneiform"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Tulisan pada cap mohor Indus: Simbol pada artifak Harappa yang belum ditafsir sepenuhnya.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q008",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Padankan sistem tulisan atau bukti tulisan.\n\nCatatan pada tulang atau cangkerang untuk ramalan dalam China awal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hieroglif"
+        },
+        {
+          "id": "B",
+          "text": "Tulisan pada cap mohor Indus"
+        },
+        {
+          "id": "C",
+          "text": "Tulisan tulang orakel"
+        },
+        {
+          "id": "D",
+          "text": "Cuneiform"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Tulisan tulang orakel: Catatan pada tulang atau cangkerang untuk ramalan dalam China awal.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q009",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Kenal pasti binaan.\n\nBinaan bertingkat berkaitan pusat keagamaan Mesopotamia.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mohenjo-Daro"
+        },
+        {
+          "id": "B",
+          "text": "Tembok kota"
+        },
+        {
+          "id": "C",
+          "text": "Zigurat"
+        },
+        {
+          "id": "D",
+          "text": "Piramid"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Zigurat: Binaan bertingkat berkaitan pusat keagamaan Mesopotamia.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q010",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Kenal pasti binaan.\n\nMakam monumental pemerintah Mesir Purba.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mohenjo-Daro"
+        },
+        {
+          "id": "B",
+          "text": "Tembok kota"
+        },
+        {
+          "id": "C",
+          "text": "Zigurat"
+        },
+        {
+          "id": "D",
+          "text": "Piramid"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Piramid: Makam monumental pemerintah Mesir Purba.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q011",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Kenal pasti binaan.\n\nBandar terancang tamadun Indus yang terkenal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mohenjo-Daro"
+        },
+        {
+          "id": "B",
+          "text": "Tembok kota"
+        },
+        {
+          "id": "C",
+          "text": "Zigurat"
+        },
+        {
+          "id": "D",
+          "text": "Piramid"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Mohenjo-Daro: Bandar terancang tamadun Indus yang terkenal.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q012",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Kenal pasti binaan.\n\nStruktur pertahanan yang mengelilingi petempatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mohenjo-Daro"
+        },
+        {
+          "id": "B",
+          "text": "Tembok kota"
+        },
+        {
+          "id": "C",
+          "text": "Zigurat"
+        },
+        {
+          "id": "D",
+          "text": "Piramid"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Tembok kota: Struktur pertahanan yang mengelilingi petempatan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q013",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Padankan tokoh atau gelaran.\n\nRaja Babylon yang dikaitkan dengan himpunan undang-undang bertulis.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pendeta"
+        },
+        {
+          "id": "B",
+          "text": "Hammurabi"
+        },
+        {
+          "id": "C",
+          "text": "Firaun"
+        },
+        {
+          "id": "D",
+          "text": "Jurutulis"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Hammurabi: Raja Babylon yang dikaitkan dengan himpunan undang-undang bertulis.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q014",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Padankan tokoh atau gelaran.\n\nGelaran pemerintah Mesir Purba.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pendeta"
+        },
+        {
+          "id": "B",
+          "text": "Hammurabi"
+        },
+        {
+          "id": "C",
+          "text": "Firaun"
+        },
+        {
+          "id": "D",
+          "text": "Jurutulis"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Firaun: Gelaran pemerintah Mesir Purba.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q015",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Padankan tokoh atau gelaran.\n\nPegawai yang merekodkan cukai dan urusan kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pendeta"
+        },
+        {
+          "id": "B",
+          "text": "Hammurabi"
+        },
+        {
+          "id": "C",
+          "text": "Firaun"
+        },
+        {
+          "id": "D",
+          "text": "Jurutulis"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Jurutulis: Pegawai yang merekodkan cukai dan urusan kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q016",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Padankan tokoh atau gelaran.\n\nGolongan yang mengendalikan kegiatan keagamaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pendeta"
+        },
+        {
+          "id": "B",
+          "text": "Hammurabi"
+        },
+        {
+          "id": "C",
+          "text": "Firaun"
+        },
+        {
+          "id": "D",
+          "text": "Jurutulis"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pendeta: Golongan yang mengendalikan kegiatan keagamaan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q017",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Apakah manfaat sungai yang ditunjukkan?\n\nAir disalurkan daripada sungai menuju tanaman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengairan"
+        },
+        {
+          "id": "B",
+          "text": "Tanah subur"
+        },
+        {
+          "id": "C",
+          "text": "Pengangkutan"
+        },
+        {
+          "id": "D",
+          "text": "Bekalan air"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pengairan: Air disalurkan daripada sungai menuju tanaman.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q018",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Apakah manfaat sungai yang ditunjukkan?\n\nMendapan banjir membantu menyuburkan kawasan pertanian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengairan"
+        },
+        {
+          "id": "B",
+          "text": "Tanah subur"
+        },
+        {
+          "id": "C",
+          "text": "Pengangkutan"
+        },
+        {
+          "id": "D",
+          "text": "Bekalan air"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Tanah subur: Mendapan banjir membantu menyuburkan kawasan pertanian.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q019",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Apakah manfaat sungai yang ditunjukkan?\n\nPerahu membawa barangan antara petempatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengairan"
+        },
+        {
+          "id": "B",
+          "text": "Tanah subur"
+        },
+        {
+          "id": "C",
+          "text": "Pengangkutan"
+        },
+        {
+          "id": "D",
+          "text": "Bekalan air"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pengangkutan: Perahu membawa barangan antara petempatan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q020",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Apakah manfaat sungai yang ditunjukkan?\n\nPenduduk memperoleh air untuk keperluan harian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengairan"
+        },
+        {
+          "id": "B",
+          "text": "Tanah subur"
+        },
+        {
+          "id": "C",
+          "text": "Pengangkutan"
+        },
+        {
+          "id": "D",
+          "text": "Bekalan air"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Bekalan air: Penduduk memperoleh air untuk keperluan harian.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q021",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Kenal pasti kegiatan ekonomi.\n\nPenduduk menanam bijirin di lembah sungai.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penternakan"
+        },
+        {
+          "id": "B",
+          "text": "Pertukangan"
+        },
+        {
+          "id": "C",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "D",
+          "text": "Pertanian"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pertanian: Penduduk menanam bijirin di lembah sungai.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q022",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Kenal pasti kegiatan ekonomi.\n\nHaiwan dipelihara untuk makanan dan tenaga.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penternakan"
+        },
+        {
+          "id": "B",
+          "text": "Pertukangan"
+        },
+        {
+          "id": "C",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "D",
+          "text": "Pertanian"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Penternakan: Haiwan dipelihara untuk makanan dan tenaga.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q023",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Kenal pasti kegiatan ekonomi.\n\nPakar menghasilkan tembikar serta peralatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penternakan"
+        },
+        {
+          "id": "B",
+          "text": "Pertukangan"
+        },
+        {
+          "id": "C",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "D",
+          "text": "Pertanian"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pertukangan: Pakar menghasilkan tembikar serta peralatan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q024",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Kenal pasti kegiatan ekonomi.\n\nHasil tempatan ditukar dengan bahan dari wilayah lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penternakan"
+        },
+        {
+          "id": "B",
+          "text": "Pertukangan"
+        },
+        {
+          "id": "C",
+          "text": "Perdagangan"
+        },
+        {
+          "id": "D",
+          "text": "Pertanian"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perdagangan: Hasil tempatan ditukar dengan bahan dari wilayah lain.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q025",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Apakah kegunaan rekod bertulis?\n\nJumlah kutipan tanaman disimpan untuk rujukan pegawai.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peraturan masyarakat"
+        },
+        {
+          "id": "B",
+          "text": "Pengetahuan keagamaan"
+        },
+        {
+          "id": "C",
+          "text": "Pentadbiran hasil"
+        },
+        {
+          "id": "D",
+          "text": "Transaksi niaga"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pentadbiran hasil: Jumlah kutipan tanaman disimpan untuk rujukan pegawai.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q026",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Apakah kegunaan rekod bertulis?\n\nUrusan jual beli dicatat bagi mengelakkan pertikaian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peraturan masyarakat"
+        },
+        {
+          "id": "B",
+          "text": "Pengetahuan keagamaan"
+        },
+        {
+          "id": "C",
+          "text": "Pentadbiran hasil"
+        },
+        {
+          "id": "D",
+          "text": "Transaksi niaga"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Transaksi niaga: Urusan jual beli dicatat bagi mengelakkan pertikaian.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q027",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Apakah kegunaan rekod bertulis?\n\nLarangan dan hukuman diumumkan dalam bentuk catatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peraturan masyarakat"
+        },
+        {
+          "id": "B",
+          "text": "Pengetahuan keagamaan"
+        },
+        {
+          "id": "C",
+          "text": "Pentadbiran hasil"
+        },
+        {
+          "id": "D",
+          "text": "Transaksi niaga"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Peraturan masyarakat: Larangan dan hukuman diumumkan dalam bentuk catatan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q028",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Apakah kegunaan rekod bertulis?\n\nAmalan ritual diturunkan melalui teks.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peraturan masyarakat"
+        },
+        {
+          "id": "B",
+          "text": "Pengetahuan keagamaan"
+        },
+        {
+          "id": "C",
+          "text": "Pentadbiran hasil"
+        },
+        {
+          "id": "D",
+          "text": "Transaksi niaga"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pengetahuan keagamaan: Amalan ritual diturunkan melalui teks.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q029",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Padankan bukti Indus dengan kemahiran.\n\nJalan dan kawasan kediaman disusun secara teratur.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hubungan perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Perancangan bandar"
+        },
+        {
+          "id": "C",
+          "text": "Pengurusan air sisa"
+        },
+        {
+          "id": "D",
+          "text": "Pembuatan bata"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perancangan bandar: Jalan dan kawasan kediaman disusun secara teratur.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q030",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Padankan bukti Indus dengan kemahiran.\n\nSaliran dibina untuk membawa air keluar daripada petempatan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hubungan perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Perancangan bandar"
+        },
+        {
+          "id": "C",
+          "text": "Pengurusan air sisa"
+        },
+        {
+          "id": "D",
+          "text": "Pembuatan bata"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pengurusan air sisa: Saliran dibina untuk membawa air keluar daripada petempatan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q031",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Padankan bukti Indus dengan kemahiran.\n\nBahan binaan dihasilkan dengan ukuran yang tersusun.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hubungan perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Perancangan bandar"
+        },
+        {
+          "id": "C",
+          "text": "Pengurusan air sisa"
+        },
+        {
+          "id": "D",
+          "text": "Pembuatan bata"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pembuatan bata: Bahan binaan dihasilkan dengan ukuran yang tersusun.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q032",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Padankan bukti Indus dengan kemahiran.\n\nCap mohor dan barangan menunjukkan pertukaran dengan kawasan lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hubungan perdagangan"
+        },
+        {
+          "id": "B",
+          "text": "Perancangan bandar"
+        },
+        {
+          "id": "C",
+          "text": "Pengurusan air sisa"
+        },
+        {
+          "id": "D",
+          "text": "Pembuatan bata"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Hubungan perdagangan: Cap mohor dan barangan menunjukkan pertukaran dengan kawasan lain.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q033",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Apakah cabaran petempatan sungai?\n\nLimpahan besar menenggelami kawasan tanaman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Banjir"
+        },
+        {
+          "id": "B",
+          "text": "Kemarau"
+        },
+        {
+          "id": "C",
+          "text": "Perebutan air"
+        },
+        {
+          "id": "D",
+          "text": "Kerosakan terusan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Banjir: Limpahan besar menenggelami kawasan tanaman.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q034",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Apakah cabaran petempatan sungai?\n\nKekurangan hujan mengurangkan air untuk pertanian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Banjir"
+        },
+        {
+          "id": "B",
+          "text": "Kemarau"
+        },
+        {
+          "id": "C",
+          "text": "Perebutan air"
+        },
+        {
+          "id": "D",
+          "text": "Kerosakan terusan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kemarau: Kekurangan hujan mengurangkan air untuk pertanian.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q035",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Apakah cabaran petempatan sungai?\n\nDua petempatan mempertikaikan penggunaan sumber sungai yang sama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Banjir"
+        },
+        {
+          "id": "B",
+          "text": "Kemarau"
+        },
+        {
+          "id": "C",
+          "text": "Perebutan air"
+        },
+        {
+          "id": "D",
+          "text": "Kerosakan terusan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perebutan air: Dua petempatan mempertikaikan penggunaan sumber sungai yang sama.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q036",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Apakah cabaran petempatan sungai?\n\nSaluran pengairan rosak sehingga bekalan tidak sampai ke ladang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Banjir"
+        },
+        {
+          "id": "B",
+          "text": "Kemarau"
+        },
+        {
+          "id": "C",
+          "text": "Perebutan air"
+        },
+        {
+          "id": "D",
+          "text": "Kerosakan terusan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kerosakan terusan: Saluran pengairan rosak sehingga bekalan tidak sampai ke ladang.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q037",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Padankan pencapaian dengan kepentingannya.\n\nPeraturan boleh dirujuk secara lebih tetap oleh masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sistem ukuran"
+        },
+        {
+          "id": "B",
+          "text": "Kalendar"
+        },
+        {
+          "id": "C",
+          "text": "Pembinaan monumen"
+        },
+        {
+          "id": "D",
+          "text": "Undang-undang bertulis"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Undang-undang bertulis: Peraturan boleh dirujuk secara lebih tetap oleh masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q038",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Padankan pencapaian dengan kepentingannya.\n\nJumlah barangan dapat dibandingkan dalam urusan jual beli.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sistem ukuran"
+        },
+        {
+          "id": "B",
+          "text": "Kalendar"
+        },
+        {
+          "id": "C",
+          "text": "Pembinaan monumen"
+        },
+        {
+          "id": "D",
+          "text": "Undang-undang bertulis"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Sistem ukuran: Jumlah barangan dapat dibandingkan dalam urusan jual beli.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q039",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Padankan pencapaian dengan kepentingannya.\n\nKitaran masa membantu merancang kegiatan pertanian.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sistem ukuran"
+        },
+        {
+          "id": "B",
+          "text": "Kalendar"
+        },
+        {
+          "id": "C",
+          "text": "Pembinaan monumen"
+        },
+        {
+          "id": "D",
+          "text": "Undang-undang bertulis"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kalendar: Kitaran masa membantu merancang kegiatan pertanian.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t1-b05-q040",
+      "form": 1,
+      "chapter": 5,
+      "prompt": "Padankan pencapaian dengan kepentingannya.\n\nProjek besar memerlukan penyelarasan tenaga kerja dan sumber.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sistem ukuran"
+        },
+        {
+          "id": "B",
+          "text": "Kalendar"
+        },
+        {
+          "id": "C",
+          "text": "Pembinaan monumen"
+        },
+        {
+          "id": "D",
+          "text": "Undang-undang bertulis"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pembinaan monumen: Projek besar memerlukan penyelarasan tenaga kerja dan sumber.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    }
+  ]
+}

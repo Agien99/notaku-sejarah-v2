@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 2,
+  "chapter": 5,
+  "title": "Kesultanan Melayu Melaka",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t2_b05.json",
+  "questions": [
+    {
+      "id": "t2-b05-q001",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Kenal pasti tokoh atau kuasa.\n\nTokoh pengasas Melaka.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Parameswara"
+        },
+        {
+          "id": "B",
+          "text": "Sultan Mansur Shah"
+        },
+        {
+          "id": "C",
+          "text": "Tun Perak"
+        },
+        {
+          "id": "D",
+          "text": "Portugis"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Parameswara: Tokoh pengasas Melaka.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q002",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Kenal pasti tokoh atau kuasa.\n\nSultan yang dikaitkan dengan zaman kegemilangan Melaka.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Parameswara"
+        },
+        {
+          "id": "B",
+          "text": "Sultan Mansur Shah"
+        },
+        {
+          "id": "C",
+          "text": "Tun Perak"
+        },
+        {
+          "id": "D",
+          "text": "Portugis"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Sultan Mansur Shah: Sultan yang dikaitkan dengan zaman kegemilangan Melaka.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q003",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Kenal pasti tokoh atau kuasa.\n\nBendahara terkenal yang mengukuhkan pentadbiran Melaka.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Parameswara"
+        },
+        {
+          "id": "B",
+          "text": "Sultan Mansur Shah"
+        },
+        {
+          "id": "C",
+          "text": "Tun Perak"
+        },
+        {
+          "id": "D",
+          "text": "Portugis"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Tun Perak: Bendahara terkenal yang mengukuhkan pentadbiran Melaka.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q004",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Kenal pasti tokoh atau kuasa.\n\nKuasa Eropah yang menawan Melaka pada 1511.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Parameswara"
+        },
+        {
+          "id": "B",
+          "text": "Sultan Mansur Shah"
+        },
+        {
+          "id": "C",
+          "text": "Tun Perak"
+        },
+        {
+          "id": "D",
+          "text": "Portugis"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Portugis: Kuasa Eropah yang menawan Melaka pada 1511.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q005",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Padankan jawatan Melaka.\n\nPenasihat utama sultan dan ketua pentadbir.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penghulu Bendahari"
+        },
+        {
+          "id": "B",
+          "text": "Temenggung"
+        },
+        {
+          "id": "C",
+          "text": "Laksamana"
+        },
+        {
+          "id": "D",
+          "text": "Bendahara"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Bendahara: Penasihat utama sultan dan ketua pentadbir.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q006",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Padankan jawatan Melaka.\n\nMengurus kewangan serta hasil kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penghulu Bendahari"
+        },
+        {
+          "id": "B",
+          "text": "Temenggung"
+        },
+        {
+          "id": "C",
+          "text": "Laksamana"
+        },
+        {
+          "id": "D",
+          "text": "Bendahara"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Penghulu Bendahari: Mengurus kewangan serta hasil kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q007",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Padankan jawatan Melaka.\n\nMenjaga keselamatan dan ketenteraman dalam negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penghulu Bendahari"
+        },
+        {
+          "id": "B",
+          "text": "Temenggung"
+        },
+        {
+          "id": "C",
+          "text": "Laksamana"
+        },
+        {
+          "id": "D",
+          "text": "Bendahara"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Temenggung: Menjaga keselamatan dan ketenteraman dalam negeri.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q008",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Padankan jawatan Melaka.\n\nMengetuai angkatan laut dan keselamatan perairan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penghulu Bendahari"
+        },
+        {
+          "id": "B",
+          "text": "Temenggung"
+        },
+        {
+          "id": "C",
+          "text": "Laksamana"
+        },
+        {
+          "id": "D",
+          "text": "Bendahara"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Laksamana: Mengetuai angkatan laut dan keselamatan perairan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q009",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Kenal pasti urusan perdagangan.\n\nPegawai yang mengurus pedagang di pelabuhan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pedagang"
+        },
+        {
+          "id": "B",
+          "text": "Kiwi"
+        },
+        {
+          "id": "C",
+          "text": "Syahbandar"
+        },
+        {
+          "id": "D",
+          "text": "Nakhoda"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Syahbandar: Pegawai yang mengurus pedagang di pelabuhan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q010",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Kenal pasti urusan perdagangan.\n\nKetua yang memimpin sesebuah kapal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pedagang"
+        },
+        {
+          "id": "B",
+          "text": "Kiwi"
+        },
+        {
+          "id": "C",
+          "text": "Syahbandar"
+        },
+        {
+          "id": "D",
+          "text": "Nakhoda"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Nakhoda: Ketua yang memimpin sesebuah kapal.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q011",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Kenal pasti urusan perdagangan.\n\nIndividu yang menjalankan jual beli barangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pedagang"
+        },
+        {
+          "id": "B",
+          "text": "Kiwi"
+        },
+        {
+          "id": "C",
+          "text": "Syahbandar"
+        },
+        {
+          "id": "D",
+          "text": "Nakhoda"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pedagang: Individu yang menjalankan jual beli barangan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q012",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Kenal pasti urusan perdagangan.\n\nPedagang yang menumpang kapal untuk berniaga.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pedagang"
+        },
+        {
+          "id": "B",
+          "text": "Kiwi"
+        },
+        {
+          "id": "C",
+          "text": "Syahbandar"
+        },
+        {
+          "id": "D",
+          "text": "Nakhoda"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kiwi: Pedagang yang menumpang kapal untuk berniaga.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q013",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Padankan undang-undang atau konsep.\n\nHimpunan peraturan berkaitan pemerintahan dan kehidupan darat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Derhaka"
+        },
+        {
+          "id": "B",
+          "text": "Hukum Kanun Melaka"
+        },
+        {
+          "id": "C",
+          "text": "Undang-Undang Laut Melaka"
+        },
+        {
+          "id": "D",
+          "text": "Daulat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Hukum Kanun Melaka: Himpunan peraturan berkaitan pemerintahan dan kehidupan darat.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q014",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Padankan undang-undang atau konsep.\n\nAturan pelayaran serta tanggungjawab di kapal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Derhaka"
+        },
+        {
+          "id": "B",
+          "text": "Hukum Kanun Melaka"
+        },
+        {
+          "id": "C",
+          "text": "Undang-Undang Laut Melaka"
+        },
+        {
+          "id": "D",
+          "text": "Daulat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Undang-Undang Laut Melaka: Aturan pelayaran serta tanggungjawab di kapal.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q015",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Padankan undang-undang atau konsep.\n\nKedudukan dan kewibawaan istimewa raja.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Derhaka"
+        },
+        {
+          "id": "B",
+          "text": "Hukum Kanun Melaka"
+        },
+        {
+          "id": "C",
+          "text": "Undang-Undang Laut Melaka"
+        },
+        {
+          "id": "D",
+          "text": "Daulat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Daulat: Kedudukan dan kewibawaan istimewa raja.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q016",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Padankan undang-undang atau konsep.\n\nPerbuatan melanggar kesetiaan terhadap raja.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Derhaka"
+        },
+        {
+          "id": "B",
+          "text": "Hukum Kanun Melaka"
+        },
+        {
+          "id": "C",
+          "text": "Undang-Undang Laut Melaka"
+        },
+        {
+          "id": "D",
+          "text": "Daulat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Derhaka: Perbuatan melanggar kesetiaan terhadap raja.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q017",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Apakah faktor geografi Melaka?\n\nLaluan utama perdagangan antara timur dengan barat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Selat Melaka"
+        },
+        {
+          "id": "B",
+          "text": "Muara sungai"
+        },
+        {
+          "id": "C",
+          "text": "Pelabuhan terlindung"
+        },
+        {
+          "id": "D",
+          "text": "Pertemuan angin monsun"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Selat Melaka: Laluan utama perdagangan antara timur dengan barat.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q018",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Apakah faktor geografi Melaka?\n\nPintu hubungan antara pesisir dan pedalaman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Selat Melaka"
+        },
+        {
+          "id": "B",
+          "text": "Muara sungai"
+        },
+        {
+          "id": "C",
+          "text": "Pelabuhan terlindung"
+        },
+        {
+          "id": "D",
+          "text": "Pertemuan angin monsun"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Muara sungai: Pintu hubungan antara pesisir dan pedalaman.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q019",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Apakah faktor geografi Melaka?\n\nKawasan berlabuh yang mengurangkan ancaman ombak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Selat Melaka"
+        },
+        {
+          "id": "B",
+          "text": "Muara sungai"
+        },
+        {
+          "id": "C",
+          "text": "Pelabuhan terlindung"
+        },
+        {
+          "id": "D",
+          "text": "Pertemuan angin monsun"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pelabuhan terlindung: Kawasan berlabuh yang mengurangkan ancaman ombak.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q020",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Apakah faktor geografi Melaka?\n\nKeadaan pelayaran bermusim mendorong kapal menunggu dan berdagang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Selat Melaka"
+        },
+        {
+          "id": "B",
+          "text": "Muara sungai"
+        },
+        {
+          "id": "C",
+          "text": "Pelabuhan terlindung"
+        },
+        {
+          "id": "D",
+          "text": "Pertemuan angin monsun"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pertemuan angin monsun: Keadaan pelayaran bermusim mendorong kapal menunggu dan berdagang.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q021",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Kenal pasti kemudahan pedagang.\n\nTempat menyimpan muatan sebelum dijual.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Timbang sukat"
+        },
+        {
+          "id": "B",
+          "text": "Mata wang"
+        },
+        {
+          "id": "C",
+          "text": "Bekalan air"
+        },
+        {
+          "id": "D",
+          "text": "Gudang"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Gudang: Tempat menyimpan muatan sebelum dijual.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q022",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Kenal pasti kemudahan pedagang.\n\nPiawaian yang membantu menentukan kuantiti barangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Timbang sukat"
+        },
+        {
+          "id": "B",
+          "text": "Mata wang"
+        },
+        {
+          "id": "C",
+          "text": "Bekalan air"
+        },
+        {
+          "id": "D",
+          "text": "Gudang"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Timbang sukat: Piawaian yang membantu menentukan kuantiti barangan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q023",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Kenal pasti kemudahan pedagang.\n\nAlat pertukaran yang memudahkan pembayaran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Timbang sukat"
+        },
+        {
+          "id": "B",
+          "text": "Mata wang"
+        },
+        {
+          "id": "C",
+          "text": "Bekalan air"
+        },
+        {
+          "id": "D",
+          "text": "Gudang"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Mata wang: Alat pertukaran yang memudahkan pembayaran.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q024",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Kenal pasti kemudahan pedagang.\n\nKeperluan kapal untuk meneruskan pelayaran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Timbang sukat"
+        },
+        {
+          "id": "B",
+          "text": "Mata wang"
+        },
+        {
+          "id": "C",
+          "text": "Bekalan air"
+        },
+        {
+          "id": "D",
+          "text": "Gudang"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Bekalan air: Keperluan kapal untuk meneruskan pelayaran.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q025",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Padankan hubungan luar.\n\nMemberikan pengiktirafan dan manfaat diplomatik kepada Melaka.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perluasan wilayah"
+        },
+        {
+          "id": "B",
+          "text": "Perkahwinan diraja"
+        },
+        {
+          "id": "C",
+          "text": "Hubungan dengan China"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan dengan Pasai"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Hubungan dengan China: Memberikan pengiktirafan dan manfaat diplomatik kepada Melaka.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q026",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Padankan hubungan luar.\n\nMenghubungkan Melaka dengan sebuah pusat Islam di Sumatera.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perluasan wilayah"
+        },
+        {
+          "id": "B",
+          "text": "Perkahwinan diraja"
+        },
+        {
+          "id": "C",
+          "text": "Hubungan dengan China"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan dengan Pasai"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Hubungan dengan Pasai: Menghubungkan Melaka dengan sebuah pusat Islam di Sumatera.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q027",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Padankan hubungan luar.\n\nMenambahkan kawasan naungan kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perluasan wilayah"
+        },
+        {
+          "id": "B",
+          "text": "Perkahwinan diraja"
+        },
+        {
+          "id": "C",
+          "text": "Hubungan dengan China"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan dengan Pasai"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perluasan wilayah: Menambahkan kawasan naungan kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q028",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Padankan hubungan luar.\n\nMengukuhkan pertalian politik melalui ikatan keluarga pemerintah.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perluasan wilayah"
+        },
+        {
+          "id": "B",
+          "text": "Perkahwinan diraja"
+        },
+        {
+          "id": "C",
+          "text": "Hubungan dengan China"
+        },
+        {
+          "id": "D",
+          "text": "Hubungan dengan Pasai"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perkahwinan diraja: Mengukuhkan pertalian politik melalui ikatan keluarga pemerintah.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q029",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Apakah peranan Melaka sebagai pusat Islam?\n\nUlama membimbing pelajar memahami ajaran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pentadbiran berunsur Islam"
+        },
+        {
+          "id": "B",
+          "text": "Pengajian"
+        },
+        {
+          "id": "C",
+          "text": "Persuratan"
+        },
+        {
+          "id": "D",
+          "text": "Dakwah"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Pengajian: Ulama membimbing pelajar memahami ajaran.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q030",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Apakah peranan Melaka sebagai pusat Islam?\n\nKarya agama ditulis dan disalin.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pentadbiran berunsur Islam"
+        },
+        {
+          "id": "B",
+          "text": "Pengajian"
+        },
+        {
+          "id": "C",
+          "text": "Persuratan"
+        },
+        {
+          "id": "D",
+          "text": "Dakwah"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Persuratan: Karya agama ditulis dan disalin.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q031",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Apakah peranan Melaka sebagai pusat Islam?\n\nAjaran disebarkan melalui hubungan masyarakat dan perdagangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pentadbiran berunsur Islam"
+        },
+        {
+          "id": "B",
+          "text": "Pengajian"
+        },
+        {
+          "id": "C",
+          "text": "Persuratan"
+        },
+        {
+          "id": "D",
+          "text": "Dakwah"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Dakwah: Ajaran disebarkan melalui hubungan masyarakat dan perdagangan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q032",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Apakah peranan Melaka sebagai pusat Islam?\n\nPrinsip Islam mempengaruhi aturan kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pentadbiran berunsur Islam"
+        },
+        {
+          "id": "B",
+          "text": "Pengajian"
+        },
+        {
+          "id": "C",
+          "text": "Persuratan"
+        },
+        {
+          "id": "D",
+          "text": "Dakwah"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pentadbiran berunsur Islam: Prinsip Islam mempengaruhi aturan kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q033",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Padankan ancaman dengan kesannya.\n\nPersaingan jawatan melemahkan tumpuan pentadbiran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perebutan kuasa"
+        },
+        {
+          "id": "B",
+          "text": "Rasuah"
+        },
+        {
+          "id": "C",
+          "text": "Serangan luar"
+        },
+        {
+          "id": "D",
+          "text": "Perpecahan dalaman"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perebutan kuasa: Persaingan jawatan melemahkan tumpuan pentadbiran.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q034",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Padankan ancaman dengan kesannya.\n\nPenyelewengan mengurangkan kepercayaan terhadap pegawai.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perebutan kuasa"
+        },
+        {
+          "id": "B",
+          "text": "Rasuah"
+        },
+        {
+          "id": "C",
+          "text": "Serangan luar"
+        },
+        {
+          "id": "D",
+          "text": "Perpecahan dalaman"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Rasuah: Penyelewengan mengurangkan kepercayaan terhadap pegawai.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q035",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Padankan ancaman dengan kesannya.\n\nTentera asing mengancam pusat pemerintahan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perebutan kuasa"
+        },
+        {
+          "id": "B",
+          "text": "Rasuah"
+        },
+        {
+          "id": "C",
+          "text": "Serangan luar"
+        },
+        {
+          "id": "D",
+          "text": "Perpecahan dalaman"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Serangan luar: Tentera asing mengancam pusat pemerintahan.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q036",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Padankan ancaman dengan kesannya.\n\nKetiadaan muafakat menyukarkan pertahanan bersama.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perebutan kuasa"
+        },
+        {
+          "id": "B",
+          "text": "Rasuah"
+        },
+        {
+          "id": "C",
+          "text": "Serangan luar"
+        },
+        {
+          "id": "D",
+          "text": "Perpecahan dalaman"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Perpecahan dalaman: Ketiadaan muafakat menyukarkan pertahanan bersama.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q037",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Kenal pasti pengajaran daripada Melaka.\n\nPegawai berkebolehan membantu kerajaan berkembang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesetiaan"
+        },
+        {
+          "id": "B",
+          "text": "Keadilan perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Kesiapsiagaan"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan cekap"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kepimpinan cekap: Pegawai berkebolehan membantu kerajaan berkembang.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q038",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Kenal pasti pengajaran daripada Melaka.\n\nRakyat menyokong usaha mempertahankan negara.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesetiaan"
+        },
+        {
+          "id": "B",
+          "text": "Keadilan perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Kesiapsiagaan"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan cekap"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kesetiaan: Rakyat menyokong usaha mempertahankan negara.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q039",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Kenal pasti pengajaran daripada Melaka.\n\nPeraturan yang saksama menarik kepercayaan pedagang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesetiaan"
+        },
+        {
+          "id": "B",
+          "text": "Keadilan perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Kesiapsiagaan"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan cekap"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Keadilan perdagangan: Peraturan yang saksama menarik kepercayaan pedagang.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "t2-b05-q040",
+      "form": 2,
+      "chapter": 5,
+      "prompt": "Kenal pasti pengajaran daripada Melaka.\n\nPertahanan perlu disediakan sebelum ancaman berlaku.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kesetiaan"
+        },
+        {
+          "id": "B",
+          "text": "Keadilan perdagangan"
+        },
+        {
+          "id": "C",
+          "text": "Kesiapsiagaan"
+        },
+        {
+          "id": "D",
+          "text": "Kepimpinan cekap"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Kesiapsiagaan: Pertahanan perlu disediakan sebelum ancaman berlaku.",
+      "tags": [
+        "padanan",
+        "bab-5"
+      ]
+    }
+  ]
+}

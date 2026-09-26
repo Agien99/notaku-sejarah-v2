@@ -1,0 +1,1211 @@
+{
+  "curriculum": "KSSM",
+  "contentVersion": "2026.2",
+  "form": 5,
+  "chapter": 3,
+  "title": "Raja Berperlembagaan dan Demokrasi Berparlimen",
+  "editorialStatus": "original-practice",
+  "sourceNote": "assets/notes/kssm_2026/t5_b03.json",
+  "questions": [
+    {
+      "id": "t5-b03-q001",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Kenal pasti komponen atau institusi.\n\nKetua Utama Negara yang merupakan komponen Parlimen.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yang di-Pertuan Agong"
+        },
+        {
+          "id": "B",
+          "text": "Dewan Negara"
+        },
+        {
+          "id": "C",
+          "text": "Dewan Rakyat"
+        },
+        {
+          "id": "D",
+          "text": "Majlis Raja-Raja"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Yang di-Pertuan Agong: Ketua Utama Negara yang merupakan komponen Parlimen.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q002",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Kenal pasti komponen atau institusi.\n\nDewan Parlimen yang dianggotai senator.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yang di-Pertuan Agong"
+        },
+        {
+          "id": "B",
+          "text": "Dewan Negara"
+        },
+        {
+          "id": "C",
+          "text": "Dewan Rakyat"
+        },
+        {
+          "id": "D",
+          "text": "Majlis Raja-Raja"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Dewan Negara: Dewan Parlimen yang dianggotai senator.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q003",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Kenal pasti komponen atau institusi.\n\nDewan Parlimen yang wakilnya dipilih melalui pilihan raya.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yang di-Pertuan Agong"
+        },
+        {
+          "id": "B",
+          "text": "Dewan Negara"
+        },
+        {
+          "id": "C",
+          "text": "Dewan Rakyat"
+        },
+        {
+          "id": "D",
+          "text": "Majlis Raja-Raja"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Dewan Rakyat: Dewan Parlimen yang wakilnya dipilih melalui pilihan raya.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q004",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Kenal pasti komponen atau institusi.\n\nInstitusi yang memilih Yang di-Pertuan Agong mengikut aturan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yang di-Pertuan Agong"
+        },
+        {
+          "id": "B",
+          "text": "Dewan Negara"
+        },
+        {
+          "id": "C",
+          "text": "Dewan Rakyat"
+        },
+        {
+          "id": "D",
+          "text": "Majlis Raja-Raja"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Majlis Raja-Raja: Institusi yang memilih Yang di-Pertuan Agong mengikut aturan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q005",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Padankan angka institusi beraja.\n\nBilangan Raja Melayu dalam kalangan calon pemilihan Yang di-Pertuan Agong.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lima tahun"
+        },
+        {
+          "id": "B",
+          "text": "Tiga"
+        },
+        {
+          "id": "C",
+          "text": "Empat"
+        },
+        {
+          "id": "D",
+          "text": "Sembilan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Sembilan: Bilangan Raja Melayu dalam kalangan calon pemilihan Yang di-Pertuan Agong.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q006",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Padankan angka institusi beraja.\n\nTempoh jawatan biasa Yang di-Pertuan Agong.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lima tahun"
+        },
+        {
+          "id": "B",
+          "text": "Tiga"
+        },
+        {
+          "id": "C",
+          "text": "Empat"
+        },
+        {
+          "id": "D",
+          "text": "Sembilan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Lima tahun: Tempoh jawatan biasa Yang di-Pertuan Agong.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q007",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Padankan angka institusi beraja.\n\nBilangan komponen Parlimen Malaysia.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lima tahun"
+        },
+        {
+          "id": "B",
+          "text": "Tiga"
+        },
+        {
+          "id": "C",
+          "text": "Empat"
+        },
+        {
+          "id": "D",
+          "text": "Sembilan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Tiga: Bilangan komponen Parlimen Malaysia.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q008",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Padankan angka institusi beraja.\n\nBilangan negeri yang mempunyai Yang di-Pertua Negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lima tahun"
+        },
+        {
+          "id": "B",
+          "text": "Tiga"
+        },
+        {
+          "id": "C",
+          "text": "Empat"
+        },
+        {
+          "id": "D",
+          "text": "Sembilan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Empat: Bilangan negeri yang mempunyai Yang di-Pertua Negeri.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q009",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Kenal pasti cabang kuasa.\n\nMenggubal undang-undang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kehakiman"
+        },
+        {
+          "id": "B",
+          "text": "Semak imbang"
+        },
+        {
+          "id": "C",
+          "text": "Perundangan"
+        },
+        {
+          "id": "D",
+          "text": "Eksekutif"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perundangan: Menggubal undang-undang.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q010",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Kenal pasti cabang kuasa.\n\nMelaksanakan dasar dan pentadbiran.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kehakiman"
+        },
+        {
+          "id": "B",
+          "text": "Semak imbang"
+        },
+        {
+          "id": "C",
+          "text": "Perundangan"
+        },
+        {
+          "id": "D",
+          "text": "Eksekutif"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Eksekutif: Melaksanakan dasar dan pentadbiran.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q011",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Kenal pasti cabang kuasa.\n\nMentafsir serta mengadili menurut undang-undang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kehakiman"
+        },
+        {
+          "id": "B",
+          "text": "Semak imbang"
+        },
+        {
+          "id": "C",
+          "text": "Perundangan"
+        },
+        {
+          "id": "D",
+          "text": "Eksekutif"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kehakiman: Mentafsir serta mengadili menurut undang-undang.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q012",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Kenal pasti cabang kuasa.\n\nHubungan kawalan antara institusi untuk mengurangkan penyalahgunaan kuasa.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kehakiman"
+        },
+        {
+          "id": "B",
+          "text": "Semak imbang"
+        },
+        {
+          "id": "C",
+          "text": "Perundangan"
+        },
+        {
+          "id": "D",
+          "text": "Eksekutif"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Semak imbang: Hubungan kawalan antara institusi untuk mengurangkan penyalahgunaan kuasa.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q013",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Padankan jawatan.\n\nMengetuai kerajaan Persekutuan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hakim"
+        },
+        {
+          "id": "B",
+          "text": "Perdana Menteri"
+        },
+        {
+          "id": "C",
+          "text": "Menteri"
+        },
+        {
+          "id": "D",
+          "text": "Ahli Parlimen"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perdana Menteri: Mengetuai kerajaan Persekutuan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q014",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Padankan jawatan.\n\nMengurus portfolio kerajaan tertentu.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hakim"
+        },
+        {
+          "id": "B",
+          "text": "Perdana Menteri"
+        },
+        {
+          "id": "C",
+          "text": "Menteri"
+        },
+        {
+          "id": "D",
+          "text": "Ahli Parlimen"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Menteri: Mengurus portfolio kerajaan tertentu.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q015",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Padankan jawatan.\n\nMembawa isu rakyat dalam badan perundangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hakim"
+        },
+        {
+          "id": "B",
+          "text": "Perdana Menteri"
+        },
+        {
+          "id": "C",
+          "text": "Menteri"
+        },
+        {
+          "id": "D",
+          "text": "Ahli Parlimen"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Ahli Parlimen: Membawa isu rakyat dalam badan perundangan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q016",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Padankan jawatan.\n\nMengadili kes melalui institusi kehakiman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hakim"
+        },
+        {
+          "id": "B",
+          "text": "Perdana Menteri"
+        },
+        {
+          "id": "C",
+          "text": "Menteri"
+        },
+        {
+          "id": "D",
+          "text": "Ahli Parlimen"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Hakim: Mengadili kes melalui institusi kehakiman.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q017",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Apakah maksud konsep pemerintahan?\n\nRaja menjalankan peranan menurut perlembagaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raja Berperlembagaan"
+        },
+        {
+          "id": "B",
+          "text": "Demokrasi Berparlimen"
+        },
+        {
+          "id": "C",
+          "text": "Tanggungjawab bersama kabinet"
+        },
+        {
+          "id": "D",
+          "text": "Pengasingan fungsi"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Raja Berperlembagaan: Raja menjalankan peranan menurut perlembagaan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q018",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Apakah maksud konsep pemerintahan?\n\nRakyat memilih wakil yang terlibat dalam pemerintahan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raja Berperlembagaan"
+        },
+        {
+          "id": "B",
+          "text": "Demokrasi Berparlimen"
+        },
+        {
+          "id": "C",
+          "text": "Tanggungjawab bersama kabinet"
+        },
+        {
+          "id": "D",
+          "text": "Pengasingan fungsi"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Demokrasi Berparlimen: Rakyat memilih wakil yang terlibat dalam pemerintahan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q019",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Apakah maksud konsep pemerintahan?\n\nJemaah Menteri bertanggungjawab bersama terhadap keputusan kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raja Berperlembagaan"
+        },
+        {
+          "id": "B",
+          "text": "Demokrasi Berparlimen"
+        },
+        {
+          "id": "C",
+          "text": "Tanggungjawab bersama kabinet"
+        },
+        {
+          "id": "D",
+          "text": "Pengasingan fungsi"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Tanggungjawab bersama kabinet: Jemaah Menteri bertanggungjawab bersama terhadap keputusan kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q020",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Apakah maksud konsep pemerintahan?\n\nBadan negara mempunyai tugas yang berbeza.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raja Berperlembagaan"
+        },
+        {
+          "id": "B",
+          "text": "Demokrasi Berparlimen"
+        },
+        {
+          "id": "C",
+          "text": "Tanggungjawab bersama kabinet"
+        },
+        {
+          "id": "D",
+          "text": "Pengasingan fungsi"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Pengasingan fungsi: Badan negara mempunyai tugas yang berbeza.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q021",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Kenal pasti peranan pilihan raya.\n\nSokongan pengundi menjadi asas kuasa politik.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Memilih wakil"
+        },
+        {
+          "id": "B",
+          "text": "Menilai prestasi"
+        },
+        {
+          "id": "C",
+          "text": "Membolehkan pertukaran kerajaan"
+        },
+        {
+          "id": "D",
+          "text": "Memberi mandat"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Memberi mandat: Sokongan pengundi menjadi asas kuasa politik.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q022",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Kenal pasti peranan pilihan raya.\n\nPenduduk menentukan individu yang membawa suara mereka.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Memilih wakil"
+        },
+        {
+          "id": "B",
+          "text": "Menilai prestasi"
+        },
+        {
+          "id": "C",
+          "text": "Membolehkan pertukaran kerajaan"
+        },
+        {
+          "id": "D",
+          "text": "Memberi mandat"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Memilih wakil: Penduduk menentukan individu yang membawa suara mereka.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q023",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Kenal pasti peranan pilihan raya.\n\nRakyat mempertimbangkan rekod pemimpin sebelum mengundi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Memilih wakil"
+        },
+        {
+          "id": "B",
+          "text": "Menilai prestasi"
+        },
+        {
+          "id": "C",
+          "text": "Membolehkan pertukaran kerajaan"
+        },
+        {
+          "id": "D",
+          "text": "Memberi mandat"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Menilai prestasi: Rakyat mempertimbangkan rekod pemimpin sebelum mengundi.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q024",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Kenal pasti peranan pilihan raya.\n\nKeputusan undi membuka laluan perubahan pemerintahan secara aman.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Memilih wakil"
+        },
+        {
+          "id": "B",
+          "text": "Menilai prestasi"
+        },
+        {
+          "id": "C",
+          "text": "Membolehkan pertukaran kerajaan"
+        },
+        {
+          "id": "D",
+          "text": "Memberi mandat"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Membolehkan pertukaran kerajaan: Keputusan undi membuka laluan perubahan pemerintahan secara aman.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q025",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Padankan kedudukan peringkat negeri.\n\nKetua negeri bagi kebanyakan negeri beraja.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menteri Besar atau Ketua Menteri"
+        },
+        {
+          "id": "B",
+          "text": "Dewan Undangan Negeri"
+        },
+        {
+          "id": "C",
+          "text": "Sultan"
+        },
+        {
+          "id": "D",
+          "text": "Yang di-Pertua Negeri"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Sultan: Ketua negeri bagi kebanyakan negeri beraja.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q026",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Padankan kedudukan peringkat negeri.\n\nKetua negeri seperti Pulau Pinang dan Sarawak.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menteri Besar atau Ketua Menteri"
+        },
+        {
+          "id": "B",
+          "text": "Dewan Undangan Negeri"
+        },
+        {
+          "id": "C",
+          "text": "Sultan"
+        },
+        {
+          "id": "D",
+          "text": "Yang di-Pertua Negeri"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Yang di-Pertua Negeri: Ketua negeri seperti Pulau Pinang dan Sarawak.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q027",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Padankan kedudukan peringkat negeri.\n\nKetua kerajaan yang mengurus pentadbiran negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menteri Besar atau Ketua Menteri"
+        },
+        {
+          "id": "B",
+          "text": "Dewan Undangan Negeri"
+        },
+        {
+          "id": "C",
+          "text": "Sultan"
+        },
+        {
+          "id": "D",
+          "text": "Yang di-Pertua Negeri"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Menteri Besar atau Ketua Menteri: Ketua kerajaan yang mengurus pentadbiran negeri.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q028",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Padankan kedudukan peringkat negeri.\n\nBadan wakil rakyat yang menggubal undang-undang negeri.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Menteri Besar atau Ketua Menteri"
+        },
+        {
+          "id": "B",
+          "text": "Dewan Undangan Negeri"
+        },
+        {
+          "id": "C",
+          "text": "Sultan"
+        },
+        {
+          "id": "D",
+          "text": "Yang di-Pertua Negeri"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Dewan Undangan Negeri: Badan wakil rakyat yang menggubal undang-undang negeri.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q029",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Apakah fungsi Parlimen yang ditunjukkan?\n\nRang undang-undang dibincang sebelum menjadi undang-undang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengawasan eksekutif"
+        },
+        {
+          "id": "B",
+          "text": "Perundangan"
+        },
+        {
+          "id": "C",
+          "text": "Perbahasan dasar"
+        },
+        {
+          "id": "D",
+          "text": "Kelulusan perbelanjaan"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Perundangan: Rang undang-undang dibincang sebelum menjadi undang-undang.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q030",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Apakah fungsi Parlimen yang ditunjukkan?\n\nWakil menilai arah tindakan kerajaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengawasan eksekutif"
+        },
+        {
+          "id": "B",
+          "text": "Perundangan"
+        },
+        {
+          "id": "C",
+          "text": "Perbahasan dasar"
+        },
+        {
+          "id": "D",
+          "text": "Kelulusan perbelanjaan"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Perbahasan dasar: Wakil menilai arah tindakan kerajaan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q031",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Apakah fungsi Parlimen yang ditunjukkan?\n\nBelanjawan diteliti melalui proses persidangan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengawasan eksekutif"
+        },
+        {
+          "id": "B",
+          "text": "Perundangan"
+        },
+        {
+          "id": "C",
+          "text": "Perbahasan dasar"
+        },
+        {
+          "id": "D",
+          "text": "Kelulusan perbelanjaan"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kelulusan perbelanjaan: Belanjawan diteliti melalui proses persidangan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q032",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Apakah fungsi Parlimen yang ditunjukkan?\n\nSoalan dikemukakan kepada menteri tentang pelaksanaan tugas.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pengawasan eksekutif"
+        },
+        {
+          "id": "B",
+          "text": "Perundangan"
+        },
+        {
+          "id": "C",
+          "text": "Perbahasan dasar"
+        },
+        {
+          "id": "D",
+          "text": "Kelulusan perbelanjaan"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Pengawasan eksekutif: Soalan dikemukakan kepada menteri tentang pelaksanaan tugas.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q033",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Kenal pasti amalan demokrasi.\n\nPandangan disampaikan melalui saluran yang dibenarkan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebebasan bersuara menurut undang-undang"
+        },
+        {
+          "id": "B",
+          "text": "Penyertaan rakyat"
+        },
+        {
+          "id": "C",
+          "text": "Pengundian rahsia"
+        },
+        {
+          "id": "D",
+          "text": "Menghormati keputusan sah"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Kebebasan bersuara menurut undang-undang: Pandangan disampaikan melalui saluran yang dibenarkan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q034",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Kenal pasti amalan demokrasi.\n\nMasyarakat mengambil bahagian dalam proses awam.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebebasan bersuara menurut undang-undang"
+        },
+        {
+          "id": "B",
+          "text": "Penyertaan rakyat"
+        },
+        {
+          "id": "C",
+          "text": "Pengundian rahsia"
+        },
+        {
+          "id": "D",
+          "text": "Menghormati keputusan sah"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Penyertaan rakyat: Masyarakat mengambil bahagian dalam proses awam.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q035",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Kenal pasti amalan demokrasi.\n\nPilihan seseorang tidak perlu diketahui orang lain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebebasan bersuara menurut undang-undang"
+        },
+        {
+          "id": "B",
+          "text": "Penyertaan rakyat"
+        },
+        {
+          "id": "C",
+          "text": "Pengundian rahsia"
+        },
+        {
+          "id": "D",
+          "text": "Menghormati keputusan sah"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pengundian rahsia: Pilihan seseorang tidak perlu diketahui orang lain.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q036",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Kenal pasti amalan demokrasi.\n\nKeputusan yang dibuat mengikut aturan diterima melalui proses perlembagaan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kebebasan bersuara menurut undang-undang"
+        },
+        {
+          "id": "B",
+          "text": "Penyertaan rakyat"
+        },
+        {
+          "id": "C",
+          "text": "Pengundian rahsia"
+        },
+        {
+          "id": "D",
+          "text": "Menghormati keputusan sah"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Menghormati keputusan sah: Keputusan yang dibuat mengikut aturan diterima melalui proses perlembagaan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q037",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Apakah kepentingan gabungan sistem Malaysia?\n\nInstitusi beraja diteruskan dalam negara moden.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perwakilan rakyat"
+        },
+        {
+          "id": "B",
+          "text": "Kestabilan institusi"
+        },
+        {
+          "id": "C",
+          "text": "Pembatasan kuasa"
+        },
+        {
+          "id": "D",
+          "text": "Kesinambungan sejarah"
+        }
+      ],
+      "correctOptionId": "D",
+      "explanation": "Kesinambungan sejarah: Institusi beraja diteruskan dalam negara moden.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q038",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Apakah kepentingan gabungan sistem Malaysia?\n\nWakil terpilih membawa keperluan masyarakat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perwakilan rakyat"
+        },
+        {
+          "id": "B",
+          "text": "Kestabilan institusi"
+        },
+        {
+          "id": "C",
+          "text": "Pembatasan kuasa"
+        },
+        {
+          "id": "D",
+          "text": "Kesinambungan sejarah"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "Perwakilan rakyat: Wakil terpilih membawa keperluan masyarakat.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q039",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Apakah kepentingan gabungan sistem Malaysia?\n\nAturan perlembagaan menyediakan proses pemerintahan yang tetap.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perwakilan rakyat"
+        },
+        {
+          "id": "B",
+          "text": "Kestabilan institusi"
+        },
+        {
+          "id": "C",
+          "text": "Pembatasan kuasa"
+        },
+        {
+          "id": "D",
+          "text": "Kesinambungan sejarah"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "Kestabilan institusi: Aturan perlembagaan menyediakan proses pemerintahan yang tetap.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "t5-b03-q040",
+      "form": 5,
+      "chapter": 3,
+      "prompt": "Apakah kepentingan gabungan sistem Malaysia?\n\nTiada badan wajar bertindak di luar bidang yang diberikan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perwakilan rakyat"
+        },
+        {
+          "id": "B",
+          "text": "Kestabilan institusi"
+        },
+        {
+          "id": "C",
+          "text": "Pembatasan kuasa"
+        },
+        {
+          "id": "D",
+          "text": "Kesinambungan sejarah"
+        }
+      ],
+      "correctOptionId": "C",
+      "explanation": "Pembatasan kuasa: Tiada badan wajar bertindak di luar bidang yang diberikan.",
+      "tags": [
+        "padanan",
+        "bab-3"
+      ]
+    }
+  ]
+}
