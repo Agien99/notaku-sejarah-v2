@@ -134,7 +134,9 @@ void main() {
     },
   );
 
-  testWidgets('failed save retries the same record and protects unsaved exit', (tester) async {
+  testWidgets('failed save retries the same record and protects unsaved exit', (
+    tester,
+  ) async {
     final repository = _FailingRecordsRepository();
     await openAttempt(tester, recordsRepository: repository);
     for (var i = 0; i < 15; i++) {
@@ -145,11 +147,20 @@ void main() {
     await tester.tap(find.text('Hantar'));
     await tester.pumpAndSettle();
     expect(find.text('Simpan semula'), findsOneWidget);
-    expect(tester.widget<OutlinedButton>(
-      find.widgetWithText(OutlinedButton, 'Cuba semula')).onPressed, isNull);
+    expect(
+      tester
+          .widget<OutlinedButton>(
+            find.widgetWithText(OutlinedButton, 'Cuba semula'),
+          )
+          .onPressed,
+      isNull,
+    );
     await tester.binding.handlePopRoute();
     await tester.pumpAndSettle();
-    expect(find.textContaining('Keputusan belum disimpan. Keluar'), findsOneWidget);
+    expect(
+      find.textContaining('Keputusan belum disimpan. Keluar'),
+      findsOneWidget,
+    );
     await tester.tap(find.text('Teruskan kuiz'));
     await tester.pumpAndSettle();
     repository.fail = false;
@@ -240,7 +251,6 @@ class _LoadedRepository extends QuizRepository {
     required int chapter,
   }) async => questions;
 }
-
 
 class _FailingRecordsRepository extends RecordsRepository {
   bool fail = true;
