@@ -10,7 +10,9 @@ void main() {
     SharedPreferences.setMockInitialValues({});
   });
 
-  testWidgets('opens Lagi and shows settings about and credits', (tester) async {
+  testWidgets('opens Lagi and shows settings about and credits', (
+    tester,
+  ) async {
     tester.view.devicePixelRatio = 1;
     tester.view.physicalSize = const Size(390, 844);
     addTearDown(tester.view.reset);
