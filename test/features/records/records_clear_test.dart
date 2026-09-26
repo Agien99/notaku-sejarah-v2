@@ -1,7 +1,9 @@
+import 'dart:io';
+
 import 'package:flutter_test/flutter_test.dart';
 import 'package:notaku_sejarah_v2/features/records/data/records_repository.dart';
 import 'package:notaku_sejarah_v2/features/records/domain/quiz_record.dart';
-import 'package:sembast/sembast_memory.dart';
+import 'package:sembast/sembast_io.dart';
 
 QuizRecord _sampleRecord() => QuizRecord(
   id: 'clear-test',
@@ -24,10 +26,13 @@ QuizRecord _sampleRecord() => QuizRecord(
 
 void main() {
   test('clear removes all stored quiz records', () async {
-    final database = await databaseFactoryMemory.openDatabase(
-      'notaku-records-clear-test',
+    final directory = await Directory.systemTemp.createTemp(
+      'notaku-records-clear-',
     );
-    final repository = RecordsRepository(openDatabase: () async => database);
+    final path = '${directory.path}/records.db';
+    final repository = RecordsRepository(
+      openDatabase: () => databaseFactoryIo.openDatabase(path),
+    );
 
     try {
       await repository.save(_sampleRecord());
@@ -42,6 +47,7 @@ void main() {
     } finally {
       await repository.close();
       repository.dispose();
+      await directory.delete(recursive: true);
     }
   });
 }
