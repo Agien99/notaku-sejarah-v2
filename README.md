@@ -6,8 +6,8 @@ A modern, responsive Flutter rebuild of **Notaku Sejarah**.
 
 ## Current phase
 
-**Phase 5 — Kuiz** adds chapter selection, 15 randomized questions per attempt,
-answer navigation, scoring, explanations, retry and exit protection.
+**Phase 6 — Rekod & Statistik** adds persistent local quiz history, saved answer
+review, form/chapter filters, best and average scores, and live home summaries.
 
 - Modern Heritage responsive app shell and Utama
 - Nota by form/chapter with direct chapter navigation
@@ -18,8 +18,10 @@ answer navigation, scoring, explanations, retry and exit protection.
 Every Tingkatan 1–5 chapter has 40 questions; each attempt samples 15 without
 replacement and shuffles the answer choices. The bank focuses on foundational
 recall, matching and understanding, not a full examination-style KBAT assessment.
-Attempts currently live in memory; persistent history and Rekod integration are
-planned for the next phase. See [Phase 5 details](docs/phase-5-kuiz.md).
+Completed attempts are stored locally using Sembast (device database on Android,
+IndexedDB on Web). History is specific to the device/browser; clearing app or
+browser data removes it. See [Phase 6 details](docs/phase-6-records.md) and
+[Phase 5 details](docs/phase-5-kuiz.md).
 
 See [question bank coverage and editorial notes](docs/quiz-bank-coverage.md).
 
@@ -141,3 +143,4 @@ test/
 ```
 
 Feature implementations share the core theme and responsive navigation. Quiz content is stored under `assets/quiz/` and loaded through `QuizRepository`.
+

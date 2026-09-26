@@ -1,4 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:uuid/uuid.dart';
+
+import '../../records/data/records_repository.dart';
+import '../../records/domain/quiz_record.dart';
 
 import '../../../core/theme/app_colors.dart';
 import '../data/quiz_repository.dart';
@@ -11,6 +15,7 @@ class QuizAttemptScreen extends StatefulWidget {
     required this.chapter,
     required this.title,
     required this.repository,
+    this.recordsRepository,
     super.key,
   });
 
@@ -18,6 +23,7 @@ class QuizAttemptScreen extends StatefulWidget {
   final int chapter;
   final String title;
   final QuizRepository repository;
+  final RecordsRepository? recordsRepository;
 
   @override
   State<QuizAttemptScreen> createState() => _QuizAttemptScreenState();
@@ -33,6 +39,32 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
   bool _dialogOpen = false;
   bool _review = false;
   int _index = 0;
+  DateTime? _startedAt;
+  QuizRecord? _record;
+  bool _saving = false;
+  bool _saved = false;
+  bool _saveFailed = false;
+
+  void _startSession(List<QuizQuestion> bank) {
+    _session = QuizSession(bank);
+    _startedAt = DateTime.now().toUtc();
+    _record = null;
+    _saved = false;
+    _saveFailed = false;
+  }
+
+  Future<void> _saveRecord() async {
+    if (_saving || _saved || _record == null) return;
+    setState(() { _saving = true; _saveFailed = false; });
+    try {
+      await (widget.recordsRepository ?? RecordsRepository.instance).save(_record!);
+      if (mounted) setState(() => _saved = true);
+    } catch (_) {
+      if (mounted) setState(() => _saveFailed = true);
+    } finally {
+      if (mounted) setState(() => _saving = false);
+    }
+  }
 
   @override
   void initState() {
@@ -65,7 +97,7 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
               'Bank soalan belum mencukupi. Kuiz memerlukan sekurang-kurangnya '
               '${QuizSession.questionCount} soalan.';
         } else {
-          _session = QuizSession(bank);
+          _startSession(bank);
         }
       });
     } catch (_) {
@@ -82,14 +114,16 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
   }
 
   Future<void> _exit() async {
-    if (_dialogOpen) return;
-    if (_session != null && !_session!.isSubmitted) {
+    if (_dialogOpen || _saving) return;
+    if (_session != null && (!_session!.isSubmitted || !_saved)) {
       _dialogOpen = true;
       final confirmed = await showDialog<bool>(
         context: context,
         builder: (context) => AlertDialog(
           title: const Text('Keluar daripada kuiz?'),
-          content: const Text('Jawapan sesi ini akan hilang jika anda keluar.'),
+          content: Text(_session!.isSubmitted
+              ? 'Keputusan belum disimpan. Keluar sekarang akan kehilangan rekod ini.'
+              : 'Jawapan sesi ini akan hilang jika anda keluar.'),
           actions: [
             TextButton(
               onPressed: () => Navigator.pop(context, false),
@@ -137,15 +171,28 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
     );
     _dialogOpen = false;
     if (!mounted || confirmed != true) return;
-    setState(session.submit);
+    setState(() {
+      session.submit();
+      final completedAt = DateTime.now().toUtc();
+      _record = QuizRecord.fromSession(
+        id: const Uuid().v4(),
+        form: widget.form,
+        chapter: widget.chapter,
+        title: widget.title,
+        startedAt: _startedAt!.isAfter(completedAt) ? completedAt : _startedAt!,
+        completedAt: completedAt,
+        session: session,
+      );
+    });
     _scrollToTop();
+    await _saveRecord();
   }
 
   @override
   Widget build(BuildContext context) {
     final session = _session;
     return PopScope<void>(
-      canPop: _allowExit || session == null || session.isSubmitted,
+      canPop: _allowExit || session == null || (session.isSubmitted && _saved),
       onPopInvokedWithResult: (didPop, result) {
         if (!didPop) _exit();
       },
@@ -320,6 +367,13 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
         ),
         const SizedBox(height: 8),
         Text(widget.title),
+        const SizedBox(height: 16),
+        if (_saving) const Text('Menyimpan keputusan…'),
+        if (_saved) const Text('Keputusan disimpan dalam Rekod.'),
+        if (_saveFailed) ...[
+          const Text('Keputusan belum disimpan. Sila cuba simpan semula sebelum keluar.'),
+          OutlinedButton(onPressed: _saveRecord, child: const Text('Simpan semula')),
+        ],
         const SizedBox(height: 24),
         Card(
           child: Padding(
@@ -347,9 +401,9 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
               child: Text(_review ? 'Tutup semakan' : 'Semak jawapan'),
             ),
             OutlinedButton(
-              onPressed: () {
+              onPressed: !_saved || _saving ? null : () {
                 setState(() {
-                  _session = QuizSession(_bank!);
+                  _startSession(_bank!);
                   _index = 0;
                   _review = false;
                 });
@@ -403,3 +457,4 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
     );
   }
 }
+
