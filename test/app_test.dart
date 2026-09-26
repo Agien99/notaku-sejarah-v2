@@ -19,6 +19,7 @@ void main() {
     addTearDown(tester.view.reset);
 
     await tester.pumpWidget(const NotakuSejarahApp());
+    await tester.pumpAndSettle();
 
     expect(find.byKey(const ValueKey('screen-utama')), findsOneWidget);
     expect(find.text('NOTAKU SEJARAH'), findsOneWidget);
@@ -48,6 +49,7 @@ void main() {
     addTearDown(tester.view.reset);
 
     await tester.pumpWidget(const NotakuSejarahApp());
+    await tester.pumpAndSettle();
 
     await tester.tap(find.byTooltip('Tentang Notaku Sejarah'));
     await tester.pumpAndSettle();
@@ -70,6 +72,7 @@ void main() {
     addTearDown(tester.view.reset);
 
     await tester.pumpWidget(const NotakuSejarahApp());
+    await tester.pumpAndSettle();
 
     await tester.tap(navigationLabel('Nota'));
     await tester.pumpAndSettle();
@@ -87,7 +90,7 @@ void main() {
     await tester.pumpAndSettle();
 
     expect(find.byKey(const ValueKey('screen-rekod')), findsOneWidget);
-    expect(find.text('Rekod pembelajaran'), findsOneWidget);
+    expect(find.text('Rekod & Statistik'), findsOneWidget);
   });
 
   testWidgets('Utama quick actions open their destinations', (tester) async {
@@ -96,6 +99,7 @@ void main() {
     addTearDown(tester.view.reset);
 
     await tester.pumpWidget(const NotakuSejarahApp());
+    await tester.pumpAndSettle();
 
     await tester.ensureVisible(find.byKey(const ValueKey('quick-action-nota')));
     await tester.tap(find.byKey(const ValueKey('quick-action-nota')));
@@ -128,6 +132,7 @@ void main() {
     addTearDown(tester.view.reset);
 
     await tester.pumpWidget(const NotakuSejarahApp());
+    await tester.pumpAndSettle();
 
     await tester.ensureVisible(find.text('Mula dengan Nota'));
     await tester.tap(find.text('Mula dengan Nota'));
@@ -153,6 +158,7 @@ void main() {
     addTearDown(tester.view.reset);
 
     await tester.pumpWidget(const NotakuSejarahApp());
+    await tester.pumpAndSettle();
 
     await tester.tap(navigationLabel('Kuiz'));
     await tester.pumpAndSettle();
@@ -193,6 +199,7 @@ void main() {
     addTearDown(tester.view.reset);
 
     await tester.pumpWidget(const NotakuSejarahApp());
+    await tester.pumpAndSettle();
 
     final rail = tester.widget<NavigationRail>(find.byType(NavigationRail));
 
@@ -240,6 +247,7 @@ void main() {
     addTearDown(tester.view.reset);
 
     await tester.pumpWidget(const NotakuSejarahApp());
+    await tester.pumpAndSettle();
 
     expect(find.byType(NavigationBar), findsOneWidget);
     expect(find.byType(NavigationRail), findsNothing);
@@ -251,6 +259,7 @@ void main() {
     addTearDown(tester.view.reset);
 
     await tester.pumpWidget(const NotakuSejarahApp());
+    await tester.pumpAndSettle();
 
     final rail = tester.widget<NavigationRail>(find.byType(NavigationRail));
     expect(rail.extended, isFalse);
@@ -262,6 +271,7 @@ void main() {
     addTearDown(tester.view.reset);
 
     await tester.pumpWidget(const NotakuSejarahApp());
+    await tester.pumpAndSettle();
 
     final rail = tester.widget<NavigationRail>(find.byType(NavigationRail));
     expect(rail.extended, isFalse);
@@ -273,6 +283,7 @@ void main() {
     addTearDown(tester.view.reset);
 
     await tester.pumpWidget(const NotakuSejarahApp());
+    await tester.pumpAndSettle();
 
     final rail = tester.widget<NavigationRail>(find.byType(NavigationRail));
 

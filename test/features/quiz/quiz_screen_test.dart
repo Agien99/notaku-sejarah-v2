@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:notaku_sejarah_v2/features/records/data/records_repository.dart';
+import 'package:notaku_sejarah_v2/features/records/domain/quiz_record.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:notaku_sejarah_v2/core/theme/app_theme.dart';
 import 'package:notaku_sejarah_v2/features/quiz/data/quiz_repository.dart';
@@ -10,6 +12,7 @@ void main() {
   Future<void> openAttempt(
     WidgetTester tester, {
     QuizRepository? repository,
+    RecordsRepository? recordsRepository,
   }) async {
     final loadedRepository =
         repository ??
@@ -31,6 +34,7 @@ void main() {
                     chapter: 1,
                     title: 'Mengenali Sejarah',
                     repository: loadedRepository,
+                    recordsRepository: recordsRepository,
                   ),
                 ),
               ),
@@ -116,6 +120,9 @@ void main() {
       await tester.tap(find.text('Hantar'));
       await tester.pumpAndSettle();
       expect(find.text('Keputusan Kuiz'), findsOneWidget);
+      expect(RecordsRepository.instance.records, hasLength(1));
+      expect(RecordsRepository.instance.records.single.total, 15);
+      expect(find.text('Keputusan disimpan dalam Rekod.'), findsOneWidget);
       await tapVisible(tester, find.text('Semak jawapan'));
       expect(find.textContaining('Jawapan betul:'), findsNWidgets(15));
       expect(find.textContaining('Jawapan anda:'), findsNWidgets(15));
@@ -126,6 +133,44 @@ void main() {
       expect(tester.takeException(), isNull);
     },
   );
+
+  testWidgets('failed save retries the same record and protects unsaved exit', (
+    tester,
+  ) async {
+    final repository = _FailingRecordsRepository();
+    await openAttempt(tester, recordsRepository: repository);
+    for (var i = 0; i < 15; i++) {
+      await tapVisible(tester, find.byKey(const ValueKey('answer-0')));
+      if (i < 14) await tapVisible(tester, find.text('Seterusnya'));
+    }
+    await tapVisible(tester, find.text('Hantar jawapan'));
+    await tester.tap(find.text('Hantar'));
+    await tester.pumpAndSettle();
+    expect(find.text('Simpan semula'), findsOneWidget);
+    expect(
+      tester
+          .widget<OutlinedButton>(
+            find.widgetWithText(OutlinedButton, 'Cuba semula'),
+          )
+          .onPressed,
+      isNull,
+    );
+    await tester.binding.handlePopRoute();
+    await tester.pumpAndSettle();
+    expect(
+      find.textContaining('Keputusan belum disimpan. Keluar'),
+      findsOneWidget,
+    );
+    await tester.tap(find.text('Teruskan kuiz'));
+    await tester.pumpAndSettle();
+    repository.fail = false;
+    await tapVisible(tester, find.text('Simpan semula'));
+    expect(find.text('Keputusan disimpan dalam Rekod.'), findsOneWidget);
+    expect(repository.ids, hasLength(2));
+    expect(repository.ids.toSet(), hasLength(1));
+    expect(RecordsRepository.instance.records, hasLength(1));
+    repository.dispose();
+  });
 
   testWidgets('system back asks before discarding an active attempt', (
     tester,
@@ -142,6 +187,7 @@ void main() {
     await tester.tap(find.text('Keluar'));
     await tester.pumpAndSettle();
     expect(find.text('Mula'), findsOneWidget);
+    expect(RecordsRepository.instance.records, isEmpty);
   });
 
   testWidgets('shows a retryable load error and rejects undersized banks', (
@@ -204,4 +250,16 @@ class _LoadedRepository extends QuizRepository {
     required int form,
     required int chapter,
   }) async => questions;
+}
+
+class _FailingRecordsRepository extends RecordsRepository {
+  bool fail = true;
+  final List<String> ids = [];
+
+  @override
+  Future<void> save(QuizRecord record) async {
+    ids.add(record.id);
+    if (fail) throw StateError('Simulated write failure');
+    await RecordsRepository.instance.save(record);
+  }
 }
