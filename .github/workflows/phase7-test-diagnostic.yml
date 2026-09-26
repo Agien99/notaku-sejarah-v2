@@ -1,0 +1,53 @@
+name: Phase 7 Test Diagnostic
+
+on:
+  push:
+    branches:
+      - phase-7-about-settings-credits
+
+env:
+  FLUTTER_VERSION: "3.47.5"
+
+permissions:
+  contents: read
+
+jobs:
+  isolate:
+    name: Test ${{ matrix.name }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: app-settings
+            file: test/features/more/app_settings_controller_test.dart
+          - name: more-integration
+            file: test/features/more/more_integration_test.dart
+          - name: more-screen
+            file: test/features/more/more_screen_test.dart
+          - name: records-clear
+            file: test/features/records/records_clear_test.dart
+          - name: existing-app
+            file: test/app_test.dart
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          channel: stable
+          cache: true
+
+      - name: Generate platform scaffolding
+        run: flutter create . --empty --platforms=android,web --org com.digitechgien --project-name notaku_sejarah_v2
+
+      - name: Get dependencies
+        run: flutter pub get
+
+      - name: Run isolated test
+        run: flutter test ${{ matrix.file }} --reporter expanded
