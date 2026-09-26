@@ -187,25 +187,18 @@ class _PageHeader extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          const Icon(
-            Icons.tune_rounded,
-            color: AppColors.goldSoft,
-            size: 32,
-          ),
+          const Icon(Icons.tune_rounded, color: AppColors.goldSoft, size: 32),
           const SizedBox(height: AppSpacing.md),
           Text(
             'Lagi',
-            style: Theme.of(context).textTheme.headlineMedium?.copyWith(
-              color: AppColors.white,
-              fontWeight: FontWeight.w800,
-            ),
+            style: Theme.of(context).textTheme.headlineMedium
+                ?.copyWith(color: AppColors.white, fontWeight: FontWeight.w800),
           ),
           const SizedBox(height: AppSpacing.xs),
           Text(
             'Urus tetapan aplikasi dan lihat maklumat Notaku Sejarah.',
-            style: Theme.of(context).textTheme.bodyLarge?.copyWith(
-              color: AppColors.goldSoft,
-            ),
+            style: Theme.of(context).textTheme.bodyLarge
+                ?.copyWith(color: AppColors.goldSoft),
           ),
         ],
       ),
@@ -234,10 +227,8 @@ class _SettingsCard extends StatelessWidget {
       children: [
         Text(
           'Saiz teks aplikasi',
-          style: Theme.of(context).textTheme.titleMedium?.copyWith(
-            color: AppColors.navy,
-            fontWeight: FontWeight.w800,
-          ),
+          style: Theme.of(context).textTheme.titleMedium
+              ?.copyWith(color: AppColors.navy, fontWeight: FontWeight.w800),
         ),
         const SizedBox(height: AppSpacing.xs),
         Text(
@@ -267,10 +258,8 @@ class _SettingsCard extends StatelessWidget {
         const SizedBox(height: AppSpacing.md),
         Text(
           'Rekod kuiz',
-          style: Theme.of(context).textTheme.titleMedium?.copyWith(
-            color: AppColors.navy,
-            fontWeight: FontWeight.w800,
-          ),
+          style: Theme.of(context).textTheme.titleMedium
+              ?.copyWith(color: AppColors.navy, fontWeight: FontWeight.w800),
         ),
         const SizedBox(height: AppSpacing.xs),
         Text(
@@ -449,9 +438,8 @@ class _BrandMark extends StatelessWidget {
               const SizedBox(height: AppSpacing.xxs),
               Text(
                 'MODERN HERITAGE',
-                style: Theme.of(context).textTheme.labelLarge?.copyWith(
-                  color: AppColors.royalBlue,
-                ),
+                style: Theme.of(context).textTheme.labelLarge
+                    ?.copyWith(color: AppColors.royalBlue),
               ),
             ],
           ),
