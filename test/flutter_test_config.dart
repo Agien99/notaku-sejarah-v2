@@ -3,10 +3,12 @@ import 'dart:async';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:notaku_sejarah_v2/features/records/data/records_repository.dart';
 import 'package:notaku_sejarah_v2/features/records/domain/quiz_record.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 Future<void> testExecutable(FutureOr<void> Function() testMain) async {
   setUp(() {
     RecordsRepository.instance = _WidgetRecordsRepository();
+    SharedPreferences.setMockInitialValues({});
   });
   tearDown(() async {
     await RecordsRepository.instance.close();
@@ -15,7 +17,7 @@ Future<void> testExecutable(FutureOr<void> Function() testMain) async {
   await testMain();
 }
 
-/// Widget tests use a deterministic repository without database I/O timers.
+/// Widget tests use deterministic local stores without platform I/O timers.
 /// Real Sembast transactions and disk reopen are tested in repository tests.
 class _WidgetRecordsRepository extends RecordsRepository {
   _WidgetRecordsRepository() {
