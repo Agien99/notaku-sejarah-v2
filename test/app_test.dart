@@ -185,7 +185,6 @@ void main() {
 
     await tester.pumpWidget(const NotakuSejarahApp());
     await tester.pumpAndSettle();
-    await tester.pumpAndSettle();
 
     expect(find.byType(NavigationRail), findsOneWidget);
     expect(find.byKey(const ValueKey('section-pintasan')), findsOneWidget);
@@ -224,7 +223,6 @@ void main() {
     addTearDown(tester.view.reset);
 
     await tester.pumpWidget(const NotakuSejarahApp());
-    await tester.pumpAndSettle();
     await tester.pumpAndSettle();
 
     final rail = tester.widget<NavigationRail>(find.byType(NavigationRail));
