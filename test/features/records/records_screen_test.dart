@@ -21,8 +21,10 @@ void main() {
       addTearDown(tester.view.reset);
       addTearDown(tester.platformDispatcher.clearTextScaleFactorTestValue);
       final repository = RecordsRepository.instance;
-      await repository.save(sampleRecord('first'));
-      await repository.save(sampleRecord('second', form: 2, day: 2));
+      await tester.runAsync(() async {
+        await repository.save(sampleRecord('first'));
+        await repository.save(sampleRecord('second', form: 2, day: 2));
+      });
       await tester.pumpWidget(
         MaterialApp(
           home: Scaffold(
@@ -68,7 +70,9 @@ void main() {
       find.byKey(const ValueKey('latest-performance-empty')),
       findsOneWidget,
     );
-    await RecordsRepository.instance.save(sampleRecord('new-result'));
+    await tester.runAsync(
+      () => RecordsRepository.instance.save(sampleRecord('new-result')),
+    );
     await tester.pumpAndSettle();
     expect(
       find.byKey(const ValueKey('latest-performance-empty')),
