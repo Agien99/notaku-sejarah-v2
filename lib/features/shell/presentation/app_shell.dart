@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 
 import '../../../core/responsive/adaptive_navigation_scaffold.dart';
 import '../../home/presentation/utama_screen.dart';
+import '../../more/application/app_settings_controller.dart';
+import '../../more/presentation/more_screen.dart';
 import '../../notes/presentation/notes_screen.dart';
 import '../../quiz/presentation/quiz_screen.dart';
 import '../../records/presentation/records_screen.dart';
@@ -28,10 +30,17 @@ const _appDestinations = [
     icon: Icons.history_outlined,
     selectedIcon: Icons.history_rounded,
   ),
+  AdaptiveNavigationDestination(
+    label: 'Lagi',
+    icon: Icons.tune_outlined,
+    selectedIcon: Icons.tune_rounded,
+  ),
 ];
 
 class AppShell extends StatefulWidget {
-  const AppShell({super.key});
+  const AppShell({required this.settingsController, super.key});
+
+  final AppSettingsController settingsController;
 
   @override
   State<AppShell> createState() => _AppShellState();
@@ -50,6 +59,10 @@ class _AppShellState extends State<AppShell> {
     const NotesScreen(key: ValueKey('screen-nota')),
     const QuizScreen(key: ValueKey('screen-kuiz')),
     const RecordsScreen(key: ValueKey('screen-rekod')),
+    MoreScreen(
+      key: const ValueKey('screen-lagi'),
+      settingsController: widget.settingsController,
+    ),
   ];
 
   void _selectDestination(int index) {

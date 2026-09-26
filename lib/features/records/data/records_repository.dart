@@ -61,6 +61,15 @@ class RecordsRepository extends ChangeNotifier {
     await load();
   }
 
+  Future<void> clear() async {
+    final database = await _open();
+    await _store.delete(database);
+    _records = const [];
+    loaded = true;
+    error = null;
+    notifyListeners();
+  }
+
   Future<void> close() async {
     await _loading;
     final pending = _database;
