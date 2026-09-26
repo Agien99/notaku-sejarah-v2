@@ -26,6 +26,11 @@ QuizRecord _sampleRecord() => QuizRecord(
   ],
 );
 
+Future<void> _pumpUi(WidgetTester tester) async {
+  await tester.pump();
+  await tester.pump(const Duration(milliseconds: 350));
+}
+
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
 
@@ -58,22 +63,24 @@ void main() {
         ),
       ),
     );
-    await tester.pumpAndSettle();
+    await _pumpUi(tester);
 
     final clearButton = find.byKey(const ValueKey('clear-records-button'));
     await tester.ensureVisible(clearButton);
     await tester.tap(clearButton);
-    await tester.pumpAndSettle();
+    await _pumpUi(tester);
 
     expect(find.text('Padam semua rekod kuiz?'), findsOneWidget);
     expect(recordsRepository.records, hasLength(1));
 
     await tester.tap(find.text('Padam rekod'));
-    await tester.pumpAndSettle();
+    await _pumpUi(tester);
 
     expect(recordsRepository.records, isEmpty);
     expect(find.text('Semua rekod kuiz telah dipadam.'), findsOneWidget);
 
+    await tester.pumpWidget(const SizedBox.shrink());
+    await tester.pump();
     settingsController.dispose();
     await recordsRepository.close();
     recordsRepository.dispose();
