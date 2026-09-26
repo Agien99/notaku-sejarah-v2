@@ -3,6 +3,11 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:notaku_sejarah_v2/app/app.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+Future<void> _pumpUi(WidgetTester tester) async {
+  await tester.pump();
+  await tester.pump(const Duration(milliseconds: 350));
+}
+
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
 
@@ -18,7 +23,7 @@ void main() {
     addTearDown(tester.view.reset);
 
     await tester.pumpWidget(const NotakuSejarahApp());
-    await tester.pumpAndSettle();
+    await _pumpUi(tester);
 
     await tester.tap(
       find.descendant(
@@ -26,7 +31,7 @@ void main() {
         matching: find.text('Lagi'),
       ),
     );
-    await tester.pumpAndSettle();
+    await _pumpUi(tester);
 
     expect(find.byKey(const ValueKey('screen-lagi')), findsOneWidget);
     expect(find.text('Tetapan'), findsOneWidget);
@@ -44,7 +49,7 @@ void main() {
     addTearDown(tester.view.reset);
 
     await tester.pumpWidget(const NotakuSejarahApp());
-    await tester.pumpAndSettle();
+    await _pumpUi(tester);
 
     await tester.tap(
       find.descendant(
@@ -52,11 +57,11 @@ void main() {
         matching: find.text('Lagi'),
       ),
     );
-    await tester.pumpAndSettle();
+    await _pumpUi(tester);
 
     await tester.ensureVisible(find.text('Besar'));
     await tester.tap(find.text('Besar'));
-    await tester.pumpAndSettle();
+    await _pumpUi(tester);
 
     final mediaQuery = tester.widget<MediaQuery>(find.byType(MediaQuery).last);
     expect(mediaQuery.data.textScaler.scale(16), closeTo(18.4, 0.001));
