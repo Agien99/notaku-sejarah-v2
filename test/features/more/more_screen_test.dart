@@ -4,7 +4,6 @@ import 'package:notaku_sejarah_v2/features/more/application/app_settings_control
 import 'package:notaku_sejarah_v2/features/more/presentation/more_screen.dart';
 import 'package:notaku_sejarah_v2/features/records/data/records_repository.dart';
 import 'package:notaku_sejarah_v2/features/records/domain/quiz_record.dart';
-import 'package:sembast/sembast_memory.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 QuizRecord _sampleRecord() => QuizRecord(
@@ -26,6 +25,29 @@ QuizRecord _sampleRecord() => QuizRecord(
   ],
 );
 
+class _FakeRecordsRepository extends RecordsRepository {
+  _FakeRecordsRepository() : _records = [_sampleRecord()] {
+    loaded = true;
+  }
+
+  List<QuizRecord> _records;
+
+  @override
+  List<QuizRecord> get records => List.unmodifiable(_records);
+
+  @override
+  Future<void> load() async {}
+
+  @override
+  Future<void> clear() async {
+    _records = const [];
+    notifyListeners();
+  }
+
+  @override
+  Future<void> close() async {}
+}
+
 Future<void> _pumpUi(WidgetTester tester) async {
   await tester.pump();
   await tester.pump(const Duration(milliseconds: 350));
@@ -41,15 +63,8 @@ void main() {
   testWidgets('requires confirmation before clearing quiz records', (
     tester,
   ) async {
-    final database = await databaseFactoryMemory.openDatabase(
-      'more-screen-reset-test',
-    );
-    final recordsRepository = RecordsRepository(
-      openDatabase: () async => database,
-    );
+    final recordsRepository = _FakeRecordsRepository();
     final settingsController = AppSettingsController();
-
-    await recordsRepository.save(_sampleRecord());
 
     await tester.pumpWidget(
       MaterialApp(
@@ -82,7 +97,6 @@ void main() {
     await tester.pumpWidget(const SizedBox.shrink());
     await tester.pump();
     settingsController.dispose();
-    await recordsRepository.close();
     recordsRepository.dispose();
   });
 }
