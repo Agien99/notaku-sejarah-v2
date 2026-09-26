@@ -20,22 +20,26 @@ class RecentActivitySection extends StatelessWidget {
           subtitle: 'Aktiviti pembelajaran terbaru akan muncul di sini.',
         ),
         const SizedBox(height: AppSpacing.md),
-        RecordsBuilder(builder: (context, repository) {
-          if (repository.records.isNotEmpty) {
-            return Column(children: [
-              for (final record in repository.records.take(3)) RecordTile(record: record),
-            ]);
-          }
-          return const UtamaEmptyStateCard(
-          key: ValueKey('recent-activity-empty'),
-          icon: Icons.timeline_rounded,
-          title: 'Belum ada aktiviti terkini',
-          description:
-              'Selesaikan kuiz untuk melihat aktiviti terbaru di sini.',
-        );
-        }),
+        RecordsBuilder(
+          builder: (context, repository) {
+            if (repository.records.isNotEmpty) {
+              return Column(
+                children: [
+                  for (final record in repository.records.take(3))
+                    RecordTile(record: record),
+                ],
+              );
+            }
+            return const UtamaEmptyStateCard(
+              key: ValueKey('recent-activity-empty'),
+              icon: Icons.timeline_rounded,
+              title: 'Belum ada aktiviti terkini',
+              description:
+                  'Selesaikan kuiz untuk melihat aktiviti terbaru di sini.',
+            );
+          },
+        ),
       ],
     );
   }
 }
-

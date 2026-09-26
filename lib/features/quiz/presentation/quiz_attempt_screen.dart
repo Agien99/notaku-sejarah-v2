@@ -55,9 +55,14 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
 
   Future<void> _saveRecord() async {
     if (_saving || _saved || _record == null) return;
-    setState(() { _saving = true; _saveFailed = false; });
+    setState(() {
+      _saving = true;
+      _saveFailed = false;
+    });
     try {
-      await (widget.recordsRepository ?? RecordsRepository.instance).save(_record!);
+      await (widget.recordsRepository ?? RecordsRepository.instance).save(
+        _record!,
+      );
       if (mounted) setState(() => _saved = true);
     } catch (_) {
       if (mounted) setState(() => _saveFailed = true);
@@ -121,9 +126,11 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
         context: context,
         builder: (context) => AlertDialog(
           title: const Text('Keluar daripada kuiz?'),
-          content: Text(_session!.isSubmitted
-              ? 'Keputusan belum disimpan. Keluar sekarang akan kehilangan rekod ini.'
-              : 'Jawapan sesi ini akan hilang jika anda keluar.'),
+          content: Text(
+            _session!.isSubmitted
+                ? 'Keputusan belum disimpan. Keluar sekarang akan kehilangan rekod ini.'
+                : 'Jawapan sesi ini akan hilang jika anda keluar.',
+          ),
           actions: [
             TextButton(
               onPressed: () => Navigator.pop(context, false),
@@ -371,8 +378,13 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
         if (_saving) const Text('Menyimpan keputusan…'),
         if (_saved) const Text('Keputusan disimpan dalam Rekod.'),
         if (_saveFailed) ...[
-          const Text('Keputusan belum disimpan. Sila cuba simpan semula sebelum keluar.'),
-          OutlinedButton(onPressed: _saveRecord, child: const Text('Simpan semula')),
+          const Text(
+            'Keputusan belum disimpan. Sila cuba simpan semula sebelum keluar.',
+          ),
+          OutlinedButton(
+            onPressed: _saveRecord,
+            child: const Text('Simpan semula'),
+          ),
         ],
         const SizedBox(height: 24),
         Card(
@@ -401,14 +413,16 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
               child: Text(_review ? 'Tutup semakan' : 'Semak jawapan'),
             ),
             OutlinedButton(
-              onPressed: !_saved || _saving ? null : () {
-                setState(() {
-                  _startSession(_bank!);
-                  _index = 0;
-                  _review = false;
-                });
-                _scrollToTop();
-              },
+              onPressed: !_saved || _saving
+                  ? null
+                  : () {
+                      setState(() {
+                        _startSession(_bank!);
+                        _index = 0;
+                        _review = false;
+                      });
+                      _scrollToTop();
+                    },
               child: const Text('Cuba semula'),
             ),
             TextButton(onPressed: _exit, child: const Text('Kembali ke bab')),
@@ -457,4 +471,3 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
     );
   }
 }
-

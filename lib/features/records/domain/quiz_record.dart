@@ -81,16 +81,23 @@ class QuizRecord {
       title: title,
       startedAt: startedAt,
       completedAt: completedAt,
-      answers: session.questions.map((question) => RecordedAnswer(
-        questionId: question.id,
-        prompt: question.prompt,
-        selectedAnswer: question.options.singleWhere(
-          (option) => option.id == session.answerFor(question),
-        ).text,
-        correctAnswer: question.correctOption.text,
-        isCorrect: session.answerFor(question) == question.correctOptionId,
-        explanation: question.explanation,
-      )).toList(),
+      answers: session.questions
+          .map(
+            (question) => RecordedAnswer(
+              questionId: question.id,
+              prompt: question.prompt,
+              selectedAnswer: question.options
+                  .singleWhere(
+                    (option) => option.id == session.answerFor(question),
+                  )
+                  .text,
+              correctAnswer: question.correctOption.text,
+              isCorrect:
+                  session.answerFor(question) == question.correctOptionId,
+              explanation: question.explanation,
+            ),
+          )
+          .toList(),
     );
   }
 
@@ -116,9 +123,13 @@ class QuizRecord {
       title: json['title'] as String,
       startedAt: DateTime.parse(json['startedAt'] as String),
       completedAt: DateTime.parse(json['completedAt'] as String),
-      answers: (json['answers'] as List<dynamic>).map((answer) =>
-        RecordedAnswer.fromJson(Map<String, dynamic>.from(answer as Map)),
-      ).toList(),
+      answers: (json['answers'] as List<dynamic>)
+          .map(
+            (answer) => RecordedAnswer.fromJson(
+              Map<String, dynamic>.from(answer as Map),
+            ),
+          )
+          .toList(),
     );
   }
 }
@@ -127,9 +138,14 @@ class RecordStatistics {
   RecordStatistics(Iterable<QuizRecord> records) : records = List.of(records);
   final List<QuizRecord> records;
   int get count => records.length;
-  double get average => count == 0 ? 0 :
-      records.fold<double>(0, (sum, record) => sum + record.percentage) / count;
-  double get best => records.fold<double>(0, (best, record) =>
-      record.percentage > best ? record.percentage : best);
-  int get chapters => records.map((r) => '${r.form}:${r.chapter}').toSet().length;
+  double get average => count == 0
+      ? 0
+      : records.fold<double>(0, (sum, record) => sum + record.percentage) /
+            count;
+  double get best => records.fold<double>(
+    0,
+    (best, record) => record.percentage > best ? record.percentage : best,
+  );
+  int get chapters =>
+      records.map((r) => '${r.form}:${r.chapter}').toSet().length;
 }

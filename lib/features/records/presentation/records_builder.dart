@@ -25,13 +25,20 @@ class _RecordsBuilderState extends State<RecordsBuilder> {
     listenable: _repository,
     builder: (context, _) {
       if (_repository.error != null) {
-        return Card(child: Padding(
-          padding: const EdgeInsets.all(16),
-          child: Column(children: [
-            const Text('Rekod tidak dapat dimuatkan. Sila cuba lagi.'),
-            TextButton(onPressed: _repository.load, child: const Text('Cuba lagi')),
-          ]),
-        ));
+        return Card(
+          child: Padding(
+            padding: const EdgeInsets.all(16),
+            child: Column(
+              children: [
+                const Text('Rekod tidak dapat dimuatkan. Sila cuba lagi.'),
+                TextButton(
+                  onPressed: _repository.load,
+                  child: const Text('Cuba lagi'),
+                ),
+              ],
+            ),
+          ),
+        );
       }
       if (!_repository.loaded) {
         return const Padding(

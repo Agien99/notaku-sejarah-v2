@@ -27,15 +27,18 @@ class RecordsRepository extends ChangeNotifier {
     }
   }
 
-  Future<void> load() => _loading ??= _load().whenComplete(() => _loading = null);
+  Future<void> load() =>
+      _loading ??= _load().whenComplete(() => _loading = null);
 
   Future<void> _load() async {
     try {
       final database = await _open();
       final snapshots = await _store.find(database);
-      final records = snapshots.map((snapshot) =>
-        QuizRecord.fromJson(snapshot.value),
-      ).toList()..sort((a, b) => b.completedAt.compareTo(a.completedAt));
+      final records =
+          snapshots
+              .map((snapshot) => QuizRecord.fromJson(snapshot.value))
+              .toList()
+            ..sort((a, b) => b.completedAt.compareTo(a.completedAt));
       _records = List.unmodifiable(records);
       loaded = true;
       error = null;
@@ -54,6 +57,7 @@ class RecordsRepository extends ChangeNotifier {
         await reference.put(transaction, record.toJson());
       }
     });
+    await _loading;
     await load();
   }
 
