@@ -10,6 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  audioplayers: ^6.8.1
   cupertino_icons: ^1.0.8
   path_provider: ^2.1.5
   sembast: ^3.8.5
@@ -20,7 +21,9 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons: ^0.14.4
   flutter_lints: ^6.0.0
+  flutter_native_splash: ^2.4.8
 
 flutter:
   uses-material-design: true
@@ -28,3 +31,10 @@ flutter:
   assets:
     - assets/notes/kssm_2026/
     - assets/quiz/kssm_2026/
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  image_path: "build/brand_assets/app_icon.png"
+  adaptive_icon_background: "#102A43"
+  adaptive_icon_foreground: "build/brand_assets/app_icon_foreground.png"
+  min_sdk_android: 21
