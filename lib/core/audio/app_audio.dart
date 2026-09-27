@@ -34,9 +34,7 @@ class AppAudio {
 
   Uint8List _buildEffect(AppSoundEffect effect) {
     return switch (effect) {
-      AppSoundEffect.answerSelected => _buildWav([
-        const _Tone(740, 0.055),
-      ]),
+      AppSoundEffect.answerSelected => _buildWav([const _Tone(740, 0.055)]),
       AppSoundEffect.quizComplete => _buildWav([
         const _Tone(523.25, 0.10, gapSeconds: 0.018),
         const _Tone(659.25, 0.10, gapSeconds: 0.018),
@@ -65,15 +63,14 @@ class AppAudio {
         final release = math.min(1.0, math.max(0, remaining) / 0.055);
         final envelope = attack * release;
         final fundamental = math.sin(2 * math.pi * tone.frequency * time);
-        final harmonic =
-            0.18 * math.sin(4 * math.pi * tone.frequency * time);
-        final value = ((fundamental + harmonic) * envelope * 0.22)
-            .clamp(-1.0, 1.0);
+        final harmonic = 0.18 * math.sin(4 * math.pi * tone.frequency * time);
+        final value = ((fundamental + harmonic) * envelope * 0.22).clamp(
+          -1.0,
+          1.0,
+        );
         samples.add((value * 32767).round());
       }
-      samples.addAll(
-        List.filled((sampleRate * tone.gapSeconds).round(), 0),
-      );
+      samples.addAll(List.filled((sampleRate * tone.gapSeconds).round(), 0));
     }
 
     final dataLength = samples.length * bytesPerSample;
@@ -108,11 +105,7 @@ class AppAudio {
 }
 
 class _Tone {
-  const _Tone(
-    this.frequency,
-    this.durationSeconds, {
-    this.gapSeconds = 0,
-  });
+  const _Tone(this.frequency, this.durationSeconds, {this.gapSeconds = 0});
 
   final double frequency;
   final double durationSeconds;
