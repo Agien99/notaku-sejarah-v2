@@ -99,4 +99,37 @@ void main() {
     settingsController.dispose();
     recordsRepository.dispose();
   });
+
+  testWidgets('toggles and persists quiz sound preference', (tester) async {
+    final recordsRepository = _FakeRecordsRepository();
+    final settingsController = AppSettingsController();
+
+    await tester.pumpWidget(
+      MaterialApp(
+        home: Scaffold(
+          body: SingleChildScrollView(
+            child: MoreScreen(
+              settingsController: settingsController,
+              recordsRepository: recordsRepository,
+            ),
+          ),
+        ),
+      ),
+    );
+    await _pumpUi(tester);
+
+    final soundToggle = find.byKey(const ValueKey('sound-toggle'));
+    await tester.ensureVisible(soundToggle);
+    await tester.tap(soundToggle);
+    await _pumpUi(tester);
+
+    final preferences = await SharedPreferences.getInstance();
+    expect(settingsController.soundEnabled, isFalse);
+    expect(preferences.getBool('app_sound_enabled'), isFalse);
+
+    await tester.pumpWidget(const SizedBox.shrink());
+    await tester.pump();
+    settingsController.dispose();
+    recordsRepository.dispose();
+  });
 }

@@ -4,8 +4,7 @@ import 'package:notaku_sejarah_v2/app/app.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 Future<void> _pumpUi(WidgetTester tester) async {
-  await tester.pump();
-  await tester.pump(const Duration(milliseconds: 350));
+  await tester.pumpAndSettle();
 }
 
 void main() {

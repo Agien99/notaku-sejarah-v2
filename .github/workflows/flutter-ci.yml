@@ -111,6 +111,15 @@ jobs:
       - name: Get dependencies
         run: flutter pub get
 
+      - name: Generate brand assets
+        run: python3 scripts/generate_brand_assets.py
+
+      - name: Generate Android launcher icons
+        run: dart run flutter_launcher_icons
+
+      - name: Generate Android native splash
+        run: dart run flutter_native_splash:create -p flutter_native_splash_android.yaml
+
       - name: Build debug APK
         run: flutter build apk --debug
 
@@ -158,6 +167,15 @@ jobs:
 
       - name: Generate Web scaffolding
         run: flutter create . --empty --platforms=web --org com.digitechgien --project-name notaku_sejarah_v2
+
+      - name: Get dependencies
+        run: flutter pub get
+
+      - name: Generate brand assets
+        run: python3 scripts/generate_brand_assets.py
+
+      - name: Generate branded web splash
+        run: dart run flutter_native_splash:create -p flutter_native_splash_web.yaml
 
       - name: Configure web preview
         run: |
@@ -210,12 +228,15 @@ jobs:
           )
           PY
 
+          cp build/brand_assets/Icon-192.png web/icons/Icon-192.png
+          cp build/brand_assets/Icon-192.png web/icons/Icon-maskable-192.png
+          cp build/brand_assets/Icon-512.png web/icons/Icon-512.png
+          cp build/brand_assets/Icon-512.png web/icons/Icon-maskable-512.png
+          cp build/brand_assets/favicon.png web/favicon.png
+
           grep -F '<title>Notaku Sejarah</title>' web/index.html
           grep -F '"orientation": "any"' web/manifest.json
-
-
-      - name: Get dependencies
-        run: flutter pub get
+          test -s web/favicon.png
 
       - name: Build web
         run: flutter build web --release --base-href "/notaku-sejarah-v2/" --pwa-strategy=none

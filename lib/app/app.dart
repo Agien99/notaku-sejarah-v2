@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../core/theme/app_theme.dart';
 import '../features/more/application/app_settings_controller.dart';
 import '../features/shell/presentation/app_shell.dart';
+import '../features/startup/presentation/startup_screen.dart';
 
 class NotakuSejarahApp extends StatefulWidget {
   const NotakuSejarahApp({super.key});
@@ -13,6 +14,7 @@ class NotakuSejarahApp extends StatefulWidget {
 
 class _NotakuSejarahAppState extends State<NotakuSejarahApp> {
   late final AppSettingsController _settingsController;
+  bool _startupComplete = false;
 
   @override
   void initState() {
@@ -25,6 +27,16 @@ class _NotakuSejarahAppState extends State<NotakuSejarahApp> {
   void dispose() {
     _settingsController.dispose();
     super.dispose();
+  }
+
+  void _finishStartup() {
+    if (!mounted || _startupComplete) {
+      return;
+    }
+
+    setState(() {
+      _startupComplete = true;
+    });
   }
 
   @override
@@ -48,7 +60,18 @@ class _NotakuSejarahAppState extends State<NotakuSejarahApp> {
               child: child ?? const SizedBox.shrink(),
             );
           },
-          home: AppShell(settingsController: _settingsController),
+          home: AnimatedSwitcher(
+            duration: const Duration(milliseconds: 240),
+            child: _startupComplete
+                ? AppShell(
+                    key: const ValueKey('app-shell'),
+                    settingsController: _settingsController,
+                  )
+                : StartupScreen(
+                    key: const ValueKey('startup'),
+                    onFinished: _finishStartup,
+                  ),
+          ),
         );
       },
     );

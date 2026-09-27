@@ -1,11 +1,14 @@
 import 'dart:async';
 
 import 'package:flutter_test/flutter_test.dart';
+import 'package:notaku_sejarah_v2/core/audio/app_audio.dart';
 import 'package:notaku_sejarah_v2/features/records/data/records_repository.dart';
 import 'package:notaku_sejarah_v2/features/records/domain/quiz_record.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 Future<void> testExecutable(FutureOr<void> Function() testMain) async {
+  AppAudio.instance.setPlaybackSuppressedForTests(true);
+
   setUp(() {
     RecordsRepository.instance = _WidgetRecordsRepository();
     SharedPreferences.setMockInitialValues({});
