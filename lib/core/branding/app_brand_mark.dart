@@ -20,15 +20,6 @@ class AppBrandMark extends StatelessWidget {
       dimension: size,
       child: CustomPaint(
         painter: _BrandMarkPainter(withBackground: withBackground),
-        semanticsBuilder: (size) => [
-          CustomPainterSemantics(
-            rect: Offset.zero & size,
-            properties: const SemanticsProperties(
-              label: 'Logo Notaku Sejarah',
-              image: true,
-            ),
-          ),
-        ],
       ),
     );
   }
@@ -154,7 +145,25 @@ class _BrandMarkPainter extends CustomPainter {
   }
 
   @override
+  SemanticsBuilderCallback get semanticsBuilder {
+    return (size) => [
+      CustomPainterSemantics(
+        rect: Offset.zero & size,
+        properties: const SemanticsProperties(
+          label: 'Logo Notaku Sejarah',
+          image: true,
+        ),
+      ),
+    ];
+  }
+
+  @override
   bool shouldRepaint(covariant _BrandMarkPainter oldDelegate) {
     return oldDelegate.withBackground != withBackground;
+  }
+
+  @override
+  bool shouldRebuildSemantics(covariant _BrandMarkPainter oldDelegate) {
+    return shouldRepaint(oldDelegate);
   }
 }
