@@ -5,11 +5,7 @@ import 'package:flutter/material.dart';
 import '../theme/app_colors.dart';
 
 class AppBrandMark extends StatelessWidget {
-  const AppBrandMark({
-    this.size = 120,
-    this.withBackground = true,
-    super.key,
-  });
+  const AppBrandMark({this.size = 120, this.withBackground = true, super.key});
 
   final double size;
   final bool withBackground;
@@ -61,12 +57,7 @@ class _BrandMarkPainter extends CustomPainter {
 
     final arch = Path()
       ..moveTo(349 * scale, 393 * scale)
-      ..quadraticBezierTo(
-        512 * scale,
-        205 * scale,
-        675 * scale,
-        393 * scale,
-      );
+      ..quadraticBezierTo(512 * scale, 205 * scale, 675 * scale, 393 * scale);
     canvas.drawPath(arch, heritage);
     canvas.drawLine(
       Offset(365 * scale, 435 * scale),
