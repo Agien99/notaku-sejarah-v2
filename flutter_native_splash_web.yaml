@@ -1,0 +1,7 @@
+flutter_native_splash:
+  color: "#F7F1E3"
+  image: build/brand_assets/brand_mark.png
+  android: false
+  ios: false
+  web: true
+  web_image_mode: center
