@@ -1,9 +1,12 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:uuid/uuid.dart';
 
 import '../../records/data/records_repository.dart';
 import '../../records/domain/quiz_record.dart';
 
+import '../../../core/audio/app_audio.dart';
 import '../../../core/theme/app_colors.dart';
 import '../data/quiz_repository.dart';
 import '../domain/models/quiz_question.dart';
@@ -191,6 +194,13 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
         session: session,
       );
     });
+    unawaited(
+      AppAudio.instance.play(
+        session.percentage >= 80
+            ? AppSoundEffect.quizHighScore
+            : AppSoundEffect.quizComplete,
+      ),
+    );
     _scrollToTop();
     await _saveRecord();
   }
@@ -284,9 +294,14 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
                     : AppColors.surface,
                 padding: const EdgeInsets.all(16),
               ),
-              onPressed: () => setState(
-                () => session.answer(_index, question.options[i].id),
-              ),
+              onPressed: () {
+                setState(
+                  () => session.answer(_index, question.options[i].id),
+                );
+                unawaited(
+                  AppAudio.instance.play(AppSoundEffect.answerSelected),
+                );
+              },
               child: Row(
                 children: [
                   Icon(
