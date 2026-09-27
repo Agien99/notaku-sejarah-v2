@@ -7,6 +7,8 @@ void main() {
   testWidgets('shows the branded startup identity and finishes once', (
     tester,
   ) async {
+    final semantics = tester.ensureSemantics();
+    addTearDown(semantics.dispose);
     var finished = 0;
 
     await tester.pumpWidget(
