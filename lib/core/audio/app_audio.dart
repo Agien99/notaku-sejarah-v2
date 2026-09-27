@@ -2,6 +2,7 @@ import 'dart:math' as math;
 import 'dart:typed_data';
 
 import 'package:audioplayers/audioplayers.dart';
+import 'package:flutter/foundation.dart';
 
 enum AppSoundEffect { answerSelected, quizComplete, quizHighScore }
 
@@ -10,20 +11,27 @@ class AppAudio {
 
   static final AppAudio instance = AppAudio._();
 
-  final AudioPlayer _player = AudioPlayer();
+  AudioPlayer? _player;
   final Map<AppSoundEffect, Uint8List> _cache = {};
+  bool _suppressPlaybackForTests = false;
 
   bool enabled = true;
 
+  @visibleForTesting
+  void setPlaybackSuppressedForTests(bool value) {
+    _suppressPlaybackForTests = value;
+  }
+
   Future<void> play(AppSoundEffect effect) async {
-    if (!enabled) {
+    if (!enabled || _suppressPlaybackForTests) {
       return;
     }
 
     try {
       final bytes = _cache.putIfAbsent(effect, () => _buildEffect(effect));
-      await _player.stop();
-      await _player.play(
+      final player = _player ??= AudioPlayer();
+      await player.stop();
+      await player.play(
         BytesSource(bytes, mimeType: 'audio/wav'),
         volume: effect == AppSoundEffect.answerSelected ? 0.48 : 0.62,
       );
