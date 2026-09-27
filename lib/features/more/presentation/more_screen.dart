@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import '../../../core/branding/app_brand_mark.dart';
 import '../../../core/theme/app_colors.dart';
 import '../../../core/theme/app_radius.dart';
 import '../../../core/theme/app_spacing.dart';
@@ -254,6 +255,23 @@ class _SettingsCard extends StatelessWidget {
           ),
         ),
         const SizedBox(height: AppSpacing.lg),
+        Text(
+          'Bunyi aplikasi',
+          style: Theme.of(context).textTheme.titleMedium
+              ?.copyWith(color: AppColors.navy, fontWeight: FontWeight.w800),
+        ),
+        const SizedBox(height: AppSpacing.xs),
+        SwitchListTile.adaptive(
+          key: const ValueKey('sound-toggle'),
+          contentPadding: EdgeInsets.zero,
+          title: const Text('Kesan bunyi kuiz'),
+          subtitle: const Text(
+            'Mainkan bunyi ringan apabila memilih jawapan dan selesai kuiz.',
+          ),
+          value: settingsController.soundEnabled,
+          onChanged: settingsController.setSoundEnabled,
+        ),
+        const SizedBox(height: AppSpacing.md),
         const Divider(),
         const SizedBox(height: AppSpacing.md),
         Text(
@@ -413,15 +431,12 @@ class _BrandMark extends StatelessWidget {
         Container(
           width: 52,
           height: 52,
+          padding: const EdgeInsets.all(3),
           decoration: const BoxDecoration(
             color: AppColors.navy,
             borderRadius: BorderRadius.all(Radius.circular(AppRadius.md)),
           ),
-          child: const Icon(
-            Icons.auto_stories_rounded,
-            color: AppColors.goldSoft,
-            size: 29,
-          ),
+          child: const AppBrandMark(size: 46),
         ),
         const SizedBox(width: AppSpacing.md),
         Expanded(
