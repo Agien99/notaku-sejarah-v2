@@ -144,6 +144,7 @@ class _BrandMarkPainter extends CustomPainter {
         properties: const SemanticsProperties(
           label: 'Logo Notaku Sejarah',
           image: true,
+          textDirection: TextDirection.ltr,
         ),
       ),
     ];
