@@ -295,9 +295,7 @@ class _QuizAttemptScreenState extends State<QuizAttemptScreen> {
                 padding: const EdgeInsets.all(16),
               ),
               onPressed: () {
-                setState(
-                  () => session.answer(_index, question.options[i].id),
-                );
+                setState(() => session.answer(_index, question.options[i].id));
                 unawaited(
                   AppAudio.instance.play(AppSoundEffect.answerSelected),
                 );
