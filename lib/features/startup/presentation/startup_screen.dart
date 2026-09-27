@@ -27,9 +27,10 @@ class _StartupScreenState extends State<StartupScreen>
       duration: const Duration(milliseconds: 1050),
     );
     _fade = CurvedAnimation(parent: _controller, curve: Curves.easeOutCubic);
-    _scale = Tween<double>(begin: 0.92, end: 1).animate(
-      CurvedAnimation(parent: _controller, curve: Curves.easeOutBack),
-    );
+    _scale = Tween<double>(
+      begin: 0.92,
+      end: 1,
+    ).animate(CurvedAnimation(parent: _controller, curve: Curves.easeOutBack));
     _controller.addStatusListener((status) {
       if (status == AnimationStatus.completed && mounted) {
         widget.onFinished();
